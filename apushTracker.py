@@ -31,11 +31,11 @@ if hour < 12:
 while True:
     print(f"\n{date} {hour}:{minute}")
 
-    print("~"*25, f"\nGood {time_of_day}, welcome to apushTracker!\n","~"*25)
+    print("~"*25, f"\nGood {time_of_day}, welcome to pocketMayr!\n","~"*25)
 
     random_message = np.random.randint(1, 4)
     if random_message == 1:
-        print("\n",r"apushTracker is right 99.99% of the time!", "\n")
+        print("\n",r"pocketMayr is right 99.99% of the time!", "\n")
     if random_message == 2:
         print("\n",r"Mr.Mayr's a guide on the side!", "\n")
     if random_message == 3:
@@ -156,20 +156,19 @@ while True:
                 "https://www.youtube.com/watch?v=F7LKIIThtPM&t", "https://www.youtube.com/watch?v=aq88f8qZbWs", "https://www.youtube.com/watch?v=csbplgLpS9I",
                 "https://www.youtube.com/watch?v=0hsTpTc_T3M"]
             if unit == 7:
-                videos - []
+                videos - ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
+                "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
             if unit == 8:
-                videos = []
+                videos = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
             if unit == 9:
-                videos = []
+                videos = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
             # check captions for keyword. if keyword is found, return that video.
-            for i in videos:
-                captions = pytube.YouTube(i).captions['en'] # pull the captions
-                re.findall(query, captions)
-                if 
-
-            # if keyword is not found, find the video that has dates closest to the time period. also return all videos for safety.
-            if query not in result:
-                content = unit.videos
+            subject = open(unit, 'r', encoding='utf-8')
+            subjectred = subject.read()
+            found = re.findall(query, subjectred)
+            if found == None:
+                err = "tiebreak"
+                content = videos
             #title
             #timeperiod
             #content
@@ -186,6 +185,15 @@ while True:
 
 
         class notes:
+            x = 1
+            unit = unitfinder(year)
+            #title
+            #timeperiod
+            #content
+            #link
+
+        
+        class vocab:
             x = 1
             unit = unitfinder(year)
             #title
