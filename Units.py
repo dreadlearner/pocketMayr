@@ -3837,7 +3837,7 @@ back to you I thank you again for
 watching this and have a good day guys
         """
     class video5:
-        url = "https://www.youtube.com/watch?v=Jy0CBFnkhk4"'
+        url = "https://www.youtube.com/watch?v=Jy0CBFnkhk4"
         title = 'APUSH Review: The Chesapeake Colonies'
         captions = """
 00:00
@@ -11501,173 +11501,11245 @@ guys right back here thank you very much
 for watching and have a good day
         """
     class video3:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=GBLuOH2_tFM'
+        title = 'APUSH Review: Key Concept 5.3, revised 2015 (most up-to-date video)'
+        captions = """
+00:00
+key concept 5.3 for you today this is
+00:02
+for the revised 2015 editions the most
+00:05
+up-to-date video you will find a key
+00:08
+concept 5.3 alright you know how it goes
+00:11
+at shout out time shoutouts to miss
+00:13
+Harriet Gray's class in Brooklyn miss
+00:17
+Cooper's class in Ohio we got Roosevelt
+00:20
+High School in Seattle
+00:21
+mrs. Terry's class at Lakeview high
+00:24
+school and mr. Russia's class best of
+00:27
+luck thank you guys for watching I do
+00:29
+appreciate you do great on the exam okay
+00:31
+let's take a look at key concept 5.3 ded
+00:33
+States the Union victory in the Civil
+00:36
+War and the contested reconstruction of
+00:39
+the South settled the issues of slavery
+00:41
+and secession but left many questions
+00:44
+about the power of the federal
+00:46
+government and citizenship rights
+00:49
+that's from page 57 make sure you're
+00:52
+taking a peep at it so some big idea
+00:54
+questions why did the North prevail in
+00:56
+the Civil War and what impacts did the
+00:58
+13th 14th and 15th amendments have on
+01:01
+women in african-americans there is no
+01:04
+getting around it you need to know these
+01:06
+amendments they're specifically mention
+01:08
+know them inside and out
+01:10
+and finally what were whites the South
+01:12
+resisted the above amendment so know
+01:16
+that too but don't worry I got you
+01:18
+covered
+01:18
+all right Roman numeral one states the
+01:21
+North's greater manpower and industrial
+01:23
+resources the leadership of Abraham
+01:25
+Lincoln and others and the decision to
+01:27
+emancipate slaves eventually led to the
+01:29
+Union military victory over the
+01:31
+Confederacy in the devastating Civil War
+01:35
+now a big idea that you should know both
+01:36
+the north and the south
+01:38
+they dedicated their economies and
+01:40
+societies to fighting the war they both
+01:43
+were engaged in essentially a total war
+01:45
+where they're dedicating all resources
+01:47
+to it both of them instituted
+01:50
+conscription which is a fancy word for
+01:52
+saying draft you're writing an essay you
+01:55
+want to impress the readers make sure
+01:56
+you say conscription instead of draft
+01:59
+there was also opposition in both
+02:01
+regions for example in the north
+02:03
+Maryland newspapers were shut down by
+02:05
+Abe Lincoln that were critical of him in
+02:07
+the war effort in New York City you have
+02:09
+draft rights that emerge mostly with
+02:11
+Irish immigrants this gave the were the
+02:13
+rich man's war but a poor man's fight
+02:15
+because individuals could hire a
+02:18
+substitute for $300 so you see rich
+02:21
+people were able to get out of fighting
+02:23
+and a famous individual who hired her
+02:25
+substitute was Teddy Roosevelt's father
+02:27
+and in the south we see many farmers
+02:31
+refuse to fight because they didn't want
+02:32
+to leave their plantations and they
+02:34
+would not let slaves fight for the
+02:36
+southern cause either so opposition
+02:39
+persisted in both regions now very
+02:42
+important to know Lincoln's war goals
+02:44
+throughout the Civil War in the
+02:47
+beginning he stated the war was fought
+02:49
+to preserve the Union it had nothing to
+02:51
+do with slavery and then in September
+02:54
+22nd of 1862 he issued the Emancipation
+02:58
+Proclamation which would take effect on
+03:00
+January 1st 1863 and this helped change
+03:03
+the purpose of the war and here he is
+03:06
+with his cabinet there is Secretary of
+03:09
+State William Seward and Secretary of
+03:11
+Treasury and future 6th Chief Justice of
+03:14
+the Supreme Court salmon P chase look at
+03:16
+that dude he's from Cincinnati then a D
+03:20
+now what the Emancipation Proclamation
+03:22
+does is it frees all slaves in areas of
+03:25
+rebellion where Lincoln really had no
+03:27
+power but this will keep European powers
+03:30
+from fight siding with the South
+03:32
+especially Great Britain because they
+03:34
+had already banned slavery and the
+03:36
+British public would not allow their
+03:38
+country to side with the south which
+03:40
+promoted slavery also this led to many
+03:43
+african-americans enlisting in the Union
+03:46
+Army
+03:46
+now while the War raged on Lincoln
+03:48
+sought to reunify the country he had
+03:50
+plans for reunify in the country even in
+03:53
+the middle of the war that same year
+03:55
+1863 we have the Gettysburg Address and
+03:58
+here is Abe Lincoln right there you can
+03:59
+see the bottom of his beard still no
+04:01
+mustache there he will reference a new
+04:03
+birth of freedom that is referencing
+04:06
+slaves this idea that the war should be
+04:07
+fought about should be fought for
+04:09
+something more so ensuring freedom for a
+04:12
+group of people he referenced the
+04:14
+Declaration of Independence the idea
+04:15
+that all men are created equal and he
+04:18
+wanted to see that this really was true
+04:20
+in the 1860s early on the Confederacy
+04:24
+was very successful but the Union
+04:27
+ultimately prevail now pay attention
+04:29
+here this is screaming to me a short
+04:31
+answer question briefly explain reasons
+04:34
+why the Union won the Civil War make
+04:37
+sure you know this so we have overtime
+04:39
+improvements in leadership and strategy
+04:41
+people like William Tecumseh Sherman and
+04:44
+general ulysses s grant with the
+04:47
+Anaconda plan which was a blockade of
+04:49
+the south and was meant to kind of
+04:51
+strangle the southern economy we also
+04:54
+have key victories Antietam even though
+04:56
+it was a tie this really was a strategic
+04:58
+victory for the north it was a morale
+05:00
+boost and this led to the Emancipation
+05:02
+Proclamation which helped keep Europe
+05:04
+out of the war as we just talked about
+05:06
+also Gettysburg we had the Gettysburg
+05:08
+Address in which Lincoln begins to call
+05:10
+for the war having a bigger purpose than
+05:12
+just preserving the Union the north also
+05:15
+had greater resources they had a larger
+05:17
+population and significantly more
+05:19
+factories something like 90 percent the
+05:21
+factories were located on the Union side
+05:23
+and the South was devastated here's a
+05:27
+picture of the South's infrastructure
+05:28
+you notice it is just completely
+05:30
+destroyed and part of that was due to
+05:32
+Sherman's march to the sea in which they
+05:35
+went down through Georgia and pretty
+05:37
+much just destroyed southern
+05:38
+infrastructure so these are reasons why
+05:41
+the north want make sure you know them
+05:43
+and can explain them Roman numeral two
+05:45
+states reconstruction in the Civil War
+05:47
+ended slavery altered the relationships
+05:49
+between the states and the federal
+05:51
+government and led to debates over new
+05:53
+definitions of citizenship particularly
+05:55
+regarding the rights of African
+05:56
+Americans women and other minorities so
+05:59
+we have the Reconstruction Amendments
+06:00
+you must know these bad boys know we're
+06:02
+fans or buts about it
+06:03
+13th is gonna Bala slavery here's an
+06:05
+illustration from it passing in that in
+06:08
+the House of Representatives 14th
+06:10
+amendment states if you are born in the
+06:12
+United States you are a citizen it also
+06:14
+grants equal protection under the law
+06:16
+that is a part you will come back to a
+06:18
+lot an AP government equal protection
+06:21
+under the law and the 15th provides
+06:23
+universal adult male suffrage so no
+06:26
+longer can voting be denied to African
+06:29
+American males now what are the impacts
+06:32
+of the 14th and 15th amendments on the
+06:34
+women's rights movement very important
+06:37
+to know people like Frederick Douglas
+06:39
+this former slave and great orator
+06:41
+favored black suffrage prior to women's
+06:44
+suffrage he argued that African
+06:46
+Americans suffered long enough and they
+06:47
+deserve the right to vote first now on
+06:49
+the other side you have Elizabeth Cady
+06:51
+Stanton susan b anthony they were afraid
+06:54
+that women's suffrage would not be
+06:55
+granted anytime soon so this really
+06:57
+splits the women's rights movement some
+07:00
+favorite african-american male suffrage
+07:02
+first other did others did not because
+07:04
+they wanted women included as well now
+07:07
+the Republicans the Congress they're
+07:08
+really going to play a large role in
+07:10
+reconstruction they helped change the
+07:12
+balance of power between the presidency
+07:14
+and Congress and this is seen in
+07:16
+presidential versus radical
+07:18
+reconstruction we have dudes like
+07:19
+Thaddeus Stevens the Republican
+07:22
+congressman versus Andrew Johnson
+07:25
+Lincoln's vice president it's ultimately
+07:27
+Congress that's going to determine when
+07:29
+to remit states will also see this
+07:32
+balance shifting between the two and
+07:33
+Johnson pretty much vetoing everything
+07:36
+from Congress and then Congress pretty
+07:37
+much overriding every single one of his
+07:40
+vetoes and Andrew Johnson is ultimately
+07:42
+impeached for violating the tenure of
+07:44
+office act he will not be removed make
+07:47
+sure you know impeachment does not mean
+07:49
+you are removed from office you can be
+07:52
+removed
+07:52
+it simply means charges are brought
+07:54
+against you and this will lead to an
+07:56
+increase of political opportunities for
+07:59
+blacks as a result of Republican
+08:00
+Congress you have people like Robert
+08:03
+smalls who was a steamer pilot during
+08:05
+the Civil War and helped bring a ship to
+08:07
+the Union Navy and he later became a
+08:09
+congressman and here armed rebels here
+08:12
+he is he was a senator from Mississippi
+08:15
+which was Jefferson Davis estate the
+08:18
+president of the Confederacy he was the
+08:20
+first african-american to serve in the
+08:22
+Senate so for a time african-american
+08:25
+men gained lots of power continuing with
+08:28
+this wider Reconstruction ultimately
+08:30
+failed well we have determined southern
+08:31
+resistance by the way this could also be
+08:33
+another short answer question or you
+08:35
+could tied it to an essay the successes
+08:38
+and failures of reconstruction we have
+08:40
+the emergence of Redeemer governments
+08:41
+these were southern local and state
+08:43
+governments that were Democrat there
+08:46
+were Democrats and they ousted
+08:47
+Republican governments and they began to
+08:49
+redeem or take back their governments
+08:51
+this was often done through violence and
+08:53
+intimidation groups like the
+08:55
+keh keh keh took a part in this the KKK
+08:58
+founded by Nathan Forrest terrorized
+09:01
+blacks and Republicans and anybody that
+09:03
+supported reconstruction we also see the
+09:05
+North's waning resolve now you notice
+09:08
+that this word waning is bolded
+09:09
+underlined and italicized this is
+09:11
+mentioned in the curriculum waning means
+09:13
+to decrease so ultimately reconstruction
+09:16
+will fail because the North's resolve or
+09:19
+dedication began to decrease don't get
+09:22
+tripped up because you don't know the
+09:23
+word waning make sure you know it so in
+09:26
+1874 we have Charles Sumner he passes
+09:28
+away one of the leading republican
+09:30
+congressmen so once he's gone there's
+09:32
+few people to carry on his vision and we
+09:36
+all saw the panic of 1873 this is a very
+09:39
+hard panic on the country this will
+09:41
+taint the Republican Party because
+09:43
+they're in control and many people began
+09:45
+to call for a smaller government so the
+09:47
+desire to rebuild the south wanes or
+09:51
+decreases in the 1870s make sure you
+09:53
+know that promise me you'll know I
+09:54
+promise me say I promise good thank you
+09:57
+okay land distribution the South
+10:00
+post-civil war plantation owners they
+10:01
+still owned a majority of the land
+10:04
+former slaves had a lot of difficulty
+10:06
+acquiring land there was high interest
+10:08
+rates this is known as the crop lien
+10:10
+system so if they wanted to buy land
+10:11
+they would have to take out a loan at a
+10:13
+very high interest rate many
+10:15
+african-americans and poor whites became
+10:17
+sharecroppers sharecroppers as mentioned
+10:19
+make sure you know this what's a
+10:20
+sharecropper well it's free people who
+10:23
+worked on farms and exchange labor for
+10:25
+using land and housing basically they
+10:28
+would rent some land from a landowner
+10:30
+and half of their crops were typically
+10:32
+given to the landowner in exchange for
+10:34
+the rent
+10:36
+now if cotton prices fell and they did
+10:38
+in the 1870s again with that panic of
+10:40
+1873 we have perpetual or pretty much
+10:43
+forever debt this was common for most
+10:45
+sharecroppers and by 1890 most other
+10:48
+blacks were sharecroppers and many
+10:50
+blacks in the South actually worked for
+10:53
+their former slave owners so the
+10:55
+economic opportunities for
+10:57
+african-americans were still severely
+10:59
+limited after the Civil War in the south
+11:01
+okay what were ways that the 14th and
+11:04
+15th amendments were restricted you must
+11:06
+know these please promise me you'll know
+11:07
+these we have said
+11:08
+Gatien or Jim Crow laws this was upheld
+11:11
+we'll get to this in period six the
+11:13
+court case Plessy vs. Ferguson which
+11:15
+established the principle of separate
+11:17
+but equal we have violence as well the
+11:19
+KKK and the white League these were
+11:20
+organizations that intimidated African
+11:23
+Americans from voting so this was a way
+11:24
+to limit the power of the Fifteenth
+11:26
+Amendment you see this very famous
+11:28
+political cartoon it says worse than
+11:30
+slavery and you have the white League
+11:32
+and the KKK over there terrorizing
+11:34
+African Americans Supreme Court
+11:36
+decisions things like the civil rights
+11:38
+cases which say that individuals and
+11:40
+private businesses could discriminate
+11:42
+against a group of people such as
+11:45
+African Americans the government could
+11:47
+not that will be overturned local
+11:49
+political tactics these are things like
+11:51
+poll taxes where you have to pay in
+11:53
+order to vote literacy tests which you
+11:55
+have to take a test and order to vote
+11:57
+and grandfather clauses which excluded
+11:59
+whites from the poll taxes and literacy
+12:01
+tests and although these amendments in
+12:05
+the short term did not really have a lot
+12:07
+of teeth they will be very very
+12:09
+important in the 20th century in the
+12:11
+1950s and 1960s with the civil rights
+12:13
+movement to uphold civil rights that is
+12:16
+specifically mentioned in the curriculum
+12:18
+make sure you know that long term these
+12:20
+amendments will be used to promote civil
+12:23
+rights in the 1950s and 1960s you're
+12:25
+writing an essay about reconstruction
+12:27
+boom there's your that's his point
+12:29
+connected to the 1950s and 1960s civil
+12:31
+rights movement you're welcome and an
+12:34
+example this is Brown versus the Board
+12:36
+of Education which overturned separate
+12:38
+but equal its test tip time for multiple
+12:41
+choices short answer reasons for the
+12:43
+union's victory in the Civil War what
+12:45
+were ways to southern governments
+12:46
+restricted the 13 through 15 amendments
+12:48
+and that was the last slide
+12:50
+no waning what is it yeah you know it
+12:53
+it's decreasing for essays
+12:55
+reconstruction as a turning point this
+12:57
+screams to me a turning point you know
+13:00
+what you're discussing before and after
+13:02
+was reconstruction a positive or
+13:04
+negative thing for African Americans or
+13:06
+was it both and connecting
+13:08
+Reconstruction Amendments to civil the
+13:10
+civil rights movement of the 1950s and
+13:12
+1960s all right guys look forward to
+13:14
+seeing you right back here four key
+13:15
+concepts 6.1 when we will see in my
+13:18
+opinion one of the sweetest mustaches in
+13:20
+US history look
+13:22
+get Terrence Powderly mustache game ed
+13:24
+is strong huh thank you guys for
+13:26
+watching best of luck on all your tests
+13:28
+especially the one in May you'll do
+13:30
+great
+13:30
+have a good day
+        """
     class video4:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=UaUuYbDnVUY'
+        title = 'APUSH Review: Key Documents To Know From Period 5 1844 1877'
+        captions = """
+00:00
+yo what's going on a push people we got
+00:02
+a new video for you today which I will
+00:03
+examine key documents from period 5 now
+00:06
+I will break down different political
+00:09
+cartoons and documents that you should
+00:11
+be familiar with from purified that
+00:13
+could potentially appear on any exam in
+00:15
+the form of a prompt for multiple choice
+00:18
+or short answer questions so I will go
+00:21
+through these and hopefully you will
+00:22
+have a better understanding of these
+00:23
+documents from period number 5 all right
+00:26
+let's start I'll talk about wave lloyd
+00:27
+garrison now even though he started in
+00:29
+1831 with his newspaper The Liberator
+00:32
+this dude was still around in 1860 so he
+00:34
+is a part of period 5 so who was he
+00:36
+while he was the publisher as I
+00:37
+mentioned of the Liberator and this was
+00:40
+an abolitionist newspaper now here is in
+00:43
+a diet here is a document that you could
+00:45
+encounter and it says I'm aware that
+00:48
+many object to the severity of my
+00:50
+language but is there not cause for
+00:52
+severity I will be as harsh as truth and
+00:55
+is uncompromising as justice on this
+00:58
+subject I do not wish to think or speak
+01:00
+or write with moderation
+01:02
+no no tell a man whose house is on fire
+01:05
+to give a moderate alarm but urge me not
+01:08
+to use moderation in a cause like the
+01:10
+present I am an earnest
+01:12
+I will not equivocate I will not excuse
+01:14
+I will not retreat a single inch and I
+01:17
+will be heard so what are some possible
+01:20
+multiple choice of short-answer tips for
+01:22
+this document well this is an example of
+01:24
+abolitionism in the north even though
+01:27
+this was a minority and specifically
+01:29
+mentions in the new curriculum how the
+01:31
+abolitionist movement was a minority
+01:32
+movement in the north and this is also
+01:35
+an example of using fierce arguments
+01:38
+against the institution of slavery
+01:40
+something else that could be asked this
+01:42
+who would agree with him and that would
+01:44
+be northern abolitionists who would most
+01:46
+likely not support Waverly Garrison's
+01:48
+message perhaps somebody like southern
+01:50
+plantation owners alright the next one
+01:53
+I'm sure you've seen this picture before
+01:54
+this deals with manifest destiny it was
+01:57
+created by John ghast it is titled
+01:59
+American Progress in 1872 so what do we
+02:02
+notice every time I look at this
+02:04
+painting I noticed something else you
+02:06
+see Columbia this image of America is
+02:09
+moving westward with telegraph lines so
+02:11
+that implies that the government is a
+02:13
+encouraging westward expansion you see
+02:15
+many Americans are moving westward
+02:17
+towards darkness notice that there is
+02:20
+light over in the top right hand side of
+02:24
+this painting and there is darkness on
+02:26
+the left-hand side in Colombia is moving
+02:28
+towards the darkness as assuming she
+02:32
+will bring the light with her
+02:33
+you also notice that Native Americans
+02:35
+I'm a lap dance side are being moved
+02:38
+further west that is a major implication
+02:40
+of westward expansion so are the
+02:42
+implications of this cartoon while
+02:44
+manifest destiny is seen as positive and
+02:46
+some possible multiple choice and short
+02:48
+answer tips you should be familiar with
+02:50
+the environmental transformation of
+02:52
+westward expansion what impacts did that
+02:55
+have you have the railroads being built
+02:58
+to the bison or Buffalo being decimated
+03:00
+you have the near extinction of the
+03:03
+Buffalo they were down to less than a
+03:04
+thousand at one point in US history what
+03:07
+is the impact on different groups of
+03:09
+people including Native Americans many
+03:10
+of them lost their land they were forced
+03:12
+onto reservations and forced signed 160
+03:14
+acres of land under the Dawes Act what
+03:16
+is the impact on families as they move
+03:18
+west and what were ways the government
+03:21
+encouraged expansion well you the
+03:22
+Homestead Act from 1862 which provided
+03:25
+160 acres of land and you also have
+03:27
+railroad subsidies to railroad companies
+03:29
+which encourage them to build railroad
+03:32
+these are just a few of the possible
+03:33
+answer choices you may see but
+03:36
+definitely be familiar with this
+03:38
+painting all right let's go over to the
+03:40
+Wilmot Proviso it was an amendment that
+03:43
+was to a bill that was authored by David
+03:46
+Wilmot it proposed banning slavery in
+03:48
+the Mexican Cession lands what exactly
+03:51
+did it say that provided that as an
+03:54
+Express and fundamental condition to the
+03:56
+acquisition of any territory from the
+03:59
+Republic of Mexico by the United States
+04:01
+so it's talking about any land the u.s.
+04:03
+gains from the mexican-american war by
+04:05
+virtue of any treaty which may be
+04:07
+negotiated between them and to the use
+04:10
+of by the executive of the money's here
+04:13
+and appropriated neither slavery nor
+04:15
+involuntary servitude shall ever exist
+04:18
+in any part of said territory except for
+04:22
+crime whereof the party shall first be
+04:25
+duly convicted what is
+04:27
+he wants slavery banned from the Mexican
+04:31
+Cession
+04:31
+land from that territory so possible
+04:34
+multiple choice and short answer tips
+04:36
+what was the impact of the
+04:37
+mexican-american war on that your answer
+04:39
+will be something along the lines of
+04:41
+increased tensions over slavery this is
+04:44
+an example of heated controversy over
+04:46
+slavery in the newly acquired
+04:49
+territories taken directly from the new
+04:51
+curriculum all right let's look at this
+04:54
+famous political cartoon and this is in
+04:56
+response to the kansas-nebraska act so
+04:58
+what do we know slots going on here
+05:00
+we'll break it all down well there are
+05:02
+four different sayers one there's
+05:04
+another there's three there's four and
+05:05
+they're standing two of them are
+05:07
+standing on a platform this is the
+05:08
+Democratic platform you notice this is
+05:10
+kansas and cuba underneath there as well
+05:13
+so we've stephen douglas he is shopping
+05:16
+this black man down the throat of a free
+05:18
+soiler with the help of franklin pierce
+05:21
+who goes on to become president now the
+05:24
+free soiler is being held down by james
+05:26
+buchanan who also goes on to be
+05:28
+president and lewis cass who ran for
+05:30
+president all four of them were
+05:32
+Democrats and again as I mentioned a
+05:34
+slave is being forced down a throat of a
+05:37
+Free Soilers somebody who was against
+05:39
+the expansion of slavery west what are
+05:42
+the implications of the cartoon while
+05:44
+the kansas-nebraska act is seen as
+05:46
+negative and the Democratic Party is the
+05:49
+culprit in this cartoon so what are some
+05:52
+possible multiple choice and short
+05:54
+answer tips
+05:55
+well the kansas-nebraska Act was a
+05:57
+proposal to settle the issue of slavery
+06:00
+in territories now Kansas Nebraska
+06:01
+specifically mentioned in the new
+06:03
+curriculum again the purpose of this was
+06:06
+to settle the issue of slavery in the
+06:08
+territories it does not by any mean
+06:10
+settlement it overturns the Missouri
+06:12
+Compromise and it leads to popular
+06:15
+sovereignty in both Kansas and Nebraska
+06:18
+again popular sovereignty is the idea
+06:20
+that individuals living in a territory
+06:23
+get to decide whether a territory is
+06:25
+free or slave in violence would soon
+06:29
+emerge in bleed in Kansas and this was
+06:32
+essentially a mini civil war going on in
+06:34
+Kansas in the 1850s okay let's talk
+06:38
+about the caning of Charles Sumner
+06:39
+chances are you seen this picture
+06:41
+as well so why did this happen well
+06:43
+Charles Sumner criticized slavery and
+06:45
+its supporters especially a fellow
+06:47
+senator by the name of Andrew Butler now
+06:50
+Butler's nephew congressman Preston
+06:52
+Brooks took exception to Sumner speech
+06:55
+he was very upset he was a member of the
+06:57
+House of Representatives he couldn't
+06:58
+believe that some nerve was talking
+07:01
+smack about his uncle so he went in and
+07:03
+just beat the living crap out of some
+07:05
+nerve so what are some possible multiple
+07:07
+choice and short answer tips an
+07:09
+important thing to realize is that is
+07:10
+that this shows the breaking down of
+07:12
+trust between leaders and the national
+07:15
+government and it also demonstrates
+07:17
+tensions between north and south it is a
+07:20
+theme of period five and this helped
+07:23
+inspire violent abolitionism and
+07:26
+although John Brown is not specifically
+07:28
+mentioned in the new curriculum this
+07:29
+violent abolitionism is and John Brown
+07:32
+hits the canvas and Pottawatomie Creek
+07:34
+he kills five people there and then also
+07:36
+later heads to Harpers Ferry to try to
+07:38
+incite a slave rebellion let's go to the
+07:40
+election of 1860 specifically mention in
+07:43
+the new curriculum what do we notice
+07:44
+about this map well Lincoln is in this
+07:46
+pinkish orange color and he wins without
+07:49
+carrying a single southern state look at
+07:52
+these states here not a single state
+07:55
+that has slavery voted for Lincoln the
+07:58
+Democratic Party was split along
+08:00
+sectional lines in the north you had
+08:03
+individuals voting for Stephen Douglas
+08:05
+who only won one state Missouri and in
+08:08
+the south you have Democrats voting for
+08:10
+John C Breckinridge who was a former
+08:12
+vice president so what are some multiple
+08:15
+choice and short answer tips definitely
+08:17
+absolutely know that Lincoln campaigned
+08:19
+on a free soil platform this is
+08:21
+specifically mentioned which means the
+08:23
+non extension of slavery so and his I
+08:25
+slavery was fine where it is but he
+08:27
+would not allow it to expand what
+08:30
+definitely be familiar with the impact
+08:32
+of the election which is that southern
+08:34
+states began to secede from the union
+08:36
+even before Lincoln became president on
+08:38
+December 20th night 1860 South Carolina
+08:43
+was the first state to secede from the
+08:45
+union okay
+08:47
+Lincoln wrote this very famous letter to
+08:49
+a newspaper editor Horace Greeley and he
+08:52
+wrote on April 22nd
+08:54
+1862 and they were any row I would save
+08:57
+the Union
+08:58
+I would save it the shortest way under
+09:00
+the Constitution the sooner the National
+09:02
+Authority could be restored the nearer
+09:04
+the Union will be the Union as it was if
+09:07
+there be those who would not save the
+09:09
+Union unless they could at the same time
+09:12
+save slavery I do not agree with that if
+09:14
+there be those who would not save the
+09:16
+Union unless they could at the same time
+09:18
+destroy slavery I do not agree with that
+09:20
+by paramount object in this struggle is
+09:23
+to save the Union and is not either to
+09:27
+save or to destroy slavery so what's the
+09:29
+message of Lincoln's excerpt here in the
+09:33
+beginning absolutely no that's the
+09:35
+beginning of the Civil War he sought to
+09:36
+preserve the Union at all costs slavery
+09:39
+came secondary what are some multiple
+09:41
+choice and short answer tips be familiar
+09:44
+with how Lincoln's war goals changed as
+09:47
+time elapsed again in the beginning he
+09:49
+was fighting the civil war to preserve
+09:51
+the Union after the Emancipation
+09:53
+Proclamation the golden war starts to
+09:56
+change to end slavery and you see this
+09:58
+at the emancipation proclamation and
+10:00
+also the Gettysburg Address this higher
+10:02
+cause that he is calling for okay here's
+10:06
+a political cartoon titled the first
+10:08
+vote from 1867 and this deals with the
+10:10
+Fifteenth Amendment what do we notice we
+10:12
+see african-american males are lining up
+10:15
+to vote and we notice that there is a
+10:17
+military official the third African
+10:19
+American back and this is an example the
+10:21
+impact of the Emancipation Proclamation
+10:23
+which allowed African Americans to
+10:25
+served in the military what are the
+10:27
+implications of the cartoon black
+10:29
+suffrage is seen as positive here and
+10:31
+some multiple choice and short answer
+10:33
+question tips be familiar with different
+10:35
+ways that the southern states resisted
+10:38
+the Fifteenth Amendment whether it's
+10:40
+through literacy test poll taxes
+10:41
+grandfather clauses etc and what were
+10:44
+the impacts of this amendment on the
+10:46
+women's rights groups and that was it
+10:48
+essentially split the group some women
+10:51
+favored black suffrage first other women
+10:54
+did not favor black suffrage unless it
+10:56
+was tied to women's suffrage as well
+10:58
+okay continuing with reconstruction we
+11:01
+have this political cartoon which deals
+11:03
+with resistance to civil rights Oh what
+11:05
+do we notice well you get the cake
+11:08
+in the white League they're joining
+11:09
+hands and underneath their hands there's
+11:12
+a skull and bones and it says worse than
+11:14
+slavery so where are the implications of
+11:16
+the cartoon the KKK the white League and
+11:18
+other organizations terrorized
+11:21
+african-americans and they would use
+11:22
+violence to meet their goals you see the
+11:25
+KKK member has a gun and knife and the
+11:28
+white League member has been attached to
+11:30
+a rifle so what are some multiple choice
+11:32
+and short answer tips organizations were
+11:35
+formed to resist the 13th through 15th
+11:37
+amendments and southern resistance to
+11:39
+Radical Republicans and reconstruction
+11:42
+was strong there were many Southerners
+11:44
+who resisted these drastic changes in
+11:47
+the south during Reconstruction okay now
+11:50
+it's your turn I will finish up with
+11:52
+this last document I would like you to
+11:55
+tell me what is the message of this as
+11:57
+well as what are some possible short
+11:59
+answer in multiple choice question tips
+12:02
+on the first day of January in the year
+12:04
+of our Lord 1863 all persons held as
+12:08
+slaves within any state in rebellion
+12:10
+against the United States shall be
+12:12
+forever free now therefore i abraham
+12:16
+lincoln present the United States by
+12:18
+virtue of the power and me vested as
+12:20
+commander-in-chief of the army and navy
+12:22
+of the United States do order and
+12:25
+designate or point the following States
+12:27
+has been in rebellion Arkansas Texas
+12:30
+Louisiana Mississippi Alabama Florida
+12:32
+Georgia South Carolina North Carolina
+12:35
+and Virginia and I hereby call upon the
+12:39
+people so declared to be free to abstain
+12:41
+from all violence unless a necessary
+12:44
+self-defense and I recommend to them
+12:46
+that in all cases when allowed they
+12:48
+labor faithfully for reasonable wages
+12:50
+and I further declare and make known
+12:53
+that such persons will be received into
+12:55
+the armed service of the United States
+12:56
+and upon this act sincerely believed to
+12:59
+be an act of Justice warranted by the
+13:02
+Constitution upon military necessity I
+13:04
+invoke the considerate judgment of
+13:07
+mankind and the gracious favor of
+13:09
+Almighty God by the President Abraham
+13:12
+Lincoln this was issued on September
+13:14
+22nd 1862 so your two questions I would
+13:18
+like you to answer is what is the
+13:20
+message
+13:20
+the document and what could be multiple
+13:23
+choice and short answer test tips for
+13:25
+this document if you would like to
+13:27
+answer this on the video guide please
+13:28
+follow the link in the description if
+13:30
+you would like to answer this for other
+13:31
+people to see please feel free to add
+13:33
+that to the comment section as well
+13:35
+alright guys thank you very much for
+13:38
+watching I appreciate it please
+13:39
+subscribe and share this video with
+13:40
+others please make sure you check out
+13:42
+all my videos relate to the new
+13:44
+curriculum there are links to them in
+13:45
+the description below and best of luck
+13:47
+on all your tests especially the one in
+13:49
+May I really appreciate you guys
+13:51
+watching and thank you much and I will
+13:52
+see you next time for more document
+13:55
+analysis have a good day
+        """
     class video5:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=e6CRsl54Hg0'
+        title = 'APUSH Review: Manifest Destiny'
+        captions = """
+00:04
+hey what's going on ap people we have a
+00:06
+quick video for you today on manifest
+00:09
+destiny one of the biggest topics from
+00:11
+the mid 19th century and one of the
+00:13
+causes of the Civil War as you will see
+00:16
+so let's get started alright let's talk
+00:17
+about what manifest destiny is well it's
+00:20
+the belief that it was America's
+00:21
+god-given right to expand from coast to
+00:24
+coast to go all the way from the
+00:25
+Atlantic Ocean to the Pacific Ocean here
+00:28
+is a very popular well-known political
+00:31
+cartoon or painting I should say that
+00:34
+depicts manifest destiny you see an
+00:36
+angel here going across and you see all
+00:39
+these people moving to the left or to
+00:41
+the west on a map you can see lots of
+00:44
+people packing up and moving out west
+00:46
+and this was a term that was created by
+00:48
+a newspaper journalist John Sullivan so
+00:54
+what time period is it associated with
+00:55
+well well it's usually associated with
+00:57
+the 1840s in the 1850 so in the decade
+01:00
+or two before the Civil War however it
+01:03
+does have roots in the Louisiana
+01:04
+Purchase in the Indian Removal Act
+01:06
+remember the Louisiana Purchase was in
+01:08
+1803 and that doubled the size of the US
+01:11
+so that the u.s. was getting closer to
+01:13
+the Pacific Ocean
+01:14
+so some key associations with manifest
+01:16
+destiny you should know first one is
+01:18
+Oregon the second one is Texas and the
+01:21
+third one is the mexican-american war
+01:24
+we'll talk about each one of those
+01:25
+beginning with Oregon so one time four
+01:28
+different countries are going to claim
+01:30
+the Oregon Territory we have Spain
+01:32
+Britain Russia and the US now over time
+01:36
+two of these countries will bow out of
+01:38
+there and that includes Spain and Russia
+01:40
+so we're just left with Britain in the
+01:42
+United States and the boundary was not
+01:45
+settled between the US and Great Britain
+01:46
+who is in Canada at that time so
+01:50
+President Polk when he was running for
+01:51
+president in 1844 campaigned on a slogan
+01:54
+54:40 or fight meaning that the u.s. won
+01:57
+it up to the 54th parallel or they would
+02:00
+fight Great Britain however two years
+02:03
+later in office the two sides settle on
+02:05
+the 49th parallel so let's take a look
+02:07
+at this everything in yellow is the
+02:09
+Oregon Territory way up here is the
+02:12
+54:40 and
+02:13
+in Polk wanted every single little bit
+02:16
+of this that's in yellow up here
+02:17
+eventually the the two sides settle on
+02:20
+the 49th parallel and it continues the
+02:23
+northern boundary between Canada and the
+02:24
+United States at the 49th parallel in
+02:27
+the US does gain most of this yellow
+02:29
+Oregon territory but not the full thing
+02:31
+that Polk campaigned on let's do a quick
+02:34
+recap of Texas in 1836 Texas declared
+02:37
+independence from Mexico and in 1854 t4
+02:41
+presidential campaign the number one
+02:43
+issue was Texas and it's between these
+02:47
+two people Henry Clay in James Katie
+02:49
+Polk take a million think who do you
+02:51
+that think has worse hair here goes clay
+02:55
+because I think mullets are making a
+02:56
+comeback and they're pretty sweet
+02:57
+haircuts but clays is like somebody put
+02:59
+a bowl on his head and just cut around
+03:01
+it so no this that Democrats a favorite
+03:04
+expansion and James K poke from the
+03:06
+beginning advocated the annexation of
+03:08
+Texas Henry Clay what ultimately
+03:10
+probably did him in and why lost
+03:13
+election was that he flip-flopped on the
+03:14
+issue of Texas came out said he was
+03:17
+against it then about a week later he
+03:18
+said no no I'm for and most Americans
+03:21
+were certainly a lot of them were in
+03:22
+favor of the annexation of Texas so that
+03:25
+probably is why Paul comes on point in
+03:27
+1844 election in 1845 Texas is annexed
+03:32
+via a joint resolution a treaty is
+03:35
+normally how land is added and that
+03:36
+would require two-thirds of the Senate
+03:39
+to approve an a joint resolution simply
+03:41
+requires more than half both the House
+03:44
+and the Senate to approve it southerners
+03:46
+favored the admission of Texas as a way
+03:48
+to expand slavery and the boundary was
+03:51
+not settled by both the US and Mexico so
+03:54
+everywhere that's in green is kind of
+03:55
+this disputed territory especially down
+03:57
+here between the noices River in the Rio
+04:00
+Grande River this is going to be a huge
+04:02
+cause of the mexican-american war
+04:04
+because both sides are going to clean
+04:06
+this land down here this helps lead to
+04:09
+the I just said a mexican-american war
+04:12
+so talk about some causes well the
+04:14
+number one cause is this Texas boundary
+04:16
+issue another one is that Mexican and
+04:18
+American soldiers fight in that disputed
+04:21
+territory and President Polk claims that
+04:23
+there's American blood that was spilled
+04:25
+on Americans
+04:27
+so some effects America ends up pointing
+04:29
+the u.s. gains and Mexican Cession let's
+04:31
+take a look at this map and you'll
+04:33
+notice that all of this land over here
+04:35
+in the dark gray is gained by the u.s.
+04:37
+not this dark dark gray almost black
+04:39
+color down here that's the guest and
+04:41
+purchase that comes later but this chunk
+04:43
+of land right here the u.s. gains and it
+04:46
+increases the size of the US by one
+04:48
+third and now after the mexican-american
+04:51
+war the u.s. is fully expanded from the
+04:54
+Atlantic to the Pacific and manifest
+04:56
+destiny is essentially complete the
+05:00
+other thing that is in effect is that
+05:02
+slavery would be the number one topic
+05:04
+for the next 15 years until the Civil
+05:06
+War and one example of this is the
+05:10
+Wilmot Proviso which occurs during and
+05:12
+after the mexican-american war has
+05:15
+introduced actually several times into
+05:17
+Congress by this guy David Wilmot he
+05:19
+wanted to keep slavery out of the
+05:21
+Mexican Cession so this was a bill that
+05:23
+was introduced into Congress several
+05:25
+times it passes the house multiple times
+05:28
+but it never passes the Senate because
+05:30
+the south rejects it the senators from
+05:32
+the South rejected so this never becomes
+05:34
+a law but these ideas will really but
+05:37
+this idea will really stick around for a
+05:39
+long time many people will try to keep
+05:41
+the Mexican Cession land free from
+05:43
+slavery
+05:44
+all right impacts a manifest destiny
+05:46
+let's talk about Native Americans
+05:47
+unfortunately for them they continually
+05:49
+lost land and were pushed further and
+05:51
+further west this really began with the
+05:54
+Trail of Tears in 1838 the Indian
+05:56
+Removal Act of 1830 and eventually later
+05:59
+on in the 19th century they're going to
+06:01
+be forced on reservations and their way
+06:03
+of life is going to be completely
+06:04
+changed the impacts of manifest destiny
+06:07
+and slavery as I mentioned thrust the
+06:10
+issue of slavery into the national
+06:11
+spotlight it really became the number
+06:13
+one issue leading up to the Civil War
+06:15
+this is because there's a debate about
+06:17
+whether this new land should be free or
+06:19
+slave talk about the impacts on politics
+06:22
+I mentioned the Wilmot Proviso
+06:23
+we also have the birth of a new
+06:25
+political party in the 1850s the
+06:27
+Republican Party the first Republican
+06:30
+President was Abe Lincoln one of the
+06:32
+platform's of the Republican Party was
+06:34
+to keep slavery from expanding please
+06:37
+know this guy's Abe Lincoln the
+06:39
+not campaign on abolishing slavery
+06:41
+rather he campaigned on keeping slavery
+06:44
+from expanding it was fine where it was
+06:46
+but it better not spread whatsoever all
+06:49
+right there's a video for you on
+06:51
+manifest destiny I hope that helped if
+06:52
+not please feel free to leave some
+06:54
+comments or questions below please take
+06:56
+a moment subscribe to my channel if you
+06:57
+have not already helped me spread the
+06:58
+word if you know anybody who would
+07:00
+benefit from this please let them know I
+07:02
+appreciate you guys watching and have a
+07:04
+good day guys
+        """
     class video6:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=Z066CK0-H5E'
+        title = 'APUSH Review: Mexican-American War'
+        captions = """
+00:00
+hey what's going on in AP World we have
+00:02
+the mexican-american war review video
+00:04
+for you today it's a very important war
+00:06
+in US history and a few things you need
+00:08
+to know about it I will cover them all
+00:09
+everything you need to know for your
+00:10
+apush exam alright to understand the
+00:13
+mexican-american war we have to go back
+00:14
+a little bit to this idea of manifest
+00:16
+destiny this is a very important idea
+00:18
+that you will need to be familiar with
+00:19
+if you're not already it is the belief
+00:21
+that the US had a mandate or a direction
+00:23
+from God to expand from coast to coast
+00:25
+here is a very famous painting of
+00:28
+manifest destiny you see lots of people
+00:30
+in their Conestoga wagons moving out
+00:32
+west and there's an angel above them
+00:34
+kind of guiding the way so many
+00:36
+Americans believe during the mid-1800s
+00:38
+that America had the god-given right to
+00:41
+expand from coast to coast and this is
+00:43
+going to lead to issues as we will see
+00:45
+and the South generally favored westward
+00:48
+expansion and they did so because it
+00:50
+would be more land for them and they
+00:52
+could spread slavery further out west
+00:54
+okay some events that are leading up to
+00:56
+the mexican-american war we're gonna
+00:58
+start with the election of 1844
+01:00
+one of my favorite presidential
+01:01
+elections we have Henry Clay over here
+01:03
+the wake candidate this is the third
+01:05
+time he runs for the President and loses
+01:07
+all three of them very sadly and he's
+01:10
+going up against a dark horse candidate
+01:12
+or candidate that nobody really saw
+01:14
+coming and that was James K Polk who was
+01:16
+a Democrat his nickname was young
+01:17
+chicory because he was Andrew Jackson's
+01:20
+protege Polk embraced the idea of
+01:23
+manifest destiny he was all about it did
+01:26
+not hide from it and he was in favor of
+01:27
+the annexation of Texas Henry Clay was
+01:30
+flip-flopping on the issue of Texas
+01:33
+whether or not Texas should join the
+01:34
+Union and for that reason he pretty much
+01:37
+lost the election of 1844
+01:39
+I'm sadly James K Polk woods we have
+01:43
+something called the Slidell mission
+01:44
+what James K Polk does is he sends a guy
+01:46
+by the name of Slidell believe it or not
+01:48
+to purchase California to go to Mexico
+01:50
+to purchase California and help settle
+01:52
+the boundary dispute along the Texas
+01:53
+border which we'll talk about in just a
+01:55
+moment Mexico refuses to even hear this
+01:57
+guy talk he sends him back and Polk
+01:59
+failed in his hope of purchasing
+02:02
+California on April 25th 1846 Mexico
+02:06
+attacks all US troops on us quotes soil
+02:10
+and if you look at this map here here's
+02:12
+Texas now
+02:13
+when Texas declared independence the
+02:15
+yellow is pretty much what Mexico
+02:18
+recognizes the Texas border the green
+02:20
+area is all this disputed territory
+02:22
+claimed by both Mexico and Texas the US
+02:26
+when they annexed Texas for the most
+02:29
+part assumed that all the green was part
+02:31
+of them as well so where this happens is
+02:33
+Mexico attacking the US troops on the US
+02:36
+soil happens right between the noisiest
+02:38
+River in the Rio Grande River what
+02:41
+Mexico said was the noisiest River would
+02:43
+be the southern boundary for Texas and
+02:44
+Texas said no the Rio Grande would so
+02:46
+all this green area is the disputed
+02:48
+territory so where Mexico attack was in
+02:51
+between these two rivers on disputed
+02:53
+territory this leads to some people in
+02:55
+Congress to want to know the exact spot
+02:58
+of where this attack was and most
+03:00
+notably was Abe Lincoln he could have
+03:02
+made his name he was a freshman member
+03:04
+of the House of Representatives and he
+03:07
+wanted to know the exact location of
+03:09
+where the war started a very important
+03:13
+battle that you will need to know is the
+03:14
+battle buona Vista this is where Jeff
+03:15
+general Zachary Taylor becomes a hero
+03:17
+and then this helps catapult him into
+03:20
+the presidency in 1848 and sadly this is
+03:22
+also where Henry Clay's son dies Henry
+03:25
+Clay jr. in this battle the Treaty of
+03:27
+Guadalupe Hidalgo ends the
+03:29
+mexican-american war the u.s. gains a
+03:31
+lot they gain California areas of
+03:33
+modern-day New Mexico Arizona Utah
+03:35
+Nevada and hat which is half of the
+03:37
+Mexican territory if you look here again
+03:40
+this gray area is what Texas had already
+03:42
+claimed but all this dark gray area here
+03:45
+is from the Treaty of Guadalupe Hidalgo
+03:47
+and then we're gonna have a little issue
+03:49
+over here in the compromise of 1850
+03:50
+Texas is claiming this area here so if
+03:53
+you want to know more about this so
+03:54
+watch my video on key compromises in US
+03:57
+history you need to know in the u.s.
+03:59
+pays Mexico 15 million dollars now if
+04:01
+you want to know about this little bit
+04:03
+of land called theme gets then purchase
+04:05
+check out Jimmy Fallon's get just Google
+04:07
+Jimmy Fallon guests and purchase they
+04:09
+also do a little bit on the Treaty of
+04:11
+Guadalupe Hidalgo it is about five
+04:13
+minutes of some of the funniest stuff
+04:14
+you'll ever see on TV and watch this
+04:16
+guy's face the whole time he makes weird
+04:18
+faces okay some effects of the war
+04:19
+America the size of America is increased
+04:22
+by one-third so again all this land that
+04:25
+they gained and pretty much now that you
+04:27
+expanding from coast to coast they
+04:28
+fulfilled their destiny of manifest
+04:31
+destiny future generals emerged from
+04:33
+this war including this guy ulysses s
+04:35
+grant and robert e lee who will face off
+04:37
+against each other during the Civil War
+04:39
+the debate over slavery continues that
+04:42
+intensifies being one of the most
+04:44
+important things you'll need to know is
+04:46
+the Wilmot Proviso this Democrat from
+04:49
+Pennsylvania David wama introduces this
+04:52
+bill or amendment to a bill that says
+04:53
+any land gained from Mexico should be
+04:55
+free of slavery and this is going to
+04:57
+just set off a firestorm in Congress and
+05:00
+the South is going to hate this never
+05:03
+ever passes Congress but it does that
+05:06
+it's ideas are taken by a political
+05:08
+party called the Free Soilers and then
+05:10
+we have the compromise of 1850 which I
+05:12
+touched on a little bit earlier this is
+05:13
+going to settle the admission of all
+05:15
+that land basically they're going to
+05:17
+introduce popular sovereignty or the
+05:18
+idea that the people the territories
+05:20
+could vote whether it'll be slave or
+05:21
+free again if you want more info on the
+05:23
+compromise of 1850 check out my video
+05:26
+key compromises in US history ok that's
+05:29
+it for the mexican-american war if
+05:31
+you're ever in Illinois and you want to
+05:33
+see Santa Anna's leg he was the Mexican
+05:35
+general during the in leader during the
+05:37
+mexican-american war his leg was
+05:39
+actually stolen by an Illinois regiment
+05:41
+in a battle so here is his wooden leg
+05:43
+true story when he lost his real leg it
+05:46
+was in 1837 I believe he actually had a
+05:49
+funeral for his leg so this guy was a
+05:51
+bit of a egomaniac but if you want your
+05:54
+ever know knowing what is he's like
+05:55
+there you go
+05:55
+and to see this video and many more
+05:58
+please visit a push review com if you
+06:00
+have not already subscribed please do so
+06:01
+tell all your friends put on Twitter
+06:03
+please share this with people in your
+06:04
+classroom I will greatly appreciate it I
+06:06
+appreciate you watching and if you have
+06:08
+any questions let me know have a good
+06:10
+day guys
+        """
     class video7:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=SqCJ9PHMjhs'
+        title = 'APUSH Review: "Old" Immigration and Nativism'
+        captions = """
+00:02
+hey what's going on in AP World we have
+00:04
+a video for you today an old immigration
+00:07
+so that's pre Civil War immigration and
+00:09
+nativism a very popular topic for the AP
+00:12
+exam if you want to download this
+00:14
+powerpoint to go along with the video
+00:16
+please follow the link in the
+00:17
+description to go to a push review com
+00:20
+to download this alright let's talk
+00:22
+about what is old immigration exactly
+00:25
+well they're immigrants that came from
+00:26
+northern and western Europe and some
+00:29
+specific countries they came from were
+00:31
+Ireland Germany and England and this
+00:34
+occurred between the 1820s in the 1870s
+00:37
+but really most of it occur between the
+00:39
+1820s and these civil war very popular
+00:42
+question something that you guys should
+00:43
+definitely know there are two groups
+00:45
+that made up the most amount of
+00:47
+immigrants prior to the Civil War and
+00:49
+and they were the Irish and the Germans
+00:51
+but the one group the largest group
+00:54
+prior to the Civil War and this has been
+00:56
+a question on the AP exam before is the
+00:59
+Irish so please be aware that we'll talk
+01:01
+about why the Irish are coming prior to
+01:03
+the Civil War okay so why did they come
+01:06
+here and where did they settle well
+01:08
+Germans tended to be farmers that were
+01:11
+looking for land and Irish people tended
+01:13
+to come here because of the Irish potato
+01:15
+famine in the 1840s which is also known
+01:17
+as the black 40's and there is a potato
+01:20
+that is infected with the disease potato
+01:23
+blight which infected many potatoes and
+01:26
+Ireland during that time and if you look
+01:29
+at the population fall in Ireland
+01:30
+between 1841 and 1851 the darker the
+01:34
+color red the higher the percentage of
+01:36
+people that were leaving Ireland so
+01:38
+virtually everywhere in Ireland you can
+01:40
+see people were leaving the destination
+01:43
+that the highest amount of Irish went to
+01:45
+was America and the Irish tended to
+01:47
+settle in large cities in the Northeast
+01:49
+such as Boston and New York so where did
+01:51
+they settle well we just talked about
+01:53
+the Irish and the Germans tended to
+01:55
+settle on the frontier in the Midwest
+01:57
+and the northwest so you see places like
+01:59
+Ohio and Wisconsin and they also get
+02:03
+many contributions to American society
+02:05
+including the idea of kindergarten or
+02:07
+children's garden where education was
+02:09
+very important for Germans
+02:12
+okay let's talk about this term nativism
+02:15
+and this is a fear distrust and hatred
+02:17
+of foreigners and there's going to be
+02:19
+lots of reasons for this one we have
+02:21
+different cultures and keep in mind
+02:22
+these arguments whether we're talking
+02:24
+about the 1830s and 1840s or the 1920s
+02:28
+or even today you'll see the same
+02:29
+arguments used over and over by people
+02:31
+about why immigration is bad people are
+02:35
+speaking different languages religion is
+02:37
+going to play a huge role here you see
+02:39
+that the Irish were mostly Catholic and
+02:41
+that is going to concern a lot of
+02:43
+Protestants living in America Catholics
+02:45
+were discriminating against for so long
+02:47
+the JFK is the first president ever that
+02:51
+was Catholic and there's this accusation
+02:54
+that Irish and Germans would steal
+02:56
+elections both of these groups
+02:57
+particularly in the Irish tended to vote
+02:59
+for Democrats so if you were not a
+03:01
+Democrat you would be upset with the
+03:03
+immigrants who would vote overwhelmingly
+03:05
+in favor of the Democratic Party and you
+03:09
+see this in Tammany Hall in New York
+03:11
+City especially in the later 1800s with
+03:13
+boss tweed and there's also an
+03:16
+accusation that immigrants took a job so
+03:18
+look let's look at this old help-wanted
+03:21
+ad from a newspaper this is talking
+03:23
+about a person 16 to 18 years of age
+03:26
+helping to help out with stuff and then
+03:28
+it says no Irish need apply or Nena and
+03:32
+this would be seen in in store windows
+03:34
+and newspapers you name it people did
+03:36
+not want to hire Irish immigrants and
+03:39
+many people dislike the Irish immigrants
+03:41
+at this time because they worked for
+03:43
+less money than what Americans would
+03:46
+work for and they also would not
+03:48
+unionize and will specially see that
+03:49
+later with new immigration but that's
+03:51
+for a different video okay so we're
+03:53
+going to talk about that know-nothing
+03:54
+party this is a political party that was
+03:56
+formed to to nativism they originated as
+03:59
+the Supreme order of the star-spangled
+04:01
+banner' that was their name and they
+04:03
+wanted to ban Catholics from holding
+04:05
+office so they would especially distrust
+04:08
+and dislike Irish immigrants because
+04:10
+Irish immigrants tended to be Catholic
+04:12
+and they call for tougher immigration
+04:14
+and naturalization laws making it harder
+04:16
+for immigrants to become citizens and in
+04:20
+1856 then ex-president Millard Fillmore
+04:23
+ran for the president of the note
+04:25
+think partying here is a poster
+04:28
+depicting that and this is actually
+04:29
+Andrew Jackson's nephew his name was
+04:32
+Andrew Jackson Donaldson he was Adrian's
+04:34
+personal secretary one he was president
+04:36
+and in 1856 Millard Fillmore and
+04:40
+Donaldson got 21 percent of the popular
+04:42
+vote so so one-fifth of people who voted
+04:45
+in the election voted for the
+04:47
+know-nothing party that just shows how
+04:49
+high nativism was during this time and
+04:52
+by 1861 that some Wars going on there
+04:54
+really no longer a political threat so
+04:56
+this is a short-lived political party we
+05:00
+even see different companies jump on the
+05:02
+bandwagon of the know-nothings and this
+05:04
+is a soap company and it's know-nothing
+05:06
+soap so you see nativism creeping into
+05:08
+many areas of American life all right
+05:12
+that's it for me and the old immigration
+05:14
+and nativism if you guys have any
+05:16
+questions please feel free to leave them
+05:17
+in the comment section below if you have
+05:19
+not already please take a moment
+05:20
+subscribe to my channel if you found
+05:22
+this video helpful please hit the like
+05:23
+button below and take about 30 seconds
+05:26
+to share this on Facebook Twitter or any
+05:28
+other social media for me I would
+05:29
+greatly appreciate it I'm always trying
+05:30
+to reach as many people as possible and
+05:32
+again if you want to see this PowerPoint
+05:34
+please follow the link in the
+05:35
+description below thank you very much
+05:37
+for watching and have a good day guys
+        """
     class video8:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=v4Jfwdoqgnw'
+        title = 'APUSH Review: Famous Abolitionists'
+        captions = """
+00:02
+hey what's going on ap world we have a
+00:05
+video for you today and famous
+00:06
+abolitionists to know and it's important
+00:09
+to note that there are literally
+00:10
+thousands of abolitionists but I'm only
+00:13
+gonna focus on the really big ones that
+00:14
+are that are likely to appear on your
+00:17
+apush exams it's not to diminish the
+00:19
+work of any other individuals but just
+00:21
+ones that you should be familiar with
+00:22
+and are most likely to appear on your
+00:24
+exam so let's start off with early
+00:26
+abolition by the way abolition means to
+00:29
+get rid of slavery so we have Quakers
+00:31
+that gathered mostly in Pennsylvania
+00:33
+thanks to this guy William Penn who was
+00:35
+a Quaker and they were abolitionists
+00:38
+during the colonial era which was really
+00:40
+really unique at the time not many
+00:42
+people were outspoken against slavery
+00:44
+another early form of abolitionism is
+00:47
+the American Colonization Society which
+00:49
+was founded in 1817 and the goal of this
+00:53
+society was to send former slaves or
+00:55
+freed slaves to Africa and specifically
+00:58
+Liberia prominent members included Henry
+01:02
+Clay in Abraham Lincoln early on in his
+01:04
+career and many others and this was not
+01:06
+a successful organization for many
+01:08
+reasons one of which is the fact that
+01:10
+most former slaves did not want to go to
+01:13
+Africa many of these individuals only
+01:15
+knew America as their home and they and
+01:17
+they wanted to stay in America they did
+01:19
+not want to go to Africa so this
+01:21
+organization is not very successful okay
+01:25
+let's get to some specific individuals
+01:27
+you should know Harriet Beecher Stowe
+01:29
+from Cincinnati is a very important
+01:31
+abolitionist she wrote the book Uncle
+01:33
+Tom's Cabin in the 1850s it was
+01:35
+published supposedly when Abe Lincoln
+01:37
+was president he met Harriet Beecher
+01:39
+Stowe and said to her so you're the
+01:41
+little woman that started this great war
+01:44
+so there was a huge impact and what the
+01:46
+book does is it showed the evils of
+01:47
+slavery particularly when it came to
+01:50
+breaking up families and last night I
+01:52
+just saw the movie 12 years of slave
+01:53
+which is an incredible incredible movie
+01:56
+I encourage you to go watch it and one
+01:58
+of the there's many bad scenes in it but
+02:00
+one of the really gut-wrenching scenes
+02:02
+was when they they divided up a mother
+02:05
+from her two children and it was very
+02:07
+very sad and that's kind of the focus of
+02:09
+Uncle Tom's Kevin Theodore Dwight weld
+02:11
+wrote a book called Americans
+02:13
+slavery as it is he's a very active
+02:15
+member in the abolitionist movement and
+02:17
+he marries a woman named Angelina Grimke
+02:20
+may be asking yourself who is Angelina
+02:22
+Grimke well she and her sister Sarah
+02:24
+were southern women that advocated both
+02:27
+abolitionism and women's rights so this
+02:29
+was very very progressive for that time
+02:32
+to have Southern women advocate
+02:34
+abolitionism and women's rights
+02:37
+now many people were doing that at the
+02:38
+time especially southern women Harriet
+02:41
+Tubman one of the most famous
+02:42
+abolitionist she was a former slave and
+02:43
+helped other slaves escape via the
+02:45
+Underground Railroad she went back many
+02:47
+times in the south and helped free over
+02:49
+300 people she was an inspiration for
+02:52
+many many people
+02:53
+David Walker was it was an African
+02:57
+American who called for unity among
+02:58
+blacks and he called for a violent for
+03:00
+violence to end slavery as that is one
+03:03
+of the only ways to get rid of slavery
+03:05
+Elijah Lovejoy was a printer from
+03:09
+Illinois and he was also a minister and
+03:11
+he owned his own newspaper and in his
+03:13
+newspaper he focused on abolitionism and
+03:16
+he was a mob comes to his warehouse in
+03:19
+Illinois and they burned it down and in
+03:21
+the process they shoot him five times
+03:22
+with a shotgun and he is killed so he
+03:25
+becomes a martyr for the abolitionist
+03:27
+movement and he helps inspire somebody
+03:29
+by the name of John Brown who we'll talk
+03:30
+about right now John Brown was part of
+03:33
+Bleeding Kansas in the 1850s and he was
+03:35
+our katuk to the raid at Harpers Ferry
+03:37
+I'm gonna do a whole video on John Brown
+03:39
+to look for that soon this is a huge
+03:42
+immediate cause of the Civil War so
+03:45
+those are abolitionist abolitionists
+03:47
+that you should definitely know here too
+03:49
+that you absolutely positively know
+03:50
+where things are BOTS must know William
+03:52
+Lloyd Garrison published a newspaper
+03:54
+called The Liberator and he called for
+03:56
+the immediate end to slavery without
+03:58
+compensation were uncompensated that
+04:01
+means that the slave owners will not be
+04:03
+paid for the slaves that they have to
+04:06
+free he disliked the Constitution since
+04:09
+it allowed slavery and he urged
+04:11
+secession by the north he said the north
+04:13
+should break away from the south because
+04:15
+it is too corrupt and they condone
+04:17
+slavery he was very very radical for his
+04:20
+time somebody who worked with William
+04:23
+Lloyd Garrison was Frederick Douglass
+04:25
+arguably the most famous
+04:27
+former slave he was a former slave a
+04:29
+great orator and he published a
+04:31
+newspaper called the North Star he
+04:34
+traveled all around America and even
+04:36
+Europe as well to speak out against
+04:38
+slavery and he also attended the women's
+04:41
+rights movement at Seneca Falls in 1848
+04:43
+so he was a very well-known leading
+04:45
+abolitionist and also a women's rights
+04:48
+advocate as well all right those are
+04:51
+virtually all of the abolitionists that
+04:54
+you need to know for your AP exam thank
+04:56
+you very much for watching if I can ask
+04:57
+you to take a moment and subscribe to my
+04:59
+channel if you found the video helpful
+05:00
+please hit the like button below if you
+05:03
+have any questions or comments feel free
+05:04
+to leave them in the section below and I
+05:06
+will get back to you thank you very much
+05:08
+for watching have a good day guys
+        """
     class video9:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=VqKM8u1u1ZI'
+        title = 'APUSH Review: The Compromise of 1850'
+        captions = """
+00:04
+hey what's going on ATP world we have a
+00:07
+very important video for you today and
+00:08
+the compromise of 1850 a very important
+00:12
+compromise in the history of America one
+00:14
+that appears quite often let's start out
+00:16
+by looking at a very famous picture this
+00:19
+is from the compromise of 1850 you know
+00:21
+it's front and center here is Henry
+00:23
+claim he is speaking in the Senate
+00:26
+chamber introducing some of the concepts
+00:28
+of the compromise of 1850 and over here
+00:31
+is the president of the Senate and
+00:33
+according to Constitution who is the
+00:36
+president of the Senate if you said the
+00:39
+vice president you are correct and there
+00:41
+is vice president Millard Fillmore who
+00:43
+will shortly become president when
+00:45
+Zachary Taylor dies and he will support
+00:48
+Henry Clay's compromise of 1850 ok let's
+00:51
+get going we need to know some key
+00:53
+players of the compromise of 1850 and
+00:56
+the first one is Stephen Douglas
+00:58
+nicknamed the little giant he is a
+01:00
+senator from Illinois and he helped gain
+01:02
+support for the compromise he and Henry
+01:05
+Clay work hand-in-hand and really play
+01:07
+an instrumental role in getting this
+01:08
+compromise to pass and you will know him
+01:11
+from few years after this from those
+01:12
+famous lincoln-douglas debates of 1858
+01:16
+next we have John C Calhoun still
+01:18
+scary-looking very old here he actually
+01:20
+dies in 1850 he is a senator from South
+01:23
+Carolina and he wanted slavery to be
+01:25
+left completely alone he did not want it
+01:28
+to be touched or prohibited in any area
+01:30
+so he is a different view Daniel Webster
+01:33
+we remember him remember two or three of
+01:35
+the great triumvirate he is from New
+01:38
+England he gives a very famous speech to
+01:40
+set him at the March March speech I
+01:42
+would be very familiar with that and
+01:44
+it's this idea that he asked to
+01:45
+northerners to support the Fugitive
+01:48
+Slave Law which we'll talk about and to
+01:49
+compromise so he really helped many in
+01:51
+the North support the compromise of 1850
+01:53
+and in the process many abolitionists
+01:55
+turned against them they felt like he
+01:57
+sold out and finally we can not forget
+01:59
+super clay Henry Clay here he introduced
+02:02
+the compromise at age 72 what a champ
+02:05
+that guy is imagine 72 you're
+02:07
+introducing this compromise and saving
+02:09
+the Union yet again pretty impressive if
+02:11
+you ask me all right some background
+02:13
+info
+02:13
+to the compromise of 1850 it all starts
+02:16
+with the mexican-american war which
+02:17
+lasted two years from 1846 to 1847 and
+02:23
+American war famous America Ralph Waldo
+02:27
+Emerson said of Mexico at that time that
+02:30
+Mexico will poison us boy was this guy
+02:33
+correct with the Treaty of Guadalupe
+02:35
+Hidalgo which ended the mexican-american
+02:37
+war and the u.s. is going to gain all
+02:39
+this land from the Mexican Cession here
+02:41
+in 1848 not this little piece down here
+02:44
+that's the guest and purchased that will
+02:45
+come years later but the u.s. gains all
+02:48
+this land here then we have the Wilmot
+02:52
+Proviso introduced by Democrat David
+02:55
+Wilmot and what this provides a proposed
+02:58
+was that if it was past slavery would be
+03:00
+prohibited from all land gained during
+03:04
+the mexican-american war this passes the
+03:06
+house where the North has a population
+03:08
+advantage but it does not pass the
+03:10
+Senate because the the states were equal
+03:13
+between free and slave states so the
+03:15
+Senate never approves this another issue
+03:18
+is that Texas claimed land east of the
+03:20
+Rio Grande in present-day New Mexico so
+03:23
+let's look here you see well we know
+03:25
+it's present-day Texas with the these
+03:27
+two straight lines here however this
+03:30
+Arian great here east of the Rio Grande
+03:32
+Texas was claiming this all the way up
+03:34
+here they said this is our land and that
+03:37
+caused a huge huge conflict as we will
+03:39
+see so lots of stuff that needs to be
+03:42
+settled and they did threaten war they
+03:45
+said to the United States to zachary
+03:46
+taylor this is our land if you come try
+03:49
+to take it we will go to war with you so
+03:50
+the the country was really on the verge
+03:52
+of war during 1850 and the south and
+03:55
+additionally said if texas is attacked
+03:57
+we will come to texas his defense so
+03:59
+really the country was kind of staring
+04:00
+at civil war here in 1850 okay five
+04:04
+parts of compromise i can't stress
+04:05
+enough know all five of these parts if
+04:07
+you're writing an essay you want to
+04:08
+incorporate them I've seen many multiple
+04:10
+choice questions on which of the
+04:11
+following was or was not a part of the
+04:14
+compromise of 1850 so be familiar with
+04:16
+them first one California again gained
+04:19
+from the Mexican Cession California was
+04:21
+added as a free state with the
+04:23
+California Republic this tips the
+04:25
+balance in favor of priests
+04:27
+so now free states have an advantage
+04:29
+they outnumber the slave states by one
+04:31
+so they will gain an advantage in the
+04:33
+Senate the second part the slave trade
+04:36
+would be abolished in Washington DC not
+04:39
+slavery slavery remained however the
+04:42
+slave trade was abolished because many
+04:45
+northerner said it was repulsive for
+04:47
+foreign dignitaries to come to
+04:48
+Washington DC and see human beings being
+04:51
+sold into slavery they abolished the
+04:53
+trade but not slavery a very important
+04:56
+concept that will be throughout the
+04:58
+eighteen fifties is this idea of popular
+04:59
+sovereignty and this was to be used in
+05:02
+land gained from the Mexican Cession so
+05:04
+your Utah New Mexican territories C New
+05:07
+Mexico and purple and Utah here these
+05:09
+two popular sovereignty will be used
+05:11
+here now what does that mean that is
+05:13
+that those living in the territories
+05:15
+could decide the status of slavery that
+05:18
+is your citizens the people living here
+05:20
+so the people in New Mexico wanted
+05:23
+slavery they would vote on it the people
+05:24
+in Virginia or Pennsylvania they would
+05:27
+have no say of their slavery in New
+05:29
+Mexico according to popular sovereignty
+05:31
+it's the people that live there and this
+05:33
+will be again as I mentioned a common
+05:35
+theme in 1850s a very important aspect
+05:39
+of the compromise of 1850 is a more
+05:41
+strict Fugitive Slave Act and this will
+05:43
+infuriate northerners this is the one
+05:46
+that the South really fought for and guy
+05:48
+and this turns many Northerners into
+05:50
+abolitionists they are very upset and
+05:53
+they're upset because it requires
+05:54
+northerners to aid in catching and the
+05:57
+return of slaves they had to take an
+05:59
+active role no longer because they just
+06:01
+kind of sat back and watched laser on
+06:02
+the way this required their involvement
+06:04
+and many states began to pass what are
+06:07
+called personal liberty laws which we'll
+06:09
+talk about in just a few minutes and
+06:11
+finally the fifth part of this Texas has
+06:14
+paid ten million dollars they were in a
+06:16
+lot of debt from when they were their
+06:17
+own independent country and they're paid
+06:20
+ten million dollars to settle the border
+06:21
+dispute so this land over here they give
+06:24
+up in exchange for ten million dollars
+06:27
+okay let's talk about the impact of the
+06:30
+compromise there are huge tensions in
+06:32
+Congress that are demonstrated during
+06:34
+this time period and again a sign of
+06:36
+things to come we have two key players
+06:38
+here this guy here is Thomas Hart Benton
+06:40
+is a senator
+06:41
+from Missouri is actually Centre for
+06:43
+over 30 years over here we have another
+06:45
+senator from the South last name foot fo
+06:47
+OTE they get so heated in the Senate
+06:52
+that foot actually pulls a gun on Thomas
+06:55
+Hart Benton in charges that I mean
+06:56
+Thomas Hart Benton screams out let the
+06:59
+assassin fire so in the Senate you have
+07:02
+senators pulling guns on each other
+07:04
+that's how tense these debates got
+07:05
+you'll see this again with the caning of
+07:08
+Charles Sumner in 1850 that the northern
+07:11
+and southern tensions were so high that
+07:12
+even congressmen were fighting or
+07:14
+threatening to kill each other
+07:16
+civil wars absolutely positively averted
+07:20
+and many historians will point to that
+07:21
+this was a good thing the reason why the
+07:23
+compromise of 1850 was good was because
+07:25
+it gave the north ten more years to
+07:27
+industrialized and the fact that 1850
+07:30
+many Northerners if secession happened
+07:31
+would not have supported civil war they
+07:33
+kind of would have let the South just go
+07:36
+away and break into its own independent
+07:37
+country because of those personal
+07:40
+liberty laws which required the North to
+07:42
+become more involved in the catchiest
+07:44
+lays many in the North moved towards the
+07:46
+abolitionist movement many people who
+07:48
+were not abolitionists become
+07:50
+abolitionists as a result personal
+07:53
+liberty laws are not enforced in the
+07:56
+North whatsoever you actually have some
+07:57
+states passed laws that go directly
+07:58
+against them and that is essentially
+08:01
+nullification from the northern view
+08:02
+here so again this compromise requires
+08:04
+many Northerners to move towards the
+08:06
+abolitionist movement okay we'll finish
+08:08
+up with some past essay topics and these
+08:10
+are the same that I left you with in the
+08:12
+video on the Compromise of 1820 and the
+08:14
+reason why is because of a lot of these
+08:15
+dates begin with the 1820 compromise and
+08:19
+and a tour around the compromise of 1850
+08:22
+so analyze the effectiveness of
+08:24
+political compromise and reducing
+08:25
+sectional type tensions in the period
+08:28
+1822 1861 from the 2004 free response if
+08:32
+you if you are familiar with the
+08:33
+Compromise of 1820 and the compromise of
+08:35
+1850 you have quite a bit of an essay
+08:37
+there from the 2005 form beat DBQ in the
+08:41
+early 19th century Americans sought to
+08:43
+resolve their political disputes through
+08:44
+compromise yet by 1860 this no longer
+08:47
+seemed possible
+08:48
+analyze the reasons for this change use
+08:50
+the documents in your knowledge from the
+08:52
+period 1820 to 1860 in constructing your
+08:55
+response there's one major Cepero as i
+08:57
+haven't done yet and that the
+08:58
+kansas-nebraska act but look for that
+09:00
+you do these three compromises 1820 1850
+09:03
+in Kansas Nebraska you'll be absolutely
+09:05
+able to answer all three of these and
+09:06
+finally analyzed how westward expansion
+09:08
+contributed to growing sectional
+09:10
+tensions between the north and south can
+09:12
+find your answer to the period from 1800
+09:14
+to 1850 so get in 1803 with the
+09:17
+Louisiana Purchase and from 1846 to
+09:19
+80-48 you had the mexican-american war
+09:22
+and then you can explain how those two
+09:24
+things caused tension between the north
+09:26
+and the south
+09:28
+all right that's everything you need to
+09:30
+know about the compromise of 1850 I hope
+09:32
+that helped please take a moment to my
+09:34
+channel throw this throw a link to this
+09:36
+on the internet for me please if you
+09:38
+have any questions comments ideas for
+09:40
+videos feel free to leave them in the
+09:41
+comments below and thank you very much
+09:43
+watching have a good day guys
+        """
     class video10:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=qL5ZI_t4Gy0'
+        title = 'APUSH Review: The Kansas-Nebraska Act and "Bleeding Kansas"'
+        captions = """
+00:02
+hey what's going on ap guys we have a
+00:05
+video for you today I'm bleeding Kansas
+00:08
+one of the causes of the Civil War and
+00:11
+all sorts of chaos going on in Kansas in
+00:13
+the 1850s so let's get going now let's
+00:15
+go back a little bit to the
+00:16
+kansas-nebraska Act which was passed in
+00:19
+1854 and this was a law that allowed for
+00:22
+popular sovereignty in the Kansas and
+00:24
+Nebraska territories we see this word
+00:26
+popular sovereignty what that means is
+00:29
+that the people living there in that
+00:30
+territory could decide if they want
+00:32
+slavery there or not and this was
+00:35
+devised by this guy the Little Giant
+00:37
+Stephen Douglas he was a senator from
+00:40
+Illinois he defeated Abe Lincoln in the
+00:42
+senator race in 1858 that's part of the
+00:45
+lincoln-douglas debates I do have a
+00:47
+video for that so please check the
+00:48
+description below they also played an
+00:50
+instrumental role in the compromise of
+00:53
+1850 as well so what does this
+00:55
+kansas-nebraska Act me well the
+00:58
+expectation was that Kansas would be a
+01:00
+slave state in Nebraska would be a free
+01:03
+state and this overturned the Missouri
+01:05
+Compromise of 1820 because that applied
+01:08
+to the Louisiana Purchase territory and
+01:10
+it said that nothing above that 36:30
+01:13
+line would be slave and Kansas is above
+01:16
+that 36:30 line now so many in the north
+01:19
+are upset about this they they felt that
+01:21
+the Missouri Compromise had worked well
+01:23
+for the previous 34 years and it should
+01:25
+not have been overturned and this helps
+01:28
+lead to the creation of the Republican
+01:30
+Party so let's go to Lawrence Kansas
+01:32
+this is a city in Kansas that is a free
+01:34
+soil city so a lot of people who are
+01:37
+anti-slavery moved to Lawrence Kansas
+01:39
+and what you see is a lot of people are
+01:41
+going to move into Kansas to try to sway
+01:43
+the election their way the city is
+01:45
+burned by pro-slavery individuals it's
+01:48
+called the sack of Lawrence and you can
+01:50
+see here that this city is burned and
+01:52
+destroyed people are cleaning up
+01:54
+afterwards this helped exhibit the
+01:56
+tensions in Kansas over popular
+01:58
+sovereignty and slavery so let's go to
+02:01
+this guy Charles Sumner the caning of
+02:04
+Charles Sumner so who was Charles Sumner
+02:06
+here's a picture of him he was a senator
+02:08
+from Massachusetts okay so what does he
+02:10
+have to do with bleeding Kansas well
+02:12
+there's an
+02:12
+abolitionists a very hardcore
+02:14
+abolitionist who wanted to end slavery
+02:17
+and certainly keep it from going into
+02:19
+Kansas and he gives a political speech
+02:22
+in the Senate called the crime against
+02:23
+Kansas and in this speech he criticizes
+02:26
+Douglass for authoring the
+02:28
+kansas-nebraska Act and he also
+02:30
+criticized as a senator from South
+02:32
+Carolina and Dean Butler and he says
+02:35
+some pretty harsh things about the
+02:36
+institution of slavery and Butler
+02:38
+himself we're gonna have this guy
+02:40
+Preston Brooks come into the picture and
+02:42
+Preston Brooks is related to Butler he's
+02:45
+a relative of Butler he is a member of
+02:47
+the House of Representatives he wanted
+02:50
+to defend the honor of the South of
+02:51
+South Carolina and of his relative
+02:54
+Butler as well so there's this caning
+02:57
+this this event called Dakini Brooks
+02:59
+attack Sumner while Sumner was at his
+03:01
+desk with a cane the reason why Brooks
+03:03
+has a cane is he was shot in the hip
+03:05
+during a duel and had to walk with a
+03:06
+walking cane the rest of his life so he
+03:08
+goes and he attacks Charles Sumner beats
+03:11
+him unconsciously and continues to hit
+03:13
+him in the head so hard that the top of
+03:15
+his cane actually breaks off and there
+03:17
+were a few senators who who wanted to
+03:19
+try to break it up but another senator
+03:21
+had a gun pointed at them and then said
+03:24
+let them be so this was a staged attack
+03:26
+Sumner is knocked unconscious and this
+03:29
+helps show deep tensions in Congress
+03:31
+between the north and the south
+03:33
+Brooks ends up resigning his seat and
+03:36
+gets elected again in this special
+03:38
+election so South Carolina
+03:39
+overwhelmingly votes and back in so
+03:41
+let's go to paddle with Tommy Creek John
+03:43
+Brown who becomes really famous a few
+03:45
+years later from Harpers Ferry and his
+03:47
+sons they plot revenge for the more the
+03:50
+sack of warrants and the caning of
+03:52
+Charles Sumner so here's John Brown
+03:53
+about this time in the mid 1850s he had
+03:56
+a lot of a lot of kids I'll be doing a
+03:57
+video later on John Brown at Harpers
+03:59
+Ferry so he and his followers and his
+04:01
+kids they killed five pro-slavery
+04:04
+individuals they actually use their
+04:05
+swords on them and they cut them into
+04:07
+pieces essentially they brutally
+04:09
+murdered these five people who are
+04:11
+pro-slavery Brown and his followers
+04:13
+leave Kansas they escape trial or being
+04:16
+caught there but he will as I said make
+04:18
+a reappearance in Harpers Ferry in a few
+04:20
+years and the fighting in Kansas
+04:22
+continues throughout the 1850s
+04:25
+so let's go to something called the
+04:26
+Lecompton Constitution be a little
+04:28
+tricky so Kansas is applying for
+04:30
+statehood to the Union voters could vote
+04:34
+for a constitution with or without
+04:36
+slavery this is the Lecompton
+04:37
+Constitution you could go in and you
+04:39
+could vote yes we want slavery no we do
+04:42
+not want slavery seems pretty
+04:44
+straightforward however if enough voters
+04:47
+if more than half that this popular
+04:49
+sovereignty works and enough voters
+04:51
+voted for the Constitution without
+04:53
+slavery those slaves that were already
+04:56
+in Kansas could stay in be slaves so
+04:59
+it's really it's a sham election it's a
+05:01
+trick that would still allow slavery to
+05:03
+exist certainly for the ones who are
+05:05
+already there so the Free Soilers to
+05:08
+people who are anti-slavery they refuse
+05:10
+to vote and even President Buchanan a
+05:13
+Democratic president who wants to try to
+05:15
+avoid tension supports the Lecompton
+05:17
+Constitution ultimately what happens is
+05:20
+this fighting continues and there's
+05:21
+there's a couple more constitutions that
+05:23
+are made to the state of Kansas in
+05:25
+Kansas does not become a state until
+05:27
+early 1861 and they enter it as a free
+05:29
+state because so many of the southern
+05:31
+states had already seceded from the
+05:33
+Union so let's talk about the impact of
+05:36
+Bleeding Kansas well the Democratic
+05:38
+Party is split along sectional lines and
+05:40
+the northern Democrats are going to
+05:42
+continue to stick with Stephen Douglas
+05:44
+that should be one s not two and if we
+05:47
+look at this map in the 1860
+05:48
+presidential election this all but
+05:50
+guarantees the Democrats would not win
+05:52
+so if you look here we have Douglass and
+05:54
+the electoral votes in one state however
+05:57
+he had the second-most popular votes so
+05:59
+the northern Democrats those that vote
+06:01
+Democrat will vote for Stephen Douglas
+06:05
+Southern Democrats will vote for
+06:07
+Breckenridge Jhansi Beckham Breckenridge
+06:09
+who is a former vice president and Abe
+06:12
+Lincoln in red is going to win the
+06:14
+election even though in many states in
+06:16
+the south he does not appear on the
+06:18
+ballot whatsoever so ultimately Abe
+06:21
+Lincoln will win this election he'll
+06:22
+become the first republican president
+06:25
+and civil war will begin shortly
+06:27
+after all right they
+06:31
+very much for watching this everything
+06:32
+you need to know about bleeding Kansas
+06:33
+if you have any questions or comments
+06:35
+feel free to leave them in the video in
+06:36
+the comment section below please help me
+06:39
+spread the word about this video if you
+06:40
+know anybody who would benefit from this
+06:42
+please let them know and also if you
+06:44
+found this video helpful hit the like
+06:45
+button below and I appreciate you guys
+06:48
+watching thank you very much and have a
+06:49
+good day guys
+        """
     class video11:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=EyEsrpC4PUo'
+        title = 'APUSH Review: Dred Scott v. Sanford'
+        captions = """
+00:02
+hey what's going on AP World we have a
+00:05
+review of one of the most important
+00:07
+court cases in US history Dred Scott vs.
+00:11
+Sanford if you're looking at Sanford and
+00:12
+you're thinking to yourself I've seen
+00:14
+that spelled two ways si and fo are d
+00:17
+and si and D fo are D that is correct
+00:21
+and the reason why is this a green court
+00:23
+misspelled Sanford during the court case
+00:26
+they spelled it with a D it's actually
+00:28
+spelled this way without a D just a
+00:30
+little fact in the day for you alright
+00:32
+so let's start talking about this case
+00:33
+who was Dred Scott well Dred Scott
+00:35
+here's a portrait of him his wife had
+00:38
+two daughters were slaves of a US
+00:41
+military doctor and his doctors and this
+00:44
+doctor's name is dr. Emerson now prior
+00:46
+to dr. Emerson's death Scott traveled
+00:49
+with him in different areas of the
+00:50
+country including Illinois which is a
+00:54
+free state in Wisconsin which is a free
+00:57
+territory so he goes into a state which
+01:00
+forbid slavery in a territory which
+01:02
+forbids slavery both of those go back to
+01:04
+the northwest land ordinance of 1787
+01:07
+which forbid slavery in the Old
+01:09
+Northwest so dr. Emerson is going to die
+01:13
+in the early 1840s and Scott will sue
+01:16
+for his freedom on his behalf and his
+01:19
+family's behalf eventually it makes its
+01:22
+way up to the Supreme Court which is
+01:23
+where the Supreme Court hopes to address
+01:26
+the issue of slavery once and for all
+01:28
+they actually thought they had a chance
+01:30
+to settle the issue of slavery boy will
+01:32
+they ever
+01:34
+all right so Supreme Court's decision
+01:35
+Chief Justice Roger B tani wrote the
+01:39
+majority opinion and stated the finally
+01:42
+there was Roger beat one
+01:45
+african-americans and it did not matter
+01:47
+if they were free or slave were not
+01:49
+citizens and could not sue the court so
+01:52
+immediately millions of African
+01:54
+Americans again whether they were free
+01:56
+or slaves were not citizens and were not
+02:00
+entitled to any of the rights that are
+02:02
+that citizens to huge ramifications
+02:06
+number two slaves were considered
+02:09
+property and therefore they could not be
+02:12
+taken away without due process the Fifth
+02:14
+Amendment says that individuals cannot
+02:16
+be deprived of life liberty or property
+02:19
+without due process
+02:20
+so not only are slaves not citizens they
+02:23
+are property this is a double blow to
+02:26
+African Americans and finally the
+02:30
+Missouri Compromise was deemed
+02:31
+unconstitutional now it was overturned
+02:33
+essentially with the kansas-nebraska Act
+02:35
+but it kind of reinforces that this is a
+02:38
+Congress could not regulate slavery in
+02:40
+territories and if we remember that
+02:42
+Missouri Compromise like it's just
+02:44
+thirty six thirty latitude line here and
+02:46
+the Louisiana Purchase so all this green
+02:49
+up here this Missouri Territory 1812
+02:52
+should have been free but according to
+02:57
+Roger B Taney the Supreme Court that was
+03:00
+unconstitutional so three significant
+03:02
+rulings as a part of the Dred Scott case
+03:06
+okay so let's talk about the impacting
+03:08
+really tensions will drastically
+03:10
+increase between the North and the South
+03:11
+many in the north are shocked at this
+03:13
+they could not believe what the Supreme
+03:15
+Court just did and many jump on the
+03:18
+abolitionist bandwagon if they were not
+03:20
+already on there Steven Douglas the
+03:23
+senator from Illinois is dead set
+03:24
+against this and and in his famous
+03:26
+Freeport doctrine speech he stated that
+03:29
+he believed territories could not
+03:31
+enforce the decision if they didn't
+03:32
+wanted to and this will split the
+03:34
+Democratic Party along sectional lines
+03:36
+guaranteeing in 1860 that a Democrat
+03:39
+will not win the presidential election
+03:40
+you want more info on the Freeport
+03:42
+doctrine check out the link in the
+03:44
+description which has a video on the
+03:46
+lincoln-douglas debates
+03:48
+and then for in order for
+03:49
+african-americans to become citizens a
+03:51
+new Supreme Court case or an amendment
+03:54
+would it be needed it's the only way you
+03:56
+can change your Supreme Court decision
+03:57
+and we'll see after this of war
+03:59
+thankfully the 14th amendment will come
+04:01
+along which granted citizenship to
+04:03
+that's looking all right that's
+04:06
+everything you need to know about Dred
+04:08
+Scott vs. Sanford thank you very much
+04:09
+for watching please take a moment and
+04:11
+subscribe to my channel if you found
+04:12
+this video helpful please help spread
+04:14
+the word put it on Twitter Facebook any
+04:17
+social media outlet that you can if you
+04:19
+have any questions or comments feel free
+04:20
+to leave them below thank you very much
+04:21
+for watching and have a good day guys
+        """
     class video12:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=CfeAa3R5lfg'
+        title = 'APUSH Review: The Election of 1860'
+        captions = """
+00:00
+hey what's going on a push peeps we have
+00:01
+one of the most important elections in
+00:03
+US history for you today this one is
+00:06
+specifically mentioned in the new apush
+00:08
+curriculum this one is the election of
+00:10
+1860 so be familiar with this it will be
+00:13
+on your test in some way shape or form I
+00:15
+can virtually guarantee you all right
+00:17
+let's do some background info on this
+00:19
+election James Buchanan who was the
+00:21
+incumbent or the sitting vice president
+00:23
+is not running for re-election and there
+00:26
+is mr. Buchanan down there the
+00:29
+Democratic Party was split along
+00:30
+sectional lines along the north and the
+00:32
+south
+00:33
+due to in part Douglass's Freeport
+00:36
+doctrine which he talked about in the
+00:38
+lincoln-douglas debates of 1858 which he
+00:40
+said if a territory won - where stay won
+00:43
+- they could essentially forbid slavery
+00:46
+even though the Supreme Court said that
+00:47
+could not happen if you want more info
+00:49
+check out my video on the
+00:51
+lincoln-douglas debates I have a link to
+00:53
+it in the description below John Brown's
+00:55
+raid at Harpers Ferry took place one
+00:57
+year before in 1859 and there is John
+01:00
+Brown he was put to death for his
+01:02
+involvement in the rate again I do have
+01:06
+a video on that as well
+01:08
+and many people in the South feared that
+01:10
+the Republicans in the North were
+01:12
+dominated by these John Brown loving
+01:15
+abolitionists so there's fear in the
+01:16
+South the north is going to eventually
+01:18
+eliminate slavery so all this is kind of
+01:20
+in the background as the election of
+01:23
+1860 approaches so let's get to the
+01:25
+candidates well for the Democratic
+01:27
+candidates there are actually two of
+01:29
+them the first one is this guy Stephen
+01:31
+Douglas we know him as an advocate of
+01:34
+popular sovereignty take a minute think
+01:35
+about what is popular sovereignty you
+01:37
+know what is it if you said it is
+01:40
+allowing the people in the territory to
+01:41
+vote on the issue of slavery you are
+01:43
+100% correct very nice job now in the
+01:46
+South they do not support Stephen
+01:47
+Douglas they turned on him after the
+01:49
+Freeport doctrine so they support the
+01:51
+sitting vice president John C
+01:54
+Breckinridge who was Buchanan's vice
+01:56
+president he is from Kentucky so there
+01:58
+are two Democrats running and you have
+02:00
+one Republican candidate this guy Abe
+02:02
+Lincoln now he is campaigning on a free
+02:05
+soil platform you need to understand
+02:07
+this please I beg you
+02:08
+he campaigned on the non extension of
+02:11
+slavery he did not
+02:12
+pain to get rid of slavery the
+02:13
+Republicans did not campaign on getting
+02:15
+rid of slavery rather they campaigned in
+02:18
+Lincoln campaign I'm not allowing
+02:20
+slavery to expand or spread it's a very
+02:24
+important distinction that you
+02:25
+absolutely positively have to know now
+02:27
+there's a fourth part of the
+02:28
+constitutional Union Party and this guy
+02:31
+is running John Bell and the whole
+02:33
+purpose of this was that they want to
+02:34
+preserve the Constitution and preserve
+02:36
+Union their platform was we're going to
+02:38
+abide by the Constitution so four main
+02:41
+players let's figure out what the issues
+02:44
+were there's really no getting around it
+02:46
+the number one issue is slavery no this
+02:48
+is such a big issue because you decant
+02:50
+that compromise of 1850 the
+02:52
+kansas-nebraska Act and the Dred Scott
+02:54
+decision all of those occurred within
+02:57
+the previous ten years of 1860 and they
+02:59
+all fail to reduce sectional tension so
+03:02
+you have again the north and the south
+03:03
+are really pitted against each other and
+03:05
+it's all over slavery
+03:07
+now many fire-eater southerners
+03:09
+threatened secession if Lincoln won
+03:12
+never called fire-eaters because they
+03:13
+just threatened to break away from the
+03:15
+country so the South many people in the
+03:17
+South made it known if a Republican wins
+03:19
+the election of 1860 they're bailing on
+03:21
+the Union they're bouncing on out of
+03:23
+this country so let's go to the results
+03:25
+in order to become president 152
+03:28
+electoral votes were needed at that time
+03:31
+Stephen Douglas only gets 12 he carries
+03:33
+one state Bell gets 39 he carries a
+03:36
+couple more Breckenridge gets 72 he
+03:39
+carries most of the south and Lincoln
+03:42
+gets 180 now let's take a look at this
+03:45
+map and you'll notice it says the
+03:46
+Lincoln wins the election without
+03:48
+carrying a single southern state and
+03:50
+that's very important to understand
+03:52
+because the population most the
+03:54
+population is located in the North look
+03:56
+at New York has 35 electoral votes
+03:58
+Pennsylvania's 27 I remember that is
+04:01
+determined by the number of Senators and
+04:03
+members of the House of Representatives
+04:05
+you'll notice that the North has more of
+04:07
+the population so wankin is able to win
+04:09
+and he wins without a single state
+04:13
+voting for him that owns slaves so all
+04:15
+the South's votes for other people but
+04:17
+the north votes were linked in the south
+04:19
+is essentially going to say we cannot be
+04:22
+in this country if somebody can win the
+04:24
+presidency without having a
+04:26
+single person from the south vote for
+04:27
+them alright let's talk about the impact
+04:30
+you have to know the impact it is the
+04:31
+immediate cause of the Civil War
+04:33
+southern states begin to secede before
+04:36
+Lincoln's inauguration on March 4th 1861
+04:38
+remember you used to be March 4th then
+04:40
+the 20th amendment changes that to
+04:42
+January 20th so South Carolina and
+04:45
+December 20th 1860 leaves a few weeks
+04:48
+later Mississippi leaves on January 9th
+04:50
+Florida the following day on the 10th
+04:52
+Alabama the day after that on the 11th
+04:54
+Georgia on the 19th of January Louisiana
+04:57
+on February 1st and all of this is
+05:00
+happening on Buchanan's watch so before
+05:01
+Lincoln even becomes president six
+05:04
+states seceded from the Union and
+05:06
+Buchanan did absolutely nothing to stop
+05:08
+the secession he didn't feel he had the
+05:10
+power to do anything so he essentially
+05:12
+just sat back and did nothing now more
+05:16
+states seceded after the war officially
+05:17
+started on April 12 1861 that's when the
+05:21
+first shots were fired for summer and
+05:23
+sadly that is Henry Clay's birthday the
+05:25
+man who loved the Union you know what is
+05:27
+he preserved the Civil War actually
+05:29
+started on his birthday how's that for
+05:30
+irony huh so Virginia
+05:32
+five days later succeeds and sides with
+05:35
+the south and Arkansas does as well on
+05:38
+May 6th and Tennessee does the next day
+05:41
+I'm a Sabbath and finally North Carolina
+05:43
+is the last southern state to secede on
+05:45
+May 20th though you'll notice all these
+05:47
+orange states these are the Confederate
+05:49
+States of America these are the southern
+05:51
+states during the war now we see these
+05:53
+yellow states here these are very
+05:54
+important we're going to talk about them
+05:55
+in the Civil War and I do have a video
+05:57
+on that check that out in the
+05:58
+description below these are called the
+06:00
+border states and they own slaves but
+06:02
+they were part of the North during the
+06:05
+Civil War they did not break away very
+06:07
+important to note because they are a
+06:08
+huge huge player in the Civil War all
+06:11
+right let's finish up with some test
+06:12
+tips for multiple choice and short
+06:14
+answer questions absolutely no way if
+06:16
+ands or buts about know that Lincoln's
+06:17
+platform was for the non extension of
+06:19
+slavery and also know that the election
+06:22
+was an immediate cause of secession and
+06:24
+the Civil War for essay questions you
+06:27
+could talk about the failures of
+06:28
+compromise that led failures of
+06:30
+compromises that led to the election of
+06:32
+1860 in the Civil War and you could even
+06:35
+see an essay question on you know
+06:37
+1860 election as a turning point in US
+06:40
+history so off to talk about what life
+06:41
+was like before 1860 and what it was
+06:44
+like afterwards all right that's
+06:46
+everything you need to know about the
+06:48
+election of 1860 I think you guys very
+06:50
+much for watching if you have a question
+06:51
+or comments feel free to leave them in
+06:53
+this section below make sure you also
+06:54
+check out other videos that relate to
+06:57
+this topic in the description we have
+06:58
+not ready please take a moment and
+07:00
+subscribe to my channel and listen to
+07:01
+aids message it is one of the most
+07:02
+important things you need to know about
+07:04
+the 1860 election thank you for watching
+07:06
+and have a good day
+        """
     class video13:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=0YEJuoJDQKY'
+        title = 'APUSH Review: The Civil War'
+        captions = """
+00:02
+hey what's going on ap people we have a
+00:05
+video for you today on the civil war we
+00:07
+will cover everything you need to know
+00:09
+about the Civil War to succeed in a push
+00:11
+one thing I want to let you know from
+00:13
+the beginning is I will not be covering
+00:15
+a lot of battles in this video it's this
+00:17
+video we're just going over what is
+00:19
+likely to appear on your a push exam in
+00:22
+the form of multiple choice questions
+00:23
+and essays alright let's start off
+00:26
+talking about the causes of the war
+00:27
+there are many many causes I'm just
+00:29
+going to list some with the big ones so
+00:32
+some long-term causes we have the
+00:33
+expansion of slavery and that becomes a
+00:35
+big issue as a result of manifest
+00:37
+destiny in the 1840s and 1850s popular
+00:40
+sovereignty is the right for individuals
+00:42
+of a territory to vote on whether or not
+00:45
+that territory will be free or slave and
+00:47
+that was a huge cause of this of war
+00:49
+because fighting breaks out we have
+00:52
+states rights versus federal power and
+00:54
+that has been an issue since the
+00:55
+beginning of the Constitution ultimately
+00:57
+who has more power a very famous book
+01:00
+written by this woman Harriet Beecher
+01:01
+Stowe called Uncle Tom's Cabin was
+01:03
+published and really turned a lot of
+01:05
+people in the north to abolitionists I
+01:08
+don't know if you noticed or not she
+01:08
+lived in Cincinnati for a while so she
+01:11
+hails from that great city all right
+01:13
+some immediate causes that you should
+01:15
+know first and foremost it is the
+01:16
+election of Abraham Lincoln in 1860 if
+01:19
+you take a look at this presidential map
+01:21
+from 1860 you'll see that and not a
+01:23
+single southern state did Lincoln win
+01:25
+and the electoral vote so the South
+01:27
+feels if if a person can become
+01:29
+president without winning a single
+01:30
+southern state why should we be in this
+01:33
+country and please keep in mind Lincoln
+01:36
+and the Republicans did not want to
+01:38
+fight the Civil War because of slavery
+01:40
+they fought it to preserve the Union and
+01:43
+that's in the beginning and will shift
+01:44
+and again Lincoln did not campaign on
+01:46
+abolishing slavery he campaigned on
+01:49
+keeping slavery from expanding and on
+01:53
+April 12 1861 what would have been Henry
+01:57
+Clay's 84th birthday had he still been
+01:59
+alive
+02:00
+is the attack on Fort Sumter in South
+02:03
+Carolina which officially begins the
+02:06
+Civil War
+02:07
+okay let's talk about some key terms
+02:08
+that you should know conscription is a
+02:10
+fancy word for saying draft or forced
+02:13
+and enforced enlistment now during the
+02:15
+Civil War substitutes could be hired for
+02:17
+people that were drafted so if you were
+02:19
+drafted and you were wealthy enough you
+02:21
+could pay for somebody else to go in
+02:23
+place and that is something that this
+02:24
+man here did Theodore Roosevelt senior
+02:28
+Teddy Roosevelt's father actually hired
+02:30
+a substitute for himself in the Civil
+02:32
+War and Teddy Roosevelt and admired his
+02:34
+father said that was the one thing that
+02:36
+his father did wrong his entire life we
+02:39
+see as a result of the draft that in New
+02:41
+York City there are draft rights that
+02:42
+happen in 1863 in which hundreds of
+02:44
+people were killed and this is involves
+02:47
+mostly Irish Americans and African
+02:50
+Americans and you'll hear a slogan
+02:53
+during this time begin to develop which
+02:54
+can be applied to lots of wars but
+02:56
+certainly this one which said that was a
+02:58
+rich man's war but a poor man's fight
+03:01
+all right contraband is another term
+03:03
+that you should know and these are
+03:04
+escaped slaves that crossed over into
+03:06
+the Union from the south and they worked
+03:08
+at camps and often fought in the war on
+03:11
+behalf of the Union
+03:13
+it finally copperheads those are
+03:15
+Democrats usually in the north that
+03:17
+spoke out against the war so they were
+03:19
+against going to war with south all
+03:22
+right some strategies and battles you
+03:24
+should be familiar with the Union
+03:25
+blockade of the South was a major thing
+03:28
+that the Union did in the beginning this
+03:31
+happened when Congress was not in
+03:32
+session so some people argued that Abe
+03:35
+Lincoln abused his power later on we
+03:37
+have something called the Anaconda plan
+03:39
+which was developed by General Winfield
+03:41
+Scott you see that this again is the
+03:43
+idea of a blockade and it kind of takes
+03:47
+a shape of a snake so if you follow the
+03:49
+snake around you'll see that it's
+03:50
+blackening all of the Atlantic Ocean in
+03:53
+the Gulf of Mexico and then it will come
+03:54
+up and cut down the Mississippi River
+03:56
+which would essentially cut the south
+03:58
+into so as a way to to economically hurt
+04:01
+the south during the war the Battle of
+04:03
+Antietam is one of the few battles that
+04:05
+you should be familiar with and this was
+04:07
+the bloodiest day of the war in the
+04:08
+south withdraws technically the Union
+04:11
+wins but they didn't really pursued this
+04:13
+out and this was important because this
+04:15
+was a turning point because it helped
+04:16
+persuade Europe to not intervene on
+04:18
+behalf of the south
+04:20
+for a while England and Britain were
+04:22
+wondering should they intervene on
+04:25
+behalf of the south and ultimately after
+04:27
+the Battle of Antietam they decide not
+04:29
+to and also this helps lead to the
+04:31
+issuance of the Emancipation
+04:32
+Proclamation which we'll talk about
+04:34
+right now so the Emancipation
+04:36
+Proclamation was issued at January 1st
+04:38
+1863 so this is a little less than 2
+04:41
+years of Lincoln being in office and
+04:43
+here is a very famous painting which
+04:45
+illustrates this and members of his
+04:47
+cabinet including this guy salmon P
+04:49
+chase who was his Secretary of Treasury
+04:51
+and was also from Cincinnati and when
+04:54
+the greatest Secretary of State's ever
+04:56
+William Seward right here alright and
+04:57
+this freed slaves only in areas of
+05:00
+rebellion so this did not free slaves
+05:03
+everywhere especially in the border
+05:05
+states will talk about the border states
+05:06
+in just a moment it only freed air
+05:09
+slaves in areas of rebellion or the
+05:11
+Confederate States of America which
+05:13
+ultimately Lincoln did not have power
+05:15
+over and also not in areas under Union
+05:18
+control so for example in New Orleans
+05:20
+which was under control the Union at
+05:21
+this time slaves were not freed in and
+05:25
+this helped change the goal or the goals
+05:27
+of the war remember in the beginning the
+05:29
+war was fought to preserve the Union
+05:30
+this is really the first step towards
+05:32
+abolishing slavery and this happens in
+05:34
+1863 alright so who where the border
+05:37
+states what were the border states well
+05:39
+they were slave states that did not
+05:40
+secede during the Civil War so if you
+05:42
+take a look at this map all the blue
+05:45
+states are free states all the orange
+05:48
+are Confederate states or states that
+05:51
+had slaves that seceded and then the
+05:52
+yellow here are border states you could
+05:54
+see there right between the border the
+05:56
+north and south and they had slaves but
+05:58
+did not secede and that included
+06:00
+Missouri Kentucky West Virginia which
+06:03
+comes a little later it's formed during
+06:05
+the Civil War and then we have Maryland
+06:06
+and Delaware as well and many people in
+06:10
+these states fought on behalf of the
+06:11
+Union even though they had slaves so
+06:14
+which states did these include again no
+06:16
+these five it's Missouri Kentucky
+06:17
+Maryland Delaware in West Virginia later
+06:20
+after it is formed from Virginia okay
+06:23
+the Gettysburg Address also happens in
+06:25
+1863 this is issued on November 19 1863
+06:28
+and Lincoln dedicated the battlefield as
+06:30
+a cemetery and he referenced the
+06:33
+Declaration
+06:34
+pendants in this address and he says
+06:36
+four score and seven years ago which say
+06:39
+it's 487 years ago or 87 years prior to
+06:42
+1863 which was 1776 and the conclusion
+06:46
+of this he says we here highly resolve
+06:48
+that these dead shall not have died in
+06:50
+vain that this nation under God shall
+06:52
+have a new birth of freedom and that the
+06:55
+government of the people by the people
+06:57
+for the people shall not perish from
+07:00
+Earth so you see here he's saying that
+07:03
+these people shall not have died in vain
+07:04
+err they should not have died for
+07:06
+nothing and that this nation shall have
+07:08
+a new birth of freedom so again he's
+07:10
+referencing this idea of abolishing
+07:12
+slave 1863 is an important year for that
+07:15
+between the Emancipation Proclamation
+07:16
+and the Gettysburg Address and here is
+07:19
+one of two only known pictures of Abe
+07:22
+Lincoln at the Gettysburg Address it's
+07:24
+like Where's Waldo see if you could find
+07:26
+him in here later I'll identify but take
+07:28
+a look see if he could point him out
+07:29
+look for a guy with the beard oh there's
+07:32
+a couple beards in there see if you can
+07:33
+find him all right let's talk about
+07:34
+African Americans in the war beginning
+07:36
+1862 African Americans could enlist in
+07:39
+the war and a very famous regiment was
+07:42
+the 54th regiment from Massachusetts and
+07:44
+they were African Americans who fought
+07:46
+in the Civil War if you've ever seen the
+07:48
+movie glory and it's based on that group
+07:50
+of individuals they fought in segregated
+07:53
+units they did not fight along with
+07:55
+other white soldiers although oftentimes
+07:57
+they were commanded by white leaders and
+07:59
+they offered em manual labor
+08:01
+like building and digging trenches and
+08:03
+doing other manual work as well and
+08:05
+unfortunately for African Americans
+08:07
+during most of the war they were paid
+08:08
+less than their white counterparts
+08:10
+soldier soldiers of equal rank okay
+08:14
+women in the war as men fought in the
+08:15
+war women's employment opportunities
+08:17
+increase and you see women increasingly
+08:20
+becoming teachers factory workers and
+08:22
+get involved in the nursing funeral this
+08:25
+is where women really begin to dominate
+08:27
+the nursing field we have the National
+08:29
+Women's Law League which was founded by
+08:32
+Elizabeth Cady Stanton and Susan B
+08:33
+Anthony two advocates of women's rights
+08:36
+and they hope to abolish slavery and
+08:37
+gain female suffrage they did achieve
+08:41
+one of their goals but not both of them
+08:43
+Clara Barton this famous woman here
+08:45
+helped distribute medical supplies
+08:47
+during the
+08:48
+and later she founded the Red Cross
+08:51
+which assists those in need during times
+08:54
+of disaster and okay we'll talk about
+08:56
+personal liberties in the war keep in
+08:58
+mind whether it's a civil war really any
+09:00
+more personal liberties tend to go down
+09:02
+during Wars habeas corpus what this
+09:05
+means and this is Garrity in the
+09:07
+Constitution you cannot be held in jail
+09:09
+without having charges brought against
+09:11
+you so if you are arrested the
+09:13
+government needs to tell you what you
+09:14
+were arrested for and then get the
+09:15
+process going to have a trial well
+09:17
+during the Civil War Lincoln suspended
+09:20
+habeas corpus in Maryland so he would
+09:22
+have people held in jail without a trial
+09:25
+and this is something that only Congress
+09:27
+can suspend but he has an identity he
+09:29
+increased the power of the presidency in
+09:31
+1861 we have a court case ex parte
+09:34
+Merriman in which the court ruled the
+09:36
+president could not suspend habeas
+09:37
+corpus however Lincoln ignored the
+09:40
+decision and that was a decision that
+09:42
+was made by Chief Justice Roger B tani
+09:45
+he said to Lincoln wrong for suspending
+09:47
+habeas corpus you should not do that
+09:49
+you're not allowed to do that but
+09:51
+Lincoln ignored him and did it anyway
+09:53
+all right newspapers in Maryland were
+09:56
+shut down that were critical of
+09:57
+Lincoln's so he was harsh to those that
+10:00
+were critical of him or the war effort
+10:02
+all right we'll talk about the end of
+10:04
+the war and the effects of the war at
+10:06
+April 9th 1865 General Robert ely of the
+10:09
+south surrenders for all intents and
+10:11
+purposes the Civil War is over although
+10:13
+some fighting still does occur five days
+10:15
+later on April 14th Lincoln was shot and
+10:18
+that Vice President Johnson becomes
+10:20
+president and then we go through an era
+10:22
+known as reconstruction and a big
+10:24
+question about redirection is who will
+10:25
+be in charge will be the presidents or
+10:27
+will it be Congress and they do have a
+10:29
+video a reconstruction if you would like
+10:30
+to check in the description for the link
+10:32
+on that and we also have key
+10:34
+Reconstruction Amendments the 13th 14th
+10:36
+and 15th amendments alright that's
+10:39
+everything you need to know about the
+10:41
+Civil War for a push thank you very much
+10:42
+for watching follow the arrow and you
+10:44
+will see Lincoln there right front and
+10:46
+center of the Gettysburg Address if you
+10:49
+have a questions or comments feel free
+10:50
+to leave them in the comment section
+10:51
+below thank you very much for watching
+10:53
+and have a good day guys
+        """
     class video14:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=PlBbRXRzzp4'
+        title = 'APUSH Review: Reconstruction'
+        captions = """
+00:00
+hey what's up ap world video today for
+00:02
+you on reconstruction you know it will
+00:04
+be on your AP test in some way shape or
+00:07
+form it's actually been a while sensor
+00:09
+has been a free response or DBQ on
+00:11
+reconstruction so you never know may
+00:12
+appeared there but this video will cover
+00:14
+everything you need to know about
+00:15
+reconstruction for your apush exam ok
+00:18
+let's do a brief intro on what
+00:19
+reconstruction is and it is attempting
+00:21
+to achieve national unification after
+00:24
+the Civil War so it's basically trying
+00:25
+to reunite the country and get it back
+00:28
+as one key questions regarding
+00:31
+reconstruction is who would control
+00:32
+reconstruction this is a congressional
+00:34
+thing is as a presidential thing and how
+00:36
+would the self be treated would they be
+00:38
+treated nicely would they be treated
+00:39
+harshly somewhere between lots of
+00:41
+questions hopefully we'll be able to
+00:42
+answer these ok when this war ends
+00:45
+Lincoln dies about a week we can have
+00:47
+later and he has a plan for
+00:49
+reconstruction or how the south should
+00:51
+be readmitted and this plan was
+00:52
+considered very favorable to the south
+00:54
+this plan was called the 10% planning he
+00:57
+said if 10% of voters in the 1860
+00:59
+election southern voters pledged loyalty
+01:01
+to the US that state could be readmitted
+01:04
+and that 1860 year is very important
+01:06
+because that's the year Lincoln was
+01:08
+elected and when this southern state
+01:10
+started to secede Congress felt it was
+01:13
+too lenient so they kind of had a
+01:15
+different idea and this was seen in the
+01:17
+way Davis bill in Congress specifically
+01:19
+the Republicans sought 50% of the voters
+01:21
+in the 1860 election to pledge
+01:24
+allegiance instead of Lincoln's 10 and
+01:26
+they can actually pocket vetoes this so
+01:28
+the wait davis bill never happens but it
+01:30
+demonstrates the difference between
+01:31
+presidential and congressional views of
+01:34
+the readmission of southern states
+01:36
+President Johnson's a background on him
+01:38
+his reconstruction plan was similar to
+01:41
+Lincoln followed a 10% plane as well and
+01:43
+he also required States reluctantly
+01:45
+required States to ratify the 13th
+01:47
+amendment and Confederates could appeal
+01:49
+to him directly for a pardon or to be
+01:52
+forgiven for a crime he was disliked by
+01:54
+Radical Republicans because he was a
+01:56
+Democrat from the south
+01:58
+he was added to Lincoln's ticket in 1864
+02:01
+to kind of get a better balance and he
+02:03
+was impeached for violating the tenure
+02:05
+of office act which was an ex
+02:07
+pacifically set up to get him in trouble
+02:09
+ended up firing a holdover from
+02:12
+Lincoln's
+02:12
+ministration Secretary of War Stanton
+02:14
+who supported radical Republican ideas
+02:17
+so he was fired by Johnson and then
+02:19
+because he violated this Act which said
+02:21
+that the president cannot fire any
+02:24
+cabinet members without their approval
+02:25
+he was impeached and impeached means
+02:28
+charges were brought against you he was
+02:31
+not removed to Johnson fell one vote shy
+02:34
+of being removed and he was tried in the
+02:36
+Senate and Chief Justice salmon P chase
+02:39
+here was the judge in his trial he is
+02:42
+from Cincinnati in case you didn't know
+02:44
+okay so we have this term radical
+02:46
+reconstruction we've been talked about
+02:47
+why does this occur
+02:48
+well Congress and the Republicans wanted
+02:50
+to maintain their power and their two
+02:52
+key congressmen were going to focus on
+02:54
+Thaddeus Stevens over here and if you've
+02:56
+seen the movie Lincoln that is who Tommy
+02:58
+Lee Jones played and Charles Sumner over
+03:01
+here and if you remember he was one that
+03:03
+was beaten by the cane in the 1850s by
+03:07
+Preston Brooks former Confederate
+03:09
+officials ran for federal office we have
+03:11
+this guy Alexander Stephens who was the
+03:14
+vice president of the Confederate States
+03:15
+of America he became a senator in the US
+03:18
+so the North was furious the Radical
+03:20
+Republicans were furious wondering what
+03:22
+on earth did they fight the Civil War
+03:24
+for the South also instituted Black
+03:26
+Codes which regulated affairs of
+03:28
+freedmen or former slaves and conditions
+03:31
+were very similar to slavery so again
+03:33
+what was the war fought for if
+03:34
+conditions were going to be very similar
+03:36
+an important part of radical
+03:38
+reconstruction is that the South is
+03:40
+divided into five different military
+03:43
+zones you see one two three four five
+03:45
+here each one would be headed by a Union
+03:48
+General and this lasted for several
+03:50
+years as we will see okay the Freedmen's
+03:54
+Bureau the goal of this this was
+03:55
+established in 1866 and they want to
+03:57
+help former slaves survive and adjust to
+03:59
+their new life they also provided food
+04:01
+medicine and clothing to former slaves
+04:03
+and poor whites many people were
+04:06
+promised forty acres and a mule although
+04:09
+this rarely happened but the biggest
+04:11
+success you must know the biggest
+04:12
+success of the Freedmen's Bureau it was
+04:14
+not providing food was not providing
+04:17
+medicine it was not providing 40 acres
+04:18
+and a mule rather it was providing
+04:20
+education hundreds of thousands of
+04:22
+blacks were educated that's very
+04:24
+important because during the Civil War
+04:26
+to the Civil War it was illegal for for
+04:28
+blacks to learn how to read and write
+04:30
+and there were illiteracy rates were as
+04:32
+high as 90% for African American so the
+04:35
+Freedmen's Bureau helps address that
+04:37
+know that guys okay we're going to throw
+04:39
+three amendments at you in some key
+04:40
+terms thirteenth amendment bade slavery
+04:43
+illegal this was pushed by Lincoln if
+04:45
+you've seen the movie link and that's
+04:46
+what the entire movie is about
+04:47
+fourteenth amendment comes a little bit
+04:49
+later does a couple things one you must
+04:51
+know a granted citizenship to blacks and
+04:53
+also provided equal protection for
+04:56
+citizens that could not be denied and
+04:59
+the other thing it did was it made it so
+05:01
+that former Confederate officers could
+05:03
+not hold state or federal office this
+05:05
+was directed at for example Alexander
+05:07
+Stephens any high-ranking Confederate
+05:10
+officials could not hold a state or
+05:12
+federal office the 15th amendment which
+05:14
+comes a little bit later granted
+05:16
+suffrage for blacks and the South found
+05:18
+loopholes to get around this poll taxes
+05:20
+literacy test grandfather clauses etc so
+05:23
+these are key amendments that you
+05:25
+absolutely positively must know although
+05:26
+the Fifteenth Amendment the self found
+05:28
+ways to get around to other key terms
+05:31
+you need to know as a scalawag and
+05:32
+notice that scalawag starts with an S
+05:34
+and they were southerners s NS
+05:36
+southerners that favored reconstruction
+05:39
+carpetbaggers were those who lived in
+05:42
+the north and moved to the south during
+05:43
+reconstruction for a variety of reasons
+05:45
+some of which wanted to make money and
+05:47
+the force acts were passed in 1872 1871
+05:51
+these were passed in response to the Ku
+05:53
+Klux Klan which was terrorizing
+05:55
+african-americans and federal troops
+05:57
+could be scented and used to quell the
+05:59
+KKK very important slide guys please
+06:02
+make sure you know all of those terms
+06:04
+okay the end of Reconstruction why did
+06:06
+it ended it ends because of the
+06:08
+compromise of 1877 and this appears so
+06:11
+frequently in they push exam the
+06:13
+compromise settled the disputed 1876
+06:15
+presidential election between Ruth Furby
+06:19
+Hayes who is a Republican and Samuel
+06:21
+Tilden and Ruffner Furby Hayes becomes
+06:23
+president if you look at this map you'll
+06:26
+see that Hayes actually had fewer
+06:27
+popular votes than Tilden but he ends up
+06:31
+winning the electoral vote by one point
+06:33
+that's all that matters in this ended
+06:36
+military rule in this
+06:37
+as in capital letters because because it
+06:39
+is that important this officially ends
+06:42
+reconstruction in reconstruction marks
+06:45
+the end of the military occupation of
+06:47
+the south
+06:47
+also Hayes promised to have a southerner
+06:50
+appointed to his cabinet so what is the
+06:52
+impact of the end of Reconstruction Jim
+06:55
+Crow laws now come about which are which
+06:57
+makes segregation legal this is later
+07:00
+upheld in 1896 by the famous cork liked
+07:03
+by the famous court case Plessy vs.
+07:06
+Ferguson and also sadly for
+07:08
+african-americans we see
+07:09
+disenfranchisement many of them are not
+07:11
+voting or intimidated to not vote or
+07:14
+kept from voting because of poll taxes
+07:16
+and literacy tests as well okay that's
+07:18
+everything you need to know about
+07:19
+reconstruction I appreciate you guys
+07:21
+taking the time to watch this please
+07:22
+take a moment to subscribe if you have
+07:24
+not already helps spread the word on
+07:25
+Facebook Twitter in your class tell
+07:28
+everybody you know to our teachers tell
+07:29
+your friends and I wish you nothing but
+07:32
+the best look on your test if you have
+07:33
+any questions please let me know and
+07:35
+just admire salmon P chase on the ten
+07:37
+thousand dollar bill thanks watch and
+07:39
+have a good day guys
+        """
     class video15:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=54vjFvxp0sk'
+        title = 'APUSH Review: Reconstruction (Updated)'
+        captions = """
+00:00
+hey what's going on a push peeps we got
+00:02
+a good video for you today this one is
+00:03
+at reconstruction a very important time
+00:06
+period in US history lots of changes
+00:09
+occurred in the country during this time
+00:12
+before we begin a chat on time I want to
+00:14
+give shout outs to mrs. Barry's class at
+00:16
+Morgantown high school mr. Crouse his
+00:19
+class Ms Boone's class from Sheppard
+00:21
+high school and mr. Greg's class in
+00:23
+Tampa Florida best of luck everyone
+00:25
+watching I appreciate it
+00:27
+thank you for your support and good luck
+00:29
+in May alright well start off with what
+00:32
+is reconstruction it's attempting to
+00:34
+achieve national unification after the
+00:36
+Civil War so it is the literal and
+00:39
+figurative rebuilding of the United
+00:42
+States and a major question during this
+00:44
+time was who would control
+00:46
+reconstruction Congress with people like
+00:49
+that eeeh Stevens or the president
+00:51
+people like Andrew Johnson
+00:53
+so some Reconstruction Amendments you
+00:55
+must know no if ands or buts about it
+00:57
+some of the most important amendments in
+00:58
+our nation's history 13th abolish
+01:01
+slavery in here is the House of
+01:02
+Representative celebrating after it
+01:04
+passed the house 14th granted
+01:06
+citizenship and equal protection we'll
+01:08
+come back to that a lot throughout the
+01:09
+rest of this course and the 50th
+01:11
+amendment provided adult male suffrage
+01:14
+regardless of race or previous condition
+01:18
+of servitude so this was aimed at former
+01:20
+african-american male slaves what are
+01:24
+the impacts of the 14th and 15th
+01:25
+amendments well according to the
+01:26
+curriculum it states the women's rights
+01:28
+movement was both emboldened and divided
+01:31
+know that some women like Lucy Stone
+01:34
+argued for universal male suffrage first
+01:36
+with the hopes that female suffrage
+01:38
+would come after but others like
+01:40
+Elizabeth Cady Stanton and Susan B
+01:42
+Anthony argued against the Fifteenth
+01:44
+Amendment because they wanted female
+01:46
+suffrage at the same time sadly for
+01:49
+women they would have to wait 50 years
+01:52
+to get the right to vote okay
+01:55
+presidential reconstruction this is from
+01:56
+1865 to 67 under people like Abe Lincoln
+02:00
+for a very short time and Johnson now
+02:03
+Lincoln's 10% plan was a plan that
+02:06
+called for southern states to be
+02:08
+remitted if 10% of voters in 1860
+02:11
+pledged loyalty 1860 is
+02:13
+in that Lincoln won the first time this
+02:17
+was very lenient at least according to
+02:19
+the eyes of many northerners and
+02:21
+Congress now Johnson had somewhat of a
+02:24
+similar plan and he wanted wealthy
+02:26
+plantation owners to ask for a pardon
+02:30
+from him radical reconstruction this is
+02:34
+what most people think of when they
+02:35
+think of reconstruction this is from
+02:36
+1867 to 1877 this is a response to
+02:40
+southerners actions such as Alexander
+02:43
+Stephens he was the vice president of
+02:45
+the Confederacy and he was actually
+02:47
+elected to be the senator from Georgia
+02:49
+so many in the North couldn't believe
+02:51
+that the second-in-command of the
+02:53
+Confederacy was back in the u.s. of
+02:55
+federal government also many southern
+02:58
+states passed Black Codes or harsh laws
+03:00
+that regulated the behavior of African
+03:02
+Americans it could actually be thrown in
+03:04
+jail for not having a job and many in
+03:07
+the North couldn't believe that the
+03:09
+South was trying to have the same social
+03:12
+structure that was in place prior to the
+03:14
+Civil War reconstruction Act of 1867
+03:17
+divided the south into five military
+03:19
+districts headed by this dude future
+03:22
+president ulysses s grant and again this
+03:24
+was the response to southerners such as
+03:26
+Alexander Stephens so the military is in
+03:29
+control of the south of federal
+03:31
+government during Reconstruction is
+03:33
+going to have an increased role okay who
+03:36
+were Radical Republicans well they
+03:37
+sought to change the balance of power
+03:38
+between Congress and the presidency and
+03:41
+reorder race relations in the south
+03:43
+that's straight from the curriculum they
+03:45
+impeached President Andrew Johnson but
+03:47
+the removal was one vote shy remember
+03:50
+peach does not mean removed from office
+03:52
+it simply means that charges are brought
+03:54
+against him many of Johnson's vetoes
+03:57
+were overridden by Congress including
+03:59
+the Civil Rights Act of 1866 which
+04:01
+guarantee protection for citizens all
+04:04
+citizens of the United States and
+04:06
+there's also reorder of race relations
+04:08
+several IFRIC African Americans held
+04:10
+political office such as this guy Hyrum
+04:13
+revels who was a senator from
+04:14
+Mississippi and african-american senator
+04:16
+during Reconstruction from Mississippi
+04:20
+okay some short-term successes of
+04:21
+reconstruction where's political and
+04:23
+leadership opportunities for former
+04:25
+slaves the Freedmen's Bureau
+04:27
+definitely know the start of this circle
+04:28
+underlined highlighted this provided
+04:30
+food medicine clothing in education to
+04:32
+former slaves its biggest success came
+04:34
+in education so my guys I want you to
+04:36
+circle the word education for me and
+04:38
+they promise forty acres in a meal but
+04:41
+this rarely rarely rarely happened most
+04:43
+often its biggest success came in
+04:45
+education but I want to look at this
+04:47
+political cartoon we see in the middle a
+04:50
+member from the Freedmen's Bureau
+04:51
+putting his hand up to a angry mob of
+04:55
+whites protecting African Americans
+04:58
+behind him so this visual represents the
+05:03
+government taking an increased role in
+05:05
+protecting African American rights
+05:08
+during Reconstruction okay moving on
+05:11
+over to land ownership and sharecropping
+05:13
+plantation owners still own a majority
+05:15
+of the land in the south and former
+05:17
+slaves had difficulty in acquiring lam
+05:19
+sharecropping emerge which allowed for
+05:22
+former slaves and poor whites to work on
+05:25
+farms and exchange land for an exchange
+05:27
+labor for land and housing and
+05:30
+oftentimes former slaves would work for
+05:33
+their former owners half of the crops
+05:35
+were given to the landowner as payment
+05:37
+and if cotton prices fell which they did
+05:39
+in the 1870s perpetual debt was common
+05:42
+for sharecroppers so this was a way to
+05:46
+tie african-americans and poor whites to
+05:50
+land so why did reconstruction fail well
+05:54
+according to the curricula says the
+05:56
+North's waning resolve you need to know
+05:58
+this word waning and I want you to write
+06:00
+it the way that I'm going to write it
+06:02
+here
+06:02
+waa N ing and notice it's getting
+06:06
+smaller it is decreasing so the north's
+06:09
+resolve or desire to keep up with
+06:12
+reconstruction is decreasing so by 1877
+06:16
+there are economic issues such as the
+06:18
+panic of 1873 and there are political
+06:20
+issues such as the election of 1876 and
+06:23
+this led many in the north to want to
+06:26
+move on from reconstruction we'll talk
+06:28
+about the election of 1876 that deals
+06:31
+with the compromise of 1877 so
+06:33
+Rutherford behaves as a Republican and I
+06:36
+have a video on this and he's running
+06:37
+for the presidency he there are three
+06:40
+states that have
+06:41
+Taurus boots that are in they have
+06:43
+electoral votes that are in dispute and
+06:45
+what happens is Congress decides to give
+06:47
+all of the electoral votes to Hayes and
+06:50
+he wins the election by one electoral
+06:53
+vote now he is a Republican from the
+06:55
+north now in return they promise to
+06:58
+withdraw the military from the south
+07:00
+those five military districts gone the
+07:02
+federal government that is down there
+07:04
+protecting African Americans gone that
+07:07
+is all gone from the south and notice
+07:10
+here that the south is voting
+07:11
+overwhelmingly democratic southern
+07:15
+resistance to reconstruction included
+07:16
+Jim Crow laws the KKK and black coats
+07:20
+which we'll talk about right now so four
+07:23
+major ways according to the curriculum
+07:24
+that the South resisted the 14th and
+07:27
+15th amendments this makes a great short
+07:29
+answer question or even an essay if you
+07:31
+ask me segregation is one way Jim Crow
+07:34
+laws allowed for inferior facilities for
+07:36
+african-americans and whites violence
+07:39
+was also used especially groups like the
+07:41
+KKK that performed lynchings not just on
+07:44
+African Americans but on supporters of
+07:46
+reconstruction but white supporters of
+07:49
+reconstruction in the south Supreme
+07:52
+Court decisions also upheld southern
+07:54
+resistance the civil rights cases from
+07:56
+1883 stated that individuals and private
+08:00
+businesses could discriminate against
+08:02
+minority groups and Plessy vs. Ferguson
+08:04
+from 1896 upheld the constitutionality
+08:07
+of Jim Crow laws stating that separate
+08:10
+but equal facilities were okay local
+08:13
+political tax tactics included poll
+08:15
+taxes where you had to pay to vote
+08:17
+literacy tests were you to take a test
+08:19
+of vote and whites could get around that
+08:21
+by the grandfather clause which would
+08:23
+allow them to be exempted from poll
+08:25
+taxes and literacy tests if their
+08:27
+grandfather or father could vote in the
+08:29
+election of 1860 remember in 1860
+08:32
+African Americans could not vote so they
+08:34
+would not be exempt from poll taxes and
+08:36
+literacy tests okay 14th and 15th
+08:38
+amendments in the 20th century we're
+08:40
+gonna head to the 1900s these amendments
+08:42
+will be used to uphold civil rights
+08:44
+especially when we see the Supreme Court
+08:46
+rule in Brown versus Board of Education
+08:48
+the separate-but-equal is not
+08:51
+constitutional finish up with some tests
+08:53
+tips from multiple choice and short
+08:55
+so remember the North's waning resolve I
+08:57
+can't stress enough you need to know the
+08:59
+word waning and the desire to change the
+09:01
+balance of power between Congress and
+09:03
+the president and also reorder race
+09:06
+relations methods used by the south to
+09:08
+resist 14th and 15th amendments
+09:10
+absolutely know that and for essays you
+09:12
+could see something about change in
+09:13
+continuity over time for
+09:14
+african-americans between say the years
+09:17
+1860 and 1877 and the effectiveness of
+09:20
+reconstruction thanks guys for watching
+09:22
+I do appreciate it best of luck on all
+09:24
+your exams especially the big one in May
+09:26
+and I hope to see you back for more
+09:28
+videos have a good day
+        """
     class video16:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=aokrvNLUMUo'
+        title = 'APUSH Review: The 13, 14, and 15 Amendments (Period 5: 1844 - 1877)'
+        captions = """
+00:00
+hey what's going on a push people we
+00:02
+have a push review the 13th through 15th
+00:05
+amendments these are specifically
+00:07
+mentioned in the new curriculum you
+00:08
+should absolutely be familiar with them
+00:10
+these are from period 5 which lasts from
+00:12
+1844 to 1877 no offense or buts about it
+00:16
+please make sure you know these
+00:18
+amendments very very important for your
+00:20
+final exam before we begin I want to
+00:23
+give some shoutouts to Alyssa ass Sophia
+00:25
+ell haley w chloe ow and cush h you guys
+00:29
+are awesome thank you so much for your
+00:31
+support I really appreciate it best of
+00:33
+luck to you this year you are absolutely
+00:35
+brilliant and will do very well this
+00:38
+year thank you so much for your support
+00:40
+to everybody who watches my videos if
+00:42
+you want to shout out leave it in the
+00:43
+link below and I will try to get you in
+00:45
+a future video all right let's go over
+00:47
+some background info first they made the
+00:49
+patient proclamation issued during the
+00:52
+Civil War gave a moral cause to the
+00:54
+Civil War and Lincoln worried that it
+00:57
+would not be applicable post Civil War
+00:59
+he wanted something more permanent in
+01:02
+Republicans why don't you gain power in
+01:04
+the South post-civil warm one way they
+01:07
+can ensure that is by helping out
+01:09
+African Americans Radical Republicans
+01:11
+sought to punish former Confederate
+01:14
+leaders I do have a video reconstruction
+01:16
+you can check out if you want some more
+01:17
+background on reconstruction in Radical
+01:20
+Republicans as well so let's start off
+01:23
+talking about the Thirteenth Amendment
+01:24
+let's look at what the actual text says
+01:26
+says section one neither slavery nor
+01:29
+involuntary servitude except as a
+01:31
+punishment for crime whereof the party
+01:33
+shall have been duly convicted shall
+01:35
+exist within the United States or any
+01:38
+place subject to their jurisdiction
+01:41
+section 2 States Congress shall have the
+01:43
+power to enforce this article by
+01:45
+appropriate legislation so what exactly
+01:48
+does this amendment do will it abolish
+01:51
+slavery everywhere in the United States
+01:54
+and here is a visual that depicts the
+01:57
+scene in the House of Representatives
+01:59
+after it passed the House and the 100
+02:01
+States for ratification and this has
+02:04
+enormous Lee huge economic and social
+02:06
+implications for the country four
+02:08
+million African Americans are now free
+02:12
+let's
+02:13
+the Fourteenth Amendment what does this
+02:15
+say well sexual one says all persons
+02:16
+born or naturalized in the United States
+02:19
+and subject to the jurisdiction thereof
+02:22
+are citizens of the United States and of
+02:24
+the State wherein they reside no State
+02:27
+shall make or enforce any law which
+02:29
+shall abridge or shorten or take away
+02:32
+the privileges or immunities of citizens
+02:35
+of the United States nor shall any state
+02:37
+deprive any person of life liberty or
+02:40
+property without due process of law nor
+02:43
+deny to any person within its
+02:45
+jurisdiction the equal protection of the
+02:47
+laws this is such an enormous leap
+02:50
+ornament jump down to section 3 no
+02:53
+person shall be a senator or
+02:55
+representative in Congress or lector of
+02:58
+president and vice president or hold any
+03:00
+office civil or military under the
+03:03
+United States or under any state who
+03:05
+having previously taken an oath as a
+03:07
+member of Congress or as an officer of
+03:09
+the United States or as a member of any
+03:11
+state legislature or as an executive or
+03:14
+judicial officer of any state to support
+03:17
+the Constitution of the United States
+03:18
+shall have engaged in insurrection or
+03:21
+rebellion against the same or give an
+03:23
+aid or comfort to the enemies thereof
+03:26
+but Congress may by a vote of two-thirds
+03:28
+of each house remove such disability so
+03:33
+what the heck did list it do a lot of
+03:34
+words I just read well section one if
+03:36
+you're born in the United States you're
+03:38
+a US citizen and this overturned the
+03:40
+Dred Scott decision from 1857 they'd
+03:44
+also promoted equal protection of laws
+03:47
+however that was used very infrequently
+03:50
+at the time and more frequently in the
+03:52
+future which we'll see in just a few
+03:53
+moments section three this was
+03:55
+specifically aimed at people like
+03:56
+Alexander Stevens who was the vice
+03:58
+president of the Confederate States of
+04:00
+America it stated that Confederate
+04:02
+officials could not hold the u.s. office
+04:06
+all right let's go to the Fifteenth
+04:08
+Amendment what does it say well section
+04:10
+1 the right of the citizens of the
+04:12
+United States to vote shall not be
+04:13
+denied or abridged again you see the
+04:15
+word abridge be familiar with it by the
+04:17
+United States or by any State on account
+04:20
+of race color or previous condition of
+04:23
+servitude section 2 the Congress shall
+04:26
+have
+04:26
+power to enforce this article by
+04:28
+appropriate legislation let's take a
+04:31
+look at what this actually does it
+04:33
+provided suffrage for african-american
+04:35
+males and let's take a look at this very
+04:37
+famous painting that you should be
+04:38
+familiar with we see African American
+04:40
+males lined up to voting you can see
+04:43
+this guy back here who used to be in the
+04:45
+military so the 15th amendment provided
+04:47
+suffrage or the ability to vote for
+04:49
+African American males
+04:51
+what group do you notice is not included
+04:53
+in the Fifteenth Amendment notice it
+04:55
+does not say the right to vote shall not
+04:58
+be denied based on sex so that's very
+05:01
+important so this help provide for a
+05:04
+large Republican support from blacks in
+05:06
+the south so let's get to the impacts of
+05:09
+the amendments well let's focus on the
+05:11
+women's rights movement now the 14th and
+05:13
+15th amendments divided the group if you
+05:15
+remember prior to the Civil War during
+05:18
+the Civil War the women's rights
+05:19
+movement was staunchly abolitionist and
+05:21
+people like Frederick Douglass and
+05:23
+others favored black suffrage prior to
+05:27
+women's suffrage and Lucy Stone and
+05:29
+American women suffrage association hope
+05:32
+to achieve suffrage after reconstruction
+05:34
+Elizabeth Cady Stanton and people like
+05:37
+her feared that suffrage was not likely
+05:39
+near in the National Women's Suffrage
+05:41
+Association advocated an amendment for
+05:44
+women's suffrage and sadly for them that
+05:46
+does not come until the 19th amendment
+05:48
+in 1920 so the 14th and 15th amendment
+05:51
+absolutely positively no this it divided
+05:54
+the women's rights movement now
+05:58
+unfortunately southern states found ways
+06:01
+to get around these amendments they
+06:02
+enforced segregation and they also use
+06:05
+violence the KKK the Ku Klux Klan which
+06:08
+was a terrorist organization would
+06:10
+intimidate many southern blacks and
+06:11
+discouraged voting and they would Lynch
+06:13
+or publicly hang individuals who were
+06:16
+known to vote the Supreme Court also
+06:18
+encouraged southern states to find ways
+06:21
+to get around this and the civil rights
+06:22
+cases from 1883 this stated that
+06:25
+Congress could not prohibit
+06:26
+discrimination by private businesses and
+06:29
+individuals so if you owned your own
+06:31
+business you could still discriminate
+06:32
+against an individual and the landmark
+06:35
+Supreme Court case Plessy vs. Ferguson I
+06:37
+do have a video on that the Supreme
+06:39
+Court upheld
+06:40
+separate but equal facilities so this
+06:42
+allowed for discrimination as long as
+06:45
+facilities were quote-unquote equal
+06:47
+which they hardly ever work local
+06:51
+political tactics were also used to pull
+06:53
+taxes literacy tests and grandfather
+06:55
+clauses poll taxes were used by states
+06:57
+that force individuals to pay in order
+07:00
+to vote and that was used to
+07:01
+discriminate against African Americans
+07:03
+and literacy tests were also used which
+07:06
+would require an individual to pass a
+07:09
+test to vote now eventually these
+07:11
+amendments were used in court decisions
+07:13
+that upheld civil rights so even though
+07:15
+in the short term civil rights were not
+07:17
+upheld in the long term they weren't
+07:20
+will see that in 1954 with Brown versus
+07:23
+the Board of Education and other court
+07:25
+cases of the 1960s under the Warren
+07:28
+Court so named for Chief Justice Earl
+07:30
+Warren so let me stress this again even
+07:32
+though in the short term these
+07:34
+amendments did not protect individuals
+07:36
+they did lay their short term no long
+07:38
+term me a short term no long term yes
+07:41
+short term no okay let's go over some
+07:44
+test steps for multiple choice and short
+07:45
+answer questions be able to identify and
+07:48
+explain ways that states got around the
+07:50
+14th and 15th amendments and what was
+07:52
+the impact of the 14th amendment on
+07:54
+women's rights groups for essay
+07:55
+questions be able to compare the
+07:57
+effectiveness of amendments over time so
+08:00
+something like how the civil rights era
+08:02
+the nineteen fifties and sixties
+08:03
+completed their goals of the
+08:05
+Reconstruction Amendments alright guys
+08:07
+that is everything you need to know
+08:09
+about the 13th 14th and 15th amendments
+08:11
+I thank you very much for watching if
+08:12
+you have any questions or comments feel
+08:14
+free to leave them in the section below
+08:15
+if you have not already please subscribe
+08:17
+to my channel and help me spread the
+08:18
+word please share this video with
+08:19
+somebody who would find this helpful I
+08:22
+thank you so very much for watching and
+08:24
+best of luck to you this year you are
+08:25
+going to do awesome and I will see you
+08:28
+right back here for more videos thanks
+08:30
+for watching have a good day
+        """
     captions = (video1.captions + video2.captions + video3.captions + video4.captions + video5.captions + video6.captions + video7.captions + video8.captions +
     video9.captions + video10.captions + video11.captions + video12.captions + video13.captions + video14.captions + video15.captions + video16.captions)
 
 
 class Unit6:
     class video1:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=KfGPNoOqV_U'
+        title = 'APUSH Review: Key Concept 6.1, revised (Most up-to-date edition)'
+        captions = """
+00:00
+oh it's going down a push people we have
+00:02
+key concepts 6.1 for you today this is
+00:04
+from the 2015 revised edition the most
+00:08
+up-to-date version you will find of key
+00:12
+concepts 6.1 before you begin it is
+00:14
+shout out time and I want to give a huge
+00:16
+huge huge shout out to mrs. sours class
+00:19
+in Cincinnati Ohio the great Queen City
+00:24
+of Ohio I appreciate you guys very much
+00:27
+for watching and best of luck in May
+00:30
+alright let's take a look at key
+00:31
+concepts 6.1 it states technological
+00:34
+advances large-scale production methods
+00:36
+in the opening of new markets encourage
+00:39
+the rise of industrial capitalism in the
+00:41
+United States so big idea questions to
+00:44
+focus on what was a relationship between
+00:46
+businesses and government and what ways
+00:50
+that the South change and remain the
+00:52
+same during this time and that will
+00:54
+focus on the historical thinking skills
+00:56
+of changing continuity over time you
+00:58
+could see an essay question on changing
+01:01
+continuity and finally how did farmers
+01:03
+and industrial workers respond to
+01:06
+corporations each will have different
+01:08
+takes and different reactions to
+01:10
+corporations
+01:11
+alright Roman number one states
+01:13
+large-scale industrial production
+01:15
+accompanied by massive technological
+01:17
+change expanding international
+01:19
+communication networks and pro-growth
+01:21
+government policies generated rapid
+01:24
+economic development and business
+01:26
+consolidation we need to figure out how
+01:28
+we're new markets open in North America
+01:30
+after the Civil War what we have the
+01:34
+government playing a large role in this
+01:35
+by providing money and land for the
+01:38
+construction of railroads and an example
+01:41
+of this is the Pacific Railway X which
+01:45
+gave subsidies government subsidies
+01:48
+which is money and land to the Pacific
+01:50
+Railway Company and we see here in 1869
+01:54
+the finishing of the Transcontinental
+01:56
+Railroad where the two tracks converged
+01:59
+as one and also telegraph lines were
+02:02
+often linked with railroads so where
+02:04
+railroad tracks went telegraph lines did
+02:07
+as well so what were the impacts of
+02:09
+these subsidies while we see the growth
+02:11
+of farms cities and a
+02:13
+lumber industry so the railroads are
+02:15
+really going to connect cities and farms
+02:17
+and make them more dependent on each
+02:19
+other so businesses increased the
+02:22
+production of goods during this time and
+02:24
+they did so in several different ways we
+02:25
+have technological advances a very
+02:27
+important term you should be familiar
+02:28
+with this Taylorism this was introduced
+02:31
+by this guy Frederick Taylor that
+02:32
+focused on improving efficiency workers
+02:34
+would have time tasks and they would
+02:37
+have specific tasks as well to do in a
+02:39
+certain amount of time wealth of greater
+02:41
+access to natural resources specifically
+02:44
+lumber as I mentioned on the previous
+02:45
+slide we have redesigned financial and
+02:48
+management structures now what that
+02:49
+means are things are emerging like
+02:51
+monopolies in which business is sought
+02:53
+to have sole control over in industry so
+02:57
+for example Rockefeller with rockefeller
+02:59
+oil will eventually gain is control as
+03:02
+much as 90% of the oil industry in
+03:04
+America we have marketing advances and
+03:07
+merging during this time with mail-order
+03:09
+catalogs places like Sears and
+03:11
+Montgomery Ward these department stores
+03:13
+they appeal to middle-class families and
+03:15
+would have these mail-order catalogs
+03:17
+that could reach farmers now in rural
+03:19
+areas and a growing labor force as well
+03:22
+with a large supply of workers so all of
+03:25
+those were factors that led to increased
+03:28
+production of goods during the late 19th
+03:32
+century so what was the impact of this
+03:33
+Industrial Revolution well with the
+03:35
+price of goods decreasing because they
+03:37
+become more efficiently produced and
+03:39
+workers wages increase the workers are
+03:42
+making more money new goods and services
+03:44
+emerged things like sewing machines
+03:46
+sporting equipment and other household
+03:48
+items become more popular and introduced
+03:50
+and the American standards of living
+03:52
+improved as a whole however there was a
+03:55
+gap that grew between the rich and the
+03:58
+poor so overall Americans are more
+04:01
+prosperous but there is a growing gap
+04:03
+between the rich and the poor business
+04:06
+leaders sought to increase profits by
+04:08
+consolidating businesses into the
+04:10
+following things you should be very
+04:11
+familiar with trusts which are
+04:13
+associated with monopolies trying to
+04:15
+gain control of an entire industry and
+04:17
+holding companies in which one company
+04:19
+would own stock and several other
+04:22
+companies thus allowing them to control
+04:25
+all of these companies
+04:27
+businesses and policy maker soft markets
+04:29
+and resources not only in the US but in
+04:32
+other areas as well for example in
+04:33
+Pacific Rim we have in Hawaii calls for
+04:36
+annexation in the 1890s because the
+04:38
+Hawaii was a huge producer of sugar and
+04:41
+it will eventually be annexed by the
+04:42
+United States also in Asia the
+04:45
+Philippines will be gained by the United
+04:47
+States in 1898 in which period six ends
+04:50
+and this is as a result of the
+04:52
+spanish-american war and in 1899 I
+04:55
+realized this is periods have been but
+04:56
+still the late 19th century with open
+04:58
+door policy in China in which the US
+05:00
+ought to trade freely with China and in
+05:02
+Latin America with a Big Brother policy
+05:04
+by Secretary of State James G Blaine and
+05:07
+this helped open up markets to the
+05:09
+United States so the u.s. is not only
+05:12
+focusing on domestic markets but
+05:15
+international markets as well let's take
+05:17
+a look at Roman numeral to a variety of
+05:20
+perspectives on the economy and labor
+05:21
+developed during a time of financial
+05:23
+panics and downturns laissez-faire this
+05:27
+is a very important term which
+05:28
+essentially the government takes its
+05:29
+hands off the economy now this became a
+05:31
+dominant economic philosophy this
+05:34
+encouraged very little government
+05:36
+regulation of industries and businesses
+05:38
+really favored this because the
+05:39
+government would not regulate what they
+05:42
+can and cannot do we also the expansion
+05:44
+of the industrial workforce due to
+05:46
+internal migration so domestically we
+05:49
+have farmers moving to cities the work
+05:51
+in factories and we also have this
+05:53
+enormous international migration or new
+05:56
+immigration and this is predominantly
+05:58
+made up of people from Southern and
+06:00
+Eastern Europe contrast that with old
+06:02
+immigration which is made up of people
+06:04
+from northern and western Europe and we
+06:07
+have people from China as well during
+06:09
+this time settling on the west coast
+06:11
+child labor would also increase because
+06:14
+fit many families relied on children for
+06:16
+wages and this huge supply of workers
+06:20
+led to lower wages for workers working
+06:23
+in factories issues such as labor versus
+06:27
+management emerge and they would battle
+06:29
+over wages and working conditions
+06:30
+especially in factories so local and
+06:34
+national unions would emerge to confront
+06:36
+businesses we have major Union the
+06:38
+Knights of Labor led by Terrance
+06:40
+Powderly who may have the thickest most
+06:43
+luscious mustache in US history look at
+06:46
+that monster and this was composed of
+06:48
+skilled and unskilled workers you need
+06:51
+to know the characteristics of this
+06:53
+labor union it was also made up of women
+06:55
+and african-americans now their downfall
+06:58
+came with a Haymarket Square riot in
+07:01
+Chicago in which this was a large
+07:04
+demonstration and Antar kissers in which
+07:06
+anarchists were there as well and
+07:08
+somebody nobody really knows who throws
+07:10
+a stick of dynamite killing and injuring
+07:12
+several people including police officers
+07:15
+now the Knights of Labor had nothing to
+07:17
+do with the explosion but they were
+07:20
+lumped in with a Haymarket Square right
+07:22
+so they did not last very long I do have
+07:24
+a video in unions you could check out
+07:26
+the description with much more detail
+07:27
+after them emerges the American
+07:30
+Federation of Labor or the AFL led by
+07:32
+Samuel Gompers and this was made up of
+07:34
+skilled workers only and it excluded
+07:37
+women and they focused on things called
+07:39
+bread-and-butter issues they wanted they
+07:42
+wanted 8 hour work days higher pay and
+07:45
+better conditions and they rarely used
+07:47
+strengths and unions as a whole hope to
+07:49
+improve working conditions and wages for
+07:53
+workers the south begins to dust
+07:56
+realized during this time it becomes
+07:59
+known as the new south in this term
+08:03
+called for increased industrialization
+08:05
+in the south and you see textile
+08:07
+factories began to appear in the south
+08:09
+so these factories that were so
+08:11
+dominating the north prior to the Civil
+08:13
+War in antebellum America are now
+08:15
+actually going to the source of the raw
+08:17
+materials in the south and a leader of
+08:19
+who called for the new south was Henry
+08:22
+Grady and editor of the Atlanta
+08:24
+Constitution so people are saying hey
+08:25
+the south should industrialize as well
+08:28
+and they do during this time however
+08:30
+sharecropping and tenant farming
+08:32
+remained throughout much of the south
+08:35
+and this is when people would rent land
+08:37
+and the payment land would be in the
+08:39
+form of cash if you're a tenant farmer
+08:41
+or in crops if you are a sharecropper
+08:44
+and many African Americans were
+08:46
+sharecroppers throughout the 1800s
+08:48
+continuing with key concepts six point
+08:50
+one Roman numeral three states new
+08:52
+systems of production and
+08:53
+transportation enabled consolidation
+08:55
+within agriculture which along with
+08:57
+periods of instability spurred a variety
+08:59
+of responses from farmers so we have an
+09:02
+increase in agricultural production
+09:04
+mechanized tractors Reapers etc they
+09:06
+allowed for less reliance and animals
+09:09
+and allowed for faster cultivation of
+09:11
+crops they were steam powered and then
+09:13
+eventually gas-powered grain elevators
+09:16
+were used to store crops and
+09:18
+transporting two railroads more easily
+09:21
+and this is a grain elevator from my
+09:23
+home city of Buffalo and you see here
+09:26
+would be right on the water so ships
+09:28
+could come in they would store the grain
+09:29
+here and then it would connect with a
+09:32
+railroad and ship to other parts of the
+09:34
+country or they and they would ship to
+09:37
+other parts of the country now the
+09:39
+increased production of goods led to a
+09:41
+decrease in food prices because the food
+09:44
+is being produced so quickly and so
+09:46
+efficiently prices will go down hurting
+09:49
+farmers so how did farmers respond to
+09:52
+consolidation of businesses and
+09:54
+railroads or how did they respond to
+09:56
+their plight
+09:56
+they created local and regional
+09:57
+cooperative organizations essentially
+10:00
+their own versions of unions we have the
+10:02
+Grange in the 1860s they sought to bring
+10:04
+farmers together to share techniques and
+10:05
+they hope to elect state legislators
+10:08
+that were that were favorable to their
+10:10
+programs Granger of laws were different
+10:12
+state laws that regulated railroads and
+10:15
+these were successful only for a limited
+10:16
+time because railroads fell under
+10:18
+interstate commerce which only Congress
+10:21
+could control the southern farmers
+10:23
+Alliance was mostly local organization
+10:25
+and they established stores and banks
+10:27
+for farmers and they excluded blacks so
+10:29
+that led to the colored farmers Alliance
+10:32
+which was mostly in the southern United
+10:34
+States and that was established to help
+10:36
+black farmers in the south so the people
+10:39
+or the populist party wicked what can
+10:42
+important Oh make sure you pay super
+10:44
+close attention to this this is it been
+10:47
+a very popular topic on past AP exams so
+10:50
+they this party called for a stronger
+10:52
+government role in the economic system
+10:54
+so what were the causes of the populist
+10:57
+party well they you have growth of
+10:58
+corporate power and railroads would
+11:00
+charge high rates that hurt farmers so
+11:02
+the People's Party the populist party is
+11:05
+really going to be made up of farmers
+11:07
+there's also economic instability that's
+11:09
+a cause to panics of 1873 in 1893 hurt
+11:12
+farmers and their goals they wanted to
+11:14
+stronger government role in the economic
+11:16
+system so they're kind of anti laissez
+11:18
+faire here and they also want a
+11:19
+graduated income tax which means the
+11:22
+more money you make the more you pay in
+11:24
+taxes they wanted the inflation of
+11:26
+currency which had helped poor farmers
+11:27
+and free silver not using just gold to
+11:31
+back up the value of money and the
+11:33
+Canada in 1896 was this dude William
+11:36
+Jennings Bryan who was a three-time
+11:38
+presidential candidate he also in 1896
+11:41
+ran as a Democrat and he advocated free
+11:44
+silver and four political reforms they
+11:49
+want the direct election of senators and
+11:51
+that will come true with the 17th
+11:52
+amendment at a later time period in
+11:54
+government ownership of railroads
+11:56
+telephones and Telegraph's because they
+11:57
+felt the companies were abusing their
+11:59
+power alright let's go over some test
+12:03
+tips for multiple choice and short
+12:04
+answer definitely know the new business
+12:05
+structures and their effects the role of
+12:08
+government during this time in the
+12:09
+plight of farmers focus on the populist
+12:13
+party and goals of labor unions
+12:15
+sharecropping as well make sure you know
+12:17
+what that is and the populist party holy
+12:20
+cow I can't stress that enough for
+12:22
+essays you could see an essay comparing
+12:24
+the role of government during this time
+12:26
+to other time periods and ways farmers
+12:29
+and laborers responded to corporations
+12:31
+during this time all right guys look
+12:34
+forward to seeing you back here four key
+12:35
+concepts six point two I do appreciate
+12:37
+you watching and I wish you nothing but
+12:39
+the best of luck on your exam in May
+12:42
+have a good day
+        """
     class video2:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=DzEWzhPgwas'
+        title = 'APUSH Review: Key Concept 6.2, revised (Most up-to-date edition)'
+        captions = """
+00:00
+[Music]
+00:03
+going on a push people we have key
+00:06
+concepts 6.2 for you today this is the
+00:08
+revised edition the most up-to-date
+00:10
+version you will find of the new a push
+00:13
+curriculum before before we begin at a
+00:16
+shoutout time I like to give shoutouts
+00:18
+to Abe and mr. Sam mr. Russia's class
+00:22
+mrs. Baker's class in Massachusetts and
+00:25
+captain crutch Lee's class at North East
+00:28
+High best of luck thank you all so much
+00:30
+for watching you will do great on the
+00:33
+exam in May all right let's take a look
+00:36
+at key concepts 6.2 it states the
+00:38
+migrations that accompanied
+00:39
+industrialization transform both urban
+00:41
+and rural areas of the United States
+00:43
+it caused dramatic social and cultural
+00:46
+challenges so big idea questions you
+00:48
+should be able to answer by the end of
+00:49
+this video are why we're individuals
+00:51
+attracted to a city to cities and what
+00:54
+opportunities were there in cities how
+00:56
+did the federal government encourage
+00:58
+westward expansion and what were the
+01:00
+impacts of this expansion on natives and
+01:02
+how did immigrants adapt to life in
+01:04
+America alright let's take a look at
+01:07
+Roman numeral one it states
+01:08
+international and internal migration
+01:10
+increased urban populations and fostered
+01:13
+that word fostered means to encourage
+01:15
+the growth of a new urban culture so
+01:19
+cities see tremendous growth in the late
+01:21
+19th century and it's because that's
+01:24
+where factories and businesses are
+01:26
+located we have international migrants
+01:28
+coming to America and suddenly
+01:30
+predominantly in cities immigrants from
+01:32
+Asia especially China they're settling
+01:34
+on the west coast and Chinese immigrants
+01:37
+tended to work on railroads immigrants
+01:39
+from Europe are coming predominantly
+01:41
+from Southern and Eastern Europe during
+01:42
+this time and they are known as new
+01:43
+immigrants they're coming from places
+01:45
+like Italy Poland and Russia and there
+01:48
+were over 10 million new immigrants
+01:50
+between 1860 and 1890 now we're talking
+01:53
+about internal migrants these are people
+01:55
+within the United States that are moving
+01:57
+African Americans are moving within the
+01:59
+south and out of the south and many of
+02:01
+them are moving out of the south to
+02:03
+escape sharecropping and obtain better
+02:06
+economic opportunities so when we're
+02:08
+talking about migrants people moving why
+02:11
+are they moving to cities whether
+02:12
+they're move
+02:13
+internally in the United States or
+02:15
+internationally to the United States
+02:17
+they're moving to escape poverty again
+02:19
+the idea of the internal migrants from
+02:21
+the South moving to escape sharecropping
+02:23
+you have religious persecution is
+02:25
+another reason why international
+02:26
+migrants are moving Jews and Russia for
+02:29
+instance they are fleeing to the United
+02:30
+States because they're being persecuted
+02:32
+in many areas of Europe there's limited
+02:34
+opportunities opportunities for social
+02:36
+mobility and in the United States you
+02:38
+have this idea of rags to riches stories
+02:41
+which were made very popular by Horatio
+02:43
+Alger he was an author that wrote about
+02:45
+people who could be born poor and then
+02:47
+grew up and become rich and this was a
+02:50
+very popular idea that really was
+02:52
+pervasive all throughout the United
+02:54
+States in the late 19th century so let's
+02:57
+talk about the emergence of
+02:58
+neighborhoods in cities and these would
+03:01
+be based on ethnicity race and class for
+03:04
+instance you see places like Little
+03:06
+Italy or here Chinatown in San Francisco
+03:08
+develop and you would see that
+03:10
+immigrants would live near each other in
+03:12
+little enclaves they would provide new
+03:15
+cultural opportunities for these
+03:17
+immigrants with immigration comes
+03:19
+debates over assimilation that was a
+03:21
+result of this international migration
+03:24
+so we see a rise of nativism again not
+03:26
+the first time in US history with the
+03:28
+American Protective Association or the
+03:30
+APA they sought to limit immigrants and
+03:32
+keep Catholics from holding office
+03:33
+you've encountered this idea before you
+03:35
+remember from period 5 what political
+03:38
+party was formed to keep immigrants from
+03:40
+holding political power you know a
+03:42
+little genius
+03:43
+it is the know-nothing party of the
+03:45
+1840s and 1850s now JFK was not alive
+03:48
+during the time of the APA in the late
+03:50
+nineteen nineteenth century but if he
+03:53
+was he probably would have said
+03:54
+something like APA why are you hating on
+03:56
+Catholics Bros and he's saying that
+03:58
+because he was Catholic immigrants often
+04:02
+compromise between their own cultures
+04:04
+and u.s. culture and we see that
+04:06
+second-generation immigrants they were
+04:09
+more likely to assimilate than
+04:11
+first-generation or the children of
+04:13
+immigrants were more likely to assembly
+04:15
+and we see in many public schools in the
+04:17
+United States they really only taught
+04:19
+English so that was another way to
+04:21
+assimilate immigrants political machines
+04:23
+begin to develop in large cities and
+04:25
+these would provide job
+04:27
+and services for constituents and that's
+04:29
+a fancy word for voters and they would
+04:31
+provide these especially for immigrants
+04:33
+and the poor and we see this in Tammany
+04:35
+Hall with this dude boss tweet and in
+04:37
+return these immigrants are poor were
+04:39
+expected to vote for these politicians I
+04:42
+have a detailed video on political
+04:44
+machines in the description make sure
+04:45
+you check it out
+04:47
+now also during this time you see the
+04:48
+emergence of a distinctive middle class
+04:50
+this was caused by new managerial
+04:52
+workers and factories and clerical
+04:53
+workers so we see brand new jobs that
+04:55
+are opening up that are available to
+04:57
+both males and females increased
+04:59
+education opportunities many more
+05:01
+colleges are developing and consumer
+05:03
+culture will grow during this time your
+05:06
+baseball is becomes very popular and
+05:08
+here is a picture of the very first
+05:10
+baseball team the Cincinnati Red
+05:12
+Stockings that's right the Cincinnati
+05:14
+Reds were the first professional
+05:15
+baseball team we also have vaudeville
+05:18
+shows which were very which was a very
+05:20
+popular form of entertainment in cities
+05:23
+all right let's jump over two key
+05:25
+concepts 6.2 Roman numeral 2 large
+05:27
+numbers of migrants moved to the West in
+05:29
+search of land and Economic Opportunity
+05:30
+frequently provoking competition and
+05:33
+violent conflict so what were some
+05:35
+reasons for westward growth while we had
+05:37
+the Transcontinental Railroad that was
+05:39
+completed in 1869 built predominantly by
+05:42
+the Irish on the East Coast and as we
+05:44
+know the Chinese on the west coast we
+05:46
+also have the discovery of mineral
+05:47
+resources specifically minds like
+05:49
+Comstock Lode this entire town was was
+05:52
+created around mining government
+05:55
+policies such as the Homestead Act and
+05:57
+subsidies the railroad companies
+05:58
+encouraged westward growth and I would
+06:00
+definitely be familiar with these
+06:02
+different reasons I could see this as a
+06:03
+multiple choice question or even a short
+06:05
+answer question about reasons for
+06:08
+westward growth ok migrants moved to
+06:11
+rural and boomtown areas of the West and
+06:14
+the reason why while they're seeking
+06:16
+independence and self-sufficiency this
+06:18
+idea of the safety valve theory that no
+06:20
+matter what no matter how bad economic
+06:22
+times are you can always pick up your
+06:24
+bags and move out west what were some
+06:27
+opportunities available was well
+06:28
+building railroads as I've mentioned
+06:30
+mining farming and ranching as well
+06:32
+people like Teddy Roosevelt in the 1880s
+06:34
+pack up their bags move out west to try
+06:36
+to make money in ranching so what were
+06:39
+the impacts of this westward
+06:40
+migrations while we see the decimation
+06:42
+of the bison or Buffalo they almost
+06:46
+become extinct by the way what did that
+06:47
+Buffalo say to his son before he went
+06:50
+off to college bye son did you get it
+06:54
+think about it you'll get it and we have
+06:56
+conflict with natives and Mexican
+06:58
+Americans over land such as the sin
+07:00
+Creek massacre in 1864 in which 133
+07:03
+natives were killed mostly women and
+07:04
+children and another example would be
+07:06
+Custer's last stand or the Battle of
+07:09
+Little Bighorn so the US government
+07:12
+relations with natives I would
+07:14
+absolutely know this very very important
+07:16
+big idea and it has been a long long
+07:18
+time since aap is asked an essay
+07:21
+question about this time well the u.s.
+07:23
+often violated treaties with the natives
+07:25
+and they would use military force and
+07:27
+examples 1890 Wounded Knee in which 300
+07:30
+natives were killed again sadly mostly
+07:32
+women and children natives were moved to
+07:35
+reservations where they would lose their
+07:36
+sovereignty or their ability to rule
+07:38
+themselves now in spite of all this
+07:40
+natives tried to preserve their culture
+07:41
+in the face of assimilation policies and
+07:44
+we're going to figure out how first we
+07:46
+have to know what assimilation is an
+07:48
+example of this is the Dawes Act this is
+07:51
+trying to get Native Americans to act or
+07:53
+become American and one way this
+07:55
+happened was by sending Native children
+07:57
+to boarding schools and requiring these
+07:59
+children to only speak English native
+08:01
+families were given individual plots of
+08:03
+land where they were expected to farm as
+08:06
+opposed to hunting that they were used
+08:08
+to a way to try to preserve autonomy or
+08:11
+or their own culture is the Ghost Dance
+08:13
+and this was a ceremony in which natives
+08:15
+envisioned the return of Buffalo and the
+08:17
+elimination of whites and this really
+08:20
+upset a lot of Americans and the
+08:22
+government was ordered to stop the
+08:24
+natives from practicing the Ghost Dance
+08:25
+and natives also sought self-sustaining
+08:28
+economic practices such as farming where
+08:30
+they could provide for themselves
+08:31
+everything they need him all right some
+08:34
+testifed from multiple choices short
+08:35
+answer definitely know the reasons for
+08:36
+westward expansion ways immigrants
+08:38
+adapted to life in America what was the
+08:41
+impact of westward expansion on natives
+08:43
+absolutely no the Dawes Act for essays
+08:45
+comparing reasons for and effects /
+08:47
+experiences of immigration groups and
+08:49
+what was the impact of westward
+08:51
+expansion on Native Americans again I
+08:53
+mentioned this
+08:54
+it has been a long time since this
+08:55
+question has been asked on an AP exam I
+08:58
+would definitely be familiar with that
+09:00
+all right guys look forward to seeing
+09:01
+you back here for a key concept 6.3 and
+09:04
+we'll figure out who this dude is with
+09:05
+the sweet side burns thank you guys for
+09:07
+watching best of luck in May and all
+09:10
+your tests and have a good day
+        """
     class video3:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=5QymghrvLiM'
+        title = 'APUSH Review: Key Concept 6.3, revised edition'
+        captions = """
+00:03
+hey what's going on a push people we
+00:06
+have key concepts 6.3 for you today the
+00:08
+revised edition the most up-to-date key
+00:12
+concept six point three video that you
+00:14
+will find all right let's get started so
+00:16
+key concepts six point three states the
+00:18
+Gilded Age produced new cultural and
+00:20
+into intellectual movements public
+00:22
+reform efforts and political debates
+00:25
+over economic and social policies so the
+00:28
+big idea questions you can answer by the
+00:30
+time you're done with this video are
+00:31
+what were different examples of
+00:33
+discrimination that various groups faced
+00:35
+in the nineteenth century how to
+00:37
+business leaders and the wealthy justify
+00:40
+their wealth and how did summit society
+00:42
+criticize capitalism and what were the
+00:45
+alternatives they proposed okay let's
+00:47
+take a look at Roman numeral one it
+00:48
+states new cultural and intellectual
+00:50
+movements both buttress which means
+00:52
+provided and challenge the social order
+00:55
+of the Gilded Age so let's talk about
+00:58
+social Darwinism it's specifically
+00:59
+mentioned you need to know this this is
+01:02
+taking Charles Darwin's ideas of
+01:04
+evolution and kind of applying it to
+01:06
+humans and the best example of this is
+01:08
+survival of the fittest which was coined
+01:11
+by this dude Herbert Spencer and what he
+01:14
+argued in advocates of survival of the
+01:15
+fittest or social Darwinism argued is
+01:17
+that businesses and people could use any
+01:19
+tactics necessary to prosper so this is
+01:22
+where we see the emergence of things
+01:24
+like monopolies vertical and horizontal
+01:26
+integration and pools and the wealthy
+01:29
+said hey this is acceptable this is okay
+01:31
+because we were big and strong and
+01:33
+powerful and we are prospering so why
+01:36
+was it used again this was used to
+01:38
+justify the success of the wealthy that
+01:40
+could be a potential multiple choice
+01:42
+answer that you could encounter why
+01:44
+we're tactics like social Darwinism used
+01:47
+and again this states it is appropriate
+01:49
+and inevitable for the wealthy to
+01:51
+succeed in society so the gospel wealth
+01:56
+emerges during this time and this was
+01:57
+written by steel tycoon Andrew Carnegie
+02:01
+or Andrew Carnegie and he argued that
+02:03
+the wealthy should give back to society
+02:06
+and that's example philanthropy of
+02:07
+giving money away currently in the news
+02:10
+of people like Mark Zuckerberg
+02:12
+founder of Facebook who's pledged to
+02:14
+give away 99% of his wealth that's an
+02:17
+example of philanthropy so some examples
+02:20
+of philanthropy well Carnegie gave money
+02:21
+for hundreds of libraries throughout the
+02:24
+United States people who support the
+02:25
+gospel wealth didn't advocate just going
+02:27
+up and giving money to the poor but
+02:30
+rather giving money to community
+02:31
+organizations which would benefit
+02:33
+society Cornelius Vanderbilt gave a
+02:36
+million dollars to help establish
+02:37
+Vanderbilt University so the creation of
+02:40
+schools libraries and other societal
+02:44
+organizations are examples of the gospel
+02:47
+of wealth in action so there are some
+02:51
+alternative visions for the US economy
+02:53
+and the u.s. Society during this time we
+02:55
+have agrarians people who are farmers
+02:57
+they saw more government involvement in
+02:59
+the economy we saw this with a populist
+03:01
+party and they also advocated government
+03:03
+ownership of railroads and we also have
+03:05
+people like coxey's army this was a
+03:07
+group of people that march to Washington
+03:09
+in 1893 as a result of the panic of 1893
+03:12
+and they demanded relief in government
+03:13
+Works programs they were not accepted
+03:16
+their ideas were shut down but we will
+03:17
+see what they were calling for is very
+03:20
+similar to what FDR provides through New
+03:22
+Deal agencies utopian societies were
+03:26
+coming back to them we talked about them
+03:27
+during the time of the Second Great
+03:28
+Awakening in antebellum America an
+03:31
+example it's still run at this time is
+03:32
+Oneida community in New York and they
+03:34
+practice communal ownership where
+03:36
+everybody owned the land they also
+03:40
+practice free love and eugenics which is
+03:42
+selective breeding and that's something
+03:43
+that will continue over into the
+03:45
+Progressive Era they believed they could
+03:47
+improve human society by only allowing
+03:50
+certain people to procreate socialism is
+03:53
+an appealing idea during this time you
+03:55
+have people like Eugene V Debs who we'll
+03:56
+talk about more in the Progressive Era
+03:58
+they advocated for that the society is
+04:00
+more than just the one than just the
+04:02
+individual and they help promote human
+04:04
+welfare and the elimination of class
+04:06
+systems and Eugene Debs was an advocate
+04:09
+of government ownership of railroads so
+04:12
+really limiting the power of these
+04:14
+corporate tycoons and finally the social
+04:16
+gospel this is a Protestant church
+04:18
+movement to improve society so we see
+04:20
+the church getting involved in ways to
+04:22
+help improve society
+04:25
+okay let's take a look at Roman numeral
+04:26
+two it states dramatic social changes in
+04:28
+the period inspired political debates
+04:31
+over citizenship corruption and the
+04:33
+proper relationship between business and
+04:35
+government now the Republicans the
+04:37
+Democrats in the late 19th century you
+04:39
+must know characteristics of them the
+04:41
+solid south they will vote Democratic
+04:43
+pretty much from the end of the Civil
+04:46
+War until the 1960s the North tended to
+04:50
+vote mostly Republican now there were
+04:52
+some differences between the two parties
+04:53
+most notably tariffs Republicans
+04:56
+advocated raising tariffs remember
+04:58
+Republicans raised and Democrats
+04:59
+advocated lowering tariffs Democrats
+05:02
+want to see tariffs go down so that was
+05:04
+one issue the other issue was the
+05:06
+currency issue and in the election of
+05:08
+1896 we see the Republicans led by
+05:11
+William McKinley they favored the gold
+05:13
+standard or gold backing up the value of
+05:14
+the dollar and the Democrats led by
+05:17
+William Jennings Bryan who was also the
+05:19
+populist candidate they favored free
+05:21
+silver or allowing silver to back up the
+05:23
+value of the dollar as well and here's
+05:26
+an example the solid south you notice
+05:28
+it's all blue down here but ultimately
+05:30
+William McKinley prevails and the gold
+05:32
+standard leads the way
+05:34
+reformers argue that greed and
+05:36
+self-interest corrupted all levels of
+05:38
+government we see this on the local
+05:40
+level and with political machines
+05:42
+especially Tammany Hall in New York City
+05:44
+and on the federal level you see
+05:45
+patronage in which many government jobs
+05:48
+were given based on who you know and
+05:50
+also the election of senators by state
+05:52
+legislators that will be repealed with
+05:55
+the 17th amendment but there many people
+05:57
+argue that state legislators were
+05:59
+corrupt and would elect senators that
+06:01
+were favorable to big business so women
+06:03
+during this time they are seeking
+06:05
+greater equality by joining voluntary
+06:07
+organizations organizations like the
+06:09
+women's Christian Temperance Union which
+06:11
+sought to ban alcohol now play a role in
+06:13
+the formation of an eighteenth Amendment
+06:14
+and the National American Women's
+06:16
+Suffrage Association or the nawsa which
+06:19
+will play a key role in the formation of
+06:21
+the 19th amendment here you see susan b
+06:23
+anthony Elizabeth Cady Stanton two
+06:25
+prominent members of the nawsa nawsa as
+06:30
+I mentioned held lead to the passage of
+06:31
+the 19th amendment which granted women's
+06:34
+suffrage that was in 1920 going to
+06:37
+college we see the emergence of many
+06:38
+women
+06:38
+colleges although at this time it was
+06:40
+mostly seminaries and teaching women how
+06:42
+to be housewives you see women play an
+06:45
+active role in promoting social order
+06:47
+political reform Elizabeth Cady Stanton
+06:48
+again she was in leading suffragists and
+06:50
+she added she was also an advocate of
+06:52
+interracial marriage and women would
+06:54
+also work in settlement houses people
+06:56
+like Jane Addams who established the
+06:58
+Hall House in Chicago which helped women
+07:00
+children and immigrants adapt or
+07:02
+assimilate to American society and this
+07:04
+really helped inspire other settlement
+07:06
+houses throughout the United States in
+07:08
+1896 we have the court case Plessy vs.
+07:10
+Ferguson one of the worst decisions of
+07:13
+Supreme Court case history and they're
+07:14
+eight to one ruling everybody except
+07:17
+this guy John Marshall Harlan upheld
+07:20
+that racial segregation was okay as long
+07:22
+as separate facilities were equal so he
+07:24
+was the one guy who voted against the
+07:28
+rest of the Supreme Court justices and
+07:29
+Plessy versus Ferguson most gains made
+07:32
+by african-americans during
+07:33
+Reconstruction were severely limited the
+07:35
+13th 14th 15th amendments you have
+07:38
+things like sharecropping literacy tests
+07:40
+poll taxes the KKK which really limits
+07:43
+the effectiveness of these or of these
+07:45
+amendments and African American
+07:47
+reformers continue to fight for
+07:48
+political and social equality in the
+07:50
+face of many different obstacles
+07:52
+including violence you have people like
+07:54
+I to be wells who was a journalist that
+07:56
+was an outspoken critic of lynching and
+07:59
+she advocated a federal anti-lynching
+08:01
+law she was a very influential
+08:04
+journalist from the South during the
+08:05
+late 18 early 1900s you have Booker T
+08:09
+Washington who advocated vocational
+08:11
+training for African Americans and equal
+08:13
+economic opportunities so he helped
+08:16
+fight discrimination in the south and
+08:17
+there were scientific theories of race
+08:19
+during this time which some
+08:20
+anthropologists argue that African
+08:22
+Americans were inferior to whites and
+08:24
+they would use skull measurements and
+08:26
+other bogus ideas to justify their
+08:30
+beliefs ok let's finish up with some
+08:32
+test tips for multiple choice and short
+08:34
+answer Plessy versus Ferguson know it as
+08:36
+well as the impacts I didn't mention it
+08:38
+but that will be turned over turned by
+08:40
+Brown versus the Board of Education know
+08:42
+some alternative to alternatives to
+08:43
+capitalism and examples of
+08:45
+discrimination and how people countered
+08:47
+it whether it was women or
+08:48
+african-americans for essays you can see
+08:51
+an essay comparing forms
+08:52
+discrimination with other time period so
+08:54
+for examples what were the responses of
+08:56
+african-americans in 1890s to the 1920s
+08:58
+and african-americans in the 1950s in
+09:02
+the 1960 civil rights movement all right
+09:05
+guys thank you very much for watching I
+09:06
+do look forward to seeing you back here
+09:08
+for 7.1 which we will get into the Great
+09:12
+Depression and this New Deal program
+09:14
+thank you very much for watching best of
+09:15
+luck on all your tests especially the
+09:17
+one in May and have a good day
+        """
     class video4:
-        url = ''
-        title = ''
-        captions = """"""
+        url = 'https://www.youtube.com/watch?v=dO9MJqbCcuI'
+        title = "APUSH Review The People's Populist Party"
+        captions = """
+00:00
+Oh what's going down a push peeps we
+00:01
+have a very important video for you
+00:04
+today this topic the people's or the
+00:06
+populist party is specifically mentioned
+00:09
+in the new curriculum it has its own
+00:10
+little section so you need to be
+00:12
+especially familiar with this topic but
+00:15
+don't worry we have you covered all
+00:17
+right let's take a look at the new
+00:18
+curriculum key concepts 6.1 Roman
+00:20
+numeral three letter C state's economic
+00:22
+instability inspired agrarian activists
+00:25
+to create the people's or populist party
+00:28
+which call for a stronger governmental
+00:30
+role in regulating the American economic
+00:32
+system again since its mentioned
+00:34
+anything about the party is fair game
+00:37
+for the test you should know that that
+00:38
+really is a focus on it being an
+00:40
+agrarian movement and other groups as
+00:42
+well see and advocating or favoring for
+00:45
+government intervention so a populist is
+00:48
+somebody who would have fate would favor
+00:50
+increased government intervention all
+00:53
+right so what is the populist party was
+00:55
+a political party from the late
+00:56
+nineteenth century made up of mostly
+00:59
+farmers they sought increased government
+01:01
+involvement in the economy to control
+01:03
+things like railroads banks and
+01:05
+government reform they especially wanted
+01:08
+the government to own railroads they
+01:10
+were very critical the economic system
+01:12
+which is capitalism and critical of
+01:14
+laissez-faire as well and it originated
+01:17
+in Cincinnati in May of 1891 you could
+01:21
+trace the origins to this beautiful city
+01:23
+right here look at that skyline is that
+01:26
+not amazing or what
+01:28
+alright so what groups of people support
+01:30
+the populist party well as we mentioned
+01:32
+before it's farmers it's predominantly
+01:34
+an agrarian movement groups like the
+01:36
+Grange which were groups that sought to
+01:39
+connect farmers and share techniques and
+01:41
+also they hope to elect state
+01:43
+legislatures that supported their
+01:45
+programs you also have like farmers
+01:47
+alliances this group that consisted of
+01:49
+mainly local organizations they
+01:51
+establish stores and banks to help
+01:53
+farmers out you also see some industrial
+01:56
+workers specifically the Knights of
+01:57
+Labor that union of skilled and
+02:00
+unskilled workers they would support the
+02:03
+pie plays party and don't forget that
+02:05
+the leader the Knights of Labor is this
+02:07
+dude with perhaps the most luscious
+02:09
+mustache in US history
+02:11
+Terrence Powderly
+02:13
+and also people who are in favor of
+02:14
+economic reform would fit would support
+02:18
+the populist party as well okay so what
+02:22
+led to the creation of the populist
+02:23
+party well economic issues such as the
+02:27
+growth of corporate power we have
+02:28
+railroads that are able to charge high
+02:31
+shipping rates that hurt farmers so
+02:33
+farmers are going to react to the high
+02:34
+shipping rates and want to restrict this
+02:37
+growth of corporate power railroads
+02:40
+often owned great elevators as well and
+02:43
+these were storage units often based on
+02:45
+rivers or lakes where farmers could
+02:47
+store their goods and they would charge
+02:48
+high rates to farmers in order to store
+02:51
+their goods we have two panics a panic
+02:53
+of 1873 and the panic of 1893 these
+02:57
+significantly hurt farmers as crop as
+02:59
+crop prices plummeted and the populist
+03:03
+party also emerged from previous
+03:04
+agrarian groups as we talked about the
+03:06
+Grange and also the farmers alliances
+03:08
+and here is a political cartoon they're
+03:10
+really kind of mocks the populist party
+03:12
+you'll see down here it says platform of
+03:14
+lunacy you know people like Terrence
+03:16
+Powderly right here and then you have
+03:17
+the People's Party and this hot-air
+03:19
+balloon is made up of a bunch of patches
+03:21
+of different groups you have the farmers
+03:23
+alliance the green bag party the Knights
+03:25
+of Labor the old Granger Party
+03:27
+socialists free silver party which we'll
+03:29
+talk about in just a couple minutes so
+03:30
+basically it's this collection of a wide
+03:33
+range of people so this artist here is
+03:36
+very critical of the populist party so
+03:39
+be familiar again any time you see a
+03:40
+political cartoon or document think
+03:43
+about what is the message of this and
+03:44
+what is the author's point of view and
+03:47
+his point of view here is very critical
+03:49
+of the populist party okay so what were
+03:52
+the goals of the pipe lists again they
+03:54
+sought economic relief as well as
+03:55
+government intervention I've mentioned
+03:56
+that several times so far with the Omaha
+03:58
+platform which really advocated their
+04:01
+1892 presidential platform and this was
+04:04
+written by this dude Ignatius Donnelly
+04:06
+perhaps the sweetest name in US history
+04:08
+Ignatius they called for the Omaha
+04:11
+platform call for the direct election of
+04:13
+senators instead of state legislatures
+04:15
+they also call for graduated income tax
+04:17
+meaning the more money you make the more
+04:18
+you pay in taxes the Australian or
+04:20
+secret ballot and government control of
+04:23
+railroads Telegraph's
+04:24
+and telephones again you see here
+04:26
+increase govern
+04:27
+involvement is a goal of the populist
+04:30
+party they also favored the free coinage
+04:32
+of silver silver at a ratio of 16 to one
+04:35
+with gold that is called bimetallism be
+04:38
+sure you can identify bimetallism what
+04:40
+this means is for every one ounce of
+04:42
+gold that was used to back up the dollar
+04:44
+the populace wanted 16 ounces of silver
+04:46
+to count as well and that would inflate
+04:49
+the currency making it easier for them
+04:51
+to pay off their debts and again 16
+04:54
+ounces of silver would equal one ounce
+04:56
+of gold this would increase the money
+04:57
+supply which would give farmers more
+04:59
+money which would make it easier for
+05:00
+them to pay off their debts but this
+05:02
+would be resisted by bankers and lenders
+05:04
+because their money would be worth less
+05:07
+they also come for a civil service
+05:08
+reform and an eight-hour workday but
+05:11
+definitely be familiar with this Omaha
+05:12
+platform here these five things because
+05:15
+we'll see some of them come to fruition
+05:17
+at a later time all right let's talk
+05:19
+about that election of 1892 we have
+05:21
+Grover Cleveland he is a Democrat versus
+05:23
+Benjamin Harrison a Republican and also
+05:26
+James Weaver a populist and here is
+05:29
+James Weaver and he campaigned on that
+05:31
+Omaha platform we just talked about now
+05:33
+if you look at James Weaver he looks
+05:34
+like pretty much every other politician
+05:36
+from the late 1800s here is James
+05:39
+Garfield they look identical and there
+05:41
+is Rufford be Hayes the former president
+05:45
+look at them they all could be the exact
+05:46
+same dude I feel like we're gonna play a
+05:48
+game later identify who is this person
+05:51
+and Weaver received 22 electoral votes
+05:54
+an 8.5% of the popular vote so he did
+05:57
+have a little bit of a showing but did
+05:59
+not become president flash forward four
+06:02
+years with William Jennings Bryan who
+06:04
+runs as a Democrat and gets the support
+06:06
+of the pipe list and he's gone up
+06:07
+against William McKinley who is a
+06:09
+Republican and the populist party
+06:11
+supported Bryan due to his support for
+06:13
+free silver that introduction of silver
+06:15
+at a 16 to 1 ratio with gold William
+06:18
+Jennings Bryan gives this very famous
+06:20
+speech called a cross of gold speech be
+06:22
+able to identify this as screaming to me
+06:25
+and excerpt to be using a
+06:27
+multiple-choice or a short answer
+06:28
+question so here he is at the Democratic
+06:31
+nomination in 1896 in the end of his kit
+06:34
+the end of this speech he says you shall
+06:36
+not press down upon the brow of Labor of
+06:38
+this crown of thorns you shall not
+06:41
+five man kind upon a cross of gold so he
+06:44
+was calling for the introduction of
+06:46
+silver again we have an excerpt so think
+06:49
+about who would support it who would not
+06:50
+support you would have farmers who would
+06:52
+support it I could see a multiple choice
+06:53
+question this is something to the effect
+06:55
+of all the following would agree with
+06:57
+William Jennings Bryan message accept
+07:00
+and you would have liked Midwestern
+07:01
+farmers would agree sharecroppers would
+07:03
+agree etc but then you could see like an
+07:06
+industrialist or a banker or something
+07:08
+they would not agree with it because it
+07:11
+would devalue their money so be able to
+07:13
+identify the cross of gold speech okay
+07:16
+so what was the impact of the populist
+07:17
+well many of the ideas and goals of the
+07:19
+populist party later came to fruition as
+07:21
+I mentioned earlier the income tax that
+07:23
+they call for that seen in the early
+07:25
+1900s with the sixteenth amendment as is
+07:27
+the direct election of senators with the
+07:29
+17th amendment in secret ballots as well
+07:31
+coming to play in the early 1900s and
+07:33
+this is all during the Progressive Era
+07:36
+which is a part of Teddy Roosevelt's
+07:38
+presidency this is a great connection to
+07:41
+another time period so even though the
+07:42
+pipe list party itself doesn't implement
+07:45
+these ideas their ideas will later be
+07:47
+implemented all right let's finish up
+07:50
+with some test tips for multiple choice
+07:51
+of short-answer be able to identify and
+07:53
+explain the reasons for the development
+07:55
+of the populist party the populist idea
+07:57
+is the most similar to that could be a
+07:58
+great question as well another time
+08:00
+period in US history no it's the
+08:01
+Progressive Era who would support the
+08:04
+populist party again farmers farmers
+08:05
+farmers and who would oppose it
+08:07
+industrialists bankers etc definitely no
+08:09
+crowd across the gold speech that we
+08:11
+just talked about and for essays you
+08:13
+could see an essay comparing farmers and
+08:15
+industrial workers their responses to
+08:18
+industrialization so how did farmers
+08:20
+respond how did industrial workers
+08:22
+respond how are they similar and how
+08:24
+were they different alright guys I thank
+08:26
+you very much for watching I wish you
+08:28
+nothing but the best of luck in May and
+08:29
+let me know who do you think this dude
+08:31
+is here he looks like every other
+08:32
+politician from the late 19th century
+08:33
+but take a guess leave in the comments
+08:35
+below and we'll see if anybody gets all
+08:37
+right thank you very much and have a
+08:39
+good day
+        """
     class video5:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=NY5Y4M6u0uU"
+        title = "APUSH Review: The Gilded Age"
+        captions = """
+00:00
+yo what is going on a push people we got
+00:02
+a good video for you today this one is
+00:04
+I'm the Gilded Age you know you will see
+00:07
+it on your exam in some way shape or
+00:09
+form
+00:09
+before we begin to this shout out time I
+00:11
+need to give a huge shout out to mr.
+00:13
+Lonnie's class and their class pet Adam
+00:15
+nor fish what an honor that is mr.
+00:18
+Mayer's class in Washington and mrs.
+00:20
+Johnson's class at Pikesville high
+00:22
+school best of luck to you all you rock
+00:24
+and good luck in May
+00:27
+all right the gilded age a brief intro
+00:30
+this was a term that was coined by Mark
+00:32
+Twain Samuel Clemens and it is the idea
+00:35
+that although things appear to be good
+00:38
+on the surface societal problems existed
+00:41
+underneath a thin layer of gold so
+00:44
+although things appeared on the surface
+00:46
+to be good once you've dug a little
+00:48
+deeper you would see that things really
+00:50
+are not as good as they appeared on the
+00:52
+surface this time periods from 1870 to
+00:56
+1910 economic growth so let's jump over
+01:01
+to politics and economics during this
+01:03
+time here Republicans and Democrats they
+01:06
+were split primarily over economic
+01:09
+issues Republicans favored higher
+01:11
+tariffs and Democrats advocated lower
+01:14
+tariffs and here is a young
+01:16
+representative from Ohio named William
+01:19
+McKinley author of the McKinley tariff
+01:21
+of 1890 a very high tariff rate remember
+01:24
+if you see Republicans chances are
+01:26
+they're gonna favor high tariffs if you
+01:28
+see a Democrat chances are they're going
+01:30
+to favor low tariffs currency was
+01:32
+another issue that separated the two
+01:34
+political parties Republicans favored
+01:36
+the gold standard or having gold backup
+01:38
+the value of the dollar
+01:39
+whereas Democrats and the populist party
+01:41
+of 1896 they adopted a free silver which
+01:44
+means backing up the value of money with
+01:47
+silver in addition to golden here was
+01:50
+1896 populist and Democratic candidate
+01:53
+William Jennings Bryan a young 36 years
+01:56
+old when he ran for president this would
+01:59
+favor farmers and those in debt because
+02:01
+there would be more money in circulation
+02:02
+and it would actually cause inflation
+02:05
+and allow those in debt to pay off their
+02:08
+debt more easily and also during this
+02:10
+time there's a growing gap
+02:12
+the rich and the poor political machines
+02:15
+were seen on state and local levels
+02:17
+these were political organizations that
+02:19
+provided jobs and services to
+02:21
+constituents or their voters and receive
+02:24
+support and return from these voters the
+02:26
+most famous book of machine during this
+02:28
+time is Tammany Hall in New York City at
+02:29
+Democratic headquarters led by boss
+02:32
+tweed William Marcy tweed and he used
+02:35
+dishonest graft or stealing and bribing
+02:38
+to make lots of money at one point he
+02:40
+stole over 200 million dollars from New
+02:43
+York City technological advancements
+02:45
+were jumping over to during the Gilded
+02:47
+Age scientific management holy cow
+02:50
+definitely know this is mentioned the
+02:51
+new curriculum also known as Taylorism
+02:53
+named after its founder Frederick Taylor
+02:56
+and here is mr. Taylor this focused on
+02:59
+improving efficiency of workers workers
+03:02
+would often have time tasks and do the
+03:04
+same tasks over and over again
+03:07
+they were given specific tests and they
+03:08
+would be trained up for example they
+03:10
+were working on an assembly line they
+03:11
+would do one thing over and over again
+03:13
+they would not necessarily have more
+03:16
+than one task some inventions we see our
+03:19
+mechanized tractors and grain elevators
+03:21
+which leads to a huge increase of
+03:23
+production of crops for farmers and the
+03:25
+Bessemer process allowed for people like
+03:28
+Carnegie to mass-produce steel on levels
+03:31
+never before seen business consolidation
+03:34
+during the Gilded Age when you think of
+03:35
+trust think of monopolies they're often
+03:37
+associated with monopolies monopolies
+03:40
+holding companies this is where one
+03:41
+company that owned stock and many other
+03:43
+companies and essentially controls them
+03:45
+vertical integration was pioneered
+03:47
+during this time this is owning all
+03:49
+aspects of production of a business from
+03:51
+start to finish this is something that
+03:53
+Carnegie did with his steel production
+03:55
+and also horizontal integration this was
+03:58
+popularized by this dude Rockefeller
+04:00
+this is where businesses in an industry
+04:02
+joined together in form a monopolies
+04:04
+buying out your competition unions
+04:06
+developed during the Gilded Age and two
+04:08
+predominant ones that you should be
+04:10
+familiar with are the Knights of Labor
+04:11
+and the American Federation of Labor and
+04:14
+they emerged as a response to working
+04:16
+conditions and wages the Knights of
+04:18
+Labor led by Terrence Powderly and his
+04:20
+unbelievably amazing mustache consistent
+04:23
+of skilled and unskilled workers
+04:25
+the American Federation of Labor led by
+04:27
+Samuel Gompers with quite the moustache
+04:29
+of his own consisted of skilled workers
+04:31
+and focused on bread-and-butter issues
+04:34
+things like higher wages better working
+04:36
+conditions eight-hour days there were so
+04:40
+many strikes during the Gilded Age you
+04:41
+should be familiar with they were often
+04:43
+a reaction to wage cuts by businesses
+04:46
+the great railroad strike of 1877 was
+04:49
+broken up by federal troops under
+04:51
+President Hayes the Haymarket Square
+04:53
+riot of 1886 this was a protest for an
+04:57
+eight-hour workday in Chicago that
+04:59
+turned violent when someone threw a bomb
+05:01
+and the Knights of Labor were unfairly
+05:03
+blamed for this the Homestead Strike was
+05:06
+a strike at a Carnegie steel plant and
+05:08
+then the Pullman strike was over the
+05:11
+Pullman Palace car company when the
+05:13
+company cut wages and they did not cut
+05:15
+rent prices in the town of Pullman and
+05:18
+in every single one of these strikes
+05:22
+here you'll see the government will side
+05:24
+against unions and with businesses and
+05:26
+breaking up these strikes farmers during
+05:30
+the Gilded Age definitely know the
+05:31
+populist party I have a video on that be
+05:33
+familiar with this organization so as
+05:37
+they respond to the growth of corporate
+05:38
+power specifically railroads and
+05:40
+economic instability and they wanted the
+05:43
+government to have a stronger role in
+05:44
+the economy this is very important
+05:46
+circle this right now for me if you're
+05:49
+using my video guide they wanted the
+05:50
+government to have a stronger role in
+05:52
+the economy they advocated things like a
+05:54
+graduated income tax which means you
+05:57
+would pay a higher percentage of income
+05:59
+tax the more money you make they favored
+06:02
+free silver which is the introduction of
+06:04
+silver to back up the value of money as
+06:06
+well and direct election of senators and
+06:09
+here is a poster of the people's part of
+06:13
+your populist party candidate from 1892
+06:15
+the presidential election some key terms
+06:19
+you should be familiar with social
+06:21
+Darwinism coffin used by Herbert
+06:23
+sideburn Spencer and this is a survival
+06:25
+the fittest applied to businesses that
+06:27
+businesses could do whatever they want
+06:29
+or need in order to succeed this was
+06:33
+used to justify the success of
+06:34
+businesses and the wealthy the gospel
+06:37
+wealth definitely know this bad boy the
+06:39
+as Andrew Carnegie is advocated for
+06:41
+wealthy individuals to give back to
+06:43
+society this is known as philanthropy
+06:44
+they should give their money to the
+06:46
+community into better society some
+06:48
+examples of this Vanderbilt University
+06:50
+when Cornelius Vanderbilt gave a million
+06:52
+dollars to create this university and
+06:54
+Carnegie gave countless money for for
+06:56
+hundreds and thousands of libraries
+06:58
+throughout this country social gospel
+07:01
+was a Protestant church movement to
+07:02
+improve society you would see the church
+07:05
+create reading rooms nurseries and other
+07:07
+services for the needy throughout this
+07:09
+country Interstate Commerce Act of 1887
+07:12
+allowed the government to invent to
+07:14
+investigate railroads but it was mostly
+07:16
+symbolic at first so this is the first
+07:19
+step of God of the government starting
+07:20
+to intervene and limit the power of
+07:23
+business and the Sherman Antitrust Act
+07:26
+from 1890 was when the federal
+07:28
+government could investigate trusts and
+07:29
+this will later be strengthened during
+07:31
+the Progressive Era and the 1900s so
+07:34
+just know with interstate commerce sites
+07:36
+in the Sherman Antitrust Act you begin
+07:38
+to see the government become more
+07:39
+involved in regulating businesses okay
+07:42
+for some tests it's multiple choice and
+07:44
+short answer definitely know the reasons
+07:46
+for the creation and impacts of unions
+07:49
+consolidation of businesses and the
+07:51
+populist party all three of those could
+07:52
+be great short answer questions
+07:54
+differences between Republicans and
+07:56
+Democrats be able to explain those
+07:58
+especially when it comes to currency in
+07:59
+tariffs and for assays and dbq's you can
+08:02
+see something on the impact of
+08:03
+technology and workers and businesses
+08:05
+during this time period as well thank
+08:08
+you guys very much for watching I do
+08:09
+appreciate best of luck on all your
+08:11
+exams especially the one in May and I
+08:14
+look forward to seeing you back for more
+08:16
+videos thanks again for watching and
+08:18
+have a good day
+        """
     class video6:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=3EbSO1vhbnc"
+        title = "APUSH Review: New Immigration"
+        captions = """
+00:00
+hey what's going on ap people we have a
+00:03
+video for you today on new immigration
+00:05
+which is immigration that occurs after
+00:07
+the Civil War hopefully you've watched
+00:08
+the video I did on old immigration if
+00:11
+not there is a link in the description
+00:12
+for you to watch and also if you want to
+00:15
+download the PowerPoint that is used in
+00:16
+this video please have the link in the
+00:18
+description to head on over to a push
+00:19
+review com where you can download this
+00:21
+PowerPoint and every other one that I
+00:23
+have for all my videos alright let's get
+00:25
+going so what exactly is new immigration
+00:28
+well these are immigrants that came from
+00:30
+southern in Eastern Europe now old
+00:33
+immigrants came from northern in Western
+00:35
+Europe so new immigration is going to
+00:37
+come from a different part of Europe and
+00:39
+against Southern and Eastern Europe you
+00:41
+definitely have to know that they came
+00:42
+from southern in Eastern Europe and many
+00:44
+of them came through New York City in
+00:46
+Ellis Island here's a picture from the
+00:48
+early 1900s of of immigrants coming
+00:51
+through from Ellis Island and often one
+00:52
+of the first things they saw was the
+00:54
+Statue of Liberty when they would come
+00:56
+over here so what are the specific
+00:59
+countries that are involved with new
+01:01
+immigrants we know it's southern in
+01:03
+Eastern Europe but we need to know that
+01:04
+it is Poland Italy Greece Hungary etc so
+01:07
+those again those countries on the
+01:10
+eastern portion of Europe when did it
+01:13
+occur mainly occur between the 1880s in
+01:16
+1920 we'll see that something happens in
+01:18
+the 1920s that kind of that limits
+01:20
+immigration alright why did they come
+01:23
+here where did they settle why they came
+01:26
+here well one reason was for Economic
+01:28
+Opportunity see some of these immigrants
+01:30
+came for a very short time to make money
+01:32
+then they would go back home and send
+01:34
+that money back home and then they would
+01:35
+go back home to be with their families
+01:37
+those are called birds of passage there
+01:39
+also is a lack of military conscription
+01:41
+or a draft here in many countries in
+01:44
+Europe at the time had a draft for their
+01:46
+citizens and you see certain groups of
+01:49
+people including Jews that come here due
+01:51
+to religious persecution so again it's
+01:53
+really the same reasons why people have
+01:55
+come to the United States throughout
+01:57
+history its economic and religious
+01:59
+opportunities and where did they settle
+02:02
+overwhelmingly these groups settled in
+02:04
+urban areas we saw with old immigration
+02:07
+the Germans tended to settle on the
+02:08
+frontier and the Irish tended to settle
+02:11
+on the East Coast and we'll see that the
+02:12
+new immigrants
+02:13
+we'll settle a lot of times on the East
+02:15
+Coast but overwhelmingly in urban areas
+02:17
+you'll see it in large cities like New
+02:19
+York City and Chicago in the living
+02:22
+apartments called dumbbell tenements and
+02:24
+here's a picture of a dumbbell tenement
+02:25
+they're very very crowded very
+02:27
+unsanitary you absolutely positively
+02:29
+must know this guy this is Jacob Riis
+02:32
+who was a photojournalist he was
+02:34
+actually buddies with Teddy Roosevelt
+02:35
+when he was the police commissioner of
+02:37
+New York City and he would use
+02:39
+photographs to document how these poor
+02:42
+urban immigrants lived and Jacob Riis
+02:45
+and how the other half lives appears
+02:46
+quite often on the a.push exam so
+02:48
+definitely be familiar with him if
+02:50
+you've ever seen the show cheers he
+02:52
+looks a lot like cliff Clavin you should
+02:53
+look him up all right so what were some
+02:56
+challenges faced by new immigrants many
+02:58
+had a hard time assimilating or
+03:01
+adjusting to American life and remember
+03:03
+that it the term assimilating we've seen
+03:05
+it with Native Americans with the Dawes
+03:06
+Act this is the idea of trying to make
+03:08
+people become American it was one of the
+03:12
+reasons why they had a hard time
+03:12
+assimilating was that they spoke
+03:14
+different languages and many of these
+03:16
+immigrants were highly illiterate as
+03:18
+well they would often live in ghettos
+03:20
+new immigrants often worked in unskilled
+03:23
+jobs and they would often work for lower
+03:25
+wages and that would really upset
+03:27
+american-born workers here is a
+03:30
+political cartoon from puck magazine and
+03:32
+you see here that this business owner is
+03:34
+hiring all of these immigrants coming
+03:37
+off this boat over here but this
+03:38
+American guy with his family is stuck is
+03:41
+out of a job because immigrants are
+03:43
+taking his job so that was a common
+03:45
+theme with old immigrants as well and
+03:47
+think that - Nina no I wish neat apply
+03:49
+in different ways to discriminate
+03:52
+against immigrants same thing as well
+03:53
+the same thing is going on here with new
+03:55
+immigrants they were also hard to
+03:57
+unionize because there was that language
+03:58
+barrier and we're going to see political
+04:01
+bosses often gave immigrants jobs and
+04:03
+resources this is the famous Tammany
+04:05
+Hall in New York City this is where
+04:07
+you'll see some corruption going on in
+04:09
+Tammany Hall and immigrants became a
+04:11
+very strong voting presence they tended
+04:14
+to vote Democrat in these big cities
+04:18
+okay let's talk about the reaction of
+04:20
+the new immigrants very important person
+04:22
+to know we have gene Adams from Chicago
+04:24
+she was the founder of this play
+04:26
+the whole house which was a settlement
+04:28
+house which helped provide housing food
+04:31
+and education for poor women and
+04:32
+immigrants this was a way to help
+04:34
+immigrants adjust to American life and
+04:37
+this helped spur other faiths other
+04:39
+settlement houses but the most famous
+04:41
+settlement house is the hall House with
+04:43
+Jane Addams in Chicago you absolutely
+04:45
+positively need to know her nativism we
+04:47
+talked about in the old immigrant video
+04:49
+again it's a fear distrust and hatred of
+04:51
+foreigners and some causes of nativism
+04:54
+it's always going to be taking jobs
+04:55
+we'll see a lot of these new immigrants
+04:58
+are Catholic coming from Southern and
+05:00
+Eastern Europe and there will be this
+05:01
+fear of the Pope and also some of these
+05:04
+groups will have different government
+05:06
+Diaz will be a lot of socialism and even
+05:07
+some anarchism which will frighten some
+05:10
+Americans and we'll see this group
+05:12
+develop the American Protective
+05:13
+Association also known as the APA and
+05:16
+they urged voting's against Catholics
+05:18
+and they favored tougher immigration
+05:20
+laws this is a lot like the know-nothing
+05:22
+party from the 1840s and 50s okay let's
+05:25
+talk about the immigration laws in the
+05:27
+1920s but before we do we have to look
+05:29
+at the past censuses since I so if we
+05:33
+look at 1881 to 1890 we'll see that
+05:36
+overwhelmingly most immigrants are from
+05:38
+northern and western Europe but as the
+05:40
+time goes on we're going to see more and
+05:42
+more southern and eastern or new
+05:44
+immigrants coming over but something
+05:46
+happens in the 20s that reverses that
+05:48
+will figure it out so in 1921 we have
+05:51
+the emergency quota act of 1921 and this
+05:53
+restricted the number of immigrants from
+05:55
+a country to 3% of the total people from
+05:58
+that country living in the u.s. in 1910
+06:01
+so I'm going to make it simple because
+06:03
+on my math teacher let's say in 1910
+06:05
+there are a hundred Italians living in
+06:08
+the United States that means according
+06:11
+to the emergency quota act of 1921 only
+06:13
+three Italian immigrants can come over
+06:16
+to the United States so this is a way to
+06:18
+severely restrict immigration it's
+06:20
+important to know the Year 1910 and this
+06:23
+is going to favor Southern and Eastern
+06:24
+Europe because there's a lot of
+06:25
+immigrants here you can see it basically
+06:27
+three-quarters of the immigrants in 1910
+06:30
+were from Southern and Eastern Europe
+06:33
+definitely hurts the amount of
+06:35
+immigrants coming in but still pretty
+06:36
+favorable to southern in Eastern Europe
+06:38
+so three years later
+06:40
+Congress passes another acted National
+06:42
+Origins Act of 1924 this cuts the quota
+06:45
+from 3 percent down to 2 percent so even
+06:48
+less are coming in but instead of the
+06:50
+1910 census Congress is going to use the
+06:53
+1890 census and that's going to hurt new
+06:56
+immigrants let's take a look at this
+06:57
+again in 1890 you'll see that the new
+07:00
+immigrants is very small here it's
+07:02
+probably about what they look like
+07:04
+one-sixth one-fifth so it's really going
+07:07
+to hurt these new immigrants and that
+07:09
+will favor the old immigrant so you
+07:12
+really this number here you can leave
+07:14
+two percent of a specific country coming
+07:16
+in in these two acts signified an end to
+07:19
+previously unrestricted immigration
+07:22
+you'll see that for the most part there
+07:24
+was no restrictions on immigration from
+07:27
+Europe we did have the Chinese Exclusion
+07:28
+Act in 1882 that's a little different
+07:30
+that's not a part of the new immigration
+07:33
+all right thank you very much watching
+07:35
+hopefully that helps clarify what new
+07:37
+immigration is it is not please take a
+07:39
+moment subscribe to my channel if you
+07:40
+have not already helped me spread the
+07:41
+word if you could show this to your
+07:42
+friends throw this on Twitter or
+07:44
+Facebook I would greatly appreciate it
+07:46
+if you have any questions or comments
+07:47
+feel free to leave them in the comment
+07:48
+section below thank you very much for
+07:50
+watching and have a good day guys
+        """
     class video7:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=LqLaQ1F0YFk"
+        title = """APUSH Review: Tammany Hall and "Boss" Tweed"""
+        captions = """
+00:00
+going on a push people we have a video
+00:01
+for you today on Tammany Hall and boss
+00:04
+tweed so we have a little politics
+00:06
+during the Gilded Age for you on the
+00:08
+docket today so let's get going
+00:10
+little background info on Tammany Hall
+00:11
+no starters on Tammany Hall was
+00:13
+established in the late 18th century
+00:15
+it's the late 1700s it was very
+00:17
+influential in the election of 1800 and
+00:20
+it helped New York State ultimately vote
+00:23
+for Thomas Jefferson Aaron Burr played a
+00:25
+key role with this so what exactly is
+00:27
+Tammany Hall you hear this lot well it
+00:29
+was a political machine ok what the heck
+00:31
+is a political machine well this is an
+00:33
+organization the held tremendous
+00:35
+influence in New York City so political
+00:37
+machine Timmy Hall is just a group of
+00:39
+people and often what they would do is
+00:41
+encourage the public to vote for Tammany
+00:43
+men and these Tammany men would be
+00:45
+politicians whether they're mayor's
+00:46
+governors legislators you needed and
+00:49
+they rewarded voters with patronage so
+00:52
+they would often tell people hey you
+00:53
+vote for our guy you vote for this
+00:55
+candidate and we will give you a job we
+00:58
+give you something in return for your
+01:01
+votes many mayors of New York City and
+01:03
+even governors in New York work Tammany
+01:05
+met as we will see throughout the second
+01:08
+half of the 19th century and early 20th
+01:10
+centuries Tammany Hall had tremendous
+01:12
+influence not only in New York City of
+01:13
+in New York State as well so let's start
+01:16
+talking about what graft is this is
+01:17
+important to understand Tammany Hall
+01:19
+graft is using political power for
+01:22
+personal gain now there's two types of
+01:24
+graft you should be familiar with one
+01:25
+it's honest graft and the next is
+01:27
+dishonest graft honest graft is using
+01:29
+inside information for personal gain and
+01:31
+this was popularized by man by the name
+01:33
+of George Washington Plunkett here is
+01:36
+George Plunkett and this is what he said
+01:38
+there's an honest graft and I'm an
+01:40
+example of how it works
+01:41
+I might sum up the whole thing by saying
+01:43
+I see my opportunities and I took them
+01:46
+just let me explain by examples my
+01:48
+party's a power in the city and it's
+01:49
+going to undertake a lot of public
+01:51
+improvements well I'm tipped off say
+01:53
+that there's going that they're going to
+01:55
+to lay out a new park at a certain place
+01:57
+I see my opportunity and I take it I go
+02:00
+to that place and I buy up all the land
+02:01
+I can in the neighborhood then the board
+02:04
+of this or that makes its play in public
+02:06
+and there's a rush to get my land which
+02:08
+nobody cared particular for before ain't
+02:11
+it perfectly asked to charge a good
+02:12
+price and make a profit
+02:13
+vestment in foresight of course it is
+02:15
+well that's honest graft so plug it
+02:18
+would buy a plan based on inside
+02:19
+information its celled at a higher price
+02:21
+that's honest graph dishonest graft is
+02:24
+stealing bribery etc this was
+02:27
+popularized by William boss tweed
+02:29
+alright let's get into boss tweed he was
+02:32
+a arguably the most famous member of
+02:34
+Tammany Hall and often times you will
+02:36
+see him depicted in political cartoons
+02:38
+he was a part of the Tweed ring that
+02:40
+stole up to 200 million dollars from New
+02:43
+York City and they did this by giving
+02:45
+high contracts for friends and workers a
+02:47
+plaster in a courthouse that built a
+02:50
+courthouse made something like two
+02:51
+hundred thousand dollars a ridiculous
+02:53
+amount of money for their work Thomas
+02:56
+Nast absolutely positively known Thomas
+02:58
+Nast he was an influential political
+03:00
+cartoonist here he is with a sweet
+03:02
+goatee some famous political cartoons
+03:05
+you see here the tweetering everybody's
+03:07
+blaming each other as who is responsible
+03:09
+and here is boss tweed off to the center
+03:12
+there we also have this political
+03:14
+cartoon in which a tiger is killing lady
+03:17
+democracy and you see that boss tweet up
+03:20
+here it's kind of the head of this he's
+03:22
+the Emperor in charge there and he
+03:25
+Thomas das was also a staunch critic of
+03:27
+tweed in Tammany Hall he publicized
+03:31
+countless political cartoons that made
+03:33
+people recognize who boss tweed was boss
+03:35
+tweed actually didn't care if you wrote
+03:37
+bad stories about him because as he said
+03:39
+his constituents could have read he
+03:41
+cared mostly about the pictures
+03:42
+everybody could understand pictures so
+03:45
+we have Samuel Tilden you may remember
+03:46
+him from the compromise of 1877 if not
+03:49
+check out that video in the description
+03:50
+below
+03:51
+he plays a very key role in tweeds
+03:54
+downfall
+03:55
+this helps catapult him to the
+03:56
+Democratic nomination in the election of
+03:58
+1876 which is also known as the
+04:00
+compromise of 1877 and just on a side
+04:03
+note ultimately boss tweed will be
+04:05
+caught because of the political cartoons
+04:07
+by Thomas Nast where he will go to jail
+04:09
+and later die let's go to Tammany Hall
+04:12
+in the early 20th century well in 1911
+04:14
+there's a Triangle Shirtwaist Factory
+04:15
+fire this happens in march 25th of that
+04:18
+year this is by far the work worst
+04:20
+workplace disaster new york city history
+04:23
+up until 9/11 hundred plus workers
+04:27
+mostly
+04:27
+women died many as young as ages 14 and
+04:30
+15 years old so Tammany Hall is gonna
+04:33
+play a very key role in new workplace
+04:36
+laws many people were protesting and
+04:39
+asking for tighter workplace laws safer
+04:42
+laws like not having fire exits blocked
+04:46
+the Tammany Hall was able to get the New
+04:48
+York state government to pass quite a
+04:49
+few laws that improved worker safety
+04:52
+progressive political changes like the
+04:54
+secret ballot of the Progressive Era
+04:56
+weaken the influence of political
+04:58
+machines and here's a very famous
+05:00
+cartoon you see boss tweed again in
+05:02
+there it ain't used to be a secret
+05:03
+ballot you would actually go to a place
+05:05
+like Tammany Hall and tell whoever is in
+05:08
+charge or who you were voting for in
+05:09
+boss tweed which stated they're innocent
+05:11
+counting their strength imagine somebody
+05:14
+going to boss tweed and telling them
+05:15
+that they wanted to vote for somebody
+05:16
+other than the Tammany mint probably
+05:18
+what had happened too often and by the
+05:21
+1960s Tammany was no longer in power so
+05:25
+I had quite a run there about a hundred
+05:26
+sixteen hundred seventy years that they
+05:28
+were in power for but no longer today
+05:30
+are they empowered all right some test
+05:33
+tips for Tammany Hall and boss tweed not
+05:35
+you're not very likely to see an essay
+05:37
+topic on Tammany Hall itself but rather
+05:39
+you definitely could include it into an
+05:42
+essay on politics during the Gilded Age
+05:44
+or corruption during the Gilded Age just
+05:46
+as an example of what was happening in
+05:48
+America tips for multiple choice
+05:50
+questions this is where you're more
+05:51
+likely to see Tammany Hall embossed we'd
+05:53
+definitely be familiar with political
+05:55
+cartoons emboss tweet especially this
+05:57
+one I've seen this one before these do
+05:59
+you're likely see bus Suites in the form
+06:02
+of a political cartoon so be able to
+06:03
+recognize him what the message of the
+06:05
+cartoon is do not sleep on Thomas Nast
+06:08
+make sure you remember his name be able
+06:10
+to identify him and he is the one that
+06:12
+made all those political cartoons and
+06:14
+don't forget about the Triangle
+06:15
+Shirtwaist Factory fire also and finally
+06:19
+good luck because you know you'll do
+06:20
+great on this alright thank you very
+06:21
+much for watching please take them home
+06:23
+and subscribe to my channel if you have
+06:24
+not already helped you spread the word
+06:25
+if you know anybody who would appreciate
+06:28
+this video please share it with them it
+06:29
+if you have any questions or concerns
+06:31
+please let me know in the comment
+06:32
+section below and have a good day guys
+        """
     class video8:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=bBkfZP7T1Xk"
+        title = "APUSH Review: Pools, Integrations, And Interlocking Directorates!"
+        captions = """
+00:00
+hey what's up baby push people we have
+00:02
+pools for you today integrations both
+00:04
+horizontal and vertical and interlocking
+00:08
+directorates lots of business practices
+00:09
+that you should be familiar with during
+00:12
+the late to 19th century so we're gonna
+00:14
+start off talking about pools today and
+00:15
+what our pools well a pool is when firms
+00:18
+would agree to divide up an area amongst
+00:21
+themselves so they would take a market
+00:23
+and each firm would essentially have
+00:25
+control of a specific area of that
+00:28
+market they would have a monopoly in
+00:30
+that market and this would enable them
+00:31
+to share in the profits this was used
+00:34
+especially by railroad companies and in
+00:37
+the late 19th century we're going to see
+00:39
+that the railroad companies are the ones
+00:40
+that people who want to change business
+00:43
+practices of are going to go after so
+00:45
+they'll wanna change the business
+00:46
+practices of railroads later in 1887
+00:50
+this is outlawed by the Interstate
+00:52
+Commerce Act which creates the
+00:54
+Interstate Commerce Commission and the
+00:57
+main goal this was to outlaw pools and
+00:59
+rebates as well which is essentially
+01:01
+free passes given to individuals
+01:04
+particularly senators and then you'll
+01:06
+see here is a political cartoon from PUC
+01:08
+magazine and you'll notice that the
+01:10
+railroad tycoons down here are asking
+01:13
+Uncle Sam to be able to raise their
+01:15
+rates because it's also outlawed certain
+01:17
+types of high rates and you can see
+01:19
+Cornelius Vanderbilt to the background
+01:20
+the ghost of him in shock that the
+01:22
+government is kind of having this effect
+01:25
+on the railroad industry okay to
+01:28
+integrations you should know vertical is
+01:30
+the first one this was made popular by
+01:32
+Andrew Carnegie and his steel company
+01:34
+there is good old Andrew so what is
+01:37
+vertical integration well this is when a
+01:39
+business controls all aspects of
+01:41
+production from beginning to end so an
+01:43
+example Carnegie steel he would control
+01:46
+the production for beginning to add
+01:48
+every single thing that went into making
+01:50
+steel was owned by Andrew Carnegie
+01:52
+so no outside company had anything to do
+01:55
+with making steel so from the beginning
+01:57
+to the very end it is touched only by
+01:59
+Carnegie steel and here is Carnegie
+02:01
+steel located in Pittsburgh
+02:05
+so why was is used well it would help
+02:07
+reduce cost there's no middleman it's
+02:09
+all you and it would keep everything
+02:10
+in-house was this legal and the answer
+02:13
+is yes it is legal to have vertical
+02:16
+integration let's go to horizontal
+02:19
+integration this was popularized by John
+02:21
+Rockefeller and his Standard Oil Company
+02:23
+there is John what is it it is when
+02:27
+businesses within an industry join
+02:29
+together and create a monopoly an
+02:31
+example Rockefeller Standard Oil he
+02:34
+would align with other companies both
+02:36
+when buying them out and dividing up the
+02:38
+market and he control about 90% of the
+02:40
+oil production in the United States at
+02:42
+one time lots of oil right there so the
+02:46
+question is was this legal eventually no
+02:49
+in the beginning it was but eventually
+02:50
+it becomes illegal finally we will
+02:52
+finish up with this guy JP Morgan and
+02:54
+interlocking directorates so what
+02:57
+exactly are these well it's when a Board
+02:59
+of director serves on multiple serves on
+03:01
+the board of multiple competing
+03:02
+companies so somebody could serve on the
+03:05
+Board of Directors for JP Morgan's bank
+03:07
+and they would also serve as a director
+03:09
+on a competing bank so again you have JP
+03:12
+Morgan in the baking industry one person
+03:14
+would serve on multiple boards of
+03:16
+different banks this was used to control
+03:19
+multiple businesses in the same industry
+03:20
+and was this legal eventually no in 1914
+03:25
+with the Clayton Antitrust Act which
+03:27
+prohibited this in the same industry so
+03:29
+you could not serve on multiple boards
+03:31
+within the same industry
+03:33
+all right that's everything you need to
+03:34
+know about those four business practices
+03:36
+thank you very much for watching if you
+03:37
+have any questions or comments feel free
+03:39
+to leave them in this section below and
+03:40
+have a good day guys
+        """
     class video9:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=gmbqzxHAm9k"
+        title = "APUSH Review: The Election of 1896"
+        captions = """
+00:02
+hey what's going on ap people we have
+00:04
+one of the more important elections of
+00:06
+the 19th century the election of 1896 we
+00:10
+have waited Jennings Bryan versus
+00:12
+William McKinley's the tube Williams
+00:15
+against each other often does that
+00:16
+happen huh all right let's get going so
+00:19
+some background info while Grover
+00:20
+Cleveland who was a 22nd and 24th
+00:23
+President of the United States is not
+00:25
+read on nated by the Democrats he was
+00:28
+hurtin large part by the panic of 1893
+00:31
+and this panic hurt many Americans but
+00:34
+especially farmers and that's who
+00:36
+William Jennings Bryan is going to
+00:37
+appeal to during this election at its
+00:40
+worst twenty percent of Americans were
+00:42
+unemployed that still is short of the
+00:45
+Great Depression where you ought where
+00:47
+you did see 25 percent of Americans who
+00:49
+were unemployed and the currency issue
+00:52
+dominated politics while I'm talking
+00:54
+about the currency issue I'm talking
+00:55
+about gold versus silver hopefully I'll
+00:57
+be able to clarify that in this video
+00:59
+because this is a huge huge topic in the
+01:02
+late 19th century okay let's get to know
+01:06
+the candidates the Democratic candidate
+01:07
+is a dark horse candidate by the name of
+01:10
+William Jennings Bryan and here is
+01:12
+William he was 36 years old when he was
+01:14
+nominated like my political hero Henry
+01:17
+Clay he runs for president three times
+01:20
+and loses every single time at least
+01:23
+clay spread it out Wayne James Bryan
+01:25
+lost in 1896 1900 and 1908 so three out
+01:29
+of four presidential elections he lost
+01:31
+that poor guy he was an incredible
+01:35
+orator for his time at the Democratic
+01:37
+convention he gave a famous speech which
+01:39
+is known as the cross of gold speech and
+01:41
+definitely know the cross of gold speech
+01:42
+and he actually invigorates the
+01:45
+convention and they carry him away they
+01:46
+are so excited about his speech and he
+01:49
+ends us by saying you shall not press
+01:51
+down upon the brow of Labor this crown
+01:54
+of four thorns you shall not crucify
+01:57
+mankind upon a cross of gold we'll see
+02:00
+what that means in just a few minutes so
+02:02
+the Republican candidate is William
+02:04
+McKinley the former Congress meant from
+02:07
+Ohio and author of the very high tariff
+02:09
+the McKinley tariff which was passed in
+02:11
+1890
+02:13
+mark Hana this guy is essentially
+02:15
+McKinley's campaign manager and he
+02:18
+builds a huge war chest of funds that
+02:20
+the Republicans actually have like five
+02:22
+times as much money as the Democrats in
+02:26
+William Jennings Bryan so this is really
+02:28
+like one of the first modern-day
+02:29
+campaigns and you see campaign managers
+02:32
+really start to play a crucial role in
+02:34
+elections so the issues in the campaign
+02:37
+well the free silver and this is
+02:38
+something that William Jennings Bryan
+02:40
+will campaign on and this is favored by
+02:42
+Bryan and the Democrats and also the
+02:44
+populist and they advocated or favored
+02:47
+the free and unlimited coinage of silver
+02:49
+at a 16 to 1 ratio and here is one of
+02:52
+his political posters from the 1896
+02:55
+campaign but let's figure out what the
+02:57
+heck does that mean well 16 ounces of
+02:59
+silver would equal one ounce of gold so
+03:03
+why is Bryan advocating this why does he
+03:05
+want to introduce silver into the
+03:08
+economy it would increase the money
+03:10
+supply so more money would be available
+03:12
+which would lead to inflation this would
+03:14
+help this inflation would help those
+03:16
+that are less wealthy particularly
+03:18
+farmers and debtors know that those that
+03:21
+Oh money if you owe money somebody and
+03:23
+now more money is in circulation that
+03:25
+money becomes worth less and that will
+03:27
+be easier to repay however wealthy
+03:29
+individuals will be against that bankers
+03:32
+and people who are lenders so the
+03:34
+Republicans will oppose that then we
+03:36
+have tariffs which is another big issue
+03:38
+and all throughout the 19th century and
+03:40
+remember Republicans favored high
+03:42
+protective tariffs Republicans wanted to
+03:44
+raise tariffs and here is McKinley's
+03:48
+campaign poster from 1896 and you see in
+03:51
+the top left it says protection our home
+03:54
+defender so they were in favor of really
+03:56
+high protective tariffs that would
+03:58
+protect American industries that is a
+04:00
+theme of Republicans throughout the 19th
+04:03
+and early 20th century they want to
+04:05
+raise tariffs I say that in a lot of
+04:07
+videos very important guys please
+04:09
+remember that and there it is again
+04:10
+remember Republicans want to raise
+04:12
+tariffs conversely Democrats want to
+04:14
+decrease tariffs McKinley was known for
+04:17
+giving front porch speeches at his home
+04:20
+in Canton Ohio and Brian did a railroad
+04:23
+campaign so here is McKinley's front
+04:25
+porch and
+04:26
+Canton Ohio and he gave speeches to
+04:28
+about 70,000 people they would show up
+04:30
+and he would just stand on his porch and
+04:32
+talk to them imagine that just going to
+04:33
+the home of a candidate pretty cool
+04:35
+whereas Brian traveled the country by
+04:37
+rail roads and you can see here here is
+04:39
+a map of where he traveled he had a lot
+04:41
+of the Midwest traveled over he traveled
+04:45
+thousands of miles spreading his message
+04:47
+so what are the resultant impact well
+04:49
+McKinley defeats Brian 271 to 176 and
+04:53
+the electoral college you can see here
+04:56
+that overwhelmingly the North is going
+04:58
+to vote for McKinley and the south is
+05:00
+going to vote for Brian and keep in mind
+05:02
+at this time the South traditionally
+05:04
+votes Democratic that is known as the
+05:06
+solid south so McKinley versus Bryan is
+05:08
+going to happen again in 1900 I will be
+05:12
+defeated this will be the beginning of
+05:14
+or the continuation really but also the
+05:16
+beginning Republican dominance in the
+05:17
+oval office
+05:18
+aside from Grover Cleveland and Woodrow
+05:22
+Wilson you'll see a lot of Republicans
+05:24
+including McKinley Roosevelt and Taft
+05:26
+and Bryan's hope of free silver will not
+05:29
+happen to kill even Republicans will not
+05:30
+allow it to happen
+05:32
+all right that's everything you need to
+05:34
+know about the election of 1896 thank
+05:36
+you very much for watching if you could
+05:37
+take a moment subscribe to my channel if
+05:38
+you have not already please help spread
+05:40
+the word throw this on any social media
+05:42
+website they'll let as many people as
+05:44
+possible know about this if you would
+05:46
+like to download the PowerPoint for this
+05:48
+video please follow the link in the
+05:49
+description below
+05:50
+thank you guys very much for watching if
+05:52
+you have any questions or comments feel
+05:54
+free to leave them below as well and
+05:55
+have a good day
+        """
     class video10:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=F7LKIIThtPM&t"
+        title = "APUSH Review: Plessy v. Ferguson"
+        captions = """
+00:03
+hey what's going on ap peeps we have one
+00:06
+of the most important court cases in US
+00:08
+history for you today Plessy vs.
+00:10
+Ferguson from 1896 so let's figure out
+00:13
+what exactly is going on this court case
+00:16
+will have far-reaching effects for
+00:18
+decades and decades and decades to come
+00:20
+okay some key ideas before the court
+00:22
+case let's review really quickly the
+00:24
+Reconstruction Amendments which are the
+00:26
+13th 14th and 15th amendments remember
+00:29
+the 13th amendment abolishing slavery
+00:31
+the 14th amendment does many things
+00:33
+which includes granted citizenship to
+00:36
+African Americans and defined
+00:37
+citizenship for future Americans and
+00:40
+also guaranteed equal protection under
+00:44
+the law and that's going to come into
+00:45
+play in this core case Plessy vs.
+00:47
+Ferguson and the 15th amendment provided
+00:49
+suffrage for African American males and
+00:52
+also we had Jim Crow laws that were
+00:54
+predominant in the south and these were
+00:56
+segregation laws and the south so this
+00:58
+legally required blacks and whites to be
+01:01
+segregated or separated in in the south
+01:04
+ok let's talk about who Homer Plessy is
+01:07
+and let's start with the Citizens
+01:09
+Committee this is a civil rights group
+01:11
+in the south and they wanted to attack
+01:14
+or challenge segregation laws in
+01:17
+Louisiana and this whole court case
+01:18
+really begins in New Orleans of
+01:20
+Louisiana and they wanted to
+01:22
+specifically attack the separate car act
+01:24
+which required equal but separate train
+01:27
+cars for blacks and whites so if you
+01:30
+were black you could not sit in the
+01:32
+white section of a train in the South
+01:35
+specifically Louisiana so Homer Plessy
+01:38
+here is Homer he is biracial and he
+01:41
+lived in Louisiana so he was picked to
+01:43
+specifically challenge this separate car
+01:46
+act and he is arrested for sitting in
+01:49
+the first-class section of a white train
+01:51
+cart if you go to New Orleans there
+01:54
+right in New Orleans in 2009 this plaque
+01:56
+was put up where the train station was
+01:59
+that Homer Plessy got on which started
+02:01
+the whole Corps case Plessy versus
+02:03
+Ferguson okay so it goes
+02:07
+Supreme Court Plessy and the Citizens
+02:10
+Committee challenges us and says this is
+02:11
+unfair in Plessy suit citing the
+02:14
+Fourteenth Amendment which states no
+02:16
+State shall make or enforce any law
+02:19
+which shall abridge the privileges or
+02:22
+immunities of citizens of the United
+02:25
+States so it's basically saying you
+02:26
+can't make any law it takes away
+02:28
+people's rights
+02:28
+that is what plus he's arguing Louisiana
+02:32
+judge ruled that the state could in fact
+02:34
+regulate railroads within the state as
+02:36
+long as the cars were separate but equal
+02:40
+so it's appealed all the way to the
+02:41
+Supreme Court in the Supreme Court in a
+02:43
+seven to one decision cited against
+02:46
+Plessy against Homer Plessy and they
+02:49
+cited for Louisiana and upheld that
+02:52
+issue of separate but equal now the one
+02:55
+lone dissenter was a justice by the name
+02:58
+of John Marshall Harlan boy this guy
+03:00
+wasn't destined to be a justice on the
+03:02
+Supreme Court his name is John Marshall
+03:04
+for cryin out loud and here's what he
+03:06
+said in view of the Constitution in the
+03:09
+eye of the law there is in this country
+03:12
+no superior dominant ruling class of
+03:15
+citizens there is no caste here our
+03:18
+Constitution is colorblind and neither
+03:20
+knows nor tolerates classes among
+03:22
+citizens in respective civil rights all
+03:25
+citizens are equal before the law he was
+03:28
+the only one in the Supreme Court that
+03:30
+disagreed or went against this decision
+03:33
+he was a man ahead of his time for sure
+03:35
+so what are the effects of this court
+03:38
+case well Jim Crow laws are now
+03:40
+officially upheld by the Supreme Court
+03:42
+and this doctrine of separate but equal
+03:46
+will remain in effect for 58 years until
+03:49
+1954 with the core case Brown versus the
+03:52
+Board of Education which I will do video
+03:54
+on you please make sure to check that
+03:56
+out as well and you will see this all
+03:58
+throughout this out that there are these
+03:59
+separate facilities for whites and
+04:01
+blacks and these facilities would be
+04:03
+labeled as color waiting rooms colored
+04:05
+drinking fountains color bathrooms you
+04:08
+name it there were separate facilities
+04:09
+and would be illegal for an African
+04:12
+American to use a white facility and in
+04:15
+reality of course these separate
+04:16
+facilities were not equal here's a
+04:18
+cartoon from 1904 by John
+04:21
+touch'n who kind of satirized how these
+04:24
+facilities are not equal whatsoever you
+04:26
+see a car for white folks which is very
+04:28
+nice and then a Jim Crow car which is
+04:30
+crumpled up and looks pretty beat-up
+04:33
+Plessy vs. Ferguson was finally
+04:36
+overturned in 1954 in 1964 was extended
+04:39
+even further 1954 Brown versus the Board
+04:42
+of Education in 1964 Civil Rights Act of
+04:46
+1964 which makes segregation ill legal
+04:49
+all right thank you very much for
+04:51
+watching hopefully that clarified lots
+04:52
+of information on Plessy versus Ferguson
+04:55
+please take a moment subscribe to my
+04:57
+channel if you have not already helped
+04:59
+me spread the word if you if you have
+05:00
+any questions or comments feel free to
+05:02
+leave them in the section below in the
+05:04
+comments section below I appreciate you
+05:05
+guys watching and have a good day
+        """
     class video11:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=aq88f8qZbWs"
+        title = "APUSH Review: The Frontier"
+        captions = """
+00:02
+hey what's going on aap peeps we have a
+00:06
+push review the frontier for you on the
+00:08
+docket today lots to know about the
+00:10
+frontier it is a topic that appears
+00:12
+quite often on your exam so please be
+00:14
+familiar with everything we will be
+00:15
+covering in this video alright so let's
+00:18
+do a little intro to what the frontier
+00:20
+is so let's figure out what exactly it
+00:22
+is well it's a line that separated east
+00:25
+and west or civilization from wilderness
+00:28
+and it's important to note that
+00:30
+throughout American history this line
+00:32
+constantly shifted it was it was not a
+00:34
+line that Stood Still this was something
+00:36
+that was fluid and continued to move as
+00:38
+time went on and it often shifted
+00:40
+further and further west so for example
+00:43
+at one time in United States history
+00:45
+the frontier was this line that followed
+00:48
+the Appalachian Mountains over the
+00:49
+proclamation line of 1763 this could
+00:52
+have been said to have been the frontier
+00:53
+at one point so everything to the west
+00:56
+of this was wilderness or unexplored
+00:58
+area if we look at this next map by 1860
+01:02
+which is all these little dots here the
+01:05
+frontier is kind of in the middle of the
+01:06
+country so there's all this unexplored
+01:08
+land out here so it's really where east
+01:10
+meets west keep that in mind and this is
+01:12
+something that is fluid and moves
+01:14
+throughout time so why is it so
+01:17
+important while many Americans viewed
+01:19
+the frontier as an opportunity
+01:21
+particularly an economic opportunity for
+01:23
+that this goes along with something
+01:25
+called the safety valve theory and what
+01:27
+this states is that people it was this
+01:29
+belief that people could always move to
+01:31
+the frontier in times of economic crises
+01:33
+so if you're living in the city if you
+01:36
+get laid off from your job and in the
+01:38
+factory or wherever it may be there is
+01:40
+always this belief that you could just
+01:41
+pack up and move out west and you could
+01:43
+farm and then experience lots of
+01:45
+economic opportunities out west in
+01:48
+reality most people did not at 8 did not
+01:51
+take advantage of the frontier but the
+01:53
+idea this represented
+01:55
+optimism for people and hope for better
+01:57
+times if need be
+01:59
+so it's flash forward to 1890 this is a
+02:02
+very very important year in the frontier
+02:04
+history and we have the census to keep
+02:06
+in mind the census is taken every 10
+02:08
+years every year that ends it is zero
+02:10
+and is helped to determine the
+02:11
+population of the
+02:13
+country for the first time in United
+02:15
+States history in 1890 a frontier line
+02:17
+was no longer visible let's take a look
+02:19
+at another map here by 1860 all the red
+02:22
+was settled by 1870 all this orange was
+02:27
+who you see it expanding more and more
+02:29
+by 1880 is this yellow and by 1890 is
+02:33
+the green so if you look at this map by
+02:34
+1890 really there's not a lot of areas
+02:37
+as left to be unsettled most of this
+02:39
+area is probably desert or not arable or
+02:43
+good land to farm on so by 1890 the
+02:45
+frontier is essentially gone the US
+02:47
+Census Department reports so what
+02:50
+contributed to the decline in the
+02:51
+frontier while there was mass migration
+02:53
+out west in part due to gold rushes and
+02:57
+the Homestead Act of 1862 which offered
+02:59
+free or reduced land for settlers to
+03:02
+move out west and improve the land so in
+03:05
+1893 three years later we have a very
+03:08
+important thesis and it's titled the
+03:10
+significance of the frontier in American
+03:12
+history written by this guy Frederick
+03:15
+Jackson Turner that is yet another sweet
+03:18
+mustache look at the length coming off
+03:20
+of that if you'll notice have an
+03:21
+obsession with mustaches and this is a
+03:25
+pretty good one so the main idea the
+03:28
+writing the end of the frontier ended a
+03:30
+unique era in US history is what mr.
+03:33
+Turner argued and here's a quote from
+03:35
+his writing it says up to our own day
+03:38
+American history has been a large degree
+03:41
+in the history of the colonization of
+03:43
+the Great West the existence of an area
+03:46
+of free land it's continuous recession
+03:50
+in the advance of American settlement
+03:52
+westward explain American development so
+03:56
+in other words the frontier really
+03:58
+according to him helped contribute to
+04:00
+the American identity and this helped
+04:02
+make American society different from
+04:04
+Europe this is why American identity was
+04:06
+so much different from European
+04:08
+countries so what's the impact of the
+04:10
+end of the frontier now that it's over
+04:12
+many historians argue that the closing
+04:14
+of the frontier helped lead to overseas
+04:17
+expansion and again in 1890 the frontier
+04:19
+is over please know that it's closed and
+04:21
+two areas that we'll see the United
+04:23
+States expand into are Asia in the
+04:26
+Caribbean so if you were to ever see a
+04:28
+an essay about why the US expanded
+04:31
+overseas and began developing a policy
+04:34
+of imperialism there's many reasons for
+04:36
+that and I'll do a video on that later
+04:37
+but you can really argue that it began
+04:39
+that now that the United States the
+04:42
+frontier ended and all the land is
+04:43
+essentially taken people wanted to look
+04:45
+outside the continental United States
+04:47
+and also unfortunately for Native
+04:50
+Americans most of their land much of
+04:52
+their land they lost this is around the
+04:54
+time that we'll start to see Native
+04:55
+Americans be put on reservations and
+04:57
+they'll have less and less land
+04:59
+available to them all right that's it
+05:01
+for me in the frontier thank you very
+05:02
+much for watching if you could take a
+05:03
+moment and subscribe to my channel if
+05:05
+you have not already if you can help me
+05:06
+spread the word put this on Pinterest
+05:08
+Twitter or Facebook show the same but do
+05:11
+you think would benefit from this well
+05:13
+there is a fellow classmate a teacher or
+05:14
+friend and another school anybody you
+05:16
+think please take a moment and share
+05:17
+this with them if you have any questions
+05:19
+or comments on this video or any others
+05:21
+please feel free to leave them in the
+05:22
+comments below and I will respond thank
+05:24
+you very much guys
+05:25
+I appreciate you watching and have a
+05:27
+good day
+        """
     class video12:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=csbplgLpS9I"
+        title = "APUSH Review: Native Americans In The Late 19th Century"
+        captions = """
+NO CAPTIONS
+        """
     class video13:
-        url = ''
-        title = ''
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=0hsTpTc_T3M"
+        title = "APUSH Review: Booker T. Washington and W.E.B. DuBois"
+        captions = """
+00:01
+what's going on history peeps we have a
+00:03
+review video for you today I'm Booker T
+00:06
+Washington and w e be Dubois two very
+00:09
+influential african-americans from the
+00:11
+late 19th early 20th centuries
+00:14
+well that's gay going alright little
+00:16
+background on Booker T Washington he was
+00:18
+born in Virginia in 1856 as a slave so
+00:22
+he would not see emancipation through
+00:24
+the Thirteenth Amendment for many many
+00:27
+years later he established a Tuskegee
+00:29
+Institute in Alabama and here's a
+00:31
+picture of his a college for
+00:33
+african-americans and there is a house
+00:36
+that he lived in for most of his adult
+00:38
+life at the Tuskegee Institute this
+00:40
+house is still there you could go visit
+00:42
+it in Alabama he believed very shortly
+00:45
+that education was very important for
+00:47
+African Americans especially be able to
+00:49
+identify this vocational training this
+00:52
+is learning a specific school skill
+00:55
+today might be like being a plumber or
+00:57
+an electrician but it is learning a
+00:59
+specific skill and that's what he
+01:00
+encouraged African Americans to study
+01:02
+that type of education vocational in
+01:06
+1895 he gave a very famous speech called
+01:08
+the Atlanta compromise in which
+01:10
+expressed his belief that African
+01:12
+Americans should accept segregation
+01:14
+remember this is in the south this is
+01:15
+right in the heart of the Jim Crow era
+01:18
+in which African Americans and whites
+01:20
+were segregated and he argued that
+01:22
+African Americans should accept that
+01:24
+segregation in exchange for economic
+01:26
+opportunity so he saw this more as a
+01:28
+gradual thing in which African Americans
+01:31
+would eventually gain equality but in
+01:33
+the meantime just focus on economic
+01:35
+opportunities they need a very famous
+01:37
+quote it said in all things that are
+01:39
+purely social we could be as separate as
+01:42
+the finger so when it comes to socially
+01:43
+when it comes to segregation
+01:46
+african-americans of whites could be
+01:47
+separate yet one as the head in all
+01:50
+things essential to mutual progress so
+01:52
+as a cut when it comes to economic
+01:54
+opportunities definitely be familiar
+01:56
+with the Atlanta compromise and that
+01:58
+quote there please w eb Du Bois well he
+02:02
+was born in 1868 in Massachusetts so he
+02:05
+was born twelve years later and he was
+02:07
+born in the north so he never was born
+02:09
+as late he didn't know slavery slavery
+02:11
+was alley
+02:12
+go buy this plate so he's going to have
+02:13
+a much different life experience than
+02:16
+Booker T Washington did he received a
+02:19
+doctorate from Harvard he was the first
+02:21
+african-american to get his ph.d and he
+02:24
+a post Booker T Washington's
+02:27
+accommodation policies he was against
+02:29
+his ideas that blacks should accept
+02:32
+segregation in 1905 he was a very
+02:35
+important member of the Niagara movement
+02:37
+to see him right in the center here in
+02:39
+this picture this happened in Niagara
+02:41
+Falls Canada not Niagara Falls in New
+02:43
+York because hotels would not allow them
+02:45
+to stay so the golden Agri movement was
+02:47
+to end discrimination and segregation in
+02:50
+the United States
+02:51
+this helps morph into a couple years
+02:53
+later the n-double-a-cp or the National
+02:55
+Association for the Advancement of
+02:57
+Colored People and the goal of this
+02:59
+organization which is still around today
+03:01
+is to ensure equality and to end
+03:03
+discrimination as well w e be to believe
+03:06
+that something called the talented tenth
+03:08
+which we very well may see on any exam
+03:10
+and this is the belief that leaders in
+03:12
+the african-american community should
+03:14
+have full access to education in
+03:16
+American life so he didn't necessarily
+03:18
+believe in the vocational training that
+03:20
+Booker T believed in he believed that
+03:23
+African Americans should be able to to
+03:25
+pursue any education that they wish
+03:27
+including getting a doctorate as he did
+03:30
+from Harvard alright let's compare the
+03:33
+two individuals both wanted rights for
+03:35
+african-americans and again they were as
+03:37
+I said the beginning of the video they
+03:38
+were two of the most influential if not
+03:40
+the most influential african-americans
+03:42
+from the late 19th and early 20th
+03:44
+centuries and they differed on how to
+03:47
+achieve those rights again w EB was
+03:50
+against accommodation and segregation
+03:52
+Booker T was in favor of gradual
+03:55
+acceptance for African Americans he
+03:57
+realized this would not be won overnight
+03:58
+so it may take a little while whereas w
+04:01
+eb wanted immediate acceptance okay some
+04:04
+test tips for these two individuals as
+04:06
+you very well may see them if it's an
+04:08
+essay topic i chances are you won't see
+04:11
+them comparing you won't see a topic
+04:13
+comparing Booker T and W and B rather
+04:16
+what you'll see is comparing these two
+04:18
+individuals with other leaders from
+04:20
+different types so for example how to
+04:23
+Booker T W EB Dubois compared to
+04:26
+Martin Luther King and Malcolm X in the
+04:27
+1950s and the 1960s will kind of be the
+04:30
+two of them compared to two other
+04:33
+individuals from another time multiple
+04:36
+choice question tips when you see Booker
+04:38
+T thank vocational training and
+04:40
+definitely be able to identify that
+04:42
+quote and all things that are purely
+04:44
+social we could be as separate as the
+04:45
+fingers that was part of his Atlanta
+04:48
+compromise speech again accepting
+04:49
+segregation as long as you have economic
+04:52
+opportunities for W EB definitely know
+04:55
+the N double ACP know the Nagre movement
+04:57
+and know the talented tenth I mean it's
+04:59
+pretty much knowing everything in this
+05:00
+video but it's key word association
+05:02
+there to help you out with your test and
+05:05
+also good luck you'll do great you're
+05:06
+brilliant so thank you very much for
+05:08
+watching take a moment subscribe to my
+05:09
+channel if you have not already if you
+05:12
+could help me spread the word with this
+05:13
+video I would greatly appreciate if you
+05:15
+have any questions or comments feel free
+05:16
+to leave them in this section below
+05:18
+thank you very much for watching and
+05:20
+have a good day guys
+        """
     captions = (video1.captions + video2.captions + video3.captions + video4.captions + video5.captions + video6.captions + video7.captions + video8.captions +
     video9.captions + video10.captions + video11.captions + video12.captions + video13.captions)
 
 
 class Unit7:
     class video1:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video2:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video3:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video4:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video5:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     captions = video1.captions + video2.captions + video3.captions + video4.captions + video5.captions
 
 
 class Unit8:
     class video1:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video2:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video3:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     captions = video1.captions + video2.captions + video3.captions
 
 
 class Unit9:
     class video1:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video2:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     class video3:
-        url = ''
-        title = ''
+        url = ""
+        title = ""
         captions = """"""
     captions = video1.captions + video2.captions + video3.captions
