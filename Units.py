@@ -22691,55 +22691,5708 @@ have a good day guys
 
 class Unit7:
     class video1:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=IeGmfbRrJ5Y"
+        title = "APUSH Review: Key Concept 7.1, revised (most up-to-date edition)"
+        captions = """
+00:03
+it was going on a push beeps we have key
+00:06
+cans up seven point one for you this is
+00:07
+the revised edition the most up-to-date
+00:09
+edition for the a push curriculum all
+00:13
+right let's start off with key concepts
+00:15
+seven point one it states growth
+00:17
+expanded opportunity while economic
+00:19
+instability led to new efforts to reform
+00:21
+u.s. society and its economic system
+00:24
+that's straight from page 68 and let's
+00:26
+take a look at some big idea questions
+00:28
+you should be able to answer number one
+00:30
+why did the u.s. transform from a rural
+00:32
+to industrial society and how did this
+00:34
+affect the lives of women and other
+00:36
+Americans
+00:36
+why did citizens and government
+00:38
+officials call for increased
+00:40
+intervention in the economy hint it'll
+00:42
+be the Great Depression and how did the
+00:44
+New Deal change through the relationship
+00:46
+between the government and the economy
+00:48
+and that to me sounds like a very good
+00:50
+short answer question or s a question
+00:53
+about the changing role of the federal
+00:56
+government alright let's take a look at
+00:58
+Roman numeral one it states the United
+01:00
+States continued its transition from a
+01:02
+rural agricultural economy to an urban
+01:04
+industrial economy led by large
+01:07
+corporations so some new technologies of
+01:10
+manufacturing techniques you should be
+01:12
+familiar with we have things like the
+01:13
+assembly line during the 19-teens in the
+01:15
+1920s this was really popularized by
+01:18
+Henry Ford and utilizing Taylorism or
+01:21
+this idea of time tasks and workers
+01:23
+would have the same repetitive tasks
+01:26
+over and over and over again a really
+01:28
+increased efficiency for products and
+01:30
+there was a huge focus on production of
+01:33
+consumer goods things like radios
+01:34
+refrigerators cars the Model T etc
+01:37
+during this time so what is impact of
+01:41
+these new goods while we have an
+01:42
+improved standard of living
+01:43
+we've greater personal mobility due to
+01:45
+cars most people prior to the invention
+01:47
+of the car really never traveled beyond
+01:49
+about 55 miles from where they were born
+01:52
+now they could travel all across the
+01:53
+country you have increased vacations and
+01:55
+new businesses even popping up across
+01:58
+the country and we also have better
+02:00
+communication systems things like phones
+02:02
+and radios which will become very
+02:04
+popular in the 1920s and forward so the
+02:07
+US will transform from a rural to an
+02:09
+urban society in 1920 that's the first
+02:12
+year in history that there are more
+02:13
+people living in cities than in rural
+02:16
+areas and this provided opportunities
+02:18
+for many different Americans you have
+02:20
+women who are working in factories at
+02:22
+places like the Triangle Shirtwaist
+02:23
+Factory in New York City which sadly
+02:26
+caught fire and here is a picture of
+02:27
+that the women had women began to work
+02:30
+outside the home of very large numbers
+02:32
+usually in textile factories
+02:34
+international migrants these are your
+02:36
+new immigrants that are coming over from
+02:38
+Southern and Eastern Europe and they're
+02:40
+moving to cities to work in factories
+02:41
+and you also have internal migrants and
+02:44
+we'll talk about this more in the next
+02:45
+key concept African Americans are moving
+02:47
+north as well as farmers are moving from
+02:49
+the south to the north to work in cities
+02:52
+and this movement of African Americans
+02:53
+to the north from the south
+02:55
+this is called the great migration which
+02:57
+we'll talk about more in the next key
+02:58
+concept
+03:00
+okay so economic downturns led to calls
+03:03
+for government involvement the creation
+03:05
+of a stronger financial regulatory
+03:06
+system so as a result of the Great
+03:08
+Depression people are going to begin to
+03:10
+call in larger numbers for government
+03:13
+intervention in the economy we have
+03:14
+things like the FDIC or the Federal
+03:16
+Deposit Insurance Corporation this was
+03:18
+created by FDR one of his first programs
+03:21
+to insure bank deposits so if a bank
+03:23
+went bankrupt your money would not and
+03:25
+this drastically decrease the number of
+03:27
+bank failures that the US was facing
+03:30
+especially in early on in FDR's
+03:32
+presidency which happened to be his
+03:34
+first year in 1933 the same year the
+03:37
+FDIC was created okay Roman numeral two
+03:39
+states in the Progressive Era of the
+03:41
+early 20th century progressives
+03:42
+responded to political corruption
+03:44
+economic instability and social concerns
+03:47
+by calling for greater government action
+03:49
+and other political and social measures
+03:52
+so a Progressive Era journalists
+03:54
+sometimes called muckrakers a term that
+03:56
+was coined by Teddy Roosevelt and they
+03:58
+attacked political corruption people
+04:01
+like Lincoln Steffens wrote a book
+04:03
+called the shame of cities and this
+04:04
+exposed corruption between municipal or
+04:06
+city government and businesses can't
+04:09
+talk about the Progressive Era without
+04:11
+talking about Jacob Riis and how the
+04:12
+other half lives his book focused on
+04:14
+poor people living in tenements in New
+04:16
+York City and this was really about
+04:17
+social injustice and economic inequality
+04:20
+and then when we're talking about
+04:22
+progressive error reformers who most
+04:24
+often happen to be middle class in
+04:25
+living in cities and certainly women
+04:27
+you have to know that they saw social
+04:28
+changes in cities and immigrant
+04:30
+populations and you know who this is
+04:32
+going to be you know it absolutely Jane
+04:34
+Addams and the whole house this was a
+04:36
+settlement house specifically aimed at
+04:38
+women and immigrants in large cities
+04:41
+this was founded in Chicago and other
+04:43
+settlement houses and Hall houses popped
+04:45
+up throughout the country on the
+04:46
+national level progressives sought to
+04:48
+regulate the economy you see the Clayton
+04:49
+Antitrust Act this will strengthen the
+04:52
+Sherman Antitrust Act and will allow the
+04:53
+government more power and breaking up
+04:56
+trusts or monopolies this also exempted
+04:59
+labor unions from prosecution also the
+05:01
+Federal Reserve Bank is created under
+05:03
+Woodrow Wilson's presidency in the
+05:04
+19-teens and this Bank was established
+05:07
+to control the money supply and it's
+05:09
+still around today more than a hundred
+05:11
+years later progressives sought to
+05:12
+expand democracy you see this with the
+05:14
+17th amendment there the direct election
+05:16
+of senators and this occurred because
+05:18
+senators used to be elected by state
+05:21
+legislatures and there weren't many
+05:23
+calls that the Senate was corrupt by
+05:27
+trust and you see here a very famous
+05:30
+political cartoon from PUC magazine you
+05:32
+have the steel beam trust you have the
+05:33
+copper trust Standard Oil Trust and it
+05:36
+says trust of the Senate's when you look
+05:38
+at this and the title down here in the
+05:39
+bottom says the bosses of the Senate
+05:41
+it's not the Senators it is the trust so
+05:44
+one way to limit that people thought was
+05:47
+allow for the direct election of
+05:48
+senators and allow citizens to vote on
+05:51
+the senators progressives also sought to
+05:53
+generate moral reform you see them the
+05:56
+18th amendment of 1919 which create a
+05:58
+prohibition which banned alcohol other
+06:00
+progressive constitutional amendments
+06:02
+that you should be familiar with the
+06:04
+16th created an income tax I remember
+06:06
+this because six has an axe in it as
+06:08
+does tax then the 19th amendment really
+06:11
+signifies the end of the Progressive Era
+06:13
+1920 this is women's suffrage so now all
+06:16
+adult citizens in the u.s. can vote we
+06:19
+have preservation as in conservation as
+06:21
+to terms you should be familiar with
+06:22
+during the Progressive Era and they both
+06:25
+advocated the establishment or favored
+06:28
+the establishment of national parks but
+06:30
+their responses to the overuse of
+06:33
+resources were different conservation is
+06:36
+people like Teddy Roosevelt who if he
+06:37
+were to turn around would could look
+06:39
+down 3,000 feet very high
+06:41
+they will advocate the proper use of
+06:43
+nature so Teddy Roosevelt ate that
+06:45
+people should be able to enjoy nature as
+06:47
+long as they're not over using it
+06:49
+preservation is on the other hand they
+06:51
+wanted complete protection of nature
+06:53
+from you so preservationist did not want
+06:55
+anybody to use nature whereas
+06:57
+conservationists want people to be able
+06:59
+to use nature as long as they didn't
+07:01
+overuse it there were some issues that
+07:03
+divided progressives including
+07:05
+segregation you have people like WEP
+07:07
+Dubois he was one of the cofounders of
+07:09
+the n-double a-c-p which emerged out of
+07:11
+the Niagara movement they sought to end
+07:13
+segregation and do so immediately on the
+07:16
+other end you have Booker T Washington
+07:17
+he's wanted more economic equality first
+07:20
+I do have a video on both of these guys
+07:21
+we also have expanding popular
+07:23
+participation in government some
+07:25
+progressives thought you know what it's
+07:27
+best for the educated and the
+07:28
+professionals to make decisions others
+07:30
+said you know what it's better for broad
+07:32
+political participation and immigration
+07:35
+divided progressives their disagreements
+07:39
+over restriction of immigration and we
+07:40
+will not see restriction on immigration
+07:42
+until the 1920s that will be in the next
+07:45
+key concept video all right we'll finish
+07:47
+up with Roman numeral three during the
+07:48
+1930s policymakers responded to the mass
+07:51
+unemployment social upheavals of the
+07:53
+Great Depression by transforming the
+07:55
+u.s. into a limited welfare state that
+07:57
+means that the government is involved in
+07:59
+helping people redefining the goals and
+08:02
+ideas of modern American liberalism so
+08:05
+FDR's New Deal he tried to end the
+08:07
+depression in the following ways using
+08:09
+the government to provide relief to the
+08:11
+poor there's going to be three hours the
+08:13
+first R is relief and he would do this
+08:15
+by providing jobs and help you will see
+08:18
+things like Social Security which will
+08:20
+provide income for elderly Americans I
+08:22
+really hope John Doe doesn't mind that
+08:24
+I'm showing you Social Security number
+08:26
+the AAA paid farmers to not over produce
+08:29
+crops those paid farmers not to grow
+08:31
+because one of the problems for farmers
+08:33
+was that the price of crops was so low
+08:36
+because they were producing so much FDR
+08:39
+also saw to stimulate recovery so the
+08:41
+second R is going to be recovery so we
+08:43
+have things like the Civilian
+08:44
+Conservation Corps in the PWA the
+08:46
+project works administration has put
+08:48
+people to work working outside building
+08:50
+infrastructure etc and after you're
+08:53
+embraced King
+08:54
+in deficit spending John Maynard Keynes
+08:57
+was a very famous economist and he said
+08:59
+in times of economic downturn the
+09:01
+government needs to spend money to prime
+09:04
+the pump or stimulate the economy they
+09:06
+need to spend more than they have that's
+09:08
+deficit and FDR embraced this and
+09:10
+finally the third are is reforming the
+09:13
+economy so this doesn't happen again
+09:15
+things like the Securities and Exchange
+09:16
+Commission which was established to
+09:19
+regulate the stock market and prevent
+09:21
+fraud and we also mentioned earlier the
+09:23
+FDIC which insured bank deposits that's
+09:26
+another example of a reform there were
+09:30
+movements that pushed for more reform
+09:32
+some people argued that FDR didn't go
+09:34
+far enough and we see this to unions
+09:35
+populist and radical so Huey Long he was
+09:38
+a governor from Louisiana and his
+09:41
+program proposed giving $5,000 to
+09:44
+citizens that families by taxing the
+09:46
+wealthy so he said one way to help out
+09:48
+is to tax the rich and then redistribute
+09:50
+that wealth to the poor or families or
+09:53
+those in need father Charles Coughlin he
+09:56
+was a very famous radio host he argued
+09:58
+that the government should nationalize
+09:59
+or own the bank so he said FDR didn't go
+10:02
+far enough
+10:02
+and some in Congress and the Supreme
+10:04
+Court were like you know what New Deal
+10:06
+you're getting a little too strong for
+10:07
+our liking so we're going to try to
+10:09
+limit it in Congress we have Robert Taft
+10:11
+who is the president former president
+10:13
+William Howard Taft son we'll come back
+10:14
+to him after World War two in the 1940s
+10:18
+and 50s he and other conservatives
+10:20
+wanted to stop the New Deal they felt it
+10:22
+was too socialist the government was
+10:24
+like too involved and the Supreme Court
+10:27
+is well tried to limit the scope of the
+10:30
+New Deal we see this with Schechter
+10:32
+poultry versus the US which overturned
+10:34
+the program that enha the NRA and also
+10:36
+US vs. Butler which overturned the AAA
+10:39
+if you want more info on the New Deal
+10:42
+please check out my video in the
+10:44
+description lots of info for you so
+10:47
+what's the legacy of the New Deal it did
+10:49
+not solely and the Great Depression
+10:51
+that's really going to be World War two
+10:52
+that does we do see new reforms and
+10:55
+agencies that are still around today as
+10:56
+I mentioned the Social Security the FHA
+10:59
+which is the Federal Housing
+11:00
+Administration they provide mortgage
+11:01
+loans FDIC etc there is a change in
+11:05
+voting pattern so this is start I can't
+11:07
+stress enough you need to know this
+11:08
+very very very important
+11:10
+african-americans switch from the
+11:12
+Republican Party to the Democratic Party
+11:15
+in very large numbers for a very long
+11:18
+time african-americans voted Republican
+11:20
+because of Abe Lincoln during the Great
+11:22
+Depression they will switch to the
+11:24
+Democratic Party because they will get
+11:26
+jobs and relief from the New Deal and we
+11:30
+also see many ethnic groups beginning to
+11:32
+identify with the Democrats and
+11:33
+working-class communities or labor
+11:36
+unions this guy's the change in voting
+11:39
+patterns is specifically mentioned in
+11:41
+the new curriculum make sure you know it
+11:43
+all right so let's finish up with
+11:45
+subtests tips for multiple choices short
+11:46
+answer identify and explain
+11:48
+opportunities for women
+11:49
+african-americans and immigrants and
+11:51
+cities why are they moving to cities
+11:53
+what are some successes failures and
+11:55
+critics of the New Deal and government
+11:57
+reforms during the Great Depression be
+11:59
+able to identify and explain some of
+12:00
+those programs for essay questions you
+12:03
+can see comparing and contrasting
+12:04
+government response during the Great
+12:06
+Depression two other time periods such
+12:08
+as the Progressive Era that's something
+12:09
+I'm going to be reviewing with my
+12:11
+students because that's very important
+12:13
+in a great potential essay topic and
+12:14
+causes and effects of various migrations
+12:17
+both internal such as the great
+12:19
+migration and international such as new
+12:21
+immigrants guys we'll see you right back
+12:24
+here for ki catsup 7.2 where we'll talk
+12:26
+more about the great migration thank you
+12:28
+very much for watching best of luck on
+12:30
+all your tests this exam is coming up
+12:32
+soon you will do great I appreciate you
+12:35
+watching and have a good day
+        """
     class video2:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=0eT_B9g-ZaA"
+        title = "APUSH Review: Key Concept 7.2, revised (Most up-to-date edition)"
+        captions = """
+00:00
+[Music]
+00:03
+well what's going on a push peeps we
+00:05
+have key concepts 7.2 for you this is
+00:08
+the revised edition the most up-to-date
+00:10
+version of key concepts 7.2 you will
+00:14
+find before we begin that shout out time
+00:16
+I'd like to give shout outs to mrs.
+00:17
+Ferguson's class at we're high school
+00:20
+Central Valley Academy in New York mr.
+00:24
+dollars class in Texas and mr. Lieber
+00:26
+next class in California so thank you
+00:30
+all very much watching and best of luck
+00:31
+to you alright let's take a look at what
+00:34
+key concept econ sep 7 2014 2 internal
+00:45
+and international migration patterns so
+00:48
+some big idea questions you should be
+00:50
+able to answer are how did technology
+00:52
+transform the standard of living in the
+00:54
+United States what factors led to
+00:56
+immigration restrictions during the
+00:58
+1920s and what caused the internal
+01:01
+migration to increased drastically in
+01:03
+the United States during the first half
+01:04
+of the 20th century let's go over to
+01:07
+Roman numeral 1 it states popular
+01:09
+culture grew in influence in u.s.
+01:10
+society even as debates increased over
+01:13
+the effects of culture on public values
+01:16
+morals and American national identity so
+01:19
+during the 1920s we especially we have
+01:22
+new mass media that helps spread culture
+01:24
+and awareness of regional cultures we
+01:26
+have things like the radio which is very
+01:28
+very popular this is a large source of
+01:30
+entertainment whether it is through war
+01:33
+the worlds in 1938 fireside chats during
+01:36
+the Great Depression with FDR in which
+01:38
+he would talk about how it did the
+01:39
+Academy is safe and Americans should put
+01:41
+their money back in banks or the very
+01:43
+popular radio shows of father Charles
+01:46
+Coughlin during the Great Depression
+01:47
+cinema is very popular during the 1920s
+01:49
+we have Nickelodeon's which were these
+01:51
+nickel movies and movies entertain money
+01:54
+during the Great Depression and in 1927
+01:57
+we have the jazz singer which is the
+01:59
+first movie with sound regional cultures
+02:02
+have developed her in this time
+02:04
+Yiddish theater portrayed experiences of
+02:06
+American Jews and they would influence
+02:08
+english-speaking theaters later on in
+02:10
+America an Edward Hopper wrote about the
+02:13
+loan
+02:13
+of the modern city keep in mind in 1920
+02:16
+more people are living in cities than in
+02:19
+rural areas so we the Harlem Renaissance
+02:22
+during the 1920s huge part of American
+02:26
+history this is a celebration of African
+02:27
+American culture through writing music
+02:30
+and art and here's one of the most
+02:32
+famous members of the Harlem Renaissance
+02:34
+Langston Hughes in his poem that reads
+02:36
+the night is beautiful
+02:38
+so the faces of my people the stars are
+02:41
+beautiful so the eyes of my people
+02:42
+beautiful also is the Sun beautiful also
+02:46
+are the souls of my people so it was
+02:48
+really reinforcing the idea of
+02:50
+celebrating African American culture and
+02:53
+experiences as I just mentioned we have
+02:55
+lakes in here's we also absorb nearly
+02:57
+Hurston who was very popular during this
+02:59
+time as well there are restrictions on
+03:01
+freedom of speech during World War one
+03:03
+the Espionage Act of 1917 the Sedition
+03:06
+Act of 1918 or two examples of this that
+03:08
+made it illegal to criticize the war
+03:11
+effort and these restrictions on freedom
+03:13
+were upheld during the carcase Schenck
+03:14
+versus the United States States and what
+03:17
+Charles shank was convicted of
+03:19
+interfering with the war effort and the
+03:22
+Supreme Court said if you pose a clear
+03:24
+and present danger if your speech poses
+03:26
+a clear and present danger it is not
+03:28
+guaranteed well so the Red Scare which
+03:31
+is fears of radicalism communism and
+03:33
+anarchism and the impacts of this are
+03:36
+there going to be a tax on unions and
+03:37
+immigrants governor Calvin Coolidge he
+03:40
+stopped the Boston police strike in 1919
+03:43
+became very famous nationwide and that
+03:46
+actually helped catapult him to the vice
+03:48
+presidency of 1920 so let's talk about
+03:51
+some controversies and debates in the
+03:53
+1920s we have gender roles so flappers
+03:55
+these women challenged gender roles they
+03:57
+would drink and dance and smoked and
+03:59
+wear shorter dresses Margaret Sanger was
+04:01
+an advocate of birth control during this
+04:03
+time that was very controversial we have
+04:06
+issues of modernism again as I mentioned
+04:08
+the 1920 census more Americans are
+04:10
+living in cities for the first time and
+04:12
+many workers lost autonomy because of
+04:15
+the popularity of the assembly line so
+04:18
+workers became easily replaceable there
+04:21
+are conflicts between science and
+04:22
+religion look no further than the Scopes
+04:24
+trial for this this is
+04:26
+literal interpretation of the Bible
+04:28
+versus evolution John Scopes was put on
+04:30
+trial for teaching evolution in a public
+04:32
+school and there are race issues as well
+04:35
+in 1919 we have the red summer this has
+04:37
+nothing to do with communism most the
+04:39
+time when you see red think communism
+04:41
+but not the red summer these are race
+04:43
+riots in northern cities most notably
+04:44
+Chicago immigration as well is very
+04:48
+controversial during the 1920s who the
+04:49
+rise of nativism in the 1920s and the
+04:51
+resurgence of the KKK and of course
+04:54
+Sacco and Vanzetti two Italian
+04:56
+immigrants were charged and convicted of
+04:58
+murder in later sentenced to death in
+05:01
+the 1920s
+05:03
+okay key concepts 7.2 Roman numeral two
+05:06
+states economic pressures global events
+05:08
+and political developments called sharp
+05:10
+variations in the number sources and
+05:11
+experiences of both international
+05:14
+internal migrants so prior to World War
+05:16
+one European immigration reached its
+05:18
+zenith or its highest point and this
+05:20
+gave rise to nativism in the 1920s which
+05:23
+then gave rise to restrictive
+05:25
+immigration quotas so in 1921 we have
+05:28
+the emergency quota act which restricted
+05:30
+immigration to three percent of a
+05:32
+country's population in the US according
+05:35
+to the 1910 census only 3% of cording to
+05:38
+the 1910 census could come to the United
+05:41
+States well three years later Calvin
+05:44
+Coolidge the former governor of
+05:45
+Massachusetts signs the National Origins
+05:48
+Act of 1924 and this further restricted
+05:51
+immigration to 2% of a country's
+05:53
+population in the US and he used the
+05:55
+1890 census in stead and this also
+05:58
+flat-out excluded immigrants from Asia
+06:01
+so in addition to being restrictive to
+06:05
+targeting new immigrants from Southern
+06:07
+and Eastern Europe it also restrict
+06:09
+outright restricted immigrants from Asia
+06:11
+so are some reasons for internal
+06:14
+migration to cities or urban centers
+06:16
+World War one and World War two saw
+06:18
+economic opportunities and cities for
+06:20
+war production and labor during the
+06:24
+Great Depression the 1930s in particular
+06:26
+your people like the Okies who fled the
+06:27
+Dust Bowl to California because farming
+06:30
+was so dried up in the Great Plains many
+06:31
+people just pack their bags and moved
+06:33
+out to California and this is what the
+06:35
+book The Grapes of Wrath is about
+06:36
+the great migration started this circle
+06:39
+are going to highlight you have to know
+06:40
+it's very very important this occurs
+06:42
+during and after World War one this is
+06:44
+the movement of African Americans from
+06:46
+the south to the north and the West as
+06:49
+well you look at these cities with
+06:50
+Chicago New York those are in the north
+06:52
+and the cities like st. Louis and the
+06:54
+West and african-americans are moving in
+06:56
+large numbers to the north and west so
+06:59
+what are some reasons well they're
+07:00
+escaping segregation because of Plessy
+07:03
+versus Ferguson allowing for separate
+07:05
+but equal facilities are also escaping
+07:07
+racial violence whether it's from the
+07:09
+KKK or lynchings and there's also
+07:11
+limited economic opportunities because
+07:14
+many african-americans in the south were
+07:16
+sharecroppers so they're moving to the
+07:17
+north for economic opportunities but
+07:21
+they still face discrimination in the
+07:24
+north just as they did in the south ok
+07:28
+many Mexicans came to the US for
+07:30
+economic opportunities during this time
+07:32
+period and they faced ambivalent or
+07:34
+contradictory government policies in the
+07:36
+1930s in the 1940 so many of them about
+07:39
+500,000 were deported during the Great
+07:41
+Depression because there weren't enough
+07:43
+jobs to go around so the government
+07:44
+deported or sent out of the country many
+07:46
+Mexicans now during World War 2 the u.s.
+07:49
+instituted something called the bracero
+07:51
+program which is in which the u.s.
+07:53
+encouraged Mexican immigration during
+07:55
+World War Two as a labor source and many
+07:58
+of these Mexicans would work as farmers
+08:01
+to help out in producing goods for the
+08:03
+war effort I'll finish up with some
+08:06
+tested for multiple choices short answer
+08:07
+absolutely no changes in technology in
+08:10
+the 1920s things like the radio and
+08:12
+cinema causes of cultural and political
+08:13
+conflict the Harlem Renaissance
+08:15
+absolutely know that and the Red Scare
+08:17
+the impacts of it as well as the causes
+08:19
+the immigration acts they are
+08:20
+restrictive against southern in Eastern
+08:22
+Europe and flat-out barred Asian
+08:24
+immigrants the great migration this to
+08:26
+me screams a great short answer question
+08:28
+what were the causes and impacts and for
+08:31
+essay questions migration are
+08:33
+opportunities this could be part of a
+08:34
+larger essay in World War one and/or
+08:37
+World War two especially comparing and
+08:39
+contrasting World War one in World War
+08:40
+two and comparing the 1920s to another
+08:43
+decade for instance the 1950s they are
+08:46
+kind of similar
+08:47
+and finally cultural conflicts of the
+08:49
+nineteen
+08:50
+20s thank you guys very much watching
+08:51
+and I do appreciate it look forward to
+08:53
+seeing you right back here for ki catsup
+08:55
+7.31 we'll talk about this meeting at
+08:57
+the palace of versaille best of luck on
+09:01
+all of your exams and have a good day
+        """
     class video3:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=6cVgZsMczps"
+        title = "APUSH Review: Key Concept 7.3, revised (Most up-to-date video)"
+        captions = """
+00:03
+hey what's going on a push peeps we have
+00:06
+key concepts 7.3 for you today this is
+00:09
+the revised edition and look at you
+00:11
+congratulations this is it for period 7
+00:14
+the largest period of the a push
+00:17
+curriculum there's only six more videos
+00:19
+yet the end is so close and you will do
+00:22
+great on your exam all right before you
+00:24
+begin a shout out time we have to give
+00:26
+shoutouts to mr. Bears class in Monroe
+00:28
+mrs. trembles class at California this
+00:31
+is Peterson's class in California and
+00:34
+mr. porcellus class in Virginia best of
+00:37
+luck everyone if you want your teacher
+00:39
+to get a shout out in the next six
+00:41
+videos leave it in the comments and I
+00:44
+will do my best to get to it all right
+00:46
+kick adds up 7.3 states participation in
+00:49
+a series of global conflicts propelled
+00:51
+the United States into a position of
+00:53
+international power while renewing
+00:55
+domestic debates over the nation's
+00:58
+proper role in the world so it's a big
+01:01
+idea questions to focus on what were
+01:02
+arguments for and against US expansion
+01:05
+overseas in the late 19th early 20th
+01:07
+centuries that is screaming to me a
+01:09
+short answer question and I'll break it
+01:11
+down for you how did World War One in
+01:13
+World War two challenged the us's
+01:14
+tradition of neutrality and what ways
+01:16
+did the u.s. change its views and remain
+01:19
+the same that to me is a great compare
+01:22
+and contrast essay and what impacts did
+01:24
+World War two have on the homefront as
+01:26
+well as the u.s. position in the world
+01:29
+right in Roman numeral one states in the
+01:31
+late 19th century and early twentieth
+01:33
+century new u.s. territorial ambitions
+01:35
+and acquisitions in the Western
+01:38
+Hemisphere and the Pacific accompanied
+01:40
+heightened public debates over America's
+01:43
+role in the world so let's talk about
+01:45
+imperialist arguments to expand overseas
+01:48
+again late 1800s Early 1900s really in
+01:51
+the cusp of the spanish-american war an
+01:53
+imperialist serve those that are favor
+01:55
+of expansion argued for economic
+01:58
+opportunities and you have American
+02:00
+companies that saw overseas markets for
+02:03
+example in Hawaii when it was its own
+02:05
+country there were many US plantation
+02:08
+owners in Hawaii that called for
+02:09
+annexation
+02:10
+so they could be exempt from sugar
+02:12
+tariffs when they would ship their
+02:13
+to the United States there are also
+02:15
+racial theories the very famous poem the
+02:17
+white man's burden was published in 1899
+02:20
+and some people saw to civilize
+02:22
+non-white nations and this is an
+02:24
+argument that we've seen throughout US
+02:26
+history including when the Europeans
+02:29
+came to the Americas they sought to
+02:30
+civilize the Native Americans and also
+02:33
+the idea that the frontier was closed
+02:35
+and this is an idea that came about by
+02:37
+Frederick Jackson Turner he looked at
+02:39
+the 1890 census and he said listen the
+02:42
+frontier is essentially closed all the
+02:44
+land in the continental US has taken all
+02:46
+the good land at least and many people
+02:49
+saw that as an argument to expand
+02:51
+overseas be familiar with these three
+02:54
+topics again as I mentioned this screams
+02:56
+to me a short-answer question so let's
+02:59
+talk about arguments used by anti
+03:00
+imperialist
+03:01
+against this overseas acquisition you
+03:03
+have this idea of self-determination or
+03:05
+the idea that countries should choose
+03:07
+their own form of government and after
+03:10
+the u.s. acquired the Philippines after
+03:12
+spanish-american war you would hear
+03:14
+anti-imperialists asking the question
+03:16
+didn't these Filipinos deserve the
+03:18
+consent of the governed didn't they
+03:21
+deserve to choose their own government
+03:23
+much like America want to when they
+03:24
+broke away from Great Britain we also
+03:27
+have a tradition of isolationism going
+03:29
+back to George Washington's farewell
+03:30
+address stay out of the affairs of other
+03:33
+countries the spanish-american war in
+03:35
+1898 this saw the us defeat Spain in
+03:39
+four short months from April to August
+03:40
+of 1898 some causes are the destruction
+03:44
+of the USS Maine yellow journalism in
+03:46
+the Delon letter in which a Spanish
+03:48
+official criticized President McKinley
+03:50
+the u.s. wins this war the gain Guam
+03:53
+Cuba Puerto Rico in the Philippines and
+03:55
+Cuba will get independence almost
+03:58
+immediately and the Philippines will not
+04:00
+get independence until after World War
+04:02
+two so the effects of the war the US
+04:05
+presence in the Caribbean and Latin
+04:06
+America increased significantly
+04:08
+especially with the Roosevelt Corollary
+04:10
+in which Teddy Roosevelt's essentially
+04:12
+said you know what the u.s. is going to
+04:13
+be a police power in Latin America in
+04:16
+the Caribbean and the u.s. can increase
+04:18
+its presence there we also have the
+04:20
+emergence of a nationalist movement in
+04:21
+the Philippines led by emilio aguinaldo
+04:23
+he and many others thought that the US
+04:26
+would grant them into
+04:27
+penance and when they did not get
+04:29
+independence they began to rebel against
+04:31
+the United States if you want more info
+04:33
+on this and this is a great essay topic
+04:35
+as well see my video in the description
+04:37
+the spanish-american war as a turning
+04:40
+point Roman numeral two it states World
+04:42
+War one in its aftermath intensified
+04:44
+ongoing debates about the nation's role
+04:45
+in the world and how best to achieve
+04:47
+national security and pursue American
+04:50
+interests so initially in World War one
+04:52
+the US remained neutral now upon entry
+04:55
+the u.s. departed from the tradition of
+04:58
+non involvement in European affairs this
+05:00
+is the second time I'm mentioning
+05:01
+Washington's farewell address so if
+05:04
+you're writing an essay about World War
+05:05
+one or World War two as we will see your
+05:08
+synthesis point could be about
+05:10
+Washington's farewell address idea that
+05:12
+many people thought the US should not
+05:13
+get involved in this European war and
+05:16
+again in his farewell address Washington
+05:18
+said stay out of entangling alliances
+05:21
+Wilson called for humanitarian and
+05:23
+democratic principles this helped lead
+05:26
+the u.s. into war he said he wanted the
+05:27
+to fight in the war to make the world
+05:29
+safe for democracy and that was his
+05:32
+argument going against Washington's
+05:34
+farewell address and Woodrow Wilson put
+05:36
+fourteen ideas or points together in
+05:39
+which he envisioned that the world would
+05:40
+be safe for democracy it would be a war
+05:42
+to end all wars so there would never be
+05:44
+another war like World War one sadly he
+05:48
+was wrong so let's talk about the role
+05:49
+of the American Expeditionary Forces or
+05:51
+the military the u.s. entered the war in
+05:53
+1917 so they came a little more little
+05:56
+after halfway and the u.s. is entrance
+05:58
+really tipped the balance in favor of
+06:00
+the Allies of Great Britain of France
+06:02
+and Russia who had bowed out of the war
+06:05
+so the Senate after the end of World War
+06:08
+one they refused to ratify the Treaty of
+06:11
+Versailles or join the League of Nations
+06:13
+and the League of Nations was one of
+06:14
+Wilson's fourteen points so even though
+06:17
+Wilson was heavily involved in the post
+06:19
+war negotiations the Senate did not
+06:21
+ratify the League of Nations and this is
+06:24
+an example of checks and balances let's
+06:26
+talk about the Treaty of Versailles it
+06:28
+ended World War one in a punished
+06:29
+Germany severely the League of Nations
+06:32
+was created at the time and this was a
+06:35
+major component as I mentioned of
+06:37
+Wilson's fourteen points this was an
+06:39
+international
+06:40
+organization to hope to prevent Wars and
+06:43
+promote peace now we see this bridge
+06:44
+here and the centerpiece or the Keystone
+06:47
+the most important pieces of the United
+06:49
+States and it's missing so what's going
+06:50
+to happen in this bridge it will
+06:52
+collapse as the League of Nations does
+06:54
+fail so Henry Cabot Lodge he was a
+06:57
+senator and he and other irreconcilable
+06:58
+these were members of Congress that were
+07:01
+against the League of Nations the u.s.
+07:03
+joining the League of Nations and
+07:04
+Congress feared that they could lose
+07:06
+their war making power if the u.s.
+07:08
+joined the league and again I can't
+07:10
+stress this enough Washington's farewell
+07:12
+address is kind of hovering over
+07:13
+everybody at this time so the third time
+07:16
+imagine Washington's ghost and there you
+07:20
+go he disappeared like he was a ghost
+07:23
+whew so it's up by u.s. foreign policy
+07:25
+following World War one they pursued a
+07:28
+unilateral policy that used
+07:30
+international investment we see a
+07:32
+continuing of dollar diplomacy the idea
+07:35
+that US banks should invest in foreign
+07:37
+countries this was really under the
+07:39
+administration this began under the
+07:40
+administration of Taft we have some
+07:43
+peace treaties for example the
+07:45
+Washington Naval conference this was the
+07:47
+five power nine power treaties that
+07:49
+determined the number of battleships
+07:50
+that the US Britain and Japan could
+07:52
+build at a 5 to 5 to 3 ratio so for
+07:55
+every five tons the u.s. built Britain
+07:57
+could build five tons and Japan could
+07:59
+build three tons the u.s. did engage in
+08:01
+select military intervention most of
+08:04
+this was in Latin America for example in
+08:06
+Nicaragua between 1912 and 1933 the US
+08:09
+was involved and the u.s. did maintain
+08:11
+isolationism when it came to Europe in
+08:14
+particular the neutrality acts the first
+08:16
+neutrality acts the 1930s forbid trading
+08:19
+with warring or belligerent nations do
+08:21
+me a favor and make sure you know that
+08:23
+term belligerent that means countries
+08:24
+that are engaged in war and many
+08:26
+Americans oppose military action until
+08:29
+Pearl Harbor an example this is the
+08:31
+American 1st committee they were against
+08:33
+US intervention in world war ii and
+08:36
+europe and charles lindbergh here when
+08:37
+the most famous Americans at the time
+08:39
+and Senator Robert Taft they were people
+08:42
+who were against US intervention you see
+08:44
+Charles Lindbergh is giving a speech
+08:45
+Aaron who is over his left shoulder
+08:47
+that's George Washington reminding
+08:50
+people of his farewell address of
+08:52
+staying out of for
+08:53
+and affairs finish up of Roman numeral
+08:56
+three us participation in World War two
+08:58
+transformed American society while the
+09:00
+victory of the United States and its
+09:01
+allies over the Axis powers vaulted the
+09:04
+u.s. into a position of global political
+09:06
+and military leadership so how did
+09:10
+Americans view the war while they viewed
+09:12
+it as a fight for freedom and democracy
+09:14
+not just for American Europe but really
+09:17
+the world as a whole and this was later
+09:20
+reinforced by Japanese wartime
+09:21
+atrocities things like the Bataan Death
+09:23
+March in which Americans and Filipinos
+09:26
+were ordered to march many many miles to
+09:28
+camp and hundreds of them died along the
+09:31
+way you also if you've seen the movie or
+09:33
+read the book unbroken I read the book
+09:35
+and it was tremendous it's a true story
+09:37
+about an American soldier who was a
+09:40
+former Olympic athlete in the 1936
+09:42
+Olympics and he really endured just
+09:45
+horrific abuse by the Japanese and these
+09:49
+stories began to emerge at the
+09:50
+conclusion of World War two and of
+09:53
+course he of the Nazi concentration
+09:54
+camps in the Holocaust many many people
+09:57
+viewed World War two as a fight for
+09:59
+humanity and freedom we had the mass
+10:01
+mobilization of American society this
+10:04
+helped end the Great Depression it
+10:05
+wasn't the New Deal that really ended
+10:07
+the Great Depression it was really world
+10:08
+war two and an industrial base helped
+10:11
+win the war by providing equipment
+10:13
+provisions and troops for the war effort
+10:16
+millions and millions and millions of
+10:18
+Americans fought in the war and many
+10:20
+factories produced equipment and
+10:22
+provisions for the US and its allies so
+10:25
+the mobilization provided opportunities
+10:27
+for women and minorities women worked in
+10:30
+factories you have Rosie the Riveter you
+10:31
+know her and they worked in health care
+10:33
+during the war and there was many
+10:35
+opportunities for women due to World War
+10:36
+two african-americans served in the
+10:38
+military in large numbers although they
+10:40
+did serve in segregated units and they
+10:42
+worked in factories as well now World
+10:46
+War two help lead to debates over racial
+10:48
+segregation a philip Randolph a huge
+10:50
+civil rights activist he helped lead to
+10:53
+executive order 8802 in which FDR
+10:56
+eliminated discrimination in defense
+10:59
+industry so if you are a defense
+11:01
+industry during World War two you could
+11:03
+not have your employees discriminated a
+11:06
+fill
+11:07
+Randolph really pushed for that the
+11:09
+double V campaign stand stood for
+11:12
+victory over fascism abroad and victory
+11:14
+over racism at home so America on one
+11:17
+hand is fighting against fascism and
+11:19
+militarism in the world but there's
+11:21
+still racism at home and after the war
+11:23
+many Americans will begin to focus on
+11:25
+desegregation milt the military did
+11:29
+remain segregated until the Korean War
+11:30
+Truman will issue executive order 99-81
+11:34
+which will desegregate the military and
+11:37
+there are challenges to civil liberties
+11:39
+during this time because Japanese
+11:41
+internment this was the forest movement
+11:42
+of japanese-americans two camps during
+11:44
+the war to essentially prison camps
+11:46
+two-thirds of them were Nisei meaning
+11:48
+that they were born in America they were
+11:50
+Japanese descent but born in America
+11:52
+this was upheld by the court case
+11:54
+Korematsu versus the United States so
+11:58
+what were some reasons for the US and
+11:59
+Allied victory you had allied
+12:01
+cooperation the you a scraper in France
+12:03
+and the Soviet Union were close together
+12:04
+especially the US and Great Britain with
+12:06
+FDR and Winston Churchill at the Tehran
+12:09
+conference there was a meeting of the
+12:11
+big three which is FDR Churchill and
+12:14
+Stalin and they agreed here to invade
+12:17
+Europe in 1944 there are also technical
+12:20
+and scientific advancements things like
+12:22
+the Manhattan Project which provided two
+12:23
+billion dollars to develop the atomic
+12:25
+bomb here is Robert Oppenheimer one of
+12:28
+the main people on the Manhattan Project
+12:31
+and helped create the atomic bomb and
+12:33
+they are examining the Trinity test site
+12:37
+of the first atomic bomb now these the
+12:39
+use of atomic bombs quickly ended the
+12:41
+war but there they did spark debates
+12:44
+among the morality of the atomic bombs
+12:47
+we also have sonar this was used against
+12:49
+German submarines by American ships and
+12:51
+servicemen and women played a vital role
+12:53
+millions of Americans fought in the war
+12:55
+as I mentioned earlier and then they're
+12:57
+even campaigns such as island hopping in
+12:59
+which the US will conquer islands in the
+13:01
+Pacific prior to attacking Japan so they
+13:03
+would go from island to island and then
+13:05
+focused on Japan and then of course the
+13:08
+d-day invasion this was June 6 1944 led
+13:11
+by future President Dwight Eisenhower
+13:13
+here is the day before giving a speech
+13:16
+to the mat about what is to come the
+13:18
+next day and finally at the end of the
+13:20
+war the
+13:20
+besmirch is the most powerful nation on
+13:22
+earth and they did so because most of
+13:25
+Asia and Europe was really in ruins from
+13:27
+the war and the US had a dominant role
+13:30
+in the Allied victory and post-war peace
+13:32
+settlement so we have the creation of
+13:34
+the United Nations which is
+13:35
+headquartered in New York City and the
+13:37
+u.s. is a permanent member of the
+13:39
+Security Council so they could veto any
+13:41
+resolution and we also see a departure
+13:44
+from this moment forward from
+13:46
+Washington's farewell address he no
+13:48
+longer his idea of staying out Foreign
+13:51
+Affairs is no longer going to be
+13:53
+dominant in American society in
+13:55
+Washington's like by a push I'm finally
+13:57
+gone for good and somebody comes along
+14:00
+as like holy cow he's gone huh it's like
+14:03
+he was around in a push forever to get
+14:06
+it cuz Henry Clay was around forever
+14:07
+yeah okay I had to include Henry Clay
+14:10
+all right so some test steps for
+14:11
+multiple choice and short answer
+14:12
+arguments for and against expansion u.s.
+14:15
+expansion overseas know that that
+14:17
+screaming a short answer to me Treaty of
+14:19
+Versailles in the 14 point reasons for
+14:21
+victories in World War one in World War
+14:22
+two and what the heck was the domestic
+14:24
+impact of World War two on minorities on
+14:27
+the economy etc and women as well for
+14:29
+essays you can see comparing and
+14:30
+contrasting the USS role in the world
+14:33
+post-world War One and post World War
+14:35
+two your synthesis point will be
+14:37
+Washington's farewell address and social
+14:39
+impacts of World War two whether it's on
+14:41
+japanese-americans women or
+14:43
+african-americans all right guys look
+14:45
+forward to seeing back here four key
+14:47
+concept 8.1 when we will figure out who
+14:49
+this dude is here's a hint he's one of
+14:51
+the most influential people of the 20th
+14:53
+century yet most people have no idea who
+14:57
+he is so I thank you guys for watching
+14:59
+best of luck on all your tests
+15:01
+especially the one in May it'll be here
+15:03
+very soon and have a good day
+        """
     class video4:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=NwQrJNrRj7U"
+        title = "APUSH Review: Conservation And Preservation During The Progressive Era"
+        captions = """
+00:00
+hey what's going on a push peeps today
+00:02
+we have a video on conservation and
+00:04
+preservation during the Progressive Era
+00:07
+so we're talking about the environment a
+00:09
+very important topic that shows up in
+00:13
+the new curriculum and a great chance if
+00:15
+there's ever an essay on the environment
+00:17
+to make some connections across time
+00:20
+before I begin shout out time I think of
+00:22
+two shout outs to two very very
+00:24
+important classes I appreciate their
+00:26
+support so much we got mr. Burns's class
+00:29
+in a Warwick New York I had a teacher
+00:32
+mr. burns in high school but I'm not
+00:33
+from work and mr. Moe's class in Hilton
+00:37
+Head South Carolina
+00:38
+I've never been to Hilton Head but I've
+00:40
+been to nearby Kiawah Island in South
+00:43
+Carolina beautiful weather down there
+00:45
+thank you all for the support I
+00:46
+appreciate it
+00:47
+best of luck to you this year background
+00:50
+info for this topic what is conservation
+00:54
+well it's advocating the proper use of
+00:56
+natural resources an example I'm gonna
+01:00
+give you two examples of people that
+01:01
+fall into this category we got Teddy
+01:03
+Roosevelt's and we have Gifford Pinchot
+01:06
+too is Roosevelt's chief Forester and
+01:08
+mustache connoisseur and you can see the
+01:11
+two of them here together chillin on a
+01:13
+boat probably talking about the
+01:14
+environment
+01:15
+now preservation is advocating the
+01:18
+protection of nature and land from
+01:21
+humans so you're protecting nature from
+01:24
+humans think of dudes like this guy with
+01:27
+the sweet beard John you're in the
+01:29
+Sierra Club okay so what are some
+01:31
+similarities between the two groups well
+01:33
+both conservationist and preservationist
+01:36
+they advocated establishing national
+01:39
+parks they wanted the government to put
+01:41
+land aside and recognize them as
+01:43
+national parks the first national park
+01:46
+is Yellowstone in 1872 this is the first
+01:49
+federally created National Park and
+01:52
+apparently you could just like be tea
+01:54
+and lunch one day and bears will come up
+01:55
+and eat lunch with you at a table or
+01:57
+your car yeah that's completely normal I
+02:00
+would be freaked out Yosemite this is a
+02:03
+national park in California in 1890 and
+02:07
+here is Teddy Roosevelt on Mir chillin
+02:09
+on the edge of a mountain that's about
+02:10
+3,000 feet high yet not scary at all I
+02:12
+am incredibly
+02:13
+just looking at this and here is a tree
+02:17
+in Yosemite that you could walk through
+02:19
+and potentially even drive your car
+02:21
+through look at the size of that tree
+02:23
+huh that's magnificent
+02:24
+okay so now that we established these
+02:26
+similarities let's talk about
+02:27
+differences well conservationists
+02:30
+support using nature they do support
+02:33
+human interactions with nature look no
+02:35
+further than Teddy Roosevelt here with
+02:38
+his gun he was an active outdoorsman he
+02:40
+believed in hunting he believed in
+02:42
+chillin at parks when he was vice
+02:44
+president received the news that
+02:45
+President McKinley was very sick and
+02:47
+about to die he was chilling out in the
+02:49
+Adirondack Mountains or was it the
+02:52
+Appalachian one of the two in New York
+02:54
+State and he was just like having a good
+02:56
+time living it up out there when he got
+02:59
+the news preservationist they wanted to
+03:01
+protect nature from human interaction so
+03:04
+conservationists are okay with using
+03:06
+nature and interacting with it
+03:07
+preservationist don't want really any of
+03:09
+that at all now an example that shows
+03:13
+the debates between these two groups is
+03:15
+the Hetch Hetchy controversy hitachi is
+03:18
+an area of land in Yosemite National
+03:20
+Park San Francisco in California about
+03:24
+167 miles away you'll see in a few
+03:26
+minutes they sought a stable water
+03:29
+supply so they proposed to build a dam
+03:31
+in this head hatch Hetchy area of
+03:34
+Yosemite and then you know get some
+03:37
+fancy aqueducts next thing you know they
+03:38
+got water coming to San Francisco Wow
+03:41
+John Muir again the Sierra Club founder
+03:43
+and preservationist he greatly greatly
+03:46
+opposed the dam he was outspoken against
+03:49
+it because he's a preservation as he did
+03:51
+not want the land to be touched at all
+03:53
+however Pinchot and then ultimately
+03:55
+Roosevelt as Roosevelt appointed Pinchot
+03:58
+to decide this he approved the
+04:00
+construction of the dam and he
+04:02
+essentially said something along lines
+04:04
+of the needs of the people outranked
+04:07
+preservation so these cities a city of
+04:09
+San Francisco the city that is
+04:10
+burgeoning becoming very powerful out
+04:12
+west very big they need water and that
+04:16
+dam that would help defer water to them
+04:18
+was acceptable according to him fun fact
+04:22
+today 85 percent of water usage in San
+04:25
+Francisco comes from Hetch
+04:27
+gee 167 miles away so 400 years later
+04:31
+this hatch hatch Hetchy controversy the
+04:34
+outcomes from it are still affecting us
+04:37
+today now it's time to finish up with
+04:39
+some tests tips for multiple choices
+04:40
+short answer could see short answer
+04:42
+question like comparing and contrasting
+04:43
+preservation and conservatism perhaps
+04:47
+you could see an excerpt about Hetch
+04:49
+Hetchy and the debates over preservation
+04:51
+and conservation long essay and DBQ this
+04:54
+could be part of an essay in the
+04:55
+Progressive Era as this is happening
+04:57
+during that time especially when you
+04:58
+take a Teddy Roosevelt you think of the
+04:59
+Progressive Era or great potential
+05:01
+synthesis point could be connecting this
+05:03
+time to an environmental movement in the
+05:05
+1960s or 1970s essays have you seen as a
+05:08
+post-world War two in the environmental
+05:10
+movement connect it back to you know
+05:13
+kind of the early years of the
+05:15
+environmental movement with conservation
+05:16
+and preservation thank you guys so much
+05:19
+for watching I hope this video was
+05:20
+helpful best of luck this year and all
+05:22
+your exams hope to see back for more
+05:24
+videos and have a good day
+        """
     class video5:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=PpTNdN9MnRw"
+        title = "APUSH Review: Video #46: The Progressive Era (Updated)"
+        captions = """
+00:00
+yo what is going on a push peeps we got
+00:02
+a good one for you today this is on the
+00:04
+Progressive Era this is updated for the
+00:07
+new curriculum and I'm going to cover
+00:08
+everything you need to know about the
+00:10
+Progressive Era to succeed in a push
+00:12
+before we begin you know it shout out
+00:15
+I've got to give shoutouts to Ms Collins
+00:17
+class in Massachusetts mr. Mayer's class
+00:19
+in Washington and mr. Jordans class at
+00:22
+Walsingham Academy best of luck thank
+00:25
+you all for watching and good luck in
+00:28
+May okay we'll start with a brief intro
+00:30
+to the Progressive Era this is the early
+00:33
+twentieth century to about 1920 and
+00:35
+reasons for the emergence of this air
+00:38
+straight from the curriculum is
+00:39
+political corruption as seen in this
+00:42
+very famous political cartoon the bosses
+00:44
+of the Senate economic instability and
+00:47
+social concerns as well so how to fix
+00:51
+these three issues well Perez's wanted
+00:54
+increased government action
+00:56
+characteristics and progressions this is
+00:58
+something you will absolutely positively
+00:59
+have to know be able to identify and
+01:01
+explain them in a short answer if
+01:03
+necessary they tended to be middle and
+01:05
+upper class many women and they favored
+01:08
+expanding democracy so the 17th
+01:11
+amendment this is the direct election of
+01:13
+senators and the 19th amendment is
+01:15
+women's suffrage those were done on a
+01:16
+national level and state local levels
+01:19
+you have things like the initiative
+01:20
+where individuals can propose laws
+01:22
+referendum where individuals can vote on
+01:25
+laws and a recall where individuals can
+01:27
+remove an elected official and that's
+01:29
+how this dude Arnold Schwarzenegger
+01:31
+became governor or the Governator of
+01:33
+California because Gray Davis the
+01:37
+governor of California was recalled ok
+01:39
+so progressive journalists that you
+01:41
+should know they criticize political
+01:43
+corruption such as Lincoln Steffens the
+01:45
+shame of cities which criticize
+01:47
+municipal or city governments social
+01:50
+economic inequality was a focus of Jacob
+01:52
+Reese's how the other half lives and I
+01:55
+to be Wells Barnet she advocates use of
+01:57
+famous journalists that advocated an end
+01:59
+to lynchings of African American and
+02:02
+finally Upton Sinclair's the jungle
+02:04
+focused on working conditions in the
+02:07
+meatpacking industry key progressive
+02:09
+reformers you should know Robert La
+02:10
+Follette governor of Wisconsin
+02:13
+he was instrumental in bringing the
+02:15
+direct primary initiative referendum and
+02:17
+recall to Wisconsin this is known as the
+02:19
+Wisconsin idea Jane Addams holy cow know
+02:22
+her she is the founder of the whole
+02:24
+house in Chicago this house was a
+02:26
+settlement house that aided women
+02:28
+children and immigrants helped them
+02:29
+assimilate in adapt to American society
+02:32
+Florence Kelly worked with Jade Adams
+02:35
+and she advocated increased rights for
+02:36
+women children and African Americans and
+02:39
+she was instrumental in the founding of
+02:41
+the National Consumer League which led
+02:43
+boycotts of goods made by children w eb
+02:46
+Du Bois demanded an immediate end to
+02:49
+segregation and wanted full equality for
+02:52
+African Americans and he helped form a
+02:54
+group called the Niagara movement formed
+02:57
+in Niagara Falls Canada here he is in
+02:59
+the center and that helped morph into
+03:01
+the n-double-a-cp a civil rights
+03:03
+organization that is still around today
+03:05
+and will play very instrumental role in
+03:07
+the civil rights movement in the 1950s
+03:09
+progressive presidents Deneau Roosevelt
+03:12
+Square Deal this focus on consumer
+03:13
+protection such as the Meat Inspection
+03:15
+Act corporate regulation such as the
+03:18
+northern securities decision which broke
+03:20
+up JP Morgan's company and the Hepburn
+03:25
+Act which increased the power of the ICC
+03:27
+the Interstate Commerce Commission and
+03:29
+he also was big on conservation of
+03:31
+natural resources we'll talk more about
+03:33
+that in a few minutes
+03:34
+Taft was the real trust buster more so
+03:37
+than Roosevelt but he had a falling-out
+03:38
+with Roosevelt that led Roosevelt that
+03:41
+led to rose about running for president
+03:43
+in 1912 and here the two fighting over
+03:46
+different issue Wilson's new freedom he
+03:49
+wanted lower tariffs remember he was a
+03:51
+Democrat Democrats once he tariff rates
+03:53
+decrease he eliminated trusts wanted to
+03:56
+eliminate trusts with no distinction
+03:57
+between good or bad trusts unlike Teddy
+03:59
+who did have a distinction between good
+04:01
+and bad trusts Clayton Antitrust Act
+04:03
+strengthened the Sherman Antitrust Act
+04:05
+in exempted unions anyone to reform the
+04:08
+banking system through the Federal
+04:10
+Reserve Act some progressive amendments
+04:12
+you should know sixteenth Amendment this
+04:13
+is a graduated income tax 17th amendment
+04:16
+is the draft election of senators and
+04:18
+connect this if you're writing or you
+04:20
+see this on a multiple choice question
+04:22
+connect this to the populist era these
+04:24
+were goals of the
+04:26
+populist party they teeth amend mr.
+04:28
+prohibition of alcohol and the 19th
+04:30
+amendment is women's suffrage and you
+04:32
+see here with this political cartoon
+04:33
+titled The Awakening a lot of western
+04:36
+states granted suffrage to women first
+04:38
+and then it moved eastward to the whole
+04:42
+country with the 19th amendment ok
+04:44
+conservation and preservation to terms
+04:46
+you should know conservation advocated
+04:48
+the proper use of nature and resources
+04:51
+so humans could use the wilderness an
+04:53
+example this is Teddy Roosevelt
+04:55
+preservation is protecting nature and
+04:58
+land from humans keeping humans out of
+05:00
+the wilderness and this is something
+05:03
+that was advocated by John Muir and the
+05:05
+Sierra Club and I do have a video titled
+05:07
+conservation and preservation in the
+05:09
+Progressive Era with much more details
+05:11
+some tests tips we'll finish up with
+05:13
+multiple choice of short-answer
+05:14
+characteristics and goals of
+05:15
+progressives definitely know the
+05:17
+characteristics and their goals you can
+05:19
+see an excerpt from a book maybe it's
+05:20
+the jungle maybe it's how the other half
+05:22
+lives
+05:22
+conservation vs. preservation definitely
+05:25
+no Francaise is analyzing the extent to
+05:27
+which the Progressive Era foster change
+05:29
+for different groups or the government
+05:31
+that could be changed for African
+05:32
+Americans change for women change for
+05:35
+the government on the federal and state
+05:36
+levels and you could also see comparing
+05:39
+contrasting progresses with either the
+05:41
+populace or another era perhaps the New
+05:43
+Deal which we'll get to later all right
+05:47
+thank you very much for watching I do
+05:48
+appreciate it best of luck in all your
+05:49
+exams especially the one in May and have
+05:52
+a good day
+        """
     captions = video1.captions + video2.captions + video3.captions + video4.captions + video5.captions
 
 
 class Unit8:
     class video1:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=IyOs5BJ3HGo"
+        title = "APUSH Review: Key Concept 8.1, Revised (Most up-to-date edition)"
+        captions = """
+00:03
+hey what's going on a push piece we have
+00:06
+key concept 8.1 for you today this is
+00:08
+the revised edition the most up-to-date
+00:10
+video you will find on key concept 8.1
+00:15
+this is only 5 more videos after this
+00:17
+now before you begin at shout out time I
+00:18
+want to give shout outs to mr. Cruz's
+00:20
+class in Virginia
+00:21
+MS minoes class in Chicago mr. Picard
+00:24
+ease class in California and dr. Tyrells
+00:27
+class in Ohio thank you all so much for
+00:29
+the support I do appreciate if you want
+00:31
+your teacher get a shadow you have five
+00:33
+videos left to get in some leave in the
+00:35
+comments and I will do my best to get to
+00:37
+it alright key concept 8.1 states the
+00:40
+United States responded to an uncertain
+00:42
+in unstable post-war world by asserting
+00:45
+and working to maintain a position of
+00:48
+global leadership with far-reaching
+00:50
+domestic and international consequences
+00:52
+so some big idea questions you should be
+00:54
+able to answer by the end of this video
+00:56
+are what were different ways the u.s.
+00:57
+sought to contain communism both
+01:00
+domestically and abroad
+01:02
+how did independence movements
+01:04
+throughout the world affect the Cold War
+01:06
+and how did the Vietnam War impact
+01:09
+domestic life very important topics
+01:12
+which you will be an expert on all right
+01:14
+let's take a look at Roman numeral one
+01:15
+it says United States policymakers
+01:17
+engaged in a cold war with authoritarian
+01:19
+Soviet Union seeking to limit the growth
+01:22
+of communist military power and
+01:24
+ideological influence create a
+01:26
+free-market global economy and build an
+01:28
+international security system in other
+01:31
+words to stop the Soviet Union from
+01:33
+becoming too powerful now latter a
+01:35
+states the wartime alliance between the
+01:38
+Soviet Union and the Allies dissolved
+01:40
+keep in mind the Soviet Union the US
+01:42
+France Great Britain all fought on the
+01:44
+same side during World War two but once
+01:46
+that war was over the Alliance
+01:48
+disappeared in the US will develop a
+01:51
+foreign policy based on collective
+01:53
+security or security for a big group of
+01:56
+people and you see this through the
+01:57
+North Atlantic Treaty Organization or
+01:59
+NATO which was created by the US and its
+02:02
+allies like Great Britain and France and
+02:04
+this was created in an effort to limit
+02:07
+the power of the Soviet Union if one
+02:10
+country was attacked a NATO it was as if
+02:12
+a
+02:12
+all were attacked we also have
+02:14
+international aid whether it's the
+02:16
+Marshall Plan which provided billions of
+02:18
+dollars to Europe to rebuild the
+02:20
+continent that was just destroyed during
+02:22
+World War two or the Truman Doctrine
+02:24
+which put four hundred million dollars
+02:25
+in military aid to Greece and Turkey so
+02:28
+the u.s. is going to provide lots of
+02:30
+money to European countries to improve
+02:32
+their economies and hopefully make
+02:34
+communism and the Soviet Union less
+02:36
+appealing also economic institutions
+02:39
+were created that bolstered non
+02:41
+communist nations you see things like
+02:42
+the International Monetary Fund or the
+02:44
+IMF which was created in 1944 and this
+02:48
+organization hopes to promote trade and
+02:50
+provide loans to countries in need so
+02:53
+there's different ways the u.s. tried to
+02:55
+limit the appeal of communism so the
+02:58
+u.s. is going to contain communism
+03:00
+through a variety of measures now
+03:02
+definitely know this term containment it
+03:04
+was coined by this dude George F Kenan
+03:07
+he's really the father of containment
+03:09
+here's an interesting fact dude lived to
+03:11
+be a hundred and one years old he died
+03:14
+on March 17th 2501 years old that dudes
+03:17
+a champ so he created this this term
+03:19
+containment urge United States to
+03:21
+basically keep communism from spreading
+03:24
+you can't really stop it from existing
+03:27
+but you can keep it from spreading and
+03:29
+this is really going to be the idea that
+03:31
+will influence Wars like Korea and
+03:33
+Vietnam and this goes along with the
+03:36
+domino theory that if one country were
+03:38
+to become communist that other countries
+03:40
+would be as well we also have massive
+03:43
+retaliation and this is the idea that
+03:44
+the US would respond with more force if
+03:47
+attacked and I'd like to call this the
+03:49
+Ron Burgundy method you know that
+03:52
+escalated quickly if you've ever seen
+03:54
+anchorman the idea that if the US were
+03:56
+to get attacked they would respond and
+03:58
+even more force than they were attacked
+04:00
+with and you also see trying to contain
+04:03
+communism through the space race so this
+04:05
+is a reaction to Sputnik the satellite
+04:07
+that was launched in outer space and
+04:09
+this dude Yuri Gagarin's the first human
+04:12
+to ever orbit outer space and he did so
+04:14
+on April 12 hmm what happened on a photo
+04:18
+my god it's Henry Clay's birthday happy
+04:20
+birthday to Henry Clay
+04:21
+dude just keeps coming back so the u.s.
+04:23
+is going to begin a space race with the
+04:26
+Soviet you
+04:26
+into try to show that the u.s. is
+04:28
+technologically advanced as well so they
+04:30
+will build up their space program and
+04:32
+pour a lot of money into education in
+04:34
+the United States to try to make
+04:36
+themselves on par with the Soviet Union
+04:39
+when it comes to outer space okay so the
+04:41
+Cold War it will fluctuate between
+04:43
+direct and indirect military
+04:45
+confrontation so we have the Cuban
+04:47
+Missile Crisis so it's 13 days in
+04:48
+October 1962 which the u.s. found
+04:51
+missiles in Cuba only 90 miles off the
+04:54
+coast of Florida this is the closest the
+04:57
+USS Soviet Union ever came to war and I
+05:00
+do have a detailed video on the Cold War
+05:02
+in Cuba as well as the the Vietnam War
+05:04
+and the Korean War in the description so
+05:06
+make sure you check them out then we
+05:08
+have date on to know this term it
+05:09
+specifically mentioned this is easy
+05:11
+enough tensions between superpowers an
+05:13
+example this is assault treaties or the
+05:16
+strategic arms limitation talks which
+05:18
+then turn into treaties and this began
+05:20
+with Nixon's administration's Nixon's
+05:22
+administration and continued through
+05:24
+Carter so in the late to 1970s you see
+05:27
+this and this was an agreement these
+05:29
+were agreements to limit certain types
+05:31
+of nuclear weapons what we'll see after
+05:34
+World War two is there's this huge
+05:35
+decolonization movement in Asia Africa
+05:38
+and the Middle East a lot of countries
+05:39
+are going to be giving up their overseas
+05:41
+colonies the US will even give
+05:43
+independence to the Philippines
+05:45
+so with these countries not becoming
+05:48
+independence independent the US and the
+05:50
+Soviet Union will seek allies among
+05:52
+these new nations and many of them are
+05:54
+just going to want to remain neutral so
+05:57
+for instance in May of 1948 when Israel
+05:59
+was created the u.s. recognized Israel
+06:02
+almost immediately any revolution the US
+06:04
+kind of looked at it as if they were
+06:06
+pawns of the Soviet Union the Cold War
+06:09
+will also be felt in Latin America in
+06:11
+which the US will support non communist
+06:13
+regimes with varying levels of
+06:15
+commitment to democracy so pretty much
+06:17
+the the idea of the u.s. is they would
+06:19
+support almost any type of government as
+06:21
+long as they weren't communist so in
+06:23
+1954 the CIA helped overthrow the
+06:27
+democratically elected leader our bends
+06:29
+in Guatemala because he nationalized
+06:31
+land owned by the United Fruit Company
+06:33
+now you'll hear a lot in this time
+06:35
+period period eight of nationalizing
+06:37
+what that means is the government is
+06:39
+going to take land from
+06:40
+knees and it now belongs to them so the
+06:43
+US will be concerned that that sounds a
+06:44
+little too much like communism so our
+06:46
+benz is going to be overthrown and he
+06:48
+will be replaced with a military
+06:50
+dictator our mas let's go to Roman
+06:52
+numeral 2 cold war policies led to
+06:54
+public debates over the power of the
+06:55
+federal government and acceptable means
+06:58
+for pursuing international and domestic
+06:59
+goals while protecting civil liberties
+07:02
+so there will be debates over methods to
+07:05
+root out domestic communists this will
+07:07
+be especially true in the late 1940s
+07:10
+early 1950s so President Truman Hillen
+07:13
+issue an executive order 9 8:35 this was
+07:16
+a loyalty oath for federal employees so
+07:18
+all federal employees had to pledge
+07:19
+loyalty to the United States and confirm
+07:22
+that they were not communist late 1940s
+07:24
+early 1950s we have the second Red Scare
+07:27
+this happens after World War two just
+07:28
+like the first Red Scare happened after
+07:30
+World War one so an example of second
+07:32
+Red Scare is the hue AK is hue AK in
+07:35
+Hollywood ten hue accents for the House
+07:37
+Committee of unamerican activities in
+07:39
+which the House of Representatives would
+07:41
+call hearings and an investigate
+07:44
+suspected communists or people they
+07:45
+thought might be communist and the
+07:47
+Hollywood ten was a group of Hollywood
+07:50
+producers and directors who were called
+07:52
+before hue AK and refused to testify
+07:55
+McCarthyism is in the late 1940s early
+07:57
+1950s as well he was the senator from
+08:00
+Wisconsin in which he claimed to have
+08:02
+known the names of many communists that
+08:05
+infiltrated the the State Department and
+08:07
+here he is giving a speech and look at
+08:09
+this poor guy he is like what am I doing
+08:11
+here what is going on he's scared and
+08:13
+both political parties they supported
+08:15
+containing the threat of communism so
+08:17
+Eisenhower will support this in Iran
+08:20
+when the when the leader mosaic is
+08:22
+overthrown and replaced for the Shah of
+08:23
+Iran and in Guatemala which we just
+08:26
+talked about with our Benz being
+08:27
+overthrown and Truman will send troops
+08:29
+to create a fight in order to stop the
+08:31
+spread of communism in Korea and LBJ
+08:34
+will do the same in Vietnam as well so
+08:39
+domestic opposition to Wars there was
+08:41
+some with the Korean War but not really
+08:43
+much at all we'll see what the Vietnam
+08:45
+War the locker drags on the more
+08:46
+passionate the protests became and even
+08:49
+some violence accompanied with them so
+08:52
+in 1960 in January 19th
+08:54
+did the Vietnamese new year that we have
+08:57
+the Tet Offensive which is when the
+08:59
+North Vietnamese communists attacked the
+09:01
+south and from a long time the US
+09:04
+government kept telling America were
+09:05
+winning this war the war will be over
+09:07
+we're doing a great job and this
+09:09
+surprised many people that the North
+09:10
+Vietnamese were able to have such a
+09:13
+large attack surprise attack on the
+09:15
+south and the American so this was
+09:17
+really a turning point the Vietnam War
+09:18
+in which many people began to protest
+09:20
+more so we see groups like the students
+09:23
+for a Democratic Society or SDS they use
+09:25
+violence as time went on to protest and
+09:27
+in May 1970 at Kent State in Ohio we
+09:30
+have students protesting this was a
+09:32
+reaction to the u.s. bombing Cambodia
+09:34
+and here is a map of the shooting that
+09:37
+happened at that campus in which four
+09:40
+Kent State students were killed by the
+09:42
+Ohio National Guard
+09:44
+all right so Americans began to debate
+09:46
+as time went on the merits of a large
+09:48
+nuclear arsenal the USS Soviet Union had
+09:51
+so many nuclear weapons that they could
+09:52
+destroy the world several times over and
+09:55
+Eisenhower's farewell address he warned
+09:57
+of what he called the
+09:58
+military-industrial complex which is the
+10:01
+build-up of military industries
+10:03
+throughout the United States and he
+10:05
+cautioned that the US could be spending
+10:08
+lots of money and be in a perpetual
+10:10
+state of ready for Warren here's
+10:12
+Eisenhower so the power of the executive
+10:14
+branch him and foreign and military
+10:15
+policy will increase drastically as well
+10:18
+during this time in many Americans begin
+10:20
+to debate whether or not that is a good
+10:22
+thing so Congress will reverse the Gulf
+10:24
+of Tonkin Resolution with the War Powers
+10:26
+Act and the Gulf of Tonkin Resolution
+10:28
+essentially gave LBJ a blank check to
+10:32
+escalate the conflict in Vietnam as much
+10:35
+as he saw necessary and the War Powers
+10:36
+Act will limit the ability of the
+10:39
+President to send troops in combat
+10:42
+without consulting with Congress so the
+10:45
+u.s. involvement in the Middle East was
+10:46
+shaped by ideological military and
+10:48
+economic concerns in 1956 the Suez
+10:51
+Crisis occurs in which Nasser of Egypt
+10:53
+II nationalizes that were nationalize
+10:56
+again the Suez Canal and Britain and
+10:58
+France attacked Egypt they were upset
+11:00
+because they had control of the canal
+11:02
+the u.s. helped end the conflict because
+11:04
+they were afraid that the Soviets would
+11:06
+get involved and that you
+11:08
+it might side with the Soviet Union we
+11:10
+have a series of oil crises that help
+11:12
+initiate attempts at creating a national
+11:14
+energy policy this is something that's
+11:16
+even true today with oil we are still
+11:19
+very much dependent on it and the
+11:21
+Organization of Petroleum Exporting
+11:22
+Countries or OPEC was created by mostly
+11:26
+Middle Eastern countries and they hope
+11:28
+to control the supply of oil and there's
+11:29
+the flag for OPEC and after the u.s.
+11:32
+supported Israel in 1973 during the Yom
+11:34
+Kippur War OPEC placed an embargo an oil
+11:38
+embargo on the US which drastically
+11:39
+raised gas prices and you would see very
+11:41
+long lines at gas stations all right
+11:45
+some test tips for eight point one for
+11:47
+multiple choices short answer no that
+11:50
+the way ways that the US ought to
+11:51
+contain communism with us the Korean War
+11:53
+the Vietnam War Marshall Plan Truman
+11:55
+Doctrine definitely be able to explain
+11:57
+those what the heck is date on to end
+11:59
+the military-industrial complex who is
+12:02
+associated with and what does it mean
+12:04
+for essay questions world war ii is a
+12:06
+turning point for u.s. foreign policy
+12:08
+could be huge because now the u.s. is
+12:11
+heavily involved in foreign affairs
+12:13
+bye-bye George Washington's farewell
+12:14
+address and also comparing and
+12:16
+contrasting post-world War one with
+12:18
+post-world War two the u.s. reverted
+12:21
+back to isolationism after World War one
+12:23
+but they are anything but isolated after
+12:25
+World War two alright look forward to
+12:27
+seeing you back here four key concept
+12:29
+eight point two in which we will see
+12:31
+this very very influential lawyer and
+12:33
+future Justice of the Supreme Court I
+12:36
+think you guys very much for watching
+12:37
+best of luck on all of your tests
+12:39
+especially the one in May and have a
+12:41
+good day
+        """
     class video2:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=dfLmZdq6iQo"
+        title = "APUSH Review: Key Concept 8.2, Revised (Most Up-To-Date Video)"
+        captions = """
+00:00
+what's going on a push peeps we have key
+00:01
+concept 8.2 for you this is the revised
+00:04
+edition the most up-to-date edition of a
+00:08
+push curriculum you will find you know
+00:10
+what time it is it's shoutout time we
+00:13
+have to give shoutouts to mr. Martin's
+00:14
+class in Malaysia this is so cool to me
+00:17
+that somebody in Malaysia is watching so
+00:19
+Thank You mr. Petty's class in
+00:21
+Massachusetts ms McFarland's class in
+00:24
+washington and ms taps class from
+00:27
+central high school thank you guys so
+00:29
+very much I appreciate it and best of
+00:31
+luck and may you will do great
+00:33
+all right he cats update point to
+00:34
+state's new movements for civil rights
+00:36
+and liberal efforts to expand the role
+00:38
+of government generated a range of
+00:40
+political and cultural responses so it's
+00:43
+a big idea questions you should be able
+00:44
+to answer while were some examples of
+00:47
+successes during the civil rights
+00:48
+movement and how did the federal
+00:50
+government contribute to this
+00:51
+how did awareness for groups such as
+00:54
+Latinos American Indians Asian Americans
+00:56
+women and gays and lesbians change
+00:59
+during this time and why were some
+01:01
+people on the left and the right
+01:03
+assailing liberalism all right Roman
+01:05
+numeral one states seeking to fulfill
+01:07
+Reconstruction era promises civil rights
+01:09
+activists and political leaders achieved
+01:11
+some legal and political successes in
+01:14
+ending segregation
+01:15
+although the progress toward equality
+01:17
+was slow and halting so after World War
+01:20
+two civil rights activists are going to
+01:22
+use a variety of strategies to challenge
+01:24
+racial segregation be familiar with the
+01:27
+different types of strategies this could
+01:29
+be a great short answer question so
+01:31
+there were legal challenges an example
+01:33
+of the case is brown versus the Board of
+01:35
+Education which was led by an attorney
+01:37
+for the n-double-a-cp
+01:38
+Thurgood Marshall who became a future
+01:41
+Supreme Court justice and there is
+01:43
+justice Marshall you also have direct
+01:47
+action people like Fannie Lou Hamer and
+01:49
+Freedom Summer in which they sought to
+01:51
+increase the number of African Americans
+01:53
+registered to vote in Mississippi and of
+01:55
+course you have nonviolent protest
+01:57
+tactics used by people like Martin
+01:59
+Luther King and the Montgomery bus
+02:00
+boycott here's Rosa Parks the day that
+02:03
+she was arrested and also sit-ins that
+02:06
+began in Greensboro North Carolina and
+02:08
+then inspired other sit-ins across the
+02:11
+country and other ends such as
+02:13
+Oh lens and weighed ins and knee lens at
+02:15
+churches you name it there were ends all
+02:17
+across the country trying to get rid of
+02:19
+segregation so all three branches help
+02:23
+promote greater racial justice within
+02:26
+the executive branch you see Harry
+02:27
+Truman's executive order 99-81 the
+02:30
+desegregated the US military in 1948 in
+02:33
+the first war that the u.s. fought in
+02:35
+with desegregated troops was the Korean
+02:37
+War for the judicial branch you have
+02:38
+Brown versus Board of Education which
+02:40
+are briefly just mentioned this ruled
+02:41
+that segregation was inherently unequal
+02:44
+and this overturned the disastrous Court
+02:46
+case Plessy vs. Ferguson from 1896 so if
+02:49
+you're writing an essay about the civil
+02:51
+rights movement you mentioned Brown
+02:52
+versus the Board of Education your
+02:54
+synthesis point could be Plessy versus
+02:56
+Ferguson and you also have the
+02:57
+legislative branch promoting greater
+02:59
+racial justice by the Civil Rights Act
+03:01
+in 1964 this was part of LBJ's Great
+03:03
+Society
+03:04
+this was his Great Society was an
+03:07
+extension of the New Deal and it focused
+03:08
+on civil rights and what the Civil
+03:11
+Rights Act of 1964 does and definitely
+03:13
+no it's because it's specifically
+03:15
+mentioned in the new curriculum makes
+03:16
+discrimination in the workplace illegal
+03:18
+and it guarantees equal access to public
+03:21
+accommodation so no longer could places
+03:24
+discriminate based on race white
+03:28
+resistance was slow efforts at
+03:31
+desegregation for instance massive
+03:33
+resistance was it was an ID in the South
+03:35
+that southern schools would rather shut
+03:36
+down before desegregating so you would
+03:39
+see so schools in the South actually did
+03:42
+closed instead of being forced to
+03:43
+desegregate the southern manifesto was
+03:46
+written by 101 congressmen that believed
+03:48
+the Supreme Court overstepped its power
+03:50
+in Brown versus the Board of Education
+03:51
+they looked at the 14th amendment which
+03:54
+the Supreme Court cited in Brown versus
+03:57
+Board and they said nowhere in the
+03:58
+Fourteenth Amendment was segregation
+04:00
+mentioned so many southern congressmen
+04:02
+tried to resist desegregation and of
+04:06
+course probably the most well-known
+04:06
+example is the Little Rock Nine this is
+04:09
+when governor Orval Faubus of Arkansas
+04:11
+he refused to integrate schools and then
+04:13
+President Eisenhower nationalized the
+04:16
+troops to enforce the integration of
+04:19
+nine African American students at Little
+04:21
+Rock high school post 1965 do two thing
+04:25
+do two riots and cities
+04:27
+increase involvement in Vietnam which
+04:29
+many african-americans protested there
+04:30
+were debates that emerged among
+04:32
+activists over tactics and philosophies
+04:34
+so Martin Luther King he's still going
+04:37
+to urge non-violence but many urban
+04:39
+protesters especially those living in
+04:41
+the north are going to become more
+04:43
+frustrated and we see the emergence of
+04:44
+the Black Panther Party they advocated
+04:47
+armed self-defense to use violence if
+04:50
+necessary to protect themselves all
+04:54
+right let's take a look at Roman numeral
+04:55
+two it says responding to social
+04:56
+conditions in the african-american civil
+04:58
+rights movement a variety of movements
+05:00
+emerged that focused on issues of
+05:02
+identity social justice and the
+05:04
+environment so we have feminists and gay
+05:06
+lesbian activists they called for legal
+05:09
+economic and social equality and this
+05:11
+will be an extension of the civil rights
+05:13
+movement definitely no baby for Dan very
+05:15
+famous author she wrote a book called
+05:17
+the feminine mystique and she argued
+05:19
+that many housewives especially suburban
+05:21
+housewives were not happy and felt they
+05:24
+lived unfulfilled lies because many of
+05:26
+them were working to find a home and
+05:27
+raising children and they wanted more
+05:29
+out of life as what she found Gloria
+05:32
+Steinem and she she was and is a very
+05:34
+influential feminist she helped create
+05:37
+the National Women's Political caucus
+05:39
+and this supports women that seek to be
+05:42
+involved in politics and she is the
+05:44
+stepmother of one of my favorite actors
+05:47
+Christian Bale you think he's going
+05:50
+around like where's Gloria that was my
+05:53
+Batman impression we see calls for
+05:55
+social and economic equality for gays
+05:58
+and lesbians as well in 1969 we have the
+06:00
+Stonewall riots in New York City and
+06:02
+this is the birth of the gay rights
+06:04
+movement which riots occurred outside of
+06:06
+the Stonewall Inn a very popular gay and
+06:08
+lesbian establishment where many
+06:10
+customers were arrested by police simply
+06:12
+for being gay so groups that demanded
+06:15
+social and economic equality and to
+06:17
+redress past grievances included so we
+06:20
+see this movement again going beyond
+06:21
+just the civil rights when we see
+06:23
+Latinos led by Cesar Chavez and the
+06:25
+United Farm Workers he led a great
+06:27
+pecker strike to bring attention to the
+06:28
+plight of Mexican American workers he
+06:31
+also went on a hunger strike for like 28
+06:32
+days I believe and he met with
+06:34
+presidential candidate Robert F Kennedy
+06:36
+in 1968 American Indians whether it's
+06:40
+Indians of all tribes or the American
+06:42
+Indian Movement they use protests to
+06:43
+bring attention to the struggles of
+06:45
+Native Americans and the IAT took over
+06:47
+Alcatraz Island in 1969 and Asian
+06:51
+Americans saw California overturning its
+06:55
+alien land law which forbade Japanese
+06:57
+immigrants from owning land so other
+06:59
+minority groups are getting more
+07:01
+equality during this time as well
+07:04
+although it appeared there was overall
+07:06
+influence if you look at especially the
+07:08
+1950s you believe that many people were
+07:10
+living affluent life's poverty was a
+07:13
+national issue and many the people
+07:16
+wanted to reform this so we've Michael
+07:18
+Harrington him the very influential
+07:19
+journalist he writes a book called the
+07:21
+other American this is going to help
+07:23
+influence lyndon b johnson Great Society
+07:25
+program to help out America and he
+07:28
+argued in his book that 25 percent of
+07:30
+the nation and 40 percent of African
+07:32
+Americans were living in poverty and
+07:33
+Native Americans were the hardest hit
+07:35
+group so he said although there appears
+07:37
+to be a lot of affluence in the country
+07:39
+there really is not okay so some
+07:42
+environmental problems and accidents
+07:43
+occur especially in the 1970s in the
+07:46
+1960s Rachel Carson wrote a very famous
+07:48
+influential book called Silent Spring
+07:50
+which she warned about the dangers of
+07:51
+pesticide especially in the water system
+07:54
+this has helped inspire the
+07:56
+Environmental Protection Agency and also
+07:59
+the Clean Air Act and the Environmental
+08:01
+Protection Agency was created under
+08:03
+President Nixon's administration and the
+08:05
+purpose of these was the help protect
+08:06
+the environment and human health then in
+08:09
+the 1970s you have two very bad
+08:12
+disasters environmental disasters one is
+08:15
+Love Canal New York right by Niagara
+08:16
+Falls not too far from where I live and
+08:18
+the other is Three Mile Island a nuclear
+08:20
+power plant disaster in Pennsylvania
+08:24
+this led to the government getting
+08:25
+involved in passing legislation to help
+08:27
+out these communities please please
+08:29
+please know the causes and impacts of
+08:32
+the environmental moving this is a great
+08:34
+potential short answer question Roman
+08:37
+numeral 3 says liberalism influence
+08:39
+post-war politics and Court decisions
+08:41
+but it came under increasing attack from
+08:42
+the left as well as from a resurgent
+08:45
+conservative movement or the right so
+08:47
+question what the heck is liberalism
+08:49
+well it's limiting communism abroad and
+08:51
+it's also the belief in the power
+08:53
+government to achieve goals at home and
+08:56
+this will reach at Zenith or its highest
+08:58
+point in the mid-sixties under LBJ with
+09:01
+a Great Society so what is the Great
+09:03
+Society well it sought to use the
+09:05
+federal power to end racial
+09:07
+discrimination I want you to think it's
+09:09
+a continuation of the New Deal but
+09:11
+there's civil rights and a lot of times
+09:13
+LBJ this guy here on the left he used
+09:16
+his stature he was at all present about
+09:18
+6-3 6-4 to intimidate people what's
+09:21
+known as the Johnson treatment this poor
+09:23
+guys getting the Johnson treatment look
+09:24
+at all this space over here look how
+09:26
+close he is this dude's grill that's how
+09:28
+he got things done if you want to know
+09:29
+more about the Johnson treatment see my
+09:31
+video the presidency of LBJ it is in the
+09:35
+description so as I mentioned earlier
+09:37
+Civil Rights Act in 1964 there's banned
+09:39
+discrimination in public facilities the
+09:41
+Voting Rights Act of 1965 this
+09:43
+eliminated literacy test and the federal
+09:45
+government could register voters in
+09:47
+areas in which minorities were not
+09:49
+registered to vote then we have the
+09:51
+twenty-fourth amendment that eliminated
+09:53
+poll taxes so finally with the Voting
+09:55
+Rights Act of 1965 and the twenty-fourth
+09:58
+amendment the Fifteenth Amendment from
+10:00
+reconstruction which guaranteed suffrage
+10:02
+all males finally comes to fruition so
+10:05
+there's another synthesis connection for
+10:07
+you the Great Society also sought to
+10:08
+eliminate poverty and address other
+10:10
+social issues you have the headstart
+10:11
+program which is early childhood
+10:14
+education in the cabinet position of
+10:16
+Housing and Urban Development which
+10:17
+promoted housing in cities food stamps
+10:20
+Medicare and Medicaid were also part of
+10:22
+the Great Society and LBJ was a former
+10:26
+teacher so education was important to
+10:28
+him billions of dollars were provided
+10:29
+for primary and secondary education now
+10:32
+the Supreme Court also made several
+10:34
+decisions that expanded democracy and
+10:36
+individual freedoms for example Miranda
+10:38
+versus Arizona if you are arrested you
+10:40
+have to be read your Miranda rights can
+10:42
+you say I'm saying right now do you know
+10:43
+it no it's not you have the right to be
+10:45
+an attorney and Griswold versus
+10:48
+Connecticut this struck down a law
+10:49
+forbidding contraception and this set
+10:52
+the precedent that the Constitution
+10:54
+established a right to privacy in that
+10:56
+will be used in later years in Roe vs.
+10:58
+Wade which legalized abortion right the
+11:02
+1960s conservatives began to challenge
+11:05
+liberal laws court decisions and
+11:07
+and perceived moral culture declined so
+11:09
+we see a rise of conservatism or the
+11:11
+rise of the right and conservatives hope
+11:14
+to limit the role of the federal
+11:15
+government go away from this large
+11:17
+government involvement under the Great
+11:18
+Society they wanted to be more assertive
+11:20
+with foreign policy as well not Barry
+11:23
+Goldwater he's gonna run against LBJ in
+11:25
+1964 for election here is Barry he was
+11:28
+much more militant than LBJ and he
+11:31
+called for a smaller government now do
+11:32
+you recognize his dude to his left here
+11:34
+given a speech that is Ronald Reagan he
+11:37
+gave a very famous speech called a time
+11:39
+for choosing which really launched
+11:41
+around reagan's political career Andy a
+11:43
+lot of Reagan's conservative ideas can
+11:45
+really be traced back to Barry Goldwater
+11:48
+there's another potential synthesis
+11:50
+point for you
+11:51
+all right so groups on the leftist say
+11:53
+liberals because or attacked liberals
+11:55
+because they didn't think they went far
+11:57
+enough especially when it came to racial
+11:59
+and economic issues so the Black
+12:01
+Panthers as I mentioned earlier they
+12:02
+urged arming of African Americans for
+12:04
+self-defense and they also created free
+12:07
+breakfast programs in urban areas for
+12:09
+children going to school they realize
+12:11
+the importance of breakfast for young
+12:13
+children
+12:14
+liberals pursued immoral policies abroad
+12:16
+they also argued especially the Vietnam
+12:18
+War when LBJ got the u.s. involved in
+12:20
+Vietnam war so an example this is the
+12:22
+students for a Democratic Society they
+12:24
+protested the Vietnam War as the u.s.
+12:26
+increased involvement and they
+12:28
+criticized the gap between the rich and
+12:30
+the poor and they inspired march
+12:32
+incidents and teach-ins
+12:34
+now we'll see especially in the 1970s
+12:36
+public trust in government is going to
+12:38
+drastically decrease and this will
+12:39
+happen due to several reasons again
+12:42
+another great potential short answer
+12:44
+question we see economic challenges
+12:47
+things like stagflation of the 1970s
+12:49
+stagflation very important term to know
+12:51
+it's high unemployed high inflation and
+12:53
+high unemployment it is an economic
+12:55
+nightmare
+12:56
+there are also political scandals such
+12:58
+as the Watergate scandal which led to
+12:59
+Nixon resigning the first president in
+13:02
+US history to resign and only one and
+13:05
+also foreign policy crises things like
+13:07
+the oil embargo 1973 which saw gas
+13:10
+stations across the country have high
+13:12
+gas prices or even run out of gas the
+13:14
+Vietnam War was another issue that last
+13:16
+that lasted many years in there Ron
+13:18
+hostage crisis of nineteen
+13:20
+79 under President Carter's
+13:22
+administration he was unable to rescue
+13:24
+the hostages from the US Embassy in Iran
+13:27
+right so conservatives and liberals are
+13:30
+gonna clash over the following issues
+13:31
+one social and cultural issues so we'll
+13:34
+see changes to the American family in
+13:36
+the 1970s in particular we'll see
+13:37
+divorce rates increase more women are
+13:39
+working outside the home and that
+13:41
+challenged the traditional family idea
+13:43
+of the 1950s power the federal
+13:45
+government will be another issue
+13:46
+conservatives are going to want a
+13:48
+smaller government they'll be against
+13:50
+things like the Great Society this is
+13:52
+true even to today conservatives call
+13:54
+for smaller government race will be an
+13:56
+issue the Supreme Court case Bach vs.
+13:58
+University of California the Supreme
+14:00
+Court upheld affirmative action however
+14:02
+they ruled that quotas were not allowed
+14:05
+so somebody's race could be a factor in
+14:08
+admitting somebody into college but
+14:10
+there the use of quotas or setting aside
+14:13
+a certain amount of spots for somebody
+14:15
+based on their race is not allowed as
+14:18
+what the Supreme Court said Phyllis
+14:20
+Schlafly she was a critic of the e ra or
+14:22
+the Equal Rights Amendment this was an
+14:24
+amendment to the Constitution that came
+14:26
+close to passing but did not pass she
+14:28
+argued that the RA would take away
+14:30
+certain benefits for women and her
+14:33
+campaign held lead to the defeat of the
+14:35
+e ra it came about three or four states
+14:37
+shy of being ratified if I remember
+14:39
+correctly all right so let's finish up
+14:41
+with some test tips for multiple choice
+14:42
+and short answer definitely no examples
+14:44
+of strategies used by civil rights
+14:46
+activists whether it's direct action
+14:47
+legal action and nonviolent protest how
+14:50
+all three branches contribute to the
+14:52
+civil rights movement these two things
+14:54
+sound like a great short answer question
+14:56
+to me so make sure you are familiar with
+14:59
+them Great Society you pretty much need
+15:01
+to know everything about it
+15:02
+criticisms of liberalism on the left and
+15:04
+the right what were criticisms from each
+15:07
+side and four essays and dbq's
+15:09
+definitely be able to compare and
+15:10
+contrast the civil rights movement with
+15:12
+earlier time periods for example from
+15:14
+the 1890s to the 1920s with people like
+15:16
+Booker T Washington w eb Du Bois Marcus
+15:19
+Garvey etc compare and contrast them
+15:21
+with the 1950s and 1960s civil rights
+15:23
+movement and also comparing the women's
+15:25
+rights movement with earlier time
+15:27
+periods for instance the 1840s with the
+15:30
+Seneca Falls convention or the 1920s
+15:32
+with flappers
+15:33
+as well all right guys look forward to
+15:35
+see you back here for key concept 8.3
+15:37
+only four videos left thank you very
+15:39
+much watching I do appreciate it best of
+15:41
+luck on all your exams especially the
+15:44
+one in May you will do great and have a
+15:46
+good day
+        """
     class video3:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=eseJiBno8Qk"
+        title = "APUSH Review: Key Concept 8.3, revised (Most Up-To-Date Video)"
+        captions = """
+00:00
+key concept 8.3 for you today this is
+00:02
+the revised edition the most up-to-date
+00:05
+Edition you will find on key concept 8.3
+00:09
+before we begin it is shout out time I
+00:11
+get to give shout outs to mr.
+00:13
+Schneider's class mr. Whedon's class of
+00:15
+Virginia mr. Lance's class at Dawson
+00:17
+high school mr. Johnson and mr. South's
+00:20
+classes in California and finally mr.
+00:23
+Amidala's class in Florida thank you all
+00:26
+so very much for the support it means
+00:27
+the world and best of luck to you all
+00:30
+on your exam in May all right key
+00:32
+concept 8.3 state post-war economic and
+00:35
+demographic changes had a far-reaching
+00:37
+impact on American society politics and
+00:40
+culture so it's the big idea questions
+00:42
+to think about as we go through this
+00:43
+video how did economic growth impact
+00:46
+American society and American values and
+00:48
+how did new immigration laws in 1965
+00:51
+impact immigrants this could address the
+00:54
+historical thinking skills of change and
+00:56
+continuity and finally how did the
+00:59
+counterculture impact American society
+01:01
+alright
+01:02
+Roman numeral one states rapid economic
+01:04
+and social changes in American society
+01:06
+fostered or encouraged a sense of
+01:08
+optimism in the post-war years so we
+01:11
+have a burgeoning and that means
+01:12
+increasing private sector so why is this
+01:15
+private sector or the economy really
+01:17
+increasing and doing well while we have
+01:19
+federal spending things like the
+01:20
+interstate highway system created in
+01:23
+nineteen in the 1950s by Eisenhower was
+01:26
+the largest government works project in
+01:28
+US history we had the baby boom
+01:30
+generation and here is a picture of a
+01:32
+baby boomer this is my mother born in
+01:34
+1955 smack dab in the middle of the baby
+01:38
+boom generation so this is the largest
+01:40
+generation in American history so with
+01:43
+that comes lots of consumer spending and
+01:45
+also we have technological developments
+01:47
+things like the TV during this time
+01:49
+become very very popular and all of
+01:51
+those contributed to economic growth now
+01:55
+what is the impact of higher education
+01:56
+opportunities more and more people are
+01:58
+going to college of the GI Bill of
+01:59
+Rights and these new technologies well
+02:01
+we see in migration of middle class to
+02:03
+the suburbs especially suburbs like
+02:06
+Levittown right near New York City and
+02:08
+this really encouraged the growth of
+02:10
+suburbs and other areas of the country
+02:13
+and we had the growth of the Sunbelt and
+02:15
+that is really going to gain influence
+02:17
+during this time this is those those
+02:19
+southern states from California all the
+02:21
+way over through Texas and Florida and
+02:23
+up to Virginia that's the Sun Belt we'll
+02:25
+see since the end of World War two that
+02:28
+area is going to be growing a population
+02:30
+at expense of the frost belt or the
+02:32
+colder areas like New York where I'm
+02:34
+from we also internal and international
+02:37
+immigration is going to increase and
+02:39
+that's because of economic opportunities
+02:42
+that is a theme throughout US history
+02:44
+so the immigration law of 1965
+02:46
+absolutely positively know this and
+02:48
+abolish the quota system from the 1920s
+02:50
+you remember the 1921 to 1924 X which
+02:53
+severely restricted immigration of
+02:55
+course you do those are now gone in 1965
+02:59
+families of legal immigrants living in
+03:01
+the u.s. were giving preferential
+03:02
+treatment so they encouraged the
+03:04
+immigration of families and this
+03:06
+especially will benefit immigrants from
+03:08
+Latin America and Asia and here is LBJ
+03:12
+right outside the Statue of Liberty on
+03:14
+the day he signed this law right Roman
+03:17
+numeral two states new demographic and
+03:18
+social developments along with anxieties
+03:20
+over the Cold War change US culture and
+03:23
+led to significant political and moral
+03:25
+debates that sharply divided the nation
+03:27
+so we had the rise of homogeneous mass
+03:29
+culture this was caused by economic and
+03:32
+social changes anxiety over the Cold War
+03:34
+and this was also challenged by artists
+03:37
+and elections and youth so The Beat
+03:40
+movement absolutely no The Beat movement
+03:42
+this can be compared to the Lost
+03:43
+Generation of the 1920s these are
+03:45
+authors and writers that challenged
+03:48
+middle class conformity and a very
+03:49
+famous member of the Beat movement is
+03:51
+Jack Kerouac and he wrote his book on
+03:53
+the road the effluence Society was
+03:55
+published in 1958 and this brought
+03:57
+attention to income disparity in
+03:59
+post-world War two u.s. the idea that
+04:01
+there's this growing gap between the
+04:03
+rich and the poor and there's a lot of
+04:04
+poor people living in the United States
+04:06
+during this time and we also have
+04:08
+rock-and-roll music things like Elvis
+04:10
+Presley and the Beatles were very very
+04:12
+influential during this time and here is
+04:15
+Jack Kerouac and of course you know
+04:17
+Elvis Presley who learned how to dance
+04:18
+from Forrest Gump
+04:21
+alright feminists in the counterculture
+04:23
+the 1960s counterculture where we're
+04:24
+talking about them we're talking about
+04:26
+hippie
+04:27
+so they rejected many of their parents
+04:29
+generations values so socially they
+04:32
+would use marijuana and you see the
+04:33
+emergence of new music and nowhere do
+04:36
+you see music highlighted better than at
+04:38
+Woodstock in 1969 economic values they
+04:42
+reject they rejected materialism and
+04:44
+they sought to live a simpler life and
+04:46
+politically they were very active in the
+04:49
+protest movement of the Vietnam War also
+04:51
+in the civil rights movement and the
+04:53
+promotion of women's rights so what did
+04:57
+this initiate well we have changes in
+04:58
+sexual norms and greater informal tea
+05:01
+and formal tea in u.s. culture all right
+05:06
+so we have a rise of evangelical
+05:07
+Christian churches and organizations
+05:09
+when you think about born-again
+05:11
+Christians this really becomes popular
+05:13
+during the 1970s and 80s and this this
+05:17
+is a focus on personal conversion and
+05:19
+this was accompanied by great political
+05:21
+and social activism by religious
+05:23
+conservatives so we see the emergence of
+05:26
+religious conservatives being involved
+05:28
+in politics and they will often support
+05:31
+the Republican Party this is a response
+05:33
+in part to Roe vs. Wade the Supreme
+05:36
+Court case that legalized abortion in
+05:38
+1973 people like Jerry Falwell and his
+05:41
+moral majority become very influential
+05:43
+during this time he opposed the Equal
+05:45
+Rights Amendment the strategic arms
+05:47
+limitation treaty abortion and
+05:49
+homosexuals as one he was very very
+05:52
+influential especially in the 1970s and
+05:54
+1980s another group focused on the
+05:56
+family they promoted abstinence they
+05:58
+were also against same-sex marriage and
+06:00
+are pro-life so again we see a religious
+06:04
+movement accompanied with involvement in
+06:06
+politics right some test tips for
+06:10
+multiple choice and short answer be able
+06:12
+to explain identify and explain the rise
+06:14
+of conservative movement family
+06:16
+structures and counterculture what were
+06:17
+they like during this time if for essays
+06:19
+immigration comparing post 1965 with
+06:22
+prior time periods maybe the 1920s
+06:25
+immigration quotas maybe new immigrants
+06:27
+with older immigrants immigration is a
+06:28
+very popular topic you should know and
+06:30
+finally again the rise of the
+06:32
+conservative movement making connections
+06:34
+to previous videos from period 8 to the
+06:38
+1960s under LBJ
+06:39
+this growth of big government in people
+06:41
+wanting to the size and scope of the
+06:44
+government all right guys look forward
+06:46
+to seeing you back here four key concept
+06:47
+9.1 when we will explore US history
+06:50
+after 1980 please make sure to check out
+06:54
+all my other review videos including the
+06:56
+massive end-of-the-year reviews that I
+06:58
+have and best of luck anime you will do
+07:01
+great and never forget you are always
+07:02
+more than a test score thank you guys
+07:05
+for watching and have a good day
+        """
     captions = video1.captions + video2.captions + video3.captions
 
 
 class Unit9:
     class video1:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=WzqeAXBwzqc"
+        title = "APUSH Review: Key Concept 9.1, revised (Most Up-To-Date Video)"
+        captions = """
+00:00
+key concept 9.1 for you today this is
+00:03
+the revised edition the most up-to-date
+00:05
+video you will find on key concept 9.1
+00:09
+before you begin you know what time it
+00:11
+is got to do a couple shoutouts first to
+00:14
+missus hoax class in New York a good
+00:17
+friend of mine thank you very much for
+00:19
+watching mr. Conrad's class in
+00:21
+Punxsutawney home of Cincinnati Reds
+00:23
+catcher Devin Mesoraco mr. Mays class in
+00:27
+the 305 that's Miami mr. de Rosas class
+00:31
+in Milwaukee mr. Fernandez class in
+00:33
+Georgia mr. mykos class in Germany so
+00:37
+cool people are watching in Germany and
+00:39
+mr. Fitch from Austin best of luck to
+00:42
+you all thank you so much you all will
+00:44
+do great on your exam
+00:47
+all right let's take a look at what key
+00:48
+concept 9.1 states a newly ascendant or
+00:51
+rising and power conservative movement
+00:54
+achieve several political and policy
+00:56
+goals during the 1980s and continued to
+00:59
+strongly influence public discourse in
+01:01
+the following decades so this is about
+01:03
+the birth and rise of the conservative
+01:06
+movement some big idea questions you
+01:08
+should know why changes occurred in the
+01:10
+economy as a result of Reagan's election
+01:12
+in 1980 and over what issues did
+01:15
+conservatives and liberals debate ok
+01:17
+Roman numeral one conservative beliefs
+01:19
+regarding the need for traditional
+01:21
+social values and a reduced role for
+01:24
+government advanced in US politics after
+01:26
+1980 make sure you understand that
+01:29
+conservatives call for traditional
+01:31
+values and a smaller government so they
+01:33
+really are going to focus on a smaller
+01:35
+government that is paramount to
+01:37
+understanding all right so why was
+01:39
+Reagan's election in 1980 seen as a
+01:41
+milestone or if you really want to
+01:44
+impress the AP readers use the word
+01:46
+watershed event or watershed election
+01:49
+that means like a major turning point
+01:51
+well conservatives begin to enact the
+01:53
+following things we have tax cuts
+01:55
+Reaganomics also known as supply-side
+01:57
+economics or trickle-down economics they
+01:59
+all pretty much are the same thing
+02:01
+here's Reagan illustrating explaining
+02:04
+his program on TV this is the idea that
+02:07
+there should be tax cuts for the wealthy
+02:08
+in order to stimulate economic growth
+02:11
+and tax rates were cut
+02:14
+pretty heavily in the 1980s this is
+02:16
+similar to tax policies of the 1920s
+02:20
+Under Secretary of Treasury Andrew
+02:22
+Mellon that's a synthesis point if
+02:24
+you're writing about the economy in the
+02:25
+8th 1920s or the 1980s feel free to use
+02:29
+them connect the two and there's your
+02:31
+synthesis point and there's also
+02:32
+deregulation of many industries
+02:34
+especially Reagan promising in his
+02:37
+campaign to decrease environmental
+02:39
+regulations that were more favorable to
+02:41
+businesses now conservatives will hope
+02:45
+to limit liberal programs things that
+02:48
+were enacted under the New Deal and even
+02:51
+some of the Great Society but they will
+02:52
+meet inertia or resistance and liberal
+02:56
+opposition and this is because many of
+02:58
+these programs will remain popular with
+03:00
+voters so for example Social Security
+03:02
+and Medicare those are beneficial to the
+03:05
+elderly and the elderly vote more than
+03:07
+any other demographic so it's very hard
+03:09
+to limit these programs if these people
+03:12
+vote because they will vote for people
+03:13
+that supports these programs so
+03:15
+understand even though conservatives
+03:17
+wanted to limit the size and scope of
+03:20
+government it was difficult to get rid
+03:21
+of some programs now policy debates are
+03:25
+going to emerge regarding free trade
+03:27
+agreements this is something that's even
+03:29
+true today in 2016 think of NAFTA the
+03:32
+North American Free Trade Agreement this
+03:34
+is when no tariffs would be placed on
+03:37
+goods that are made and traded between
+03:39
+America Canada and Mexico now if you own
+03:41
+an Xbox 360 that is made right across
+03:44
+the border from the United States in
+03:46
+Mexico because there is no tariff when
+03:48
+it is shipped into the United States in
+03:51
+Seattle in 1999 there's a World Trade
+03:54
+Organization meeting and there were
+03:56
+several protests outside and here is a
+03:58
+picture of the craziness that occurred
+04:01
+these protesters were getting pepper
+04:03
+sprayed by this police officer now the
+04:07
+scope and of the government and the
+04:08
+social safety net has been debated how
+04:10
+big should the government be how much of
+04:12
+a social safety net should there be and
+04:14
+in 1996 under Bill Clinton we had
+04:17
+welfare reform and some viewed the
+04:19
+public as becoming too dependent on
+04:21
+government assistance or that they
+04:23
+became too reliant on
+04:25
+government programs so this instituted
+04:28
+time limits on welfare assistance and
+04:30
+also increased eligibility requirements
+04:33
+so this really kind of reduced the
+04:35
+amount of welfare that people were
+04:36
+getting and the length of time that they
+04:38
+were getting it there are also calls to
+04:40
+reform the US financial system you see
+04:42
+this in the area finance reform
+04:43
+financial services Modernization Act
+04:45
+this repealed parts of the
+04:47
+glass-steagall Act from the New Deal so
+04:49
+many people can service in particular
+04:51
+going to call for deregulation of the
+04:54
+financial system right for tests tips
+04:57
+multiple choice and short answer be able
+04:59
+to identify and explain the goals of
+05:00
+conservatives NAFTA and the debates over
+05:02
+free trade that's just one example of it
+05:05
+and debates over the scope and size of
+05:07
+government for long essay a DBQ you will
+05:10
+not see one exclusively on period nine
+05:12
+but it could be part of a larger idea
+05:14
+for instance debates over scope and size
+05:16
+of the federal government since World
+05:18
+War two and reasons for the rise of the
+05:20
+conservative movement
+05:22
+alright guys look forward to see you
+05:23
+back here and key concept 9.2 thank you
+05:25
+very much for watching we only have two
+05:27
+videos left and you're gonna do great on
+05:29
+your exam and I wish you nothing but the
+05:31
+best of luck in May have a good day
+        """
     class video2:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=gvREnUWMKoU"
+        title = "APUSH Review: Key Concept 9.2, revised (Most Up-To-Date Edition)"
+        captions = """
+00:00
+we have key concept 9.2 for you this is
+00:02
+the revised edition the second last
+00:05
+video in the a.push curriculum how
+00:07
+excited are you to be almost done all
+00:09
+right before we begin you know what time
+00:11
+it is
+00:12
+it is shoutout time got to give a shout
+00:14
+outs to jackson and everyone in mrs.
+00:16
+anthony's class mr. sockos classroom
+00:19
+California mrs. wolfman's class in Idaho
+00:22
+mr. Hanrahan's class in Illinois mrs.
+00:25
+bike nerds class mr. Potter's class in
+00:28
+western New York he's a good dude this
+00:30
+is Marv Lars class in Texas mr. Lundy
+00:33
+qualms class and Baron Wisconsin best of
+00:37
+luck to you all you are brilliant you
+00:39
+will do great and never forget you were
+00:41
+always more than a test score
+00:44
+all right key concept 9.2 States moving
+00:47
+into the 21st century the nation
+00:48
+experienced significant technological
+00:50
+economic and demographic changes so it's
+00:54
+the big idea questions to focus on how
+00:56
+has the economy changed since 1980 and
+00:58
+what are the impacts of internal
+01:00
+migration and immigrants on the United
+01:03
+States guys this is that's a question
+01:05
+that we have examined throughout this
+01:08
+entire course all right Roman number one
+01:11
+states new developments in science and
+01:13
+technology enhance the economy and
+01:15
+transform society while manufacturing
+01:17
+decreased the question is why did
+01:19
+American participation and worldwide
+01:21
+economic opportunities increase think of
+01:24
+global it as globalization well we have
+01:27
+economic productivity is increasing
+01:30
+that's a result of new machines digital
+01:32
+communication is going to increase think
+01:34
+about email cell phones that building
+01:36
+for people to connect and talk to people
+01:39
+throughout the world in a matter of
+01:40
+seconds or split seconds is drastically
+01:43
+increasing and and that's through
+01:45
+computers email phones etc they're
+01:48
+connecting people to the world instantly
+01:50
+and I remember when I was in Middle
+01:52
+School my mom had a cell phone like this
+01:54
+and it would charge you for roaming and
+01:57
+it was like 25 cents a minute it's
+01:59
+insane so the evolution of the cell
+02:00
+phones in the last 20 years is
+02:01
+absolutely incredible
+02:03
+let it be what is the impact of these
+02:05
+technological innovations well we've
+02:07
+increased access to information
+02:09
+especially when it comes to news and
+02:12
+this will lead to many pre
+02:13
+newspapers shutting down and they're
+02:15
+being replaced in there they're
+02:17
+switching over to the digital media or
+02:19
+they are being replaced by the digital
+02:21
+media think about the internet chances
+02:23
+are that's probably where you get most
+02:24
+of your information and news from we
+02:27
+have new social behaviors and networks
+02:29
+that are merging things like Facebook
+02:31
+Twitter you name it people are
+02:32
+connecting in different ways also we
+02:35
+have an increase of the service sector
+02:37
+employment so manufacturing is
+02:39
+decreasing but we have an increase in
+02:41
+people who have service jobs and as a
+02:44
+result of manufacturing decreasing
+02:46
+there's also a decrease in union
+02:48
+membership and you see this especially
+02:50
+in cities in the north is known as the
+02:52
+Rust Belt northern cities that lost
+02:54
+manufacturing jobs my city of Buffalo
+02:57
+there are many empty buildings down
+02:59
+there this is a building from Detroit
+03:00
+you see this happening in Cleveland new
+03:02
+name a lot of northern cities they used
+03:04
+to be very influential in terms of
+03:06
+population centers and economy the
+03:09
+population has decreased so Academy in
+03:12
+the post 1980 world while wages are
+03:15
+going to stagnate and that's a fancy
+03:17
+word for stop so let's take a look at
+03:20
+median family income going back to 1980
+03:24
+right here this blue line is slowly kind
+03:27
+of going up but for the most part it's
+03:28
+kind of stalling whereas productivity is
+03:30
+increasing quite a bit so especially for
+03:34
+middle-class families you see wages are
+03:36
+stopping if you pay attention to 2016
+03:39
+presidential elections this is a major
+03:42
+discussion and there's also an increase
+03:44
+in economic inequality the wealthiest
+03:46
+are getting richer while everybody else
+03:49
+is kind of staying the same so this
+03:50
+growing gap between the rich and the
+03:52
+poor Roman numeral two states the US
+03:54
+population continue to undergo
+03:56
+demographic shifts that had significant
+03:58
+cultural and political consequences
+04:00
+there's a population growth in the south
+04:02
+and the west this is post 1980
+04:04
+continuing there's a continuum post 1980
+04:07
+even though this really began after
+04:09
+World War two this is your Sun Belt
+04:11
+ladies and gentlemen that we have talked
+04:12
+about these states from California all
+04:14
+the way through Texas and Florida and up
+04:17
+to North Carolina and this leads to an
+04:21
+increase influence politically
+04:23
+economically and culturally politically
+04:26
+think about it there
+04:27
+more members in the house these these
+04:29
+states are getting more members in the
+04:31
+house since the population is increasing
+04:33
+economically there are lots of
+04:35
+businesses that are opening up in the
+04:37
+south so you could connect that to the
+04:38
+idea of the new South during the
+04:40
+Reconstruction era there's as I
+04:43
+mentioned more representation in the
+04:45
+house in regards to immigration we see
+04:47
+immigration from Latin America and Asia
+04:48
+that's going to increase drastically
+04:50
+that's a result of that Immigration Act
+04:53
+of 1965 and traditionally these have
+04:55
+been underrepresented groups in American
+04:57
+history remember that 1965 immigration
+05:00
+act overturned the 1921 and 1924 quota
+05:04
+acts and these immigrants have helped
+05:07
+supply the US with an important labor
+05:09
+force
+05:10
+now political debates continued over
+05:12
+immigration policy also over diversity
+05:15
+gender roles and family structures so
+05:18
+the immigration reform a Control Act of
+05:19
+1986 signed by President Reagan this
+05:22
+makes it so a company can be punished
+05:24
+for legally hiring an illegal immigrant
+05:27
+the Don't Ask Don't Tell policy this
+05:30
+banned openly gay individuals from
+05:33
+serving in the military this was put
+05:34
+into place in the 1990s under President
+05:36
+Bill Clinton and this was overturned by
+05:40
+President Barack Obama and here he is
+05:42
+signing the repeal of the Don't Ask
+05:44
+Don't Tell policy in the US military all
+05:49
+right so some test steps will finish up
+05:51
+but for multiple choices short answer
+05:52
+definitely know the impact of technology
+05:54
+be able to identify and describe that
+05:56
+demographic changes the Sun Belt the
+05:58
+Rust Belt that is very very important
+06:00
+it's mentioned several times throughout
+06:01
+the curriculum and the economy since
+06:03
+1980 know there's a decrease in union
+06:04
+membership decrease in manufacturing as
+06:07
+well for essays it will not be
+06:09
+exclusively on this time period but it
+06:11
+could be part of a larger theme such as
+06:13
+immigration post-world War two or the
+06:15
+economy from 1970 to present day all
+06:19
+right as you know we leave one key
+06:21
+concept left it will focus on President
+06:23
+Ronald Reagan's administration so I
+06:25
+thank you guys for watching best of luck
+06:27
+on this exam that is oh so close make
+06:30
+sure you check out the description for
+06:31
+my massive review videos in the
+06:33
+curriculum I have you covered I'm pretty
+06:35
+much anything you need to succeed in a
+06:37
+push I appreciate your support best of
+06:39
+luck and have a good day
+        """
     class video3:
-        url = ""
-        title = ""
-        captions = """"""
+        url = "https://www.youtube.com/watch?v=LOJpTzjU7xc"
+        title = "APUSH Review: Key Concept 9.3, revised (Most Up-To-Date Edition)"
+        captions = """
+00:03
+what's going on a push piece we have key
+00:06
+concept 9.3 of the revised edition this
+00:09
+is it congratulations and a few minutes
+00:12
+you will be done with AP curriculum and
+00:15
+ready to destroy that test coming up all
+00:18
+right before you get shout out time I
+00:19
+have to give a shout-out to my two
+00:21
+classes my it's 2:00 and 5:00 you guys
+00:23
+are awesome it's been a real pleasure
+00:26
+teaching you all year you're the best
+00:28
+mr. hopes class mr. Armstrong's class MS
+00:32
+Barry's class in Iowa
+00:33
+mrs. Christensen's class and mr. Wilkins
+00:36
+class in Michigan and especially you
+00:39
+right there listening watching right now
+00:41
+I appreciate your support best of luck
+00:44
+to all of you and never forget you're
+00:46
+more than a test score
+00:48
+all right key concept 9.3 States the end
+00:51
+of the Cold War and the new challenges
+00:52
+the US leadership in the world forced
+00:54
+the nation to redefine its foreign
+00:57
+policy and global role so it's a big
+00:59
+idea questions how did Ronald Reagan
+01:01
+interact with the Soviet Union in the
+01:03
+1980s and what led to the war on terror
+01:06
+and what were its impacts both
+01:08
+domestically as well as internationally
+01:11
+Roman numeral one states the Reagan
+01:14
+administration promoted an
+01:15
+interventionist foreign policy that
+01:17
+continued in later administrations even
+01:19
+after the end of the Cold War so how did
+01:22
+Reagan assert us opposition to communism
+01:25
+Reagan was a very steadfast
+01:28
+anti-communist leader well he did so in
+01:31
+a couple ways he used speeches and most
+01:33
+famously probably was his mr. Gorbachev
+01:36
+tear down this wall speech in front of
+01:38
+the Brandenburg Gate in Berlin and he
+01:40
+also called the Soviet Union an evil
+01:42
+empire so Ronald Reagan was a very good
+01:46
+orator and youth and use this to deliver
+01:48
+the message of and use that to try to
+01:51
+bring about the end of the Cold War we
+01:53
+also have limited military interventions
+01:55
+in the Caribbean for example the u.s.
+01:57
+overthrew the government in Grenada
+02:00
+which was a communist leaning government
+02:02
+so the u.s. is continuing that policy in
+02:05
+Latin America trying to stop communist
+02:07
+governments from coming to in keeping
+02:08
+power and we also have the buildup of
+02:10
+nuclear and conventional weapons ICBMs
+02:12
+which stand for inter
+02:13
+continental ballistic missiles and here
+02:16
+is an ICBM that was developed under
+02:19
+Reagan's administration and its nickname
+02:21
+was the peacemaker you also have the
+02:23
+Strategic Defense Initiative nicknamed
+02:25
+Star Wars this was Reagan's plan to
+02:27
+build a satellite defense system in
+02:31
+outer space that would help shoot down a
+02:34
+nuclear missile if it were launched at
+02:36
+the US now this did not come to fruition
+02:37
+but it was a plan so what ultimately
+02:40
+helped contribute to the end of the Cold
+02:42
+War
+02:42
+while we have increased US military
+02:44
+spending as I just mentioned you have
+02:45
+the development of ICBMs and you have
+02:48
+spent a lot of money building up the
+02:49
+military under Reagan which the Soviet
+02:52
+Union had a hard time keeping pace with
+02:53
+we have Reagan's diplomatic initiatives
+02:56
+he had a pretty good relationship with
+02:58
+the Soviet leader Mikhail Gorbachev and
+03:00
+the two of them work together to help
+03:01
+ease tensions between the US and the
+03:03
+Soviet Union and we also political and
+03:05
+economic issues in Eastern Europe and
+03:07
+the Soviet Union so some factors within
+03:09
+the Soviet Union
+03:10
+Gorbachev's policies of glass' Knost and
+03:13
+perestroika which glass not allowed for
+03:15
+more openness and it was a political
+03:16
+reform in the soviet union and
+03:18
+perestroika were economic reforms so you
+03:20
+see a movement away from communism and
+03:23
+allowing some elements of capitalism so
+03:26
+what were the impacts of the cold of the
+03:28
+end of the Cold War well we have the new
+03:30
+diplomatic relationships the expansion
+03:32
+of NATO the North Atlantic Treaty
+03:34
+Organization which was created to stop
+03:36
+the spread of communism in Europe and
+03:38
+NATO adds several new nations you'll
+03:41
+notice over here in Eastern Europe all
+03:42
+this blue these are NATO nations so NATO
+03:46
+is expanding in Eastern Europe also
+03:49
+peacekeeping interventions whether it
+03:51
+was Iraq in 1991 in the first Gulf War
+03:53
+or bombings in the Federal Republic of
+03:56
+Yugoslavia in the 1990s when a genocide
+03:59
+was happening and and this is a theme
+04:02
+that has continued throughout US history
+04:04
+especially pre and post World War two
+04:06
+there are debates over America's role in
+04:08
+the world like how powerful how involved
+04:10
+should the u.s. be on the world stage
+04:14
+right Roman numeral two states following
+04:16
+the attacks of September 11 2001 u.s.
+04:19
+foreign policy efforts focused on
+04:21
+fighting terrorism around the world so
+04:23
+on September 11th 2001 there were
+04:25
+attacks in Washington DC
+04:27
+Pennsylvania and New York City here's a
+04:30
+famous picture from that Tuesday morning
+04:32
+and Al Queda led the attack on the US
+04:35
+again it's the World Trade Center the
+04:36
+two twin towers in New York City the
+04:39
+Pentagon building in Washington DC and a
+04:41
+plane crashed in Pennsylvania so this
+04:44
+led directly to the conflict in
+04:45
+Afghanistan this was a response to the
+04:48
+Taliban the government of Afghanistan
+04:49
+holding Osama bin Laden and not turning
+04:52
+him over and this led to a lengthy
+04:54
+conflict the conflict in Iraq began two
+04:57
+years later in 2003 and this was a
+05:00
+us-led invasion against Saddam Hussein
+05:03
+in the u.s. under president george w
+05:05
+bush argued that saddam hussein was
+05:08
+suspected of having weapons of mass
+05:09
+destruction and connections to terrorism
+05:12
+it really neither of those has come true
+05:14
+in the years after the fact there have
+05:16
+been no WMDs discovered but that was an
+05:19
+argument used to go in preemptively into
+05:22
+Iraq so what are the impacts of the war
+05:24
+on terrorism well there's a hope to
+05:25
+improve security in the United States
+05:27
+but it also raises questions about
+05:29
+protection of civil liberties and human
+05:31
+rights so as far as civil liberties are
+05:33
+concerned we have the Patriot Act which
+05:35
+which was passed in response to 9/11
+05:38
+this gives the federal government
+05:39
+increased power to wiretap without a
+05:42
+warrant and there's something called a
+05:43
+roving wiretap which focuses on the
+05:46
+person not the device so under a roving
+05:49
+wiretap any device could be tapped
+05:51
+if a suspected individual could use that
+05:54
+device so this increases the
+05:56
+government's ability to wiretap on
+05:59
+individuals and Edward Snowden has been
+06:01
+in the news in recent years he's used to
+06:03
+work for the government and has released
+06:05
+lots of classified documents that shows
+06:08
+that the the US federal government is is
+06:10
+examining phone records and text
+06:13
+messages and emails of citizens that are
+06:16
+not suspected of terrorist connections
+06:18
+as well now there's also debates over
+06:21
+fossil fuels and environmental impacts
+06:23
+and this is caused by conflict in the
+06:25
+Middle East this goes back a long time
+06:27
+but in period 91 1991 the first Gulf War
+06:30
+Iraq invaded Kuwait and there's concern
+06:32
+about the world's oil supply so the US
+06:34
+and the many other countries throughout
+06:37
+the world stepped in to push a rock out
+06:39
+of Kuwait
+06:41
+concerns about climate change in former
+06:43
+Vice President Al Gore created a
+06:44
+documentary called an inconvenient truth
+06:46
+which focuses on the impacts of humans
+06:50
+on the environment this is a major
+06:52
+debate today in politics between the
+06:55
+Democrats and Republicans however the
+06:57
+u.s. continued as the world's leading
+06:59
+superpower even in the face of economic
+07:01
+and foreign policy challenges alright
+07:04
+guys we'll finish up with some test tips
+07:05
+for multiple choice and short answer be
+07:07
+able to identify and explain the
+07:09
+us-soviet relations especially with
+07:11
+Reagan and Gorbachev out intervening
+07:18
+think about still being a world
+07:20
+superpower
+07:21
+for essay topics you will not see one
+07:23
+exclusively on period nine could be part
+07:26
+of a bigger bigger theme such as the
+07:28
+Cold War policy from the beginning of
+07:29
+the Cold War to the end of the Cold War
+07:31
+and civil liberties as well post-world
+07:33
+War two to present-day
+07:35
+and you could even see one on foreign
+07:37
+policy from post-world War two to today
+07:40
+things that debates over the USA's role
+07:43
+in what remain the same and what change
+07:45
+so that changing continuity theme there
+07:47
+as well that is it congratulations on
+07:50
+completing period nine and all key
+07:52
+concepts and they push curriculum I
+07:55
+thank you guys very much for watching
+07:57
+and sticking with me throughout the year
+07:58
+please make sure you check the
+07:59
+description for period review videos in
+08:02
+ten minutes and of course my massive
+08:04
+review videos covering the first half of
+08:06
+the year and the second half of the year
+08:09
+as well and best of luck on that exam
+08:11
+you will do great and I hope to see you
+08:13
+next year in AP gov if you're taking it
+08:15
+I have videos on that as well so thank
+08:18
+you very much
+08:18
+best of luck and have a good day
+        """
     captions = video1.captions + video2.captions + video3.captions
