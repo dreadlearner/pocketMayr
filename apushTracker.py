@@ -1,21 +1,22 @@
-from pytube.helpers import cache
 import wikipedia
-from datetime import datetime
-import time
-import html
+import datetime
 from bs4 import BeautifulSoup as bs
 import numpy as np
 import re
 import pytube
 
-# TODO: wikiresp.link
+# TODO: wikiresp.timeperiod
 
-# TODO: vid, notes, and study objects
+# TODO: vid, notes, vocab, and study objects
+
+# TODO: opening external links, programs, etc.
+
+# TODO: response handling for each printed result
 
 now = datetime.now()
-day = str(now.day)
-month = str(now.month)
-year = str(now.year)
+day = int(now.day)
+month = int(now.month)
+year = int(now.year)
 date = (f"{day}/{month}/{year}")
 hour = int(now.hour)
 minute = int(now.minute)
@@ -31,7 +32,7 @@ if hour < 12:
 while True:
     print(f"\n{date} {hour}:{minute}")
 
-    print("~"*25, f"\nGood {time_of_day}, welcome to pocketMayr!\n","~"*25)
+    print("~"*25, f"\nGood {time_of_day}, welcome to pocketMayr!\n", "~"*25)
 
     random_message = np.random.randint(1, 4)
     if random_message == 1:
@@ -98,7 +99,7 @@ while True:
                 if page != []:
                     err = "nil"
                     page = wikipedia.page(page)
-                    link = "test"
+                    link = page.url
                     title = page.title
 
                     wikihtml = page.html()
@@ -127,9 +128,10 @@ while True:
 
 
         class vid:
+            year = wikiresp.year
             unit = unitfinder(year)
             # create a list of videos for each unit
-            if unit == 1: # THESE ALL NEED TO BE ACTUAL YOUTUBE LINKS, NOT THE EMBED ONES. THE EMBED ONES DON'T WORK
+            if unit == 1:
                 videos = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
             if unit == 2:
                 videos = ["https://www.youtube.com/watch?v=LWfcXHMLaHU", "https://www.youtube.com/watch?v=CVy_9FhVfKE", "https://www.youtube.com/watch?v=kKL1UV5AiW0",
@@ -156,7 +158,7 @@ while True:
                 "https://www.youtube.com/watch?v=F7LKIIThtPM&t", "https://www.youtube.com/watch?v=aq88f8qZbWs", "https://www.youtube.com/watch?v=csbplgLpS9I",
                 "https://www.youtube.com/watch?v=0hsTpTc_T3M"]
             if unit == 7:
-                videos - ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
+                videos = ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
                 "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
             if unit == 8:
                 videos = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
@@ -166,13 +168,22 @@ while True:
             subject = open(unit, 'r', encoding='utf-8')
             subjectred = subject.read()
             found = re.findall(query, subjectred)
+
+            # if the keyword is not found in the captions, return all the videos
             if found == None:
-                err = "tiebreak"
+                err = "tiebreaker"
                 content = videos
-            #title
+            
+            # if the keyword is found, figure out what video it is part of
+            else:
+                err = "nil"
+                # find the video url, set var vidurl
+                title = pytube.YouTube(vidurl).title
+                content = vidurl
+                link = videos
+
             #timeperiod
-            #content
-            #link
+            subject.close()
 
 
         class study:
@@ -235,6 +246,7 @@ while True:
                 Want to read the entire article? Type "show me the wikipedia article!"
                 (This will open an external website)
 
+                Or, type "next!" to view the next result...
                 """)
 
 
@@ -256,6 +268,8 @@ while True:
 
                 Want to watch the entire video? Type "show me the video!"
                 (This will open an external website)
+
+                Or, type "next!" to view the next result...
                 """)
 
             print("\n", "apush-apush-apush-apush"*3)
@@ -281,6 +295,7 @@ while True:
                 Want to read the entire page? Type "show me the study page!"
                 (This will open an external website)
 
+                Or, type "next!" to view the next result...
                 """)
             print("apush-apush-apush-apush"*3)
 
@@ -305,7 +320,8 @@ while True:
                 Want to read the entire document? Type "show me Mayr's notes!"
                 (This will open a Microsoft Word (.docx) document)
 
-            """)
+                Or, type "next!" to view the next result...
+                """)
 
         wikiresult()
         #vidresult()
