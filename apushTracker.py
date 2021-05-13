@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as bs
 import numpy as np
 import re
 import pytube
+from CaptionTracks import units
 
 # TODO: wikiresp.timeperiod
 
@@ -12,6 +13,8 @@ import pytube
 # TODO: opening external links, programs, etc.
 
 # TODO: response handling for each printed result
+
+# TODO: steal dates and timeperiods from other functions for the end of the vidsearch
 
 now = datetime.now()
 day = int(now.day)
@@ -38,9 +41,16 @@ while True:
     if random_message == 1:
         print("\n",r"pocketMayr is right 99.99% of the time!", "\n")
     if random_message == 2:
-        print("\n",r"Mr.Mayr's a guide on the side!", "\n")
+        print("\n",r"I'm a guide on the side!", "\n")
     if random_message == 3:
-        print("\n",r"No! He's a sage on the stage!", "\n")
+        print("\n",r"I'm a sage on the stage!", "\n")
+    if random_message == 4:
+        print("\n",r"Cool cool cool.", "\n")
+    if random_message == 5:
+        print("\n",r"Mmm. Love me some diet Coke.", "\n")
+    if random_message == 6:
+        print("\n",r"I've got the horses in the back...", "\n")
+
 
     query = input("Put your keyword here:")
 
@@ -128,63 +138,94 @@ while True:
 
 
         class vid:
-            year = wikiresp.year
-            unit = unitfinder(year)
+            # query all unit captions, return time period. then query unit.video captions, return title, and url
+            units = [Units.unit1, Units.unit2, Units.unit3, Units.unit4, Units.unit5, Units.unit6, Units.unit7, Units.unit8, Units.unit9]
+            for u in units:
+                found = re.findall(query, u.captions)
+                if len(found) != 1:
+                    err = "tiebreak"
+                    unit = str(u)
+                elif found == None:
+                    err = 'nonefound'
+                    pass
+                else:
+                    unit = str(u)
+                    err = 'nil'
             # create a list of videos for each unit
-            if unit == 1:
+            if unit == 'Units.unit1':
                 videos = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
-            if unit == 2:
+                subject = [Units.unit1.video1.captions, Units.unit1.video2.captions, Units.unit1.video3.captions]
+                timeperiod =  '0 - 1607'
+            if unit == 'Units.unit2':
                 videos = ["https://www.youtube.com/watch?v=LWfcXHMLaHU", "https://www.youtube.com/watch?v=CVy_9FhVfKE", "https://www.youtube.com/watch?v=kKL1UV5AiW0",
                 "https://www.youtube.com/watch?v=aI-WuefcLMY", "https://www.youtube.com/watch?v=Jy0CBFnkhk4", "https://www.youtube.com/watch?v=h6jvAFpBgK4",
                 "https://www.youtube.com/watch?v=e-wvspL_sk0"]
-            if unit == 3:
+                subject = [Units.unit2.video1.captions, Units.unit2.video2.captions, Units.unit2.video3.captions, Units.unit2.video4.captions, Units.unit2.video5.captions,
+                Units.unit2.video6.captions, Units.unit2.video7.captions]
+                timeperiod =  '1607 - 1754'
+            if unit == 'Units.unit3':
                 videos = ["https://youtu.be/5ty4aUqQXtI", "https://www.youtube.com/watch?v=eMEk3cVAy7s", "https://www.youtube.com/watch?v=4G_-6u_2A6I",
                 "https://www.youtube.com/watch?v=eR1pm1IY2ns", "https://www.youtube.com/watch?v=xzryR174pdA", "https://www.youtube.com/watch?v=Z5VrogKap7Y"]
-            if unit == 4:
+                subject = [Units.unit3.video1.captions, Units.unit3.video2.captions, Units.unit3.video3.captions, Units.unit3.video4.captions, Units.unit3.video5.captions,
+                Units.unit3.video6.captions]
+                timeperiod =  '1754 - 1800'
+            if unit == 'Units.unit4':
                 videos = ["https://www.youtube.com/watch?v=Xtl_f54uOEk", "https://www.youtube.com/watch?v=pgzSTdB7aTM&feature=emb_imp_woyt", "https://www.youtube.com/watch?v=Z_Af0G9_TdU",
                 "https://www.youtube.com/watch?v=WZKTG_dRFG0", "https://www.youtube.com/watch?v=Wj8JuTmSwQ8", "https://www.youtube.com/watch?v=C2O00y1k31A",
                 "https://www.youtube.com/watch?v=ycmUKpdBs-A", "https://www.youtube.com/watch?v=hQjpCKa2_ms"]
-            if unit == 5:
+                subject = [Units.unit4.video1.captions, Units.unit4.video2.captions, Units.unit4.video3.captions, Units.unit4.video4.captions, Units.unit4.video5.captions,
+                Units.unit4.video6.captions, Units.unit4.video7.captions, Units.unit4.video8.captions]
+                timeperiod =  '1800 - 1848'
+            if unit == 'Units.unit5':
                 videos = ["https://www.youtube.com/watch?v=CIOgaUcd1n0", "https://www.youtube.com/watch?v=V7YwXGrF5p8", "https://www.youtube.com/watch?v=GBLuOH2_tFM",
                 "https://www.youtube.com/watch?v=UaUuYbDnVUY", "https://www.youtube.com/watch?v=e6CRsl54Hg0", "https://www.youtube.com/watch?v=Z066CK0-H5E",
                 "https://www.youtube.com/watch?v=SqCJ9PHMjhs", "https://www.youtube.com/watch?v=v4Jfwdoqgnw", "https://www.youtube.com/watch?v=VqKM8u1u1ZI",
                 "https://www.youtube.com/watch?v=qL5ZI_t4Gy0", "https://www.youtube.com/watch?v=EyEsrpC4PUo", "https://www.youtube.com/watch?v=CfeAa3R5lfg",
                 "https://www.youtube.com/watch?v=0YEJuoJDQKY", "https://www.youtube.com/watch?v=PlBbRXRzzp4", "https://www.youtube.com/watch?v=54vjFvxp0sk",
                 "https://www.youtube.com/watch?v=aokrvNLUMUo&t=1s"]
-            if unit == 6:
+                subject = [Units.unit5.video1.captions, Units.unit5.video2.captions, Units.unit5.video3.captions, Units.unit5.video4.captions, Units.unit5.video5.captions,
+                Units.unit5.video6.captions, Units.unit5.video7.captions, Units.unit5.video8.captions, Units.unit5.video9.captions, Units.unit5.video10.captions,
+                Units.unit5.video11.captions, Units.unit5.video12.captions, Units.unit5.video13.captions, Units.unit5.video14.captions, Units.unit5.video15.captions]
+                timeperiod =  '1848 - 1877'
+            if unit == 'Units.unit6':
                 videos = ["https://www.youtube.com/watch?v=KfGPNoOqV_U", "https://www.youtube.com/watch?v=DzEWzhPgwas", "https://www.youtube.com/watch?v=5QymghrvLiM",
                 "https://www.youtube.com/watch?v=dO9MJqbCcuI", "https://www.youtube.com/watch?v=NY5Y4M6u0uU", "https://www.youtube.com/watch?v=3EbSO1vhbnc",
                 "https://www.youtube.com/watch?v=LqLaQ1F0YFk", "https://www.youtube.com/watch?v=bBkfZP7T1Xk", "https://www.youtube.com/watch?v=gmbqzxHAm9k"
                 "https://www.youtube.com/watch?v=F7LKIIThtPM&t", "https://www.youtube.com/watch?v=aq88f8qZbWs", "https://www.youtube.com/watch?v=csbplgLpS9I",
                 "https://www.youtube.com/watch?v=0hsTpTc_T3M"]
-            if unit == 7:
+                subject = [Units.unit6.video1.captions, Units.unit6.video2.captions, Units.unit6.video3.captions, Units.unit6.video4.captions, Units.unit6.video5.captions,
+                Units.unit6.video6.captions, Units.unit6.video7.captions, Units.unit6.video8.captions, Units.unit6.video9.captions, Units.unit6.video10.captions,
+                Units.unit6.video11.captions, Units.unit6.video12.captions, Units.unit6.video13.captions]
+                timeperiod =  '1877 - 1898'
+            if unit == 'Units.unit7':
                 videos = ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
                 "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
-            if unit == 8:
+                subject = [Units.unit7.video1.captions, Units.unit7.video2.captions, Units.unit7.video3.captions, Units.unit7.video4.captions, Units.unit7.video5.captions]
+                timeperiod = '1898 - 1945' 
+            if unit == 'Units.unit8':
                 videos = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
-            if unit == 9:
+                subject = [Units.unit8.video1.captions, Units.unit8.video2.captions, Units.unit8.video3.captions]
+                timeperiod =  '1945 - 1980'
+            if unit == 'Units.unit9':
                 videos = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
-            # check captions for keyword. if keyword is found, return that video.
-            subject = open(unit, 'r', encoding='utf-8')
-            subjectred = subject.read()
-            found = re.findall(query, subjectred)
+                subject = [Units.unit9.video1.captions, Units.unit9.video2.captions, Units.unit9.video3.captions]
+                timeperiod =  '1980 - Present'
+            if err == 'nil':
+                for i, z in subject, videos:
+                    vidfound = re.findall(query, i)
+                    if vidfound != None:
+                        url = z
+                        description = pytube.YouTube(z).description
 
-            # if the keyword is not found in the captions, return all the videos
-            if found == None:
-                err = "tiebreaker"
+                        content = str("\n", url, "\n", description, "\n")
+                    else:
+                        err == 'nonefound'
+            if err == 'tiebreak':
                 content = videos
-            
-            # if the keyword is found, figure out what video it is part of
-            else:
-                err = "nil"
-                # find the video url, set var vidurl
-                title = pytube.YouTube(vidurl).title
-                content = vidurl
-                link = videos
-
-            #timeperiod
-            subject.close()
-
+            if err == 'nonefound':
+                content = 'No video found! Here are some that might be relevant:'
+                # take date/time period from wikisearch or sum and pass videos from that unit
+                
 
         class study:
             x = 1
@@ -264,7 +305,7 @@ while True:
 
                 Video Summary: 
                 
-                {vid.description}
+                {vid.content}
 
                 Want to watch the entire video? Type "show me the video!"
                 (This will open an external website)
