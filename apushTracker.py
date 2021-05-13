@@ -1,5 +1,5 @@
 import wikipedia
-import datetime
+from datetime import datetime
 from bs4 import BeautifulSoup as bs
 import numpy as np
 import re
@@ -146,15 +146,16 @@ while True:
 
         class vid:
             # query all unit captions, return time period. then query unit.video captions, return title, and url
-            units = [units.unit1, units.unit2, units.unit3, units.unit4, units.unit5, units.unit6, units.unit7, units.unit8, units.unit9]
+            units = [units.unit1.captions, units.unit2.captions, units.unit3.captions, units.unit4.captions, units.unit5.captions, units.unit6.captions, units.unit7.captions,
+            units.unit8.captions, units.unit9.captions]
             for u in units:
-                found = re.findall(query, u.captions)
-                if len(found) != 1:
+                found = re.findall(query, u)
+                if found == [] and len(found) > 1:
                     err = "tiebreak"
                     unit = str(u)
-                elif found == None:
+                elif found == [] and len(found) == 0:
                     err = 'nonefound'
-                    pass
+                    unit = 'none'
                 else:
                     unit = str(u)
                     err = 'nil'
@@ -311,14 +312,14 @@ while True:
                 
         Here are some that might be relevant:
                 
-                {relevant}""")
+                {vid.relevant}""")
             if vid.err == 'tiebreak':
                 print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
                 (Error: {vid.err})
                 
                 Here are some that might be relevant:
                 
-                {relevant}""")
+                {vid.relevant}""")
             else:
                 print(f"""
                 Here's what I found from apushreview.com:
@@ -392,6 +393,6 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         wikiresult()
-        #vidresult()
+        vidresult()
         #studyresult()
         #notesresult()
