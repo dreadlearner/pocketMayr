@@ -8,7 +8,7 @@ from CaptionTracks import units
 
 # TODO: wikiresp.timeperiod
 
-# TODO: vid, notes, vocab, and study objects
+# TODO: notes, vocab, and study objects
 
 # TODO: opening external links, programs, etc.
 
@@ -142,23 +142,9 @@ while True:
                 err = "pageantry"
                 pass
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class for regex-ing the Video Captions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Function to determine Videos from Unit~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-        class vid:
-            # query all unit captions, return time period. then query unit.video captions, return title, and url
-            units = [units.unit1.captions, units.unit2.captions, units.unit3.captions, units.unit4.captions, units.unit5.captions, units.unit6.captions, units.unit7.captions,
-            units.unit8.captions, units.unit9.captions]
-            for u in units:
-                found = re.findall(query, u)
-                if found == [] and len(found) > 1:
-                    err = "tiebreak"
-                    unit = str(u)
-                elif found == [] and len(found) == 0:
-                    err = 'nonefound'
-                    unit = 'none'
-                else:
-                    unit = str(u)
-                    err = 'nil'
+        def unitdb(unit):
             # create a list of videos for each unit
             if unit == 'units.unit1':
                 videos = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
@@ -218,6 +204,26 @@ while True:
                 videos = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
                 subject = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
                 timeperiod =  '1980 - Present'
+                return videos, subject, timeperiod
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class for regex-ing the Video Captions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        class vid:
+            # query all unit captions, return time period. then query unit.video captions, return title, and url
+            units = [units.unit1.captions, units.unit2.captions, units.unit3.captions, units.unit4.captions, units.unit5.captions, units.unit6.captions, units.unit7.captions,
+            units.unit8.captions, units.unit9.captions]
+            for u in units:
+                found = re.findall(query, u)
+                if found == [] and len(found) > 1:
+                    err = "tiebreak"
+                    unit = str(u)
+                elif found == [] and len(found) == 0:
+                    err = 'nonefound'
+                    unit = 'none'
+                else:
+                    unit = str(u)
+                    err = 'nil'
+            videos, subject, timeperiod = unitdb(unit)
             if err == 'nil':
                 for i, z in subject, videos:
                     vidfound = re.findall(query, i)
@@ -232,8 +238,13 @@ while True:
             if err == 'tiebreak':
                 relevant = videos
             if err == 'nonefound' or err == 'u-noun':
-                relevant = 1
-                # take date/time period from wikisearch or sum and pass videos from that unit
+                unit = unitfinder(wikiresp.timeperiod)
+                videos, subject, timeperiod = unitdb(unit)
+                link = videos
+                description = pytube.YouTube(link).description
+                title = pytube.YouTube(link).title
+
+                content = str("\n", link, "\n", description, "\n")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       
 
@@ -337,8 +348,6 @@ while True:
                 Or, type "next!" to view the next result...
                 """)
 
-            print("\n", "apush-apush-apush-apush"*3)
-
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def studyresult():
@@ -363,7 +372,6 @@ while True:
 
                 Or, type "next!" to view the next result...
                 """)
-            print("apush-apush-apush-apush"*3)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
