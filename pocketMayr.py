@@ -1,3 +1,4 @@
+import time
 import wikipedia
 from datetime import datetime
 from bs4 import BeautifulSoup as bs
@@ -12,10 +13,6 @@ from CaptionTracks import units
 
 # TODO: opening external links, programs, etc.
 
-# TODO: response handling for each printed result
-
-# TODO: steal dates and timeperiods from other functions for the end of the vidsearch
-
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 now = datetime.now()
@@ -25,7 +22,9 @@ year = int(now.year)
 date = (f"{day}/{month}/{year}")
 hour = int(now.hour)
 minute = int(now.minute)
-exitdoor = ("Exit", "exit", "quit", "Quit", "Cancel", "cancel")
+if minute > 10:
+    minute = f'0{minute}'
+exitdoor = ("Exit", "exit", "quit", "Quit", "Cancel", "cancel", 'leave', 'Leave')
 
 if hour >= 17:
     time_of_day = "evening"
@@ -41,7 +40,7 @@ while True:
 
     print("~"*25, f"\nGood {time_of_day}, welcome to pocketMayr!\n", "~"*25)
 
-    random_message = np.random.randint(1, 4)
+    random_message = np.random.randint(1, 7)
     if random_message == 1:
         print("\n",r"pocketMayr is right 99.99% of the time!", "\n")
     if random_message == 2:
@@ -56,7 +55,7 @@ while True:
         print("\n",r"I've got the horses in the back...", "\n")
 
 
-    query = input("Put your keyword here:")
+    query = input("Put your keyword here: ")
 
     if query in exitdoor:
         exit()
@@ -86,6 +85,59 @@ while True:
                 unit = 9
             return unit
 
+        def timefinder(unit):
+            unit = int(unit)
+            if unit == 'unit1':
+                year = '1607'
+            if unit == 'unit2':
+                year = '1607 - 1754'
+            if unit == 'unit3':
+                year = '1854 - 1800'
+            if unit == 'unit4':
+                year = '1800 - 1848'
+            if unit == 'unit5':
+                year = '1858 - 1877'
+            if unit == 'unit6':
+                year = '1877 - 1898'
+            if unit == 'unit7':
+                year = '1898 - 1945'
+            if unit == 'unit8':
+                year = '1945 - 1980'
+            if unit == 'unit9':
+                year = '1980 - Present'
+            return year
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        class notes:
+            # regex for query in each unit
+            unitnotes = ['i', 'i', 'z']
+            for i in unitnotes:
+                found = re.findall(query, str(i))
+                if found == [] and len(found) > 1:
+                    err = "disarmament"
+                    unit = str(i)
+                    break
+                elif found == [] and len(found) == 0:
+                    err = 'pageantry'
+                    unit = None
+                else:
+                    unit = str(i)
+                    err = 'nil'
+                    break
+            if unit == None:
+                err = 'pageantry'
+            else:
+                content = "1"
+
+            # unit -> timeperiod
+            #timeperiod = timefinder(unit)
+            
+            title = unit
+            # take surrounding text (~ 2 lines up and down) for content
+            
+            #open the document
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class to search Wikipedia for the Query~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         # search wikipedia for the keyword
@@ -107,32 +159,18 @@ while True:
             wikiresp.link: a link to the full page
             """
             try:
-                try:
-                    page = wikipedia.search(query, results=1, suggestion=False)
-                except:
-                    page = wikipedia.search(query, results=1, suggestion=True)
-                    pass
+                page = wikipedia.search(query, results=1, suggestion=False)
+                page = wikipedia.WikipediaPage(page)
                 if page != []:
                     err = "nil"
-                    page = wikipedia.page(page)
                     link = page.url
                     title = page.title
-
-                    wikihtml = page.html()
-
-                    # parse the html page finding <body><div<div<table<tbody<tr<td class "infobox-data">8 May 2021</td>
-                    soup = bs(wikihtml, features="lxml")
-                    infodata = soup.find_all('td')
-
-                    # split the date string into day, month, year
-
-                    # use the year to determine what unit/time period it's part of
-                    unit = unitfinder(year)
-                    timeperiod = "0"
+                    timeperiod = "0 - 1607"
+                    unit = "1"
 
                     content = wikipedia.summary(query, sentences=3, auto_suggest=False)
                 if page == []:
-                    err = "seriouscertificate"
+                    err = "disarmament"
             except wikipedia.DisambiguationError as disam:
                 errcontent = disam
                 err = "disarmament"
@@ -146,31 +184,31 @@ while True:
 
         def unitdb(unit):
             # create a list of videos for each unit
-            if unit == 'units.unit1':
+            if unit == 'unit1':
                 videos = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
                 subject = [units.unit1.video1.captions, units.unit1.video2.captions, units.unit1.video3.captions]
                 timeperiod =  '0 - 1607'
-            if unit == 'units.unit2':
+            if unit == 'unit2':
                 videos = ["https://www.youtube.com/watch?v=LWfcXHMLaHU", "https://www.youtube.com/watch?v=CVy_9FhVfKE", "https://www.youtube.com/watch?v=kKL1UV5AiW0",
                 "https://www.youtube.com/watch?v=aI-WuefcLMY", "https://www.youtube.com/watch?v=Jy0CBFnkhk4", "https://www.youtube.com/watch?v=h6jvAFpBgK4",
                 "https://www.youtube.com/watch?v=e-wvspL_sk0"]
                 subject = [units.unit2.video1.captions, units.unit2.video2.captions, units.unit2.video3.captions, units.unit2.video4.captions, units.unit2.video5.captions,
                 units.unit2.video6.captions, units.unit2.video7.captions]
                 timeperiod =  '1607 - 1754'
-            if unit == 'units.unit3':
+            if unit == 'unit3':
                 videos = ["https://youtu.be/5ty4aUqQXtI", "https://www.youtube.com/watch?v=eMEk3cVAy7s", "https://www.youtube.com/watch?v=4G_-6u_2A6I",
                 "https://www.youtube.com/watch?v=eR1pm1IY2ns", "https://www.youtube.com/watch?v=xzryR174pdA", "https://www.youtube.com/watch?v=Z5VrogKap7Y"]
                 subject = [units.unit3.video1.captions, units.unit3.video2.captions, units.unit3.video3.captions, units.unit3.video4.captions, units.unit3.video5.captions,
                 units.unit3.video6.captions]
                 timeperiod =  '1754 - 1800'
-            if unit == 'units.unit4':
+            if unit == 'unit4':
                 videos = ["https://www.youtube.com/watch?v=Xtl_f54uOEk", "https://www.youtube.com/watch?v=pgzSTdB7aTM&feature=emb_imp_woyt", "https://www.youtube.com/watch?v=Z_Af0G9_TdU",
                 "https://www.youtube.com/watch?v=WZKTG_dRFG0", "https://www.youtube.com/watch?v=Wj8JuTmSwQ8", "https://www.youtube.com/watch?v=C2O00y1k31A",
                 "https://www.youtube.com/watch?v=ycmUKpdBs-A", "https://www.youtube.com/watch?v=hQjpCKa2_ms"]
                 subject = [units.unit4.video1.captions, units.unit4.video2.captions, units.unit4.video3.captions, units.unit4.video4.captions, units.unit4.video5.captions,
                 units.unit4.video6.captions, units.unit4.video7.captions, units.unit4.video8.captions]
                 timeperiod =  '1800 - 1848'
-            if unit == 'units.unit5':
+            if unit == 'unit5':
                 videos = ["https://www.youtube.com/watch?v=CIOgaUcd1n0", "https://www.youtube.com/watch?v=V7YwXGrF5p8", "https://www.youtube.com/watch?v=GBLuOH2_tFM",
                 "https://www.youtube.com/watch?v=UaUuYbDnVUY", "https://www.youtube.com/watch?v=e6CRsl54Hg0", "https://www.youtube.com/watch?v=Z066CK0-H5E",
                 "https://www.youtube.com/watch?v=SqCJ9PHMjhs", "https://www.youtube.com/watch?v=v4Jfwdoqgnw", "https://www.youtube.com/watch?v=VqKM8u1u1ZI",
@@ -181,7 +219,7 @@ while True:
                 units.unit5.video6.captions, units.unit5.video7.captions, units.unit5.video8.captions, units.unit5.video9.captions, units.unit5.video10.captions,
                 units.unit5.video11.captions, units.unit5.video12.captions, units.unit5.video13.captions, units.unit5.video14.captions, units.unit5.video15.captions]
                 timeperiod =  '1848 - 1877'
-            if unit == 'units.unit6':
+            if unit == 'unit6':
                 videos = ["https://www.youtube.com/watch?v=KfGPNoOqV_U", "https://www.youtube.com/watch?v=DzEWzhPgwas", "https://www.youtube.com/watch?v=5QymghrvLiM",
                 "https://www.youtube.com/watch?v=dO9MJqbCcuI", "https://www.youtube.com/watch?v=NY5Y4M6u0uU", "https://www.youtube.com/watch?v=3EbSO1vhbnc",
                 "https://www.youtube.com/watch?v=LqLaQ1F0YFk", "https://www.youtube.com/watch?v=bBkfZP7T1Xk", "https://www.youtube.com/watch?v=gmbqzxHAm9k"
@@ -191,74 +229,80 @@ while True:
                 units.unit6.video6.captions, units.unit6.video7.captions, units.unit6.video8.captions, units.unit6.video9.captions, units.unit6.video10.captions,
                 units.unit6.video11.captions, units.unit6.video12.captions, units.unit6.video13.captions]
                 timeperiod =  '1877 - 1898'
-            if unit == 'units.unit7':
+            if unit == 'unit7':
                 videos = ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
                 "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
                 subject = [units.unit7.video1.captions, units.unit7.video2.captions, units.unit7.video3.captions, units.unit7.video4.captions, units.unit7.video5.captions]
                 timeperiod = '1898 - 1945' 
-            if unit == 'units.unit8':
+            if unit == 'unit8':
                 videos = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
                 subject = [units.unit8.video1.captions, units.unit8.video2.captions, units.unit8.video3.captions]
                 timeperiod =  '1945 - 1980'
-            if unit == 'units.unit9':
+            if unit == 'unit9':
                 videos = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
                 subject = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
                 timeperiod =  '1980 - Present'
-                return videos, subject, timeperiod
+            return videos, subject, timeperiod
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class for regex-ing the Video Captions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         class vid:
             # query all unit captions, return time period. then query unit.video captions, return title, and url
-            units = [units.unit1.captions, units.unit2.captions, units.unit3.captions, units.unit4.captions, units.unit5.captions, units.unit6.captions, units.unit7.captions,
-            units.unit8.captions, units.unit9.captions]
+            units = [units.unit1, units.unit2, units.unit3, units.unit4, units.unit5, units.unit6, units.unit7,
+            units.unit8, units.unit9]
             for u in units:
-                found = re.findall(query, u)
+                found = re.findall(str(query), u.captions)
                 if found == [] and len(found) > 1:
-                    err = "tiebreak"
+                    err = "disarmament"
                     unit = str(u)
+                    break
                 elif found == [] and len(found) == 0:
-                    err = 'nonefound'
-                    unit = 'none'
+                    err = 'pageantry'
+                    unit = None
                 else:
-                    unit = str(u)
+                    unit = str(u).split(".")
+                    unit = unit[2].split("'>")
+                    unit = unit[0]
                     err = 'nil'
-            videos, subject, timeperiod = unitdb(unit)
+                    break
+            if unit == None:
+                err = 'pageantry'
+            else:
+                videos, subject, daterange = unitdb(unit)
+
+            # err handling
             if err == 'nil':
-                for i, z in subject, videos:
-                    vidfound = re.findall(query, i)
+                timeperiod = daterange
+                count = -1
+                for i in subject:
+                    count = int(count + 1)
+                    vidfound = re.findall(str(query), str(i))
                     if vidfound != None:
-                        link = z
-                        description = pytube.YouTube(z).description
-                        title = pytube.YouTube(z).title
+                        link = str(videos[count]).replace("'", "")
+                        videobj = pytube.YouTube(link)
+                        description = videobj.description
+                        title = videobj.title
 
-                        content = str("\n", link, "\n", description, "\n")
+                        content = f"\n{description}\n"
+                        break
                     else:
-                        err == 'u-noun'
-            if err == 'tiebreak':
+                        err == 'pageantry'
+            if err == 'disarmament':
                 relevant = videos
-            if err == 'nonefound' or err == 'u-noun':
-                unit = unitfinder(wikiresp.timeperiod)
-                videos, subject, timeperiod = unitdb(unit)
-                link = videos
-                description = pytube.YouTube(link).description
-                title = pytube.YouTube(link).title
+            #if err == 'pageantry':
+            #    unit = notes.unit
+            #    videos, subject, timeperiod = unitdb(unit)
+            #    link = str(videos[count]).replace("'", "")
+            #    videobj = pytube.YouTube(link)
+            #    description = videobj.description
+            #    title = videobj.title
+            #    timeperiod = timeperiod
 
-                content = str("\n", link, "\n", description, "\n")
+            #    content = f"\n{description}\n"
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       
 
         class study:
-            x = 1
-            unit = unitfinder(year)
-            #title
-            #timeperiod
-            #content
-            #link
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-        class notes:
             x = 1
             unit = unitfinder(year)
             #title
@@ -276,14 +320,15 @@ while True:
             #content
             #link
 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-        print(f"\nYou queried: {query}\n")
+        print(f"\nYou queried: {query}")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         # query result page
         def wikiresult():
-            print("~"*25)
+            print("\n", "~"*25)
             if wikiresp.err != "nil":
                 if wikiresp.err == 'disarmament':
                     print(f"""\nUh-oh! We couldn't find a wikipedia page for that term!
@@ -294,7 +339,7 @@ while True:
                     {wikiresp.errcontent}""")
                 else:
                     print(f"""\nUh-oh! We couldn't find a wikipedia page for that term!
-        (Error: {wikiresp.err})""")
+        (Error: {wikiresp.err})\n""")
             else:
                 print(f"""
 
@@ -316,14 +361,11 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def vidresult():
-            print("~"*25)
-            if vid.err == "nonefound" or vid.err == "u-noun":
+            print("\n", "~"*25)
+            if vid.err == "pageantry":
                 print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
-        (Error: {vid.err})
-                
-        Here are some that might be relevant:
-                
-                {vid.relevant}""")
+        (Error: {vid.err})""")
+
             if vid.err == 'tiebreak':
                 print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
                 (Error: {vid.err})
@@ -331,7 +373,7 @@ while True:
                 Here are some that might be relevant:
                 
                 {vid.relevant}""")
-            else:
+            elif vid.err == 'nil':
                 print(f"""
                 Here's what I found from apushreview.com:
                 APUSH Unit: {vid.unit}
@@ -351,7 +393,7 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def studyresult():
-            print("~"*25)
+            print("\n", "~"*25)
             if study.err != "nil":
                 print(f"""\nUh-oh! We couldn't find an apstudynotes page for that term!
                 (Error: {study.err})""")
@@ -376,7 +418,7 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def notesresult():
-            print("~"*25)
+            print("\n", "~"*25)
             if notes.err != "nil":
                 print(f"""\nUh-oh! We couldn't find that in Mayr's notes!
                 (Error: {notes.err})""")
@@ -401,6 +443,32 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         wikiresult()
-        vidresult()
-        #studyresult()
-        #notesresult()
+        action = input("What's next? ")
+        if action == 'show me the wikipedia article!':
+            # open the wikipedia article
+            test = "test"
+        if action == 'next!':
+            vidresult()
+        if action == 'show me the video!':
+            # open the video
+            test = "test"
+        if action == 'next!':
+            #studyresult()
+            test = 'test'
+        if action == 'show me the study page!':
+            # open the webpage
+            test = "test"
+        if action == 'next!':
+            #notesresult
+            test = 'test'
+        if action == "show me Mayr's notes!":
+            # open the notes page
+            test = "test"
+        if action == 'next!':
+            #vocabresult
+            test = 'test'
+        if action == "show me Mayr's vocab":
+            # open the vocab page
+            test = "test"
+        else:
+            break
