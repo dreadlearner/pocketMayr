@@ -7,13 +7,13 @@ from CaptionTracks import units
 from notes import notes as notesimport
 import webbrowser
 
-# TODO: wikiresp.timeperiod
-
 # TODO: notes, vocab, and study objects
 
-# TODO: opening external links, programs, etc.
-
 # TODO: error listing and handling (but BETTER)
+
+# TODO: man page
+
+# TODO: iterating for multiple notes occurences
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
