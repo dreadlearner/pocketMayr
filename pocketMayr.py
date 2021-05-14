@@ -4,7 +4,7 @@ import numpy as np
 import re
 import pytube
 from CaptionTracks import units
-from notes import notes as notes
+from notes import notes as notesimport
 import webbrowser
 
 # TODO: wikiresp.timeperiod
@@ -119,7 +119,7 @@ while True:
             if unit == 'unit1':
                 videos = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
                 subject = [units.unit1.video1.captions, units.unit1.video2.captions, units.unit1.video3.captions]
-                note = [notes.unit1.ki11, notes.unit1.ki12, notes.unit1.ki13, notes.unit1.ki14]
+                note = [notesimport.unit1.ki11, notesimport.unit1.ki12, notesimport.unit1.ki13, notesimport.unit1.ki14]
                 timeperiod =  '0 - 1607'
             if unit == 'unit2':
                 videos = ["https://www.youtube.com/watch?v=LWfcXHMLaHU", "https://www.youtube.com/watch?v=CVy_9FhVfKE", "https://www.youtube.com/watch?v=kKL1UV5AiW0",
@@ -127,14 +127,14 @@ while True:
                 "https://www.youtube.com/watch?v=e-wvspL_sk0"]
                 subject = [units.unit2.video1.captions, units.unit2.video2.captions, units.unit2.video3.captions, units.unit2.video4.captions, units.unit2.video5.captions,
                 units.unit2.video6.captions, units.unit2.video7.captions]
-                note = [notes.unit2.ki21, notes.unit2.ki22, notes.unit2.ki23, notes.unit2.ki24, notes.unit2.ki25]
+                note = [notesimport.unit2.ki21, notesimport.unit2.ki22, notesimport.unit2.ki23, notesimport.unit2.ki24, notesimport.unit2.ki25]
                 timeperiod =  '1607 - 1754'
             if unit == 'unit3':
                 videos = ["https://youtu.be/5ty4aUqQXtI", "https://www.youtube.com/watch?v=eMEk3cVAy7s", "https://www.youtube.com/watch?v=4G_-6u_2A6I",
                 "https://www.youtube.com/watch?v=eR1pm1IY2ns", "https://www.youtube.com/watch?v=xzryR174pdA", "https://www.youtube.com/watch?v=Z5VrogKap7Y"]
                 subject = [units.unit3.video1.captions, units.unit3.video2.captions, units.unit3.video3.captions, units.unit3.video4.captions, units.unit3.video5.captions,
                 units.unit3.video6.captions]
-                note = [notes.unit3.ki31, notes.unit3.ki32, notes.unit3.ki33, notes.unit3.ki34, notes.unit3.ki35, notes.unit3.ki36, notes.unit3.ki37]
+                note = [notesimport.unit3.ki31, notesimport.unit3.ki32, notesimport.unit3.ki33, notesimport.unit3.ki34, notesimport.unit3.ki35, notesimport.unit3.ki36, notesimport.unit3.ki37]
                 timeperiod =  '1754 - 1800'
             if unit == 'unit4':
                 videos = ["https://www.youtube.com/watch?v=Xtl_f54uOEk", "https://www.youtube.com/watch?v=pgzSTdB7aTM&feature=emb_imp_woyt", "https://www.youtube.com/watch?v=Z_Af0G9_TdU",
@@ -142,7 +142,7 @@ while True:
                 "https://www.youtube.com/watch?v=ycmUKpdBs-A", "https://www.youtube.com/watch?v=hQjpCKa2_ms"]
                 subject = [units.unit4.video1.captions, units.unit4.video2.captions, units.unit4.video3.captions, units.unit4.video4.captions, units.unit4.video5.captions,
                 units.unit4.video6.captions, units.unit4.video7.captions, units.unit4.video8.captions]
-                note = [notes.unit4.ki41, notes.unit4.ki42, notes.unit4.ki43, notes.unit4.ki44, notes.unit4.ki45, notes.unit4.ki46]
+                note = [notesimport.unit4.ki41, notesimport.unit4.ki42, notesimport.unit4.ki43, notesimport.unit4.ki44, notesimport.unit4.ki45, notesimport.unit4.ki46]
                 timeperiod =  '1800 - 1848'
             if unit == 'unit5':
                 videos = ["https://www.youtube.com/watch?v=CIOgaUcd1n0", "https://www.youtube.com/watch?v=V7YwXGrF5p8", "https://www.youtube.com/watch?v=GBLuOH2_tFM",
@@ -154,7 +154,7 @@ while True:
                 subject = [units.unit5.video1.captions, units.unit5.video2.captions, units.unit5.video3.captions, units.unit5.video4.captions, units.unit5.video5.captions,
                 units.unit5.video6.captions, units.unit5.video7.captions, units.unit5.video8.captions, units.unit5.video9.captions, units.unit5.video10.captions,
                 units.unit5.video11.captions, units.unit5.video12.captions, units.unit5.video13.captions, units.unit5.video14.captions, units.unit5.video15.captions]
-                note = [notes.unit5.ki51, notes.unit5.ki52, notes.unit5.ki53, notes.unit5.ki54, notes.unit5.ki55]
+                note = [notesimport.unit5.ki51, notesimport.unit5.ki52, notesimport.unit5.ki53, notesimport.unit5.ki54, notesimport.unit5.ki55]
                 timeperiod =  '1848 - 1877'
             if unit == 'unit6':
                 videos = ["https://www.youtube.com/watch?v=KfGPNoOqV_U", "https://www.youtube.com/watch?v=DzEWzhPgwas", "https://www.youtube.com/watch?v=5QymghrvLiM",
@@ -165,23 +165,23 @@ while True:
                 subject = [units.unit6.video1.captions, units.unit6.video2.captions, units.unit6.video3.captions, units.unit6.video4.captions, units.unit6.video5.captions,
                 units.unit6.video6.captions, units.unit6.video7.captions, units.unit6.video8.captions, units.unit6.video9.captions, units.unit6.video10.captions,
                 units.unit6.video11.captions, units.unit6.video12.captions, units.unit6.video13.captions]
-                note = [notes.unit6.ki61, notes.unit6.ki62, notes.unit6.ki63, notes.unit6.ki64, notes.unit6.ki65, notes.unit6.ki66, notes.unit6.ki67]
+                note = [notesimport.unit6.ki61, notesimport.unit6.ki62, notesimport.unit6.ki63, notesimport.unit6.ki64, notesimport.unit6.ki65, notesimport.unit6.ki66, notesimport.unit6.ki67]
                 timeperiod =  '1877 - 1898'
             if unit == 'unit7':
                 videos = ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
                 "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
                 subject = [units.unit7.video1.captions, units.unit7.video2.captions, units.unit7.video3.captions, units.unit7.video4.captions, units.unit7.video5.captions]
-                note = [notes.unit7.ki71, notes.unit7.ki72, notes.unit7.ki73, notes.unit7.ki74, notes.unit7.ki75, notes.unit7.ki76, notes.unit7.ki77, notes.unit7.ki78]
+                note = [notesimport.unit7.ki71, notesimport.unit7.ki72, notesimport.unit7.ki73, notesimport.unit7.ki74, notesimport.unit7.ki75, notesimport.unit7.ki76, notesimport.unit7.ki77, notesimport.unit7.ki78]
                 timeperiod = '1898 - 1945'
             if unit == 'unit8':
                 videos = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
                 subject = [units.unit8.video1.captions, units.unit8.video2.captions, units.unit8.video3.captions]
-                note = [notes.unit8.ki81, notes.unit8.ki82, notes.unit8.ki83, notes.unit8.ki84, notes.unit8.ki85, notes.unit8.ki86]
+                note = [notesimport.unit8.ki81, notesimport.unit8.ki82, notesimport.unit8.ki83, notesimport.unit8.ki84, notesimport.unit8.ki85, notesimport.unit8.ki86]
                 timeperiod =  '1945 - 1980'
             if unit == 'unit9':
                 videos = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
                 subject = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
-                note = [notes.unit9.ki91, notes.unit9.ki92, notes.unit9.ki93]
+                note = [notesimport.unit9.ki91, notesimport.unit9.ki92, notesimport.unit9.ki93]
                 timeperiod =  '1980 - Present'
             return videos, subject, note, timeperiod
 
@@ -189,8 +189,8 @@ while True:
 
         class notes:
             # regex for query in each unit
-            unitnotes = [notes.unit1, notes.unit2, notes.unit3, notes.unit4, notes.unit5, notes.unit6, notes.unit7,
-            notes.unit8, notes.unit9]
+            unitnotes = [notesimport.unit1, notesimport.unit2, notesimport.unit3, notesimport.unit4, notesimport.unit5, notesimport.unit6, notesimport.unit7,
+            notesimport.unit8, notesimport.unit9]
             for i in unitnotes:
                 found = re.search(str(query), str(i.content))
                 if found == None:
@@ -223,10 +223,10 @@ while True:
                         
                         pos = notesfound.span()
 
-                        start = int(pos[0] - 150)
-                        end = int(pos[1] + 150)
+                        start = int(pos[0] - 100)
+                        end = int(pos[1] + 100)
 
-                        content = "...%s...".format(notesfound[start:end]) # open the file, seek the things, return it
+                        content = f"...{notetext[start:end]}..." # open the file, seek the things, return it
 
                         # link to open with (google doc??)
                         break
@@ -260,8 +260,8 @@ while True:
                     err = "nil"
                     link = page.url
                     title = page.title
-                    timeperiod = "0 - 1607"
-                    unit = "1"
+                    timeperiod = notes.timeperiod
+                    unit = notes.unit
 
                     content = wikipedia.summary(query, sentences=3, auto_suggest=False)
                 if page == []:
@@ -320,17 +320,8 @@ while True:
                         err == 'pageantry'
             if err == 'disarmament':
                 relevant = videos
-            #if err == 'pageantry':
-            #    unit = notes.unit
-            #    videos, subject, timeperiod = unitdb(unit)
-            #    link = str(videos[count]).replace("'", "")
-            #    videobj = pytube.YouTube(link)
-            #    description = videobj.description
-            #    title = videobj.title
-            #    timeperiod = timeperiod
-
-            #    content = f"\n{description}\n"
-
+            if err == 'pageantry':
+                pass
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       
 
         class study:
@@ -456,14 +447,14 @@ while True:
             else:
                 print(f"""
             
-                Here's what I found from Mr. Mayr's notes:
+                Here's the first occurence of that term in Mr. Mayr's notes:
                 APUSH Unit: {notes.unit}
                 Time Period: {notes.timeperiod}
                 Page Title: {notes.title}
 
-                Notes Summary: 
+                Notes In-Context:
                 
-                {notes.description}
+                {notes.content}
 
                 Want to read the entire document? Type "show me Mayr's notes!"
                 (This will open a Microsoft Word (.docx) document)
@@ -480,26 +471,25 @@ while True:
             webbrowser.open(wikiresp.link)
         if action == 'next!':
             vidresult()
+            action = input("What's next? ")
         if action == 'show me the video!':
             # open the video
             webbrowser.open(vid.link)
         if action == 'next!':
             #studyresult()
-            test = 'test'
+            action = input("What's next? ")
         if action == 'show me the study page!':
             # open the webpage
             test = "test"
         if action == 'next!':
-            #notesresult
-            test = 'test'
+            notesresult()
+            action = input("What's next? ")
         if action == "show me Mayr's notes!":
             # open the notes page
             test = "test"
         if action == 'next!':
-            #vocabresult
-            test = 'test'
+            #vocabresult()
+            action = input("What's next? ")
         if action == "show me Mayr's vocab":
             # open the vocab page
             test = "test"
-        else:
-            break
