@@ -1,17 +1,19 @@
-import time
 import wikipedia
 from datetime import datetime
-from bs4 import BeautifulSoup as bs
 import numpy as np
 import re
 import pytube
 from CaptionTracks import units
+from notes import notes as notes
+import webbrowser
 
 # TODO: wikiresp.timeperiod
 
 # TODO: notes, vocab, and study objects
 
 # TODO: opening external links, programs, etc.
+
+# TODO: error listing and handling (but BETTER)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -40,7 +42,7 @@ while True:
 
     print("~"*25, f"\nGood {time_of_day}, welcome to pocketMayr!\n", "~"*25)
 
-    random_message = np.random.randint(1, 7)
+    random_message = np.random.randint(1, 10)
     if random_message == 1:
         print("\n",r"pocketMayr is right 99.99% of the time!", "\n")
     if random_message == 2:
@@ -53,7 +55,12 @@ while True:
         print("\n",r"Mmm. Love me some diet Coke.", "\n")
     if random_message == 6:
         print("\n",r"I've got the horses in the back...", "\n")
-
+    if random_message == 7:
+        print("\n",r"Rohan, we know you have a microphone...", "\n")
+    if random_message == 8:
+        print("\n",r"Ok, then prove it.", "\n")
+    if random_message == 9:
+        print("\n", "But can you back it up? Do you have evidence?", "\n")
 
     query = input("Put your keyword here: ")
 
@@ -107,36 +114,124 @@ while True:
                 year = '1980 - Present'
             return year
 
+        def unitdb(unit):
+            # create a list of videos for each unit
+            if unit == 'unit1':
+                videos = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
+                subject = [units.unit1.video1.captions, units.unit1.video2.captions, units.unit1.video3.captions]
+                note = [notes.unit1.ki11, notes.unit1.ki12, notes.unit1.ki13, notes.unit1.ki14]
+                timeperiod =  '0 - 1607'
+            if unit == 'unit2':
+                videos = ["https://www.youtube.com/watch?v=LWfcXHMLaHU", "https://www.youtube.com/watch?v=CVy_9FhVfKE", "https://www.youtube.com/watch?v=kKL1UV5AiW0",
+                "https://www.youtube.com/watch?v=aI-WuefcLMY", "https://www.youtube.com/watch?v=Jy0CBFnkhk4", "https://www.youtube.com/watch?v=h6jvAFpBgK4",
+                "https://www.youtube.com/watch?v=e-wvspL_sk0"]
+                subject = [units.unit2.video1.captions, units.unit2.video2.captions, units.unit2.video3.captions, units.unit2.video4.captions, units.unit2.video5.captions,
+                units.unit2.video6.captions, units.unit2.video7.captions]
+                note = [notes.unit2.ki21, notes.unit2.ki22, notes.unit2.ki23, notes.unit2.ki24, notes.unit2.ki25]
+                timeperiod =  '1607 - 1754'
+            if unit == 'unit3':
+                videos = ["https://youtu.be/5ty4aUqQXtI", "https://www.youtube.com/watch?v=eMEk3cVAy7s", "https://www.youtube.com/watch?v=4G_-6u_2A6I",
+                "https://www.youtube.com/watch?v=eR1pm1IY2ns", "https://www.youtube.com/watch?v=xzryR174pdA", "https://www.youtube.com/watch?v=Z5VrogKap7Y"]
+                subject = [units.unit3.video1.captions, units.unit3.video2.captions, units.unit3.video3.captions, units.unit3.video4.captions, units.unit3.video5.captions,
+                units.unit3.video6.captions]
+                note = [notes.unit3.ki31, notes.unit3.ki32, notes.unit3.ki33, notes.unit3.ki34, notes.unit3.ki35, notes.unit3.ki36, notes.unit3.ki37]
+                timeperiod =  '1754 - 1800'
+            if unit == 'unit4':
+                videos = ["https://www.youtube.com/watch?v=Xtl_f54uOEk", "https://www.youtube.com/watch?v=pgzSTdB7aTM&feature=emb_imp_woyt", "https://www.youtube.com/watch?v=Z_Af0G9_TdU",
+                "https://www.youtube.com/watch?v=WZKTG_dRFG0", "https://www.youtube.com/watch?v=Wj8JuTmSwQ8", "https://www.youtube.com/watch?v=C2O00y1k31A",
+                "https://www.youtube.com/watch?v=ycmUKpdBs-A", "https://www.youtube.com/watch?v=hQjpCKa2_ms"]
+                subject = [units.unit4.video1.captions, units.unit4.video2.captions, units.unit4.video3.captions, units.unit4.video4.captions, units.unit4.video5.captions,
+                units.unit4.video6.captions, units.unit4.video7.captions, units.unit4.video8.captions]
+                note = [notes.unit4.ki41, notes.unit4.ki42, notes.unit4.ki43, notes.unit4.ki44, notes.unit4.ki45, notes.unit4.ki46]
+                timeperiod =  '1800 - 1848'
+            if unit == 'unit5':
+                videos = ["https://www.youtube.com/watch?v=CIOgaUcd1n0", "https://www.youtube.com/watch?v=V7YwXGrF5p8", "https://www.youtube.com/watch?v=GBLuOH2_tFM",
+                "https://www.youtube.com/watch?v=UaUuYbDnVUY", "https://www.youtube.com/watch?v=e6CRsl54Hg0", "https://www.youtube.com/watch?v=Z066CK0-H5E",
+                "https://www.youtube.com/watch?v=SqCJ9PHMjhs", "https://www.youtube.com/watch?v=v4Jfwdoqgnw", "https://www.youtube.com/watch?v=VqKM8u1u1ZI",
+                "https://www.youtube.com/watch?v=qL5ZI_t4Gy0", "https://www.youtube.com/watch?v=EyEsrpC4PUo", "https://www.youtube.com/watch?v=CfeAa3R5lfg",
+                "https://www.youtube.com/watch?v=0YEJuoJDQKY", "https://www.youtube.com/watch?v=PlBbRXRzzp4", "https://www.youtube.com/watch?v=54vjFvxp0sk",
+                "https://www.youtube.com/watch?v=aokrvNLUMUo&t=1s"]
+                subject = [units.unit5.video1.captions, units.unit5.video2.captions, units.unit5.video3.captions, units.unit5.video4.captions, units.unit5.video5.captions,
+                units.unit5.video6.captions, units.unit5.video7.captions, units.unit5.video8.captions, units.unit5.video9.captions, units.unit5.video10.captions,
+                units.unit5.video11.captions, units.unit5.video12.captions, units.unit5.video13.captions, units.unit5.video14.captions, units.unit5.video15.captions]
+                note = [notes.unit5.ki51, notes.unit5.ki52, notes.unit5.ki53, notes.unit5.ki54, notes.unit5.ki55]
+                timeperiod =  '1848 - 1877'
+            if unit == 'unit6':
+                videos = ["https://www.youtube.com/watch?v=KfGPNoOqV_U", "https://www.youtube.com/watch?v=DzEWzhPgwas", "https://www.youtube.com/watch?v=5QymghrvLiM",
+                "https://www.youtube.com/watch?v=dO9MJqbCcuI", "https://www.youtube.com/watch?v=NY5Y4M6u0uU", "https://www.youtube.com/watch?v=3EbSO1vhbnc",
+                "https://www.youtube.com/watch?v=LqLaQ1F0YFk", "https://www.youtube.com/watch?v=bBkfZP7T1Xk", "https://www.youtube.com/watch?v=gmbqzxHAm9k"
+                "https://www.youtube.com/watch?v=F7LKIIThtPM&t", "https://www.youtube.com/watch?v=aq88f8qZbWs", "https://www.youtube.com/watch?v=csbplgLpS9I",
+                "https://www.youtube.com/watch?v=0hsTpTc_T3M"]
+                subject = [units.unit6.video1.captions, units.unit6.video2.captions, units.unit6.video3.captions, units.unit6.video4.captions, units.unit6.video5.captions,
+                units.unit6.video6.captions, units.unit6.video7.captions, units.unit6.video8.captions, units.unit6.video9.captions, units.unit6.video10.captions,
+                units.unit6.video11.captions, units.unit6.video12.captions, units.unit6.video13.captions]
+                note = [notes.unit6.ki61, notes.unit6.ki62, notes.unit6.ki63, notes.unit6.ki64, notes.unit6.ki65, notes.unit6.ki66, notes.unit6.ki67]
+                timeperiod =  '1877 - 1898'
+            if unit == 'unit7':
+                videos = ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
+                "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
+                subject = [units.unit7.video1.captions, units.unit7.video2.captions, units.unit7.video3.captions, units.unit7.video4.captions, units.unit7.video5.captions]
+                note = [notes.unit7.ki71, notes.unit7.ki72, notes.unit7.ki73, notes.unit7.ki74, notes.unit7.ki75, notes.unit7.ki76, notes.unit7.ki77, notes.unit7.ki78]
+                timeperiod = '1898 - 1945'
+            if unit == 'unit8':
+                videos = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
+                subject = [units.unit8.video1.captions, units.unit8.video2.captions, units.unit8.video3.captions]
+                note = [notes.unit8.ki81, notes.unit8.ki82, notes.unit8.ki83, notes.unit8.ki84, notes.unit8.ki85, notes.unit8.ki86]
+                timeperiod =  '1945 - 1980'
+            if unit == 'unit9':
+                videos = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
+                subject = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
+                note = [notes.unit9.ki91, notes.unit9.ki92, notes.unit9.ki93]
+                timeperiod =  '1980 - Present'
+            return videos, subject, note, timeperiod
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         class notes:
             # regex for query in each unit
-            unitnotes = ['i', 'i', 'z']
+            unitnotes = [notes.unit1, notes.unit2, notes.unit3, notes.unit4, notes.unit5, notes.unit6, notes.unit7,
+            notes.unit8, notes.unit9]
             for i in unitnotes:
-                found = re.findall(query, str(i))
-                if found == [] and len(found) > 1:
-                    err = "disarmament"
-                    unit = str(i)
-                    break
-                elif found == [] and len(found) == 0:
+                found = re.search(str(query), str(i.content))
+                if found == None:
                     err = 'pageantry'
                     unit = None
                 else:
-                    unit = str(i)
+                    unit = str(i).split(".")
+                    unit = str(unit[2]).replace("'>", "")
+                    found = str(found[0])
                     err = 'nil'
                     break
+
+            # create notesdb func similar to unitdb
             if unit == None:
                 err = 'pageantry'
             else:
-                content = "1"
+                videos, subject, notes, daterange = unitdb(unit)
 
-            # unit -> timeperiod
-            #timeperiod = timefinder(unit)
-            
-            title = unit
-            # take surrounding text (~ 2 lines up and down) for content
-            
-            #open the document
+            # err handling
+            if err == 'nil':
+                timeperiod = daterange
+                count = -1
+                for i in notes:
+                    notetext = str(i.content)
+                    count = int(count + 1)
+                    notesfound = re.search(str(query), str(i.content))
+
+                    if notesfound != None:
+                        title = i.title
+                        
+                        pos = notesfound.span()
+
+                        start = int(pos[0] - 150)
+                        end = int(pos[1] + 150)
+
+                        content = "...%s...".format(notesfound[start:end]) # open the file, seek the things, return it
+
+                        # link to open with (google doc??)
+                        break
+
+            # parse for each given unit
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class to search Wikipedia for the Query~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -180,70 +275,6 @@ while True:
                 err = "pageantry"
                 pass
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Function to determine Videos from Unit~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-        def unitdb(unit):
-            # create a list of videos for each unit
-            if unit == 'unit1':
-                videos = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
-                subject = [units.unit1.video1.captions, units.unit1.video2.captions, units.unit1.video3.captions]
-                timeperiod =  '0 - 1607'
-            if unit == 'unit2':
-                videos = ["https://www.youtube.com/watch?v=LWfcXHMLaHU", "https://www.youtube.com/watch?v=CVy_9FhVfKE", "https://www.youtube.com/watch?v=kKL1UV5AiW0",
-                "https://www.youtube.com/watch?v=aI-WuefcLMY", "https://www.youtube.com/watch?v=Jy0CBFnkhk4", "https://www.youtube.com/watch?v=h6jvAFpBgK4",
-                "https://www.youtube.com/watch?v=e-wvspL_sk0"]
-                subject = [units.unit2.video1.captions, units.unit2.video2.captions, units.unit2.video3.captions, units.unit2.video4.captions, units.unit2.video5.captions,
-                units.unit2.video6.captions, units.unit2.video7.captions]
-                timeperiod =  '1607 - 1754'
-            if unit == 'unit3':
-                videos = ["https://youtu.be/5ty4aUqQXtI", "https://www.youtube.com/watch?v=eMEk3cVAy7s", "https://www.youtube.com/watch?v=4G_-6u_2A6I",
-                "https://www.youtube.com/watch?v=eR1pm1IY2ns", "https://www.youtube.com/watch?v=xzryR174pdA", "https://www.youtube.com/watch?v=Z5VrogKap7Y"]
-                subject = [units.unit3.video1.captions, units.unit3.video2.captions, units.unit3.video3.captions, units.unit3.video4.captions, units.unit3.video5.captions,
-                units.unit3.video6.captions]
-                timeperiod =  '1754 - 1800'
-            if unit == 'unit4':
-                videos = ["https://www.youtube.com/watch?v=Xtl_f54uOEk", "https://www.youtube.com/watch?v=pgzSTdB7aTM&feature=emb_imp_woyt", "https://www.youtube.com/watch?v=Z_Af0G9_TdU",
-                "https://www.youtube.com/watch?v=WZKTG_dRFG0", "https://www.youtube.com/watch?v=Wj8JuTmSwQ8", "https://www.youtube.com/watch?v=C2O00y1k31A",
-                "https://www.youtube.com/watch?v=ycmUKpdBs-A", "https://www.youtube.com/watch?v=hQjpCKa2_ms"]
-                subject = [units.unit4.video1.captions, units.unit4.video2.captions, units.unit4.video3.captions, units.unit4.video4.captions, units.unit4.video5.captions,
-                units.unit4.video6.captions, units.unit4.video7.captions, units.unit4.video8.captions]
-                timeperiod =  '1800 - 1848'
-            if unit == 'unit5':
-                videos = ["https://www.youtube.com/watch?v=CIOgaUcd1n0", "https://www.youtube.com/watch?v=V7YwXGrF5p8", "https://www.youtube.com/watch?v=GBLuOH2_tFM",
-                "https://www.youtube.com/watch?v=UaUuYbDnVUY", "https://www.youtube.com/watch?v=e6CRsl54Hg0", "https://www.youtube.com/watch?v=Z066CK0-H5E",
-                "https://www.youtube.com/watch?v=SqCJ9PHMjhs", "https://www.youtube.com/watch?v=v4Jfwdoqgnw", "https://www.youtube.com/watch?v=VqKM8u1u1ZI",
-                "https://www.youtube.com/watch?v=qL5ZI_t4Gy0", "https://www.youtube.com/watch?v=EyEsrpC4PUo", "https://www.youtube.com/watch?v=CfeAa3R5lfg",
-                "https://www.youtube.com/watch?v=0YEJuoJDQKY", "https://www.youtube.com/watch?v=PlBbRXRzzp4", "https://www.youtube.com/watch?v=54vjFvxp0sk",
-                "https://www.youtube.com/watch?v=aokrvNLUMUo&t=1s"]
-                subject = [units.unit5.video1.captions, units.unit5.video2.captions, units.unit5.video3.captions, units.unit5.video4.captions, units.unit5.video5.captions,
-                units.unit5.video6.captions, units.unit5.video7.captions, units.unit5.video8.captions, units.unit5.video9.captions, units.unit5.video10.captions,
-                units.unit5.video11.captions, units.unit5.video12.captions, units.unit5.video13.captions, units.unit5.video14.captions, units.unit5.video15.captions]
-                timeperiod =  '1848 - 1877'
-            if unit == 'unit6':
-                videos = ["https://www.youtube.com/watch?v=KfGPNoOqV_U", "https://www.youtube.com/watch?v=DzEWzhPgwas", "https://www.youtube.com/watch?v=5QymghrvLiM",
-                "https://www.youtube.com/watch?v=dO9MJqbCcuI", "https://www.youtube.com/watch?v=NY5Y4M6u0uU", "https://www.youtube.com/watch?v=3EbSO1vhbnc",
-                "https://www.youtube.com/watch?v=LqLaQ1F0YFk", "https://www.youtube.com/watch?v=bBkfZP7T1Xk", "https://www.youtube.com/watch?v=gmbqzxHAm9k"
-                "https://www.youtube.com/watch?v=F7LKIIThtPM&t", "https://www.youtube.com/watch?v=aq88f8qZbWs", "https://www.youtube.com/watch?v=csbplgLpS9I",
-                "https://www.youtube.com/watch?v=0hsTpTc_T3M"]
-                subject = [units.unit6.video1.captions, units.unit6.video2.captions, units.unit6.video3.captions, units.unit6.video4.captions, units.unit6.video5.captions,
-                units.unit6.video6.captions, units.unit6.video7.captions, units.unit6.video8.captions, units.unit6.video9.captions, units.unit6.video10.captions,
-                units.unit6.video11.captions, units.unit6.video12.captions, units.unit6.video13.captions]
-                timeperiod =  '1877 - 1898'
-            if unit == 'unit7':
-                videos = ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
-                "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
-                subject = [units.unit7.video1.captions, units.unit7.video2.captions, units.unit7.video3.captions, units.unit7.video4.captions, units.unit7.video5.captions]
-                timeperiod = '1898 - 1945' 
-            if unit == 'unit8':
-                videos = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
-                subject = [units.unit8.video1.captions, units.unit8.video2.captions, units.unit8.video3.captions]
-                timeperiod =  '1945 - 1980'
-            if unit == 'unit9':
-                videos = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
-                subject = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
-                timeperiod =  '1980 - Present'
-            return videos, subject, timeperiod
-
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class for regex-ing the Video Captions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         class vid:
@@ -268,7 +299,7 @@ while True:
             if unit == None:
                 err = 'pageantry'
             else:
-                videos, subject, daterange = unitdb(unit)
+                videos, subject, notes, daterange = unitdb(unit)
 
             # err handling
             if err == 'nil':
@@ -446,12 +477,12 @@ while True:
         action = input("What's next? ")
         if action == 'show me the wikipedia article!':
             # open the wikipedia article
-            test = "test"
+            webbrowser.open(wikiresp.link)
         if action == 'next!':
             vidresult()
         if action == 'show me the video!':
             # open the video
-            test = "test"
+            webbrowser.open(vid.link)
         if action == 'next!':
             #studyresult()
             test = 'test'
