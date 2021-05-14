@@ -17,6 +17,8 @@ from notes import notes as notesimport
 
 # TODO: iterating for multiple notes occurences
 
+# TODO: Google Docs for each Key Issue
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 now = datetime.now()
