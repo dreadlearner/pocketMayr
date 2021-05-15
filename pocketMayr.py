@@ -4,20 +4,15 @@ import numpy as np
 import re
 import pytube
 import webbrowser
+from rich import print
 from CaptionTracks import units
 from notes import notes as notesimport
 
 # TODO: vocab and study objects
 
-# TODO: notes.link
-
 # TODO: error listing and handling (but BETTER)
 
-# TODO: man page
-
 # TODO: iterating for multiple notes occurences
-
-# TODO: Google Docs for each Key Issue
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -247,6 +242,25 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         class notes:
+            """
+            notes: notes is an object that contains all the values to
+            be returned for a search of the keyword in Mr.Mayr's notes.
+            it returns the following to the user:
+
+            notes.title: the title of the notes
+
+            notes.err: an error code. if 'nil', no error was returned.
+            if 'pageantry', the term was not found.
+
+            notes.unit: the unit that the notes are part of
+
+            notes.timeperiod: the time period that the notes are part of
+
+            notes.content: the term, surrounded by 125 characters of the
+            notes page
+
+            notes.link: a link to the Google Doc containing the notes
+            """
             # regex for query in each unit
             unitnotes = [notesimport.unit1, notesimport.unit2, notesimport.unit3, notesimport.unit4, notesimport.unit5, notesimport.unit6, notesimport.unit7,
             notesimport.unit8, notesimport.unit9]
@@ -300,7 +314,8 @@ while True:
         class wikiresp:
             """
             wikiresp: wikiresp is an object that contains all the values to be
-            displayed for a wikipedia search of the keyword. it returns:
+            displayed for a wikipedia search of the keyword. it returns the
+            following to the user:
             
             wikiresp.page: the page and all its relevant details
             
@@ -339,11 +354,30 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class for regex-ing the Video Captions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         class vid:
+            """
+            vid: vid is an object that contains all the values to be
+            returned for a search of the keyword in Adam Norris'
+            APUSH Videos. It returns the following to the user:
+
+            vid.err: an error code. if "nil", no error was returned. if
+            "disarmament", there were more than one videos returned. if
+            "pageantry", no video was found.
+
+            vid.unit: the unit that the video is part of
+
+            vid.timeperiod: the time period the video is a part of
+
+            vid.link: a link to the YouTube video itself
+
+            vid.title: the title of the video
+
+            vid.content: the description
+            """
             # query all unit captions, return time period. then query unit.video captions, return title, and url
             units = [units.unit1, units.unit2, units.unit3, units.unit4, units.unit5, units.unit6, units.unit7,
             units.unit8, units.unit9]
             for u in units:
-                found = re.findall(str(query), u.captions)
+                found = re.search(str(query), u.captions)
                 if found == [] and len(found) > 1:
                     err = "disarmament"
                     unit = str(u)
@@ -367,7 +401,7 @@ while True:
                 count = -1
                 for i in subject:
                     count = int(count + 1)
-                    vidfound = re.findall(str(query), str(i))
+                    vidfound = re.search(str(query), str(i))
                     if vidfound != None:
                         link = str(videos[count]).replace("'", "")
                         videobj = pytube.YouTube(link)
