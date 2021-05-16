@@ -100,7 +100,6 @@ while True:
             return unit
 
         def timefinder(unit):
-            unit = int(unit)
             if unit == 'unit1':
                 year = '1607'
             if unit == 'unit2':
@@ -124,6 +123,7 @@ while True:
         def unitdb(unit):
             if unit == 'unit1':
                 videolinks = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
+                vocab = vocabnotes.unit1.dictionary
                 subjectvideo = [units.unit1.video1.captions, units.unit1.video2.captions, units.unit1.video3.captions]
                 note = [notesimport.unit1.ki11, notesimport.unit1.ki12, notesimport.unit1.ki13, notesimport.unit1.ki14]
                 notelinks = ['https://docs.google.com/document/d/1yJkSumMR0N5W5bXYWRzeQiqYMFlzXBUosOMBYKVJh_g/edit?usp=sharing',
@@ -137,6 +137,7 @@ while True:
                 "https://www.youtube.com/watch?v=e-wvspL_sk0"]
                 subjectvideo = [units.unit2.video1.captions, units.unit2.video2.captions, units.unit2.video3.captions, units.unit2.video4.captions, units.unit2.video5.captions,
                 units.unit2.video6.captions, units.unit2.video7.captions]
+                vocab = vocabnotes.unit2.dictionary
                 note = [notesimport.unit2.ki21, notesimport.unit2.ki22, notesimport.unit2.ki23, notesimport.unit2.ki24, notesimport.unit2.ki25]
                 notelinks = ['https://docs.google.com/document/d/1ptnT4Un3fbXoUw4raZTrGKS8qB5uoXmTgp-TqPaQJ38/edit?usp=sharing',
                 'https://docs.google.com/document/d/10l_6ur4FxHHhBWXg6hY0kUekyyO0Eo-4m939vhGmXoA/edit?usp=sharing',
@@ -149,6 +150,7 @@ while True:
                 "https://www.youtube.com/watch?v=eR1pm1IY2ns", "https://www.youtube.com/watch?v=xzryR174pdA", "https://www.youtube.com/watch?v=Z5VrogKap7Y"]
                 subjectvideo = [units.unit3.video1.captions, units.unit3.video2.captions, units.unit3.video3.captions, units.unit3.video4.captions, units.unit3.video5.captions,
                 units.unit3.video6.captions]
+                vocab= vocabnotes.unit3.dictionary
                 note = [notesimport.unit3.ki31, notesimport.unit3.ki32, notesimport.unit3.ki33, notesimport.unit3.ki34, notesimport.unit3.ki35, notesimport.unit3.ki36, notesimport.unit3.ki37]
                 notelinks = ['https://docs.google.com/document/d/1so3fM3nX4sUFfuOilskk5w8SuChKx9Y_JtJ8WmwOVeY/edit?usp=sharing',
                 'https://docs.google.com/document/d/1_RofzPY2EVGzz_4iC_70Gde1kWkZKnkcli8uPlBXmvM/edit?usp=sharing',
@@ -164,6 +166,7 @@ while True:
                 "https://www.youtube.com/watch?v=ycmUKpdBs-A", "https://www.youtube.com/watch?v=hQjpCKa2_ms"]
                 subjectvideo = [units.unit4.video1.captions, units.unit4.video2.captions, units.unit4.video3.captions, units.unit4.video4.captions, units.unit4.video5.captions,
                 units.unit4.video6.captions, units.unit4.video7.captions, units.unit4.video8.captions]
+                vocab = vocabnotes.unit4.dictionary
                 note = [notesimport.unit4.ki41, notesimport.unit4.ki42, notesimport.unit4.ki43, notesimport.unit4.ki44, notesimport.unit4.ki45, notesimport.unit4.ki46]
                 notelinks = ["https://docs.google.com/document/d/1kbIgm7E5E_chErNSFG8FjgVJx6AdsXbbfNvKEJ4jB70/edit?usp=sharing",
                 "https://docs.google.com/document/d/1XLDr2CXXjds0Fj1bM7SytN3r19adzlQ6a70g99iM7_E/edit?usp=sharing",
@@ -182,6 +185,7 @@ while True:
                 subjectvideo = [units.unit5.video1.captions, units.unit5.video2.captions, units.unit5.video3.captions, units.unit5.video4.captions, units.unit5.video5.captions,
                 units.unit5.video6.captions, units.unit5.video7.captions, units.unit5.video8.captions, units.unit5.video9.captions, units.unit5.video10.captions,
                 units.unit5.video11.captions, units.unit5.video12.captions, units.unit5.video13.captions, units.unit5.video14.captions, units.unit5.video15.captions]
+                vocab = vocabnotes.unit5.dictionary
                 note = [notesimport.unit5.ki51, notesimport.unit5.ki52, notesimport.unit5.ki53, notesimport.unit5.ki54, notesimport.unit5.ki55]
                 notelinks = ["https://docs.google.com/document/d/1QVddX8w2U8fAt4B-frqIi_HLg1hl94SSsTTvh27WukU/edit?usp=sharing",
                 "https://docs.google.com/document/d/13qCrsrokm-xodkJLgfdejFa_v7kADXjEdf1_O2NiIFY/edit?usp=sharing",
@@ -198,6 +202,7 @@ while True:
                 subjectvideo = [units.unit6.video1.captions, units.unit6.video2.captions, units.unit6.video3.captions, units.unit6.video4.captions, units.unit6.video5.captions,
                 units.unit6.video6.captions, units.unit6.video7.captions, units.unit6.video8.captions, units.unit6.video9.captions, units.unit6.video10.captions,
                 units.unit6.video11.captions, units.unit6.video12.captions, units.unit6.video13.captions]
+                vocab = vocabnotes.unit6.dictionary
                 note = [notesimport.unit6.ki61, notesimport.unit6.ki62, notesimport.unit6.ki63, notesimport.unit6.ki64, notesimport.unit6.ki65, notesimport.unit6.ki66, notesimport.unit6.ki67]
                 notelinks = ["https://docs.google.com/document/d/1aTJ-caO58SGH3zxTdxT3GcIDy1YijgjMM_Y5wItsMf4/edit?usp=sharing",
                 "https://docs.google.com/document/d/1MDVXLC0xsaMwq8enzoSWhqM5Gm1pMQ2xNHA7iTsb7N8/edit?usp=sharing",
@@ -212,6 +217,7 @@ while True:
                 "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
                 subjectvideo = [units.unit7.video1.captions, units.unit7.video2.captions, units.unit7.video3.captions, units.unit7.video4.captions, units.unit7.video5.captions]
                 note = [notesimport.unit7.ki71, notesimport.unit7.ki72, notesimport.unit7.ki73, notesimport.unit7.ki74, notesimport.unit7.ki75, notesimport.unit7.ki76, notesimport.unit7.ki77, notesimport.unit7.ki78]
+                vocab = vocabnotes.unit7.dictionary
                 notelinks = ["https://docs.google.com/document/d/1WLx-HyC9A5LjPlc4wzuB8_OfsJnTUF-FfXR9cmkQ0F4/edit?usp=sharing",
                 "https://docs.google.com/document/d/1KYK8o0s50aW2-X-vsG6pw2uxgXWICLaKMb5enw89lJk/edit?usp=sharing",
                 "https://docs.google.com/document/d/1PIXW8T6-TkPHLn2mYf04kjy5S2q_BAaGqjtlDnkC3MU/edit?usp=sharing",
@@ -224,6 +230,7 @@ while True:
             if unit == 'unit8':
                 videolinks = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
                 subjectvideo = [units.unit8.video1.captions, units.unit8.video2.captions, units.unit8.video3.captions]
+                vocab = vocabnotes.unit8.dictionary
                 note = [notesimport.unit8.ki81, notesimport.unit8.ki82, notesimport.unit8.ki83, notesimport.unit8.ki84, notesimport.unit8.ki85, notesimport.unit8.ki86]
                 notelinks = ["https://docs.google.com/document/d/1K_Je4JYVP36YCMwMKl6p8VwlDr4_TsfSwIsvQzpR74M/edit?usp=sharing",
                 "https://docs.google.com/document/d/157x_QdGhUmVOdYcXPmXA_sbhn49euaT6R15HsvrZudA/edit?usp=sharing",
@@ -236,11 +243,12 @@ while True:
                 videolinks = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
                 subjectvideo = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
                 note = [notesimport.unit9.ki91, notesimport.unit9.ki92, notesimport.unit9.ki93]
+                vocab = vocabnotes.unit9.dictionary
                 notelinks = ["https://docs.google.com/document/d/1_Ccdsy8Zgd_P4MRR3HkLdOjKp2s7NukUJGRmfA3Xx24/edit?usp=sharing",
                 "https://docs.google.com/document/d/1H4mpb_RBoElM_yGvgP3HCSOZ9eiz0yTcrJf3vBBI4F4/edit?usp=sharing",
                 "https://docs.google.com/document/d/1T6nZPZlofimuo8FOrkjJBNKU6XD7a-NxAc97Bfh9DWc/edit?usp=sharing"]
                 timeperiod =  '1980 - Present'
-            return videolinks, subjectvideo, note, notelinks, timeperiod
+            return videolinks, subjectvideo, note, notelinks, timeperiod, vocab
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -282,7 +290,7 @@ while True:
             if unit == None:
                 err = 'pageantry'
             else:
-                videos, subjectvideo, notes, notelinks, daterange = unitdb(unit)
+                videos, subjectvideo, notes, notelinks, daterange, vocab = unitdb(unit)
 
             if err == 'nil':
                 timeperiod = daterange
@@ -380,12 +388,12 @@ while True:
             units = [units.unit1, units.unit2, units.unit3, units.unit4, units.unit5, units.unit6, units.unit7,
             units.unit8, units.unit9]
             for u in units:
-                found = re.search(str(query), u.captions)
+                found = re.findall(str(query), u.captions)
                 if found == [] and len(found) > 1:
                     err = "disarmament"
                     unit = str(u)
                     break
-                elif found == [] and len(found) == 0:
+                elif found == [] and len(found) == 0 or found == None:
                     err = 'pageantry'
                     unit = None
                 else:
@@ -397,14 +405,14 @@ while True:
             if unit == None:
                 err = 'pageantry'
             else:
-                videos, subjectvideo, dontuse, notelinks, daterange = unitdb(unit)
+                videos, subjectvideo, dontuse, notelinks, daterange, vocab = unitdb(unit)
 
             if err == 'nil':
                 timeperiod = daterange
                 count = -1
                 for i in subjectvideo:
                     count = int(count + 1)
-                    vidfound = re.search(str(query), str(i))
+                    vidfound = re.findall(str(query), str(i))
                     if vidfound != None:
                         link = str(videos[count]).replace("'", "")
                         videobj = pytube.YouTube(link)
@@ -423,14 +431,14 @@ while True:
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         
         class vocab:
-            vocabunits = []
+            vocabunits = [vocabnotes.unit1, vocabnotes.unit2, vocabnotes.unit3, vocabnotes.unit4, vocabnotes.unit5, vocabnotes.unit6, vocabnotes.unit7, vocabnotes.unit8, vocabnotes.unit9]
             for z in vocabunits:
-                found = re.search(str(query), str(z))
+                found = re.search(str(query), str(z.dictionary.keys()))
                 if found == [] and len(found) > 1:
                     err = "disarmament"
                     unit = str(z)
                     break
-                elif found == [] and len(found) == 0:
+                elif found == [] and len(found) == 0 or found == None:
                     err = 'pageantry'
                     unit = None
                 else:
@@ -438,27 +446,18 @@ while True:
                     unit = unit[2].split("'>")
                     unit = unit[0]
                     err = 'nil'
+                    dictionary = z.dictionary
                     break
             if unit == None:
                 err = 'pageantry'
             else:
-                videos, subjectvideo, dontuse, notelinks, daterange = unitdb(unit)
-
-            if err == 'nil':
-                timeperiod = daterange
-                count = -1
-                for i in subjectvocab:
-                    count = int(count + 1)
-                    vocabfound = re.search(str(query), str(i))
-                    if vocabfound != None:
-                        title = i.title
-
-                        content = i.definition
-
-                        link = vocablinks[count]
-                        break
-                    else:
-                        err == 'pageantry'
+                try:
+                    content = dictionary[f'{query}']
+                except KeyError:
+                    content = dictionary[f'{query} ']
+                timeperiod = timefinder(unit)
+                link = 1112223334
+                title = query
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -533,27 +532,27 @@ while True:
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-        def studyresult():
+        def vocabresult():
             print("\n", "~"*25)
-            if study.err != "nil":
-                print(f"""\nUh-oh! We couldn't find an apstudynotes page for that term!
-                (Error: {study.err})""")
+            if vocab.err != "nil":
+                print(f"""\nUh-oh! We couldn't find a Vocab entry for that term!
+                (Error: {vocab.err})""")
             else:
                 print(f"""
             
-                Here's what I found from apstudynotes.com:
-                APUSH Unit: {study.unit}
-                Time Period: {study.timeperiod}
-                Page Title: {study.title}
+                Here's what I found from Mayr's Vocab:
+                APUSH Unit: {vocab.unit}
+                Time Period: {vocab.timeperiod}
+                Vocab Word: {vocab.title}
 
-                Page Summary: 
+                Vocab Definition:
                 
-                {study.description}
+                {vocab.content}
 
-                Want to read the entire page? Type "show me the study page!"
-                (This will open an external website)
+                Want to read the entire page? Type "show me Mayr's vocab!"
+                (This will open a Google Doc (external website))
 
-                Or, type "next!" to view the next result...
+                Or, type "next!" to enter another keyword...
                 """)
             print("\n", "~"*25)
 
@@ -599,13 +598,6 @@ while True:
             webbrowser.open(vid.link)
             action = input("What's next? ")
         if action == 'next!':
-            #studyresult()
-            action = input("What's next? ")
-        if action == 'show me the study page!':
-            # open the webpage
-            test = "test"
-            action = input("What's next? ")
-        if action == 'next!':
             notesresult()
             action = input("What's next? ")
         if action == "show me Mayr's notes!":
@@ -613,7 +605,7 @@ while True:
             webbrowser.open(notes.link)
             action = input("What's next? ")
         if action == 'next!':
-            #vocabresult()
+            vocabresult()
             action = input("What's next? ")
         if action == "show me Mayr's vocab":
             # open the vocab page
