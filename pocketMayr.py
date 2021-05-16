@@ -489,10 +489,14 @@ while True:
                     
         Please refine your search to match one of the following wikipedia pages:
                     
-                    {wikiresp.errcontent}""", highlight=False)
+                    {wikiresp.errcontent}
+                    
+                    type [bold green]"next!"[/bold green] to view the next result...""", highlight=False)
                 else:
                     console.print(f"""\nUh-oh! We couldn't find a wikipedia page for that term!
-        (Error: {wikiresp.err})\n""", highlight=False)
+        (Error: {wikiresp.err})
+        
+        type [bold green]"next!"[/bold green] to view the next result...""", highlight=False)
             else:
                 console.print(f"""
 
@@ -518,7 +522,9 @@ while True:
             console.print("\n", "~"*25)
             if vid.err == "pageantry":
                 console.print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
-        (Error: {vid.err})""", highlight=False)
+        (Error: {vid.err})
+        
+        type [bold green]"next!"[/bold green] to view the next result...""", highlight=False)
 
             if vid.err == 'tiebreak':
                 console.print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
@@ -526,7 +532,9 @@ while True:
                 
                 Here are some that might be relevant:
                 
-                {vid.relevant}""", highlight=False)
+                {vid.relevant}
+                
+                type [bold green]"next!"[/bold green] to view the next result...""", highlight=False)
             elif vid.err == 'nil':
                 console.print(f"""
                 Here's what I found from [bold magenta]apushreview.com[/bold magenta]:
@@ -551,7 +559,9 @@ while True:
             console.print("\n", "~"*25)
             if vocab.err != "nil":
                 console.print(f"""\nUh-oh! We couldn't find a Vocab entry for that term!
-                (Error: {vocab.err})""", highlight=False)
+                (Error: {vocab.err})
+                
+                type [bold green]"next!"[/bold green] to enter a new keyword...""", highlight=False)
             else:
                 console.print(f"""
             
@@ -577,7 +587,9 @@ while True:
             console.print("\n", "~"*25)
             if notes.err != "nil":
                 console.print(f"""\nUh-oh! We couldn't find that in Mr. Mayr's notes!
-                (Error: {notes.err})""", highlight=False)
+                (Error: {notes.err})
+                
+                Type [bold green]"next!"[/bold green] to view the next result...""", highlight=False)
             else:
                 console.print(f"""
             
