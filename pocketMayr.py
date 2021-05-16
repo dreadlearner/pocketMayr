@@ -10,16 +10,7 @@ from vocabnotes import vocabnotes
 from rich.console import Console
 console = Console()
 
-
-# TODO: error listing and handling (but BETTER)
-
-# TODO: highlight the found notes word and vocab word
-
-# TODO: misc pretty printing
-
 # TODO: vocab note uploads to Google Docs
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 now = datetime.now()
 day = int(now.day)
@@ -40,8 +31,6 @@ elif hour >= 12:
     time_of_day = "afternoon"
 if hour < 12:
     time_of_day = "morning"
- 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Printing Random Welcome Messages, accepting Queries~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 while True:
     console.print(f"\n[bold cyan]{date} {hour}:{minute}[/bold cyan]", highlight=False)
@@ -78,8 +67,6 @@ while True:
     if querylower == 'man':
         webbrowser.open('https://docs.google.com/document/d/1k7ts1-0yaveE-ZIPNRj7AhPiy0q680a_SDZc2lSjP6g/edit?usp=sharing')
     else:
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define Unit-Finding Function based on time-period/year~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def unitfinder(year):
             year = int(year)
@@ -254,8 +241,6 @@ while True:
                 timeperiod =  '1980 - Present'
             return videolinks, subjectvideo, note, notelinks, timeperiod, vocab
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
         class notes:
             """
             notes: notes is an object that contains all the values to
@@ -324,7 +309,6 @@ while True:
             except:
                 err = 'u-noun'
                 pass
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class to search Wikipedia for the Query~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         # search wikipedia for the keyword
         class wikiresp:
@@ -369,8 +353,6 @@ while True:
             except:
                 err = 'u-noun'
                 pass
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class for regex-ing the Video Captions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         class vid:
             """
@@ -439,9 +421,24 @@ while True:
                 err = 'u-noun'
                 pass
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        
         class vocab:
+            """
+            vocab: vocab is an object that contains all the values to be
+            returned for a search of the keyword in Mr. Mayr's vocab. It
+            returns the following to the user:
+
+            vocab.err: an error code.
+
+            vocab.unit: the unit that the term is in
+
+            vocab.timeperiod: the timeperiod that the vocab word is in
+
+            vocab.link: a link to the vocab page
+
+            vocab.title: the word that was queried
+
+            vocab.content: the definition of the term
+            """
             try:
                 vocabunits = [vocabnotes.unit1, vocabnotes.unit2, vocabnotes.unit3, vocabnotes.unit4, vocabnotes.unit5, vocabnotes.unit6, vocabnotes.unit7, vocabnotes.unit8, vocabnotes.unit9]
                 for z in vocabunits:
@@ -474,11 +471,7 @@ while True:
                 err = 'u-noun'
                 pass
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
         console.print(f"\nYou queried: [bold yellow]{query}[/bold yellow]", highlight=False)
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def wikiresult():
             console.print("\n", "~"*25, highlight=False)
@@ -516,8 +509,6 @@ while True:
                 """, highlight=False)
             console.print("\n", "~"*25, highlight=False)
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
         def vidresult():
             console.print("\n", "~"*25)
             if vid.err == "pageantry":
@@ -553,8 +544,6 @@ while True:
                 """, highlight=False)
             console.print("\n", "~"*25, highlight=False)
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
         def vocabresult():
             console.print("\n", "~"*25)
             if vocab.err != "nil":
@@ -580,8 +569,6 @@ while True:
                 Or, type [bold green]"next!"[/bold green] to enter another keyword...
                 """, highlight=False)
             console.print("\n", "~"*25, highlight=False)
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def notesresult():
             console.print("\n", "~"*25)
@@ -609,34 +596,32 @@ while True:
                 """, highlight=False)
             console.print("\n", "~"*25, highlight=False)
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
         wikiresult()
-        action = input("What's next? ")
+        action = input("\nWhat's next? ")
         if action == 'show me the wikipedia article!':
             # open the wikipedia article
             webbrowser.open(wikiresp.link)
-            action = input("What's next? ")
+            action = input("\nWhat's next? ")
         if action == 'next!' or action == 'next':
             vidresult()
-            action = input("What's next? ")
+            action = input("\nWhat's next? ")
         if action == 'show me the video!':
             # open the video
             webbrowser.open(vid.link)
-            action = input("What's next? ")
+            action = input("\nWhat's next? ")
         if action == 'next!' or action == 'next':
             notesresult()
-            action = input("What's next? ")
+            action = input("\nWhat's next? ")
         if action == "show me Mr. Mayr's notes!":
             # open the notes page
             webbrowser.open(notes.link)
-            action = input("What's next? ")
+            action = input("\nWhat's next? ")
         if action == 'next!' or action == 'next':
             vocabresult()
-            action = input("What's next? ")
+            action = input("\nWhat's next? ")
         if action == "show me Mr. Mayr's vocab":
             # open the vocab page
             test = "test"
-            action = input("What's next? ")
+            action = input("\nWhat's next? ")
         if action in exitdoor:
                 exit()

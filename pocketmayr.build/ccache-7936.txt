@@ -1,0 +1,509 @@
+[2021-05-16T16:08:40.160428 21004] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.160428 21464] Config: (default) base_dir = 
+[2021-05-16T16:08:40.160428 21464] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.160428 21464] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.160428 21464] Config: (default) compiler = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.160428 21464] Config: (default) compression = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.160428 21464] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) debug = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.160428 21464] Config: (default) disable = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) hard_link = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.160428 21464] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.160428 21464] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.160428 21464] Config: (default) max_files = 0
+[2021-05-16T16:08:40.160428 21464] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.160428 21464] Config: (default) path = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) read_only = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) recache = false
+[2021-05-16T16:08:40.160428 21464] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.160428 21464] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) stats = true
+[2021-05-16T16:08:40.160428 21464] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.160428 21464] Config: (default) umask = 
+[2021-05-16T16:08:40.161429 21464] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2021-05-16T16:08:40.160428 21456] Config: (default) base_dir = 
+[2021-05-16T16:08:40.160428 21456] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.160428 21456] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.160428 21456] Config: (default) compiler = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.160428 21456] Config: (default) compression = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.160428 21456] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) debug = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.160428 21456] Config: (default) disable = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) hard_link = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.160428 21456] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.160428 21456] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.160428 21456] Config: (default) max_files = 0
+[2021-05-16T16:08:40.160428 21456] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.160428 21456] Config: (default) path = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) read_only = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) recache = false
+[2021-05-16T16:08:40.160428 21456] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.160428 21456] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) stats = true
+[2021-05-16T16:08:40.160428 21456] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.160428 21456] Config: (default) umask = 
+[2021-05-16T16:08:40.161429 21456] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src __helpers.c[2[2021-05-16T16:08:40.161429 21004] Hostname: VIR
+: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.161429 21456] Hostname: VIR
+[2021-05-16T16:08:40.161429 21004] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.161429 21456] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.162428 21464] Source file: __constants.c
+[2021-05-16T16:08:40.162428 21464] Object file: __constants.o
+[2021-05-16T16:08:40.162428 21004] Source file: __loader.c
+[2021-05-16T16:08:40.162428 21004] Object file: __loader.o
+[2021-05-16T16:08:40.162428 21456] Source file: __helpers.c
+[2021-05-16T16:08:40.162428 21456] Object file: __helpers.o
+[2021-05-16T16:08:40.162428 21464] Trying direct lookup
+[2021-05-16T16:08:40.162428 21004] Trying direct lookup
+[2021-05-16T16:08:40.162428 21464] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/e/f1051753c55c747818f3d05c901712-4760.manifest
+[2021-05-16T16:08:40.162428 21004] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/a/3ebd73fdc9df4999266a1534fd9654-3176.manifest
+[2021-05-16T16:08:40.162428 21456] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/4/c3d1ab1600c2666bdd64fe398d2d3c-78797.manifest
+[2021-05-16T16:08:40.162428 21456] No such manifest file
+[2021-05-16T16:08:40.162428 21456] Did not find object file hash in manifest
+[2021-05-16T16:08:40.163428 21456] Running preprocessor
+[2021-05-16T16:08:40.175431 19280] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.175431 19280] Config: (default) base_dir = 
+[2021-05-16T16:08:40.175431 19280] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.175431 19280] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.175431 19280] Config: (default) compiler = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.175431 19280] Config: (default) compression = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.175431 19280] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) debug = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.175431 19280] Config: (default) disable = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) hard_link = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.175431 19280] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.175431 19280] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.175431 19280] Config: (default) max_files = 0
+[2021-05-16T16:08:40.175431 19280] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.175431 19280] Config: (default) path = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) read_only = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) recache = false
+[2021-05-16T16:08:40.175431 19280] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.175431 19280] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) stats = true
+[2021-05-16T16:08:40.175431 19280] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.175431 19280] Config: (default) umask = 
+[2021-05-16T16:08:40.175431 19280] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2021-05-16T16:08:40.175431 19280] Hostname: VIR
+[2021-05-16T16:08:40.175431 19280] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.175431 19280] Source file: module.__main__.c
+[2021-05-16T16:08:40.175431 19280] Object file: module.__main__.o
+[2021-05-16T16:08:40.175431 19280] Trying direct lookup
+[2021-05-16T16:08:40.178428 19280] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/6fce867336bed6c98185af1a10f559-1202665.manifest
+[2021-05-16T16:08:40.178428 19280] No such manifest file
+[2021-05-16T16:08:40.178428 19280] Did not find object file hash in manifest
+[2021-05-16T16:08:40.178428 19280] Running preprocessor
+[2021-05-16T16:08:40.199428 11524] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.199428 11524] Config: (default) base_dir = 
+[2021-05-16T16:08:40.199428 11524] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.199428 11524] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.199428 11524] Config: (default) compiler = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.199428 11524] Config: (default) compression = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.199428 11524] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) debug = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.199428 11524] Config: (default) disable = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) hard_link = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.199428 11524] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.199428 11524] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.199428 11524] Config: (default) max_files = 0
+[2021-05-16T16:08:40.199428 11524] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.199428 11524] Config: (default) path = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) read_only = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) recache = false
+[2021-05-16T16:08:40.199428 11524] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.199428 11524] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) stats = true
+[2021-05-16T16:08:40.199428 11524] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.199428 11524] Config: (default) umask = 
+[2021-05-16T16:08:40.199428 11524] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2021-05-16T16:08:40.199428 11524] Hostname: VIR
+[2021-05-16T16:08:40.200431 11524] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.200431 11524] Source file: static_src\MainProgram.c
+[2021-05-16T16:08:40.200431 11524] Object file: static_src\MainProgram.o
+[2021-05-16T16:08:40.200431 11524] Trying direct lookup
+[2021-05-16T16:08:40.200431 11524] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/e/18eca2fd7fb7c56f09aa65eae913bb-26282.manifest
+[2021-05-16T16:08:40.213430 9416 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) base_dir = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) compiler = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) compression = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) debug = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) disable = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) hard_link = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.213430 9416 ] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) max_files = 0
+[2021-05-16T16:08:40.213430 9416 ] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) path = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) read_only = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) recache = false
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) stats = true
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.213430 9416 ] Config: (default) umask = 
+[2021-05-16T16:08:40.213430 9416 ] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-05-16T16:08:40.213430 9416 ] Hostname: VIR
+[2021-05-16T16:08:40.213430 9416 ] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.214429 9416 ] Source file: static_src\CompiledCellType.c
+[2021-05-16T16:08:40.214429 9416 ] Object file: static_src\CompiledCellType.o
+[2021-05-16T16:08:40.214429 9416 ] Trying direct lookup
+[2021-05-16T16:08:40.214429 9416 ] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/cf208aab850693f7ab82635000ae9e-8032.manifest
+[2021-05-16T16:08:40.242429 4060 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) base_dir = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) compiler = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) compression = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) debug = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) disable = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) hard_link = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.242429 4060 ] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) max_files = 0
+[2021-05-16T16:08:40.242429 4060 ] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) path = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) read_only = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) recache = false
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) stats = true
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.242429 4060 ] Config: (default) umask = 
+[2021-05-16T16:08:40.243431 4060 ] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-05-16T16:08:40.243431 4060 ] Hostname: VIR
+[2021-05-16T16:08:40.243431 4060 ] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.243431 4060 ] Source file: static_src\CompiledFunctionType.c
+[2021-05-16T16:08:40.243431 4060 ] Object file: static_src\CompiledFunctionType.o
+[2021-05-16T16:08:40.243431 4060 ] Trying direct lookup
+[2021-05-16T16:08:40.244430 4060 ] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/0/81281f799796b3c5317ec6758cac32-79013.manifest
+[2021-05-16T16:08:40.293430 20864] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.293430 20864] Config: (default) base_dir = 
+[2021-05-16T16:08:40.293430 20864] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.293430 20864] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.293430 20864] Config: (default) compiler = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.293430 20864] Config: (default) compression = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.293430 20864] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) debug = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.293430 20864] Config: (default) disable = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) hard_link = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.293430 20864] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.293430 20864] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.293430 20864] Config: (default) max_files = 0
+[2021-05-16T16:08:40.293430 20864] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.293430 20864] Config: (default) path = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) read_only = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) recache = false
+[2021-05-16T16:08:40.293430 20864] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.293430 20864] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) stats = true
+[2021-05-16T16:08:40.293430 20864] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.293430 20864] Config: (default) umask = 
+[2021-05-16T16:08:40.293430 20864] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-05-16T16:08:40.294429 20864] Hostname: VIR
+[2021-05-16T16:08:40.294429 20864] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.294429 20864] Source file: static_src\CompiledGeneratorType.c
+[2021-05-16T16:08:40.294429 20864] Object file: static_src\CompiledGeneratorType.o
+[2021-05-16T16:08:40.294429 20864] Trying direct lookup
+[2021-05-16T16:08:40.295430 20864] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/2/1bde5cc130da07efec4cb94c700286-57462.manifest
+[2021-05-16T16:08:40.480429 21004] Got object file hash from manifest
+[2021-05-16T16:08:40.481429 4060 ] Got object file hash from manifest
+[2021-05-16T16:08:40.481429 21464] Got object file hash from manifest
+[2021-05-16T16:08:40.481429 9416 ] Got object file hash from manifest
+[2021-05-16T16:08:40.481429 20864] Got object file hash from manifest
+[2021-05-16T16:08:40.490427 21004] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/7/fe04c7512092f7f80e9234b032efa8-410187.o to __loader.o (uncompressed)
+[2021-05-16T16:08:40.491428 21004] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/7/fe04c7512092f7f80e9234b032efa8-410187.o -> __loader.o
+[2021-05-16T16:08:40.491428 21004] Succeeded getting cached result
+[2021-05-16T16:08:40.491428 21004] Result: cache hit (direct)
+[2021-05-16T16:08:40.491428 21004] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-05-16T16:08:40.493429 21464] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/1/6a53b46548d725864a5985fb4048c4-608546.o to __constants.o (uncompressed)
+[2021-05-16T16:08:40.493429 21464] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/1/6a53b46548d725864a5985fb4048c4-608546.o -> __constants.o
+[2021-05-16T16:08:40.493429 9416 ] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/52b5d9131f794b71bb91141092c1b6-612542.o to static_src\CompiledCellType.o (uncompressed)
+[2021-05-16T16:08:40.493429 21464] Succeeded getting cached result
+[2021-05-16T16:08:40.493429 21464] Result: cache hit (direct)
+[2021-05-16T16:08:40.493429 9416 ] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/52b5d9131f794b71bb91141092c1b6-612542.o -> static_src\CompiledCellType.o
+[2021-05-16T16:08:40.494429 21464] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-16T16:08:40.494429 9416 ] Succeeded getting cached result
+[2021-05-16T16:08:40.494429 9416 ] Result: cache hit (direct)
+[2021-05-16T16:08:40.494429 20864] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/5/255c43867cb885c479be70bc9571f0-822106.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2021-05-16T16:08:40.494429 9416 ] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-16T16:08:40.494429 20864] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/5/255c43867cb885c479be70bc9571f0-822106.o -> static_src\CompiledGeneratorType.o
+[2021-05-16T16:08:40.495430 20864] Succeeded getting cached result
+[2021-05-16T16:08:40.495430 20864] Result: cache hit (direct)
+[2021-05-16T16:08:40.495430 4060 ] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/b/a6a2f8902505de4c0d14d17a013cc5-691602.o to static_src\CompiledFunctionType.o (uncompressed)
+[2021-05-16T16:08:40.495430 20864] lockfile_acquire: CreateFile C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock: error code 32
+[2021-05-16T16:08:40.495430 20864] lockfile_acquire: failed to acquire C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock; sleeping 1000 microseconds
+[2021-05-16T16:08:40.495430 4060 ] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/b/a6a2f8902505de4c0d14d17a013cc5-691602.o -> static_src\CompiledFunctionType.o
+[2021-05-16T16:08:40.496431 4060 ] Succeeded getting cached result
+[2021-05-16T16:08:40.496431 4060 ] Result: cache hit (direct)
+[2021-05-16T16:08:40.496431 4060 ] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-05-16T16:08:40.498430 21004] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-05-16T16:08:40.510430 9416 ] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-16T16:08:40.510430 21464] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-16T16:08:40.511429 20864] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-16T16:08:40.513431 4060 ] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-05-16T16:08:40.524429 20864] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-16T16:08:40.583429 21456] Got object file hash from preprocessor
+[2021-05-16T16:08:40.583429 21456] Object file C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/8066f5356a4df7561da33977f3d48f-665565.o not in cache
+[2021-05-16T16:08:40.583429 21456] Running real compiler
+[2021-05-16T16:08:40.674430 19280] Got object file hash from preprocessor
+[2021-05-16T16:08:40.674430 19280] Object file C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/ccfc699f3061d5655c32a1e828b810-2111743.o not in cache
+[2021-05-16T16:08:40.674430 19280] Running real compiler
+[2021-05-16T16:08:40.839429 8252 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) base_dir = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) compiler = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) compression = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) debug = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) disable = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) hard_link = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.839429 8252 ] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) max_files = 0
+[2021-05-16T16:08:40.839429 8252 ] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) path = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) read_only = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) recache = false
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) stats = true
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.839429 8252 ] Config: (default) umask = 
+[2021-05-16T16:08:40.839429 8252 ] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2021-05-16T16:08:40.840430 8252 ] Hostname: VIR
+[2021-05-16T16:08:40.840430 8252 ] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.840430 8252 ] Source file: static_src\CompiledCodeHelpers.c
+[2021-05-16T16:08:40.840430 8252 ] Object file: static_src\CompiledCodeHelpers.o
+[2021-05-16T16:08:40.840430 8252 ] Trying direct lookup
+[2021-05-16T16:08:40.840430 8252 ] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/9db5222c726302335a495d96193ba1-55537.manifest
+[2021-05-16T16:08:40.852429 20444] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.852429 20444] Config: (default) base_dir = 
+[2021-05-16T16:08:40.852429 20444] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.852429 20444] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.852429 20444] Config: (default) compiler = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.852429 20444] Config: (default) compression = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.852429 20444] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) debug = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.852429 20444] Config: (default) disable = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) hard_link = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.852429 20444] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.852429 20444] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.852429 20444] Config: (default) max_files = 0
+[2021-05-16T16:08:40.852429 20444] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.852429 20444] Config: (default) path = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) read_only = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) recache = false
+[2021-05-16T16:08:40.852429 20444] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.852429 20444] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) stats = true
+[2021-05-16T16:08:40.852429 20444] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.852429 20444] Config: (default) umask = 
+[2021-05-16T16:08:40.852429 20444] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-05-16T16:08:40.853429 20444] Hostname: VIR
+[2021-05-16T16:08:40.853429 20444] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.853429 20444] Source file: static_src\InspectPatcher.c
+[2021-05-16T16:08:40.853429 20444] Object file: static_src\InspectPatcher.o
+[2021-05-16T16:08:40.853429 20444] Trying direct lookup
+[2021-05-16T16:08:40.853429 20444] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/d/c39ae7aceb7eef34ab3fba18d3d6b7-13696.manifest
+[2021-05-16T16:08:40.867429 5584 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) base_dir = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (environment) cache_dir = C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) compiler = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) compiler_check = mtime
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) compression = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) compression_level = 6
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) cpp_extension = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) debug = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) depend_mode = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) direct_mode = true
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) disable = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) hard_link = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) hash_dir = true
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T16:08:40.867429 5584 ] Config: (environment) log_file = C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build\ccache-7936.txt
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) max_files = 0
+[2021-05-16T16:08:40.867429 5584 ] Config: (C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) path = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) pch_external_checksum = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) prefix_command = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) read_only = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) read_only_direct = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) recache = false
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) run_second_cpp = true
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) sloppiness = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) stats = true
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) temporary_dir = 
+[2021-05-16T16:08:40.867429 5584 ] Config: (default) umask = 
+[2021-05-16T16:08:40.867429 5584 ] Command line: C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\inigomontoya\AppData\Local\Nuitka\Nuitka\gcc\x86\10.2.0-11.0.0-8.0.0-r5\mingw32\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\inigomontoya\AppData\Local\Programs\Python\Python36-32\include -I. -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\INIGOM~1\AppData\Local\Programs\Python\PYTHON~1\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-05-16T16:08:40.867429 5584 ] Hostname: VIR
+[2021-05-16T16:08:40.867429 5584 ] Working directory: C:\Users\inigomontoya\Desktop\Scripting\APUSH_QUERIES\pocketMayr\pocketmayr.build
+[2021-05-16T16:08:40.868430 5584 ] Source file: static_src\MetaPathBasedLoader.c
+[2021-05-16T16:08:40.868430 5584 ] Object file: static_src\MetaPathBasedLoader.o
+[2021-05-16T16:08:40.868430 5584 ] Trying direct lookup
+[2021-05-16T16:08:40.868430 5584 ] Looking for object file hash in C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/d/3509739fdad13aabbbbe16ae503f15-53955.manifest
+[2021-05-16T16:08:40.899429 20444] Got object file hash from manifest
+[2021-05-16T16:08:40.906428 20444] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/07001875acf8bc2236248e02988ed7-618540.o to static_src\InspectPatcher.o (uncompressed)
+[2021-05-16T16:08:40.907429 20444] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/07001875acf8bc2236248e02988ed7-618540.o -> static_src\InspectPatcher.o
+[2021-05-16T16:08:40.907429 20444] Succeeded getting cached result
+[2021-05-16T16:08:40.907429 20444] Result: cache hit (direct)
+[2021-05-16T16:08:40.907429 20444] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-05-16T16:08:40.915430 20444] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-05-16T16:08:41.098429 5584 ] Got object file hash from manifest
+[2021-05-16T16:08:41.098429 8252 ] Got object file hash from manifest
+[2021-05-16T16:08:41.098429 11524] Got object file hash from manifest
+[2021-05-16T16:08:41.104428 11524] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/4cb9df155ced9f8571abde96ae3224-2630128.o to static_src\MainProgram.o (uncompressed)
+[2021-05-16T16:08:41.105429 5584 ] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/3/cfb61c1da3c6ddbd9cb6697f5b3e5b-2662042.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2021-05-16T16:08:41.105429 11524] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/4cb9df155ced9f8571abde96ae3224-2630128.o -> static_src\MainProgram.o
+[2021-05-16T16:08:41.105429 5584 ] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/3/cfb61c1da3c6ddbd9cb6697f5b3e5b-2662042.o -> static_src\MetaPathBasedLoader.o
+[2021-05-16T16:08:41.105429 11524] Succeeded getting cached result
+[2021-05-16T16:08:41.105429 11524] Result: cache hit (direct)
+[2021-05-16T16:08:41.105429 5584 ] Succeeded getting cached result
+[2021-05-16T16:08:41.105429 5584 ] Result: cache hit (direct)
+[2021-05-16T16:08:41.105429 11524] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-16T16:08:41.105429 8252 ] Copying C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/3/a156f65061e6e4df509fc41b271a43-4593225.o to static_src\CompiledCodeHelpers.o (uncompressed)
+[2021-05-16T16:08:41.106429 5584 ] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-05-16T16:08:41.108428 8252 ] Created from cache: C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/3/a156f65061e6e4df509fc41b271a43-4593225.o -> static_src\CompiledCodeHelpers.o
+[2021-05-16T16:08:41.108428 8252 ] Succeeded getting cached result
+[2021-05-16T16:08:41.108428 8252 ] Result: cache hit (direct)
+[2021-05-16T16:08:41.108428 8252 ] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-16T16:08:41.113430 5584 ] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-05-16T16:08:41.113430 11524] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-16T16:08:41.115431 8252 ] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-16T16:08:41.189431 21456] Unlink C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/8066f5356a4df7561da33977f3d48f-665565.o.tmp.stdout.VIR.21456.FzP5tM
+[2021-05-16T16:08:41.189431 21456] Unlink C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/8066f5356a4df7561da33977f3d48f-665565.o.tmp.stderr.VIR.21456.1QBI6D
+[2021-05-16T16:08:41.190428 21456] Copying __helpers.o to C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/8066f5356a4df7561da33977f3d48f-665565.o via C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/8066f5356a4df7561da33977f3d48f-665565.o.VIR.21456.SS92c3 (uncompressed)
+[2021-05-16T16:08:41.191429 21456] Stored in cache: __helpers.o -> C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/f/8066f5356a4df7561da33977f3d48f-665565.o (copied)
+[2021-05-16T16:08:41.193430 21456] Added object file hash to C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/4/c3d1ab1600c2666bdd64fe398d2d3c-78797.manifest
+[2021-05-16T16:08:41.193430 21456] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-05-16T16:08:41.194430 21456] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-05-16T16:08:41.194430 21456] Result: cache miss
+[2021-05-16T16:08:41.195431 21456] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-16T16:08:41.196431 21456] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-16T16:08:48.851451 19280] Unlink C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/ccfc699f3061d5655c32a1e828b810-2111743.o.tmp.stdout.VIR.19280.1QBI6D
+[2021-05-16T16:08:48.851451 19280] Unlink C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/ccfc699f3061d5655c32a1e828b810-2111743.o.tmp.stderr.VIR.19280.SS92c3
+[2021-05-16T16:08:48.851451 19280] Copying module.__main__.o to C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/ccfc699f3061d5655c32a1e828b810-2111743.o via C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/ccfc699f3061d5655c32a1e828b810-2111743.o.VIR.19280.1Apgjk (uncompressed)
+[2021-05-16T16:08:48.852449 19280] Stored in cache: module.__main__.o -> C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/ccfc699f3061d5655c32a1e828b810-2111743.o (copied)
+[2021-05-16T16:08:48.855448 19280] Added object file hash to C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/6fce867336bed6c98185af1a10f559-1202665.manifest
+[2021-05-16T16:08:48.855448 19280] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-05-16T16:08:48.857448 19280] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-05-16T16:08:48.857448 19280] Result: cache miss
+[2021-05-16T16:08:48.857448 19280] Acquired lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-05-16T16:08:48.858448 19280] Releasing lock C:\Users\INIGOM~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
