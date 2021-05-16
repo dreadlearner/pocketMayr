@@ -497,7 +497,7 @@ while True:
                 console.print(f"""
 
                 Here's what I found from [bold magenta]Wikipedia[/bold magenta]:
-                APUSH Unit: {wikiresp.unit}
+                APUSH Unit: [bold pink]{wikiresp.unit}[/bold pink]
                 Time Period: [bold blue]{wikiresp.timeperiod}[/bold blue]
                 Page Title: [bold yellow]{wikiresp.title}[/bold yellow]
 
@@ -530,7 +530,7 @@ while True:
             elif vid.err == 'nil':
                 console.print(f"""
                 Here's what I found from [bold magenta]apushreview.com[/bold magenta]:
-                APUSH Unit: {vid.unit}
+                APUSH Unit: [bold pink]{vid.unit}[/bold pink]
                 Time Period: [bold blue]{vid.timeperiod}[/bold blue]
                 Video Title: [bold yellow]{vid.title}[/bold yellow]
 
@@ -556,7 +556,7 @@ while True:
                 console.print(f"""
             
                 Here's what I found from [bold magenta]Mr. Mayr's Vocab[/bold magenta]:
-                APUSH Unit: {vocab.unit}
+                APUSH Unit: [bold pink]{vocab.unit}[/bold pink]
                 Time Period: [bold blue]{vocab.timeperiod}[/bold blue]
                 Vocab Word: [bold yellow]{vocab.title}[/bold yellow]
 
@@ -582,7 +582,7 @@ while True:
                 console.print(f"""
             
                 Here's the first occurence of that term in [bold magenta]Mr. Mayr's notes[/bold magenta]:
-                APUSH Unit: {notes.unit}
+                APUSH Unit: [bold pink]{notes.unit}[/bold pink]
                 Time Period: [bold blue]{notes.timeperiod}[/bold blue]
                 Page Title: [bold yellow]{notes.title}[/bold yellow]
 
