@@ -7,6 +7,7 @@ import webbrowser
 from rich import print
 from CaptionTracks import units
 from notes import notes as notesimport
+import vocabnotes as vocabnotes
 
 # TODO: vocab object
 
