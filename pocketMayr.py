@@ -4,16 +4,20 @@ import numpy as np
 import re
 import pytube
 import webbrowser
-from rich import print
 from CaptionTracks import units
 from notes import notes as notesimport
 from vocabnotes import vocabnotes
+from rich.console import Console
+console = Console()
+
 
 # TODO: error listing and handling (but BETTER)
 
-# TODO: highlighting the found notes word and vocab word
+# TODO: highlight the found notes word and vocab word
 
 # TODO: misc pretty printing
+
+# TODO: vocab note uploads to Google Docs
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -36,42 +40,42 @@ elif hour >= 12:
     time_of_day = "afternoon"
 if hour < 12:
     time_of_day = "morning"
-
+ 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Printing Random Welcome Messages, accepting Queries~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 while True:
-    print(f"\n{date} {hour}:{minute}")
+    console.print(f"\n[bold cyan]{date} {hour}:{minute}[/bold cyan]", highlight=False)
 
-    print("~"*25, f"\nGood {time_of_day}, welcome to pocketMayr!\n", "~"*25)
+    console.print("~"*25, f"\nGood {time_of_day}, welcome to [bold green]pocketMayr[/bold green]!\n", "~"*25, highlight=False)
 
     random_message = np.random.randint(1, 10)
     if random_message == 1:
-        print("\n",r"pocketMayr is right 99.99% of the time!", "\n")
+        console.print("\n",r"pocketMayr is right 99.99% of the time!", "\n", highlight=False)
     if random_message == 2:
-        print("\n",r"I'm a guide on the side!", "\n")
+        console.print("\n",r"I'm a guide on the side!", "\n", highlight=False)
     if random_message == 3:
-        print("\n",r"I'm a sage on the stage!", "\n")
+        console.print("\n",r"I'm a sage on the stage!", "\n", highlight=False)
     if random_message == 4:
-        print("\n",r"Cool cool cool.", "\n")
+        console.print("\n",r"Cool cool cool.", "\n", highlight=False)
     if random_message == 5:
-        print("\n",r"Mmm. Love me some Diet Coke.", "\n")
+        console.print("\n",r"Mmm. Love me some Diet Coke.", "\n", highlight=False)
     if random_message == 6:
-        print("\n",r"'I've got the horses in the back...'", "\n")
+        console.print("\n",r"'I've got the horses in the back...'", "\n", highlight=False)
     if random_message == 7:
-        print("\n",r"Rohan, we know you have a microphone...", "\n")
+        console.print("\n",r"Rohan, we know you have a microphone...", "\n", highlight=False)
     if random_message == 8:
-        print("\n",r"Ok, then prove it.", "\n")
+        console.print("\n",r"Ok, then prove it.", "\n")
     if random_message == 9:
-        print("\n", "But can you back it up? Do you have evidence?", "\n")
+        console.print("\n", "But can you back it up? Do you have evidence?", "\n")
 
-    print("Enter 'man' into the keyword if you'd like to read the manual page")
+    console.print("Enter [bold green]'man'[/bold green] into the keyword if you'd like to read the manual page", highlight=False)
     query = input("Put your keyword here: ")
 
-    query = query.lower()
+    querylower = query.lower()
 
-    if query in exitdoor:
+    if querylower in exitdoor:
         exit()
-    if query == 'man':
+    if querylower == 'man':
         webbrowser.open('https://docs.google.com/document/d/1k7ts1-0yaveE-ZIPNRj7AhPiy0q680a_SDZc2lSjP6g/edit?usp=sharing')
     else:
 
@@ -255,7 +259,7 @@ while True:
         class notes:
             """
             notes: notes is an object that contains all the values to
-            be returned for a search of the keyword in Mr.Mayr's notes.
+            be returned for a search of the keyword in Mr. Mayr's notes.
             it returns the following to the user:
 
             notes.title: the title of the notes
@@ -272,53 +276,54 @@ while True:
 
             notes.link: a link to the Google Doc containing the notes
             """
-            # regex for query in each unit
-            unitnotes = [notesimport.unit1, notesimport.unit2, notesimport.unit3, notesimport.unit4, notesimport.unit5, notesimport.unit6, notesimport.unit7,
-            notesimport.unit8, notesimport.unit9]
-            for i in unitnotes:
-                found = re.search(str(query), str(i.content).lower())
-                if found == None:
-                    err = 'pageantry'
-                    unit = None
-                else:
-                    unit = str(i).split(".")
-                    unit = str(unit[2]).replace("'>", "")
-                    found = str(found[0])
-                    err = 'nil'
-                    break
-
-            if unit == None:
-                err = 'pageantry'
-            else:
-                videos, subjectvideo, notes, notelinks, daterange, vocab = unitdb(unit)
-
-            if err == 'nil':
-                timeperiod = daterange
-                count = -1
-                for i in notes:
-                    notetext = str(i.content)
-                    count = int(count + 1)
-                    notesfound = re.search(str(query), str(i.content).lower())
-
-                    if notesfound != None:
-                        title = i.title
-                        
-                        pos = notesfound.span()
-
-                        start = int(pos[0] - 125)
-                        end = int(pos[1] + 125)
-
-                        content = f"...{notetext[start:end]}..."
-
-                        link = notelinks[count]
-
-                        # seek the position of that text that we just displayed, return and print the number of lines from start
-
-                        # highlight keyword
-
-                        # link to open with (google doc)
+            try:
+                # regex for query in each unit
+                unitnotes = [notesimport.unit1, notesimport.unit2, notesimport.unit3, notesimport.unit4, notesimport.unit5, notesimport.unit6, notesimport.unit7,
+                notesimport.unit8, notesimport.unit9]
+                for i in unitnotes:
+                    found = re.search(str(querylower), str(i.content).lower())
+                    if found == None:
+                        err = 'pageantry'
+                        unit = None
+                    else:
+                        unit = str(i).split(".")
+                        unit = str(unit[2]).replace("'>", "")
+                        found = str(found[0])
+                        err = 'nil'
                         break
 
+                if unit == None:
+                    err = 'pageantry'
+                else:
+                    videos, subjectvideo, notes, notelinks, daterange, vocab = unitdb(unit)
+
+                if err == 'nil':
+                    timeperiod = daterange
+                    count = -1
+                    for i in notes:
+                        notetext = str(i.content)
+                        count = int(count + 1)
+                        notesfound = re.search(str(querylower), str(i.content).lower())
+
+                        if notesfound != None:
+                            title = i.title
+                            
+                            pos = notesfound.span()
+
+                            querylength = pos[1] - pos[0]
+
+                            start1 = int(pos[0] - 125)
+                            end1 = pos[0]
+                            start2 = pos[1]
+                            end2 = int(pos[1] + 125)
+
+                            content = f"...{notetext[start1:end1]}[bold yellow]{notetext[pos[0]:pos[1]]}[/bold yellow]{notetext[start2:end2]}..."
+
+                            link = notelinks[count]
+                            break
+            except:
+                err = 'u-noun'
+                pass
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class to search Wikipedia for the Query~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         # search wikipedia for the keyword
@@ -341,7 +346,7 @@ while True:
             wikiresp.link: a link to the full page
             """
             try:
-                page = wikipedia.search(query, results=1, suggestion=False)
+                page = wikipedia.search(querylower, results=1, suggestion=False)
                 page = wikipedia.WikipediaPage(page)
                 if page != []:
                     err = "nil"
@@ -350,7 +355,7 @@ while True:
                     timeperiod = notes.timeperiod
                     unit = notes.unit
 
-                    content = wikipedia.summary(query, sentences=3, auto_suggest=False)
+                    content = wikipedia.summary(querylower, sentences=3, auto_suggest=False)
                 if page == []:
                     err = "disarmament"
             except wikipedia.DisambiguationError as disam:
@@ -360,6 +365,9 @@ while True:
             except wikipedia.PageError as page:
                 errcontent = page
                 err = "pageantry"
+                pass
+            except:
+                err = 'u-noun'
                 pass
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Define a Class for regex-ing the Video Captions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -384,203 +392,210 @@ while True:
 
             vid.content: the description
             """
-            # query all unit captions, return time period. then query unit.video captions, return title, and url
-            units = [units.unit1, units.unit2, units.unit3, units.unit4, units.unit5, units.unit6, units.unit7,
-            units.unit8, units.unit9]
-            for u in units:
-                found = re.findall(str(query), str(u.captions).lower())
-                if found == [] and len(found) > 1:
-                    err = "disarmament"
-                    unit = str(u)
-                    break
-                elif found == [] and len(found) == 0 or found == None:
-                    err = 'pageantry'
-                    unit = None
-                else:
-                    unit = str(u).split(".")
-                    unit = unit[2].split("'>")
-                    unit = unit[0]
-                    err = 'nil'
-                    break
-            if unit == None:
-                err = 'pageantry'
-            else:
-                videos, subjectvideo, dontuse, notelinks, daterange, vocab = unitdb(unit)
-
-            if err == 'nil':
-                timeperiod = daterange
-                count = -1
-                for i in subjectvideo:
-                    count = int(count + 1)
-                    vidfound = re.findall(str(query), str(i).lower())
-                    if vidfound != None:
-                        link = str(videos[count]).replace("'", "")
-                        videobj = pytube.YouTube(link)
-                        description = videobj.description
-                        title = videobj.title
-
-                        content = f"\n{description}\n"
+            try:# query all unit captions, return time period. then query unit.video captions, return title, and url
+                units = [units.unit1, units.unit2, units.unit3, units.unit4, units.unit5, units.unit6, units.unit7,
+                units.unit8, units.unit9]
+                for u in units:
+                    found = re.findall(str(querylower), str(u.captions).lower())
+                    if found == [] and len(found) > 1:
+                        err = "disarmament"
+                        unit = str(u)
                         break
+                    elif found == [] and len(found) == 0 or found == None:
+                        err = 'pageantry'
+                        unit = None
                     else:
-                        err == 'pageantry'
-            if err == 'disarmament':
-                relevant = videos
-            if err == 'pageantry':
+                        unit = str(u).split(".")
+                        unit = unit[2].split("'>")
+                        unit = unit[0]
+                        err = 'nil'
+                        break
+                if unit == None:
+                    err = 'pageantry'
+                else:
+                    videos, subjectvideo, dontuse, notelinks, daterange, vocab = unitdb(unit)
+
+                if err == 'nil':
+                    timeperiod = daterange
+                    count = -1
+                    for i in subjectvideo:
+                        count = int(count + 1)
+                        vidfound = re.findall(str(querylower), str(i).lower())
+                        if vidfound != None:
+                            link = str(videos[count]).replace("'", "")
+                            videobj = pytube.YouTube(link)
+                            description = videobj.description
+                            title = videobj.title
+
+                            content = f"\n{description}\n"
+                            break
+                        else:
+                            err == 'pageantry'
+                if err == 'disarmament':
+                    relevant = videos
+                if err == 'pageantry':
+                    pass
+            except:
+                err = 'u-noun'
                 pass
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         
         class vocab:
-            vocabunits = [vocabnotes.unit1, vocabnotes.unit2, vocabnotes.unit3, vocabnotes.unit4, vocabnotes.unit5, vocabnotes.unit6, vocabnotes.unit7, vocabnotes.unit8, vocabnotes.unit9]
-            for z in vocabunits:
-                found = re.search(str(query), str(z.dictionary.keys()).lower())
-                if found == [] and len(found) > 1:
-                    err = "disarmament"
-                    unit = str(z)
-                    break
-                elif found == [] and len(found) == 0 or found == None:
+            try:
+                vocabunits = [vocabnotes.unit1, vocabnotes.unit2, vocabnotes.unit3, vocabnotes.unit4, vocabnotes.unit5, vocabnotes.unit6, vocabnotes.unit7, vocabnotes.unit8, vocabnotes.unit9]
+                for z in vocabunits:
+                    found = re.search(str(querylower), str(z.dictionary.keys()).lower())
+                    if found == [] and len(found) > 1:
+                        err = "disarmament"
+                        unit = str(z)
+                        break
+                    elif found == [] and len(found) == 0 or found == None:
+                        err = 'pageantry'
+                        unit = None
+                    else:
+                        unit = str(z).split(".")
+                        unit = unit[2].split("'>")
+                        unit = unit[0]
+                        err = 'nil'
+                        dictionary = {k.lower(): v for k, v in z.dictionary.items()}
+                        break
+                if unit == None:
                     err = 'pageantry'
-                    unit = None
                 else:
-                    unit = str(z).split(".")
-                    unit = unit[2].split("'>")
-                    unit = unit[0]
-                    err = 'nil'
-                    dictionary = {k.lower(): v for k, v in z.dictionary.items()}
-                    break
-            if unit == None:
-                err = 'pageantry'
-            else:
-                try:
-                    content = dictionary[f'{query}']
-                except KeyError:
-                    content = dictionary[f'{query} ']
-                timeperiod = timefinder(unit)
-                link = 1112223334
-                title = query
+                    try:
+                        content = dictionary[f'{querylower}']
+                    except KeyError:
+                        content = dictionary[f'{querylower} ']
+                    timeperiod = timefinder(unit)
+                    link = 1112223334
+                    title = query
+            except:
+                err = 'u-noun'
+                pass
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-        print(f"\nYou queried: {query}")
+        console.print(f"\nYou queried: [bold yellow]{query}[/bold yellow]", highlight=False)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def wikiresult():
-            print("\n", "~"*25)
+            console.print("\n", "~"*25, highlight=False)
             if wikiresp.err != "nil":
                 if wikiresp.err == 'disarmament':
-                    print(f"""\nUh-oh! We couldn't find a wikipedia page for that term!
+                    console.print(f"""\nUh-oh! We couldn't find a wikipedia page for that term!
         (Error: {wikiresp.err})
                     
         Please refine your search to match one of the following wikipedia pages:
                     
-                    {wikiresp.errcontent}""")
+                    {wikiresp.errcontent}""", highlight=False)
                 else:
-                    print(f"""\nUh-oh! We couldn't find a wikipedia page for that term!
-        (Error: {wikiresp.err})\n""")
+                    console.print(f"""\nUh-oh! We couldn't find a wikipedia page for that term!
+        (Error: {wikiresp.err})\n""", highlight=False)
             else:
-                print(f"""
+                console.print(f"""
 
-                Here's what I found from Wikipedia:
+                Here's what I found from [bold magenta]Wikipedia[/bold magenta]:
                 APUSH Unit: {wikiresp.unit}
-                Time Period: {wikiresp.timeperiod}
-                Page Title: {wikiresp.title}
+                Time Period: [bold blue]{wikiresp.timeperiod}[/bold blue]
+                Page Title: [bold yellow]{wikiresp.title}[/bold yellow]
 
                 Page Summary: 
                 
                 {wikiresp.content}
 
-                Want to read the entire article? Type "show me the wikipedia article!"
-                (This will open a Wikipedia article (external website))
+                Want to read the entire article? Type [bold green]"show me the wikipedia article!"[/bold green]
+                (This will open a Wikipedia article [bold red](!!external website!!)[/bold red])
 
-                Or, type "next!" to view the next result...
-                """)
-            print("\n", "~"*25)
+                Or, type [bold green]"next!"[/bold green] to view the next result...
+                """, highlight=False)
+            console.print("\n", "~"*25, highlight=False)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def vidresult():
-            print("\n", "~"*25)
+            console.print("\n", "~"*25)
             if vid.err == "pageantry":
-                print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
-        (Error: {vid.err})""")
+                console.print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
+        (Error: {vid.err})""", highlight=False)
 
             if vid.err == 'tiebreak':
-                print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
+                console.print(f"""\nUh-oh! We couldn't find an APUSH video for that term!
                 (Error: {vid.err})
                 
                 Here are some that might be relevant:
                 
-                {vid.relevant}""")
+                {vid.relevant}""", highlight=False)
             elif vid.err == 'nil':
-                print(f"""
-                Here's what I found from apushreview.com:
+                console.print(f"""
+                Here's what I found from [bold magenta]apushreview.com[/bold magenta]:
                 APUSH Unit: {vid.unit}
-                Time Period: {vid.timeperiod}
-                Video Title: {vid.title}
+                Time Period: [bold blue]{vid.timeperiod}[/bold blue]
+                Video Title: [bold yellow]{vid.title}[/bold yellow]
 
                 Video Summary: 
                 
                 {vid.content}
 
-                Want to watch the entire video? Type "show me the video!"
-                (This will open a YouTube video (external website))
+                Want to watch the entire video? Type [bold green]"show me the video!"[/bold green]
+                (This will open a YouTube video [bold red](!!external website!!)[/bold red])
 
-                Or, type "next!" to view the next result...
-                """)
-            print("\n", "~"*25)
+                Or, type [bold green]"next!"[/bold green] to view the next result...
+                """, highlight=False)
+            console.print("\n", "~"*25, highlight=False)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def vocabresult():
-            print("\n", "~"*25)
+            console.print("\n", "~"*25)
             if vocab.err != "nil":
-                print(f"""\nUh-oh! We couldn't find a Vocab entry for that term!
-                (Error: {vocab.err})""")
+                console.print(f"""\nUh-oh! We couldn't find a Vocab entry for that term!
+                (Error: {vocab.err})""", highlight=False)
             else:
-                print(f"""
+                console.print(f"""
             
-                Here's what I found from Mayr's Vocab:
+                Here's what I found from [bold magenta]Mr. Mayr's Vocab[/bold magenta]:
                 APUSH Unit: {vocab.unit}
-                Time Period: {vocab.timeperiod}
-                Vocab Word: {vocab.title}
+                Time Period: [bold blue]{vocab.timeperiod}[/bold blue]
+                Vocab Word: [bold yellow]{vocab.title}[/bold yellow]
 
                 Vocab Definition:
                 
                 {vocab.content}
 
-                Want to read the entire page? Type "show me Mayr's vocab!"
-                (This will open a Google Doc (external website))
+                Want to read the entire page? Type [bold green]"show me Mr. Mayr's vocab![/bold green]"
+                (This will open a Google Doc [bold red](!!external website!!)[/bold red])
 
-                Or, type "next!" to enter another keyword...
-                """)
-            print("\n", "~"*25)
+                Or, type [bold green]"next!"[/bold green] to enter another keyword...
+                """, highlight=False)
+            console.print("\n", "~"*25, highlight=False)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
         def notesresult():
-            print("\n", "~"*25)
+            console.print("\n", "~"*25)
             if notes.err != "nil":
-                print(f"""\nUh-oh! We couldn't find that in Mayr's notes!
-                (Error: {notes.err})""")
+                console.print(f"""\nUh-oh! We couldn't find that in Mr. Mayr's notes!
+                (Error: {notes.err})""", highlight=False)
             else:
-                print(f"""
+                console.print(f"""
             
-                Here's the first occurence of that term in Mr. Mayr's notes:
+                Here's the first occurence of that term in [bold magenta]Mr. Mayr's notes[/bold magenta]:
                 APUSH Unit: {notes.unit}
-                Time Period: {notes.timeperiod}
-                Page Title: {notes.title}
+                Time Period: [bold blue]{notes.timeperiod}[/bold blue]
+                Page Title: [bold yellow]{notes.title}[/bold yellow]
 
                 Notes In-Context:
                 
                 {notes.content}
 
-                Want to read the entire document? Type "show me Mayr's notes!"
-                (This will open a Google Doc (external website))
+                Want to read the entire document? Type [bold green]"show me Mr. Mayr's notes!"[/bold green]
+                (This will open a Google Doc [bold red](!!external website!!)[/bold red])
 
-                Or, type "next!" to view the next result...
-                """)
-            print("\n", "~"*25)
+                Or, type [bold green]"next!"[/bold green] to view the next result...
+                """, highlight=False)
+            console.print("\n", "~"*25, highlight=False)
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -590,24 +605,24 @@ while True:
             # open the wikipedia article
             webbrowser.open(wikiresp.link)
             action = input("What's next? ")
-        if action == 'next!':
+        if action == 'next!' or action == 'next':
             vidresult()
             action = input("What's next? ")
         if action == 'show me the video!':
             # open the video
             webbrowser.open(vid.link)
             action = input("What's next? ")
-        if action == 'next!':
+        if action == 'next!' or action == 'next':
             notesresult()
             action = input("What's next? ")
-        if action == "show me Mayr's notes!":
+        if action == "show me Mr. Mayr's notes!":
             # open the notes page
             webbrowser.open(notes.link)
             action = input("What's next? ")
-        if action == 'next!':
+        if action == 'next!' or action == 'next':
             vocabresult()
             action = input("What's next? ")
-        if action == "show me Mayr's vocab":
+        if action == "show me Mr. Mayr's vocab":
             # open the vocab page
             test = "test"
             action = input("What's next? ")
