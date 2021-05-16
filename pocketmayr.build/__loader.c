@@ -1433,7 +1433,7 @@ static struct Nuitka_MetaPathBasedLoaderEntry meta_path_loader_entries[] = {
     {"setuptools.sandbox", NULL, 589, 15595, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
     {"setuptools.ssl_support", NULL, 590, 6755, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
     {"setuptools.unicode_utils", NULL, 591, 1097, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
-    {"setuptools.version", NULL, 592, 321, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
+    {"setuptools.version", NULL, 592, 282, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
     {"setuptools.wheel", NULL, 593, 7135, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
     {"setuptools.windows_support", NULL, 594, 1004, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
     {"shelve", NULL, 595, 9440, NUITKA_TRANSLATED_FLAG | NUITKA_BYTECODE_FLAG},
