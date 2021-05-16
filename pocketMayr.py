@@ -8,11 +8,13 @@ from rich import print
 from CaptionTracks import units
 from notes import notes as notesimport
 
-# TODO: vocab and study objects
+# TODO: vocab object
+
+# TODO: vocab unit list, vocab note things for unitdb, and vocab words in classes
 
 # TODO: error listing and handling (but BETTER)
 
-# TODO: iterating for multiple notes occurences
+# TODO: highlighting the found notes word and vocab word
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -121,7 +123,7 @@ while True:
         def unitdb(unit):
             if unit == 'unit1':
                 videolinks = ["https://www.youtube.com/watch?v=2bWyFYcQQME", "https://www.youtube.com/watch?v=6pHHJqUDpDg", "https://www.youtube.com/watch?v=Zh_syCs0Pz8"]
-                subject = [units.unit1.video1.captions, units.unit1.video2.captions, units.unit1.video3.captions]
+                subjectvideo = [units.unit1.video1.captions, units.unit1.video2.captions, units.unit1.video3.captions]
                 note = [notesimport.unit1.ki11, notesimport.unit1.ki12, notesimport.unit1.ki13, notesimport.unit1.ki14]
                 notelinks = ['https://docs.google.com/document/d/1yJkSumMR0N5W5bXYWRzeQiqYMFlzXBUosOMBYKVJh_g/edit?usp=sharing',
                 'https://docs.google.com/document/d/1574t6LyOoxUxia8QC8YQXbQCepHltuxU2SLE7RAaybI/edit?usp=sharing',
@@ -132,7 +134,7 @@ while True:
                 videolinks = ["https://www.youtube.com/watch?v=LWfcXHMLaHU", "https://www.youtube.com/watch?v=CVy_9FhVfKE", "https://www.youtube.com/watch?v=kKL1UV5AiW0",
                 "https://www.youtube.com/watch?v=aI-WuefcLMY", "https://www.youtube.com/watch?v=Jy0CBFnkhk4", "https://www.youtube.com/watch?v=h6jvAFpBgK4",
                 "https://www.youtube.com/watch?v=e-wvspL_sk0"]
-                subject = [units.unit2.video1.captions, units.unit2.video2.captions, units.unit2.video3.captions, units.unit2.video4.captions, units.unit2.video5.captions,
+                subjectvideo = [units.unit2.video1.captions, units.unit2.video2.captions, units.unit2.video3.captions, units.unit2.video4.captions, units.unit2.video5.captions,
                 units.unit2.video6.captions, units.unit2.video7.captions]
                 note = [notesimport.unit2.ki21, notesimport.unit2.ki22, notesimport.unit2.ki23, notesimport.unit2.ki24, notesimport.unit2.ki25]
                 notelinks = ['https://docs.google.com/document/d/1ptnT4Un3fbXoUw4raZTrGKS8qB5uoXmTgp-TqPaQJ38/edit?usp=sharing',
@@ -144,7 +146,7 @@ while True:
             if unit == 'unit3':
                 videolinks = ["https://youtu.be/5ty4aUqQXtI", "https://www.youtube.com/watch?v=eMEk3cVAy7s", "https://www.youtube.com/watch?v=4G_-6u_2A6I",
                 "https://www.youtube.com/watch?v=eR1pm1IY2ns", "https://www.youtube.com/watch?v=xzryR174pdA", "https://www.youtube.com/watch?v=Z5VrogKap7Y"]
-                subject = [units.unit3.video1.captions, units.unit3.video2.captions, units.unit3.video3.captions, units.unit3.video4.captions, units.unit3.video5.captions,
+                subjectvideo = [units.unit3.video1.captions, units.unit3.video2.captions, units.unit3.video3.captions, units.unit3.video4.captions, units.unit3.video5.captions,
                 units.unit3.video6.captions]
                 note = [notesimport.unit3.ki31, notesimport.unit3.ki32, notesimport.unit3.ki33, notesimport.unit3.ki34, notesimport.unit3.ki35, notesimport.unit3.ki36, notesimport.unit3.ki37]
                 notelinks = ['https://docs.google.com/document/d/1so3fM3nX4sUFfuOilskk5w8SuChKx9Y_JtJ8WmwOVeY/edit?usp=sharing',
@@ -159,7 +161,7 @@ while True:
                 videolinks = ["https://www.youtube.com/watch?v=Xtl_f54uOEk", "https://www.youtube.com/watch?v=pgzSTdB7aTM&feature=emb_imp_woyt", "https://www.youtube.com/watch?v=Z_Af0G9_TdU",
                 "https://www.youtube.com/watch?v=WZKTG_dRFG0", "https://www.youtube.com/watch?v=Wj8JuTmSwQ8", "https://www.youtube.com/watch?v=C2O00y1k31A",
                 "https://www.youtube.com/watch?v=ycmUKpdBs-A", "https://www.youtube.com/watch?v=hQjpCKa2_ms"]
-                subject = [units.unit4.video1.captions, units.unit4.video2.captions, units.unit4.video3.captions, units.unit4.video4.captions, units.unit4.video5.captions,
+                subjectvideo = [units.unit4.video1.captions, units.unit4.video2.captions, units.unit4.video3.captions, units.unit4.video4.captions, units.unit4.video5.captions,
                 units.unit4.video6.captions, units.unit4.video7.captions, units.unit4.video8.captions]
                 note = [notesimport.unit4.ki41, notesimport.unit4.ki42, notesimport.unit4.ki43, notesimport.unit4.ki44, notesimport.unit4.ki45, notesimport.unit4.ki46]
                 notelinks = ["https://docs.google.com/document/d/1kbIgm7E5E_chErNSFG8FjgVJx6AdsXbbfNvKEJ4jB70/edit?usp=sharing",
@@ -176,7 +178,7 @@ while True:
                 "https://www.youtube.com/watch?v=qL5ZI_t4Gy0", "https://www.youtube.com/watch?v=EyEsrpC4PUo", "https://www.youtube.com/watch?v=CfeAa3R5lfg",
                 "https://www.youtube.com/watch?v=0YEJuoJDQKY", "https://www.youtube.com/watch?v=PlBbRXRzzp4", "https://www.youtube.com/watch?v=54vjFvxp0sk",
                 "https://www.youtube.com/watch?v=aokrvNLUMUo&t=1s"]
-                subject = [units.unit5.video1.captions, units.unit5.video2.captions, units.unit5.video3.captions, units.unit5.video4.captions, units.unit5.video5.captions,
+                subjectvideo = [units.unit5.video1.captions, units.unit5.video2.captions, units.unit5.video3.captions, units.unit5.video4.captions, units.unit5.video5.captions,
                 units.unit5.video6.captions, units.unit5.video7.captions, units.unit5.video8.captions, units.unit5.video9.captions, units.unit5.video10.captions,
                 units.unit5.video11.captions, units.unit5.video12.captions, units.unit5.video13.captions, units.unit5.video14.captions, units.unit5.video15.captions]
                 note = [notesimport.unit5.ki51, notesimport.unit5.ki52, notesimport.unit5.ki53, notesimport.unit5.ki54, notesimport.unit5.ki55]
@@ -192,7 +194,7 @@ while True:
                 "https://www.youtube.com/watch?v=LqLaQ1F0YFk", "https://www.youtube.com/watch?v=bBkfZP7T1Xk", "https://www.youtube.com/watch?v=gmbqzxHAm9k"
                 "https://www.youtube.com/watch?v=F7LKIIThtPM&t", "https://www.youtube.com/watch?v=aq88f8qZbWs", "https://www.youtube.com/watch?v=csbplgLpS9I",
                 "https://www.youtube.com/watch?v=0hsTpTc_T3M"]
-                subject = [units.unit6.video1.captions, units.unit6.video2.captions, units.unit6.video3.captions, units.unit6.video4.captions, units.unit6.video5.captions,
+                subjectvideo = [units.unit6.video1.captions, units.unit6.video2.captions, units.unit6.video3.captions, units.unit6.video4.captions, units.unit6.video5.captions,
                 units.unit6.video6.captions, units.unit6.video7.captions, units.unit6.video8.captions, units.unit6.video9.captions, units.unit6.video10.captions,
                 units.unit6.video11.captions, units.unit6.video12.captions, units.unit6.video13.captions]
                 note = [notesimport.unit6.ki61, notesimport.unit6.ki62, notesimport.unit6.ki63, notesimport.unit6.ki64, notesimport.unit6.ki65, notesimport.unit6.ki66, notesimport.unit6.ki67]
@@ -207,7 +209,7 @@ while True:
             if unit == 'unit7':
                 videolinks = ["https://www.youtube.com/watch?v=IeGmfbRrJ5Y", "https://www.youtube.com/watch?v=0eT_B9g-ZaA", "https://www.youtube.com/watch?v=6cVgZsMczps",
                 "https://www.youtube.com/watch?v=NwQrJNrRj7U", "https://www.youtube.com/watch?v=PpTNdN9MnRw"]
-                subject = [units.unit7.video1.captions, units.unit7.video2.captions, units.unit7.video3.captions, units.unit7.video4.captions, units.unit7.video5.captions]
+                subjectvideo = [units.unit7.video1.captions, units.unit7.video2.captions, units.unit7.video3.captions, units.unit7.video4.captions, units.unit7.video5.captions]
                 note = [notesimport.unit7.ki71, notesimport.unit7.ki72, notesimport.unit7.ki73, notesimport.unit7.ki74, notesimport.unit7.ki75, notesimport.unit7.ki76, notesimport.unit7.ki77, notesimport.unit7.ki78]
                 notelinks = ["https://docs.google.com/document/d/1WLx-HyC9A5LjPlc4wzuB8_OfsJnTUF-FfXR9cmkQ0F4/edit?usp=sharing",
                 "https://docs.google.com/document/d/1KYK8o0s50aW2-X-vsG6pw2uxgXWICLaKMb5enw89lJk/edit?usp=sharing",
@@ -220,7 +222,7 @@ while True:
                 timeperiod = '1898 - 1945'
             if unit == 'unit8':
                 videolinks = ["https://www.youtube.com/watch?v=IyOs5BJ3HGo", "https://www.youtube.com/watch?v=dfLmZdq6iQo", "https://www.youtube.com/watch?v=eseJiBno8Qk"]
-                subject = [units.unit8.video1.captions, units.unit8.video2.captions, units.unit8.video3.captions]
+                subjectvideo = [units.unit8.video1.captions, units.unit8.video2.captions, units.unit8.video3.captions]
                 note = [notesimport.unit8.ki81, notesimport.unit8.ki82, notesimport.unit8.ki83, notesimport.unit8.ki84, notesimport.unit8.ki85, notesimport.unit8.ki86]
                 notelinks = ["https://docs.google.com/document/d/1K_Je4JYVP36YCMwMKl6p8VwlDr4_TsfSwIsvQzpR74M/edit?usp=sharing",
                 "https://docs.google.com/document/d/157x_QdGhUmVOdYcXPmXA_sbhn49euaT6R15HsvrZudA/edit?usp=sharing",
@@ -231,13 +233,13 @@ while True:
                 timeperiod =  '1945 - 1980'
             if unit == 'unit9':
                 videolinks = ["https://www.youtube.com/watch?v=WzqeAXBwzqc", "https://www.youtube.com/watch?v=gvREnUWMKoU", "https://www.youtube.com/watch?v=LOJpTzjU7xc"]
-                subject = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
+                subjectvideo = [units.unit9.video1.captions, units.unit9.video2.captions, units.unit9.video3.captions]
                 note = [notesimport.unit9.ki91, notesimport.unit9.ki92, notesimport.unit9.ki93]
                 notelinks = ["https://docs.google.com/document/d/1_Ccdsy8Zgd_P4MRR3HkLdOjKp2s7NukUJGRmfA3Xx24/edit?usp=sharing",
                 "https://docs.google.com/document/d/1H4mpb_RBoElM_yGvgP3HCSOZ9eiz0yTcrJf3vBBI4F4/edit?usp=sharing",
                 "https://docs.google.com/document/d/1T6nZPZlofimuo8FOrkjJBNKU6XD7a-NxAc97Bfh9DWc/edit?usp=sharing"]
                 timeperiod =  '1980 - Present'
-            return videolinks, subject, note, notelinks, timeperiod
+            return videolinks, subjectvideo, note, notelinks, timeperiod
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -279,7 +281,7 @@ while True:
             if unit == None:
                 err = 'pageantry'
             else:
-                videos, subject, notes, notelinks, daterange = unitdb(unit)
+                videos, subjectvideo, notes, notelinks, daterange = unitdb(unit)
 
             if err == 'nil':
                 timeperiod = daterange
@@ -394,12 +396,12 @@ while True:
             if unit == None:
                 err = 'pageantry'
             else:
-                videos, subject, dontuse, notelinks, daterange = unitdb(unit)
+                videos, subjectvideo, dontuse, notelinks, daterange = unitdb(unit)
 
             if err == 'nil':
                 timeperiod = daterange
                 count = -1
-                for i in subject:
+                for i in subjectvideo:
                     count = int(count + 1)
                     vidfound = re.search(str(query), str(i))
                     if vidfound != None:
@@ -416,25 +418,46 @@ while True:
                 relevant = videos
             if err == 'pageantry':
                 pass
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       
-
-        class study:
-            x = 1
-            unit = unitfinder(year)
-            #title
-            #timeperiod
-            #content
-            #link
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         
         class vocab:
-            x = 1
-            unit = unitfinder(year)
-            #title
-            #timeperiod
-            #content
-            #link
+            vocabunits = []
+            for z in vocabunits:
+                found = re.search(str(query), str(z))
+                if found == [] and len(found) > 1:
+                    err = "disarmament"
+                    unit = str(z)
+                    break
+                elif found == [] and len(found) == 0:
+                    err = 'pageantry'
+                    unit = None
+                else:
+                    unit = str(z).split(".")
+                    unit = unit[2].split("'>")
+                    unit = unit[0]
+                    err = 'nil'
+                    break
+            if unit == None:
+                err = 'pageantry'
+            else:
+                videos, subjectvideo, dontuse, notelinks, daterange = unitdb(unit)
+
+            if err == 'nil':
+                timeperiod = daterange
+                count = -1
+                for i in subjectvocab:
+                    count = int(count + 1)
+                    vocabfound = re.search(str(query), str(i))
+                    if vocabfound != None:
+                        title = i.title
+
+                        content = i.definition
+
+                        link = vocablinks[count]
+                        break
+                    else:
+                        err == 'pageantry'
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
