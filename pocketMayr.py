@@ -9,13 +9,11 @@ from CaptionTracks import units
 from notes import notes as notesimport
 from vocabnotes import vocabnotes
 
-# TODO: vocab object
-
-# TODO: vocab unit list, vocab note things for unitdb, and vocab words in classes
-
 # TODO: error listing and handling (but BETTER)
 
 # TODO: highlighting the found notes word and vocab word
+
+# TODO: misc pretty printing
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Pre-Loading Date and Time Variables~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -68,6 +66,8 @@ while True:
 
     print("Enter 'man' into the keyword if you'd like to read the manual page")
     query = input("Put your keyword here: ")
+
+    query = query.lower()
 
     if query in exitdoor:
         exit()
@@ -276,7 +276,7 @@ while True:
             unitnotes = [notesimport.unit1, notesimport.unit2, notesimport.unit3, notesimport.unit4, notesimport.unit5, notesimport.unit6, notesimport.unit7,
             notesimport.unit8, notesimport.unit9]
             for i in unitnotes:
-                found = re.search(str(query), str(i.content))
+                found = re.search(str(query), str(i.content).lower())
                 if found == None:
                     err = 'pageantry'
                     unit = None
@@ -298,7 +298,7 @@ while True:
                 for i in notes:
                     notetext = str(i.content)
                     count = int(count + 1)
-                    notesfound = re.search(str(query), str(i.content))
+                    notesfound = re.search(str(query), str(i.content).lower())
 
                     if notesfound != None:
                         title = i.title
@@ -388,7 +388,7 @@ while True:
             units = [units.unit1, units.unit2, units.unit3, units.unit4, units.unit5, units.unit6, units.unit7,
             units.unit8, units.unit9]
             for u in units:
-                found = re.findall(str(query), u.captions)
+                found = re.findall(str(query), str(u.captions).lower())
                 if found == [] and len(found) > 1:
                     err = "disarmament"
                     unit = str(u)
@@ -412,7 +412,7 @@ while True:
                 count = -1
                 for i in subjectvideo:
                     count = int(count + 1)
-                    vidfound = re.findall(str(query), str(i))
+                    vidfound = re.findall(str(query), str(i).lower())
                     if vidfound != None:
                         link = str(videos[count]).replace("'", "")
                         videobj = pytube.YouTube(link)
@@ -433,7 +433,7 @@ while True:
         class vocab:
             vocabunits = [vocabnotes.unit1, vocabnotes.unit2, vocabnotes.unit3, vocabnotes.unit4, vocabnotes.unit5, vocabnotes.unit6, vocabnotes.unit7, vocabnotes.unit8, vocabnotes.unit9]
             for z in vocabunits:
-                found = re.search(str(query), str(z.dictionary.keys()))
+                found = re.search(str(query), str(z.dictionary.keys()).lower())
                 if found == [] and len(found) > 1:
                     err = "disarmament"
                     unit = str(z)
@@ -446,7 +446,7 @@ while True:
                     unit = unit[2].split("'>")
                     unit = unit[0]
                     err = 'nil'
-                    dictionary = z.dictionary
+                    dictionary = {k.lower(): v for k, v in z.dictionary.items()}
                     break
             if unit == None:
                 err = 'pageantry'
