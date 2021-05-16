@@ -1,3 +1,5 @@
+# this script parses each string of vocab words into a dictionary
+
 unit1 = """Innovations
 new method, idea, product, etc.
 Maize
