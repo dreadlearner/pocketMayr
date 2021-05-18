@@ -56,6 +56,8 @@ while True:
         console.print("\n",r"Ok, then prove it.", "\n")
     if random_message == 9:
         console.print("\n", "But can you back it up? Do you have evidence?", "\n")
+    if random_message == 10:
+        console.print("\n", "What's up Macy? Good talk, good talk...", "\n")
 
     console.print("Enter [bold green]'man'[/bold green] into the keyword if you'd like to read the manual page", highlight=False)
     query = input("Put your keyword here: ")
